@@ -179,6 +179,12 @@
     "src": "06447a42",
     "status": "draft"
   },
+  "intelligences.cardsLead": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "Два разделителя делят карту на четыре квадранта: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) и [Delivering](term:delivering-intelligence) — четыре интеллекта.",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
     "text": "Как люди бывают «сильны в словах», «сильны в логике», «сильны в музыке» и так далее, так и организации проявляют разные способности — *интеллекты* — через структурированные мандаты, которые даны подразделениям.",
@@ -455,64 +461,28 @@
     "src": "5cbe0bd0",
     "status": "draft"
   },
-  "the-map.intro.kicker": {
-    "en": "AI-READY MAPPING",
-    "text": "КАРТИРОВАНИЕ ДЛЯ ЭПОХИ ИИ",
-    "src": "4c07a578",
-    "status": "draft"
-  },
-  "the-map.intro.text": {
-    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "Работу делают **агенты интеллекта** — подразделения организации: люди, группы и ИИ. Одна и та же карта [мандатов](term:mandate) подходит всем: человеку, агенту и роботу. Размещайте каждого по тому, чему ему позволено учиться и над чем работать, а не по должности.",
-    "src": "ddaaea6a",
-    "status": "draft"
-  },
   "the-map.items.0.text": {
-    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
-    "text": "Сначала назовите бизнес-результат — продукт, проблему клиента, поток создания ценности — и тех, кто должен над ним работать. Затем оценивайте мандаты каждого подразделения относительно него: команда может быть полной для одного результата и неполной для другого.",
-    "src": "dafff1b5",
+    "en": "Which skills a unit may apply. Left of the divider it is **incomplete**: it needs others to deliver customer value. Right of it, **complete**: it delivers without dependencies.",
+    "text": "Какие навыки подразделение вправе применять. Слева от разделителя оно **неполное**: чтобы поставить ценность клиенту, ему нужны другие. Справа оно **полное**: поставляет без зависимостей.",
+    "src": "cf7b9c01",
     "status": "draft"
   },
   "the-map.items.0.title": {
-    "en": "Start from one outcome",
-    "text": "Начните с одного результата",
-    "src": "3dc2efbe",
-    "status": "draft"
-  },
-  "the-map.items.1.text": {
-    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
-    "text": "Навыки, которые подразделению даны и которые оно вправе применять. Чем правее, тем больше оно может быстро поставить без зависимостей. Слева от разделителя подразделения **неполные**: чтобы поставить ценность клиенту, им нужны другие; справа они **полные**.",
-    "src": "55a57aed",
-    "status": "draft"
-  },
-  "the-map.items.1.title": {
     "en": "Scope of skills mandate",
     "text": "Охват мандата на навыки",
     "src": "97658681",
     "status": "draft"
   },
-  "the-map.items.2.text": {
-    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
-    "text": "Какой частью работы владеет подразделение: от задач и возможностей (**outputs**) до частичных и целостных решений (**outcomes**). Больше выпуска не значит больше результатов.",
-    "src": "ffb790eb",
+  "the-map.items.1.text": {
+    "en": "How much of the work a unit owns. Below the divider, tasks and capabilities: **outputs**. Above it, partial and whole solutions: **outcomes**. More output does not mean more outcomes.",
+    "text": "Какой частью работы владеет подразделение. Ниже разделителя — задачи и возможности: **outputs**. Выше — частичные и целостные решения: **outcomes**. Больше outputs не значит больше outcomes.",
+    "src": "94558997",
     "status": "draft"
   },
-  "the-map.items.2.title": {
+  "the-map.items.1.title": {
     "en": "Scope of work mandate",
     "text": "Охват мандата на работу",
     "src": "41bef20e",
-    "status": "draft"
-  },
-  "the-map.items.3.text": {
-    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "Два разделителя делят карту на четыре квадранта: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) и [Delivering](term:delivering-intelligence) — четыре интеллекта.",
-    "src": "b2bf261a",
-    "status": "draft"
-  },
-  "the-map.items.3.title": {
-    "en": "Four quadrants",
-    "text": "Четыре квадранта",
-    "src": "82a3726d",
     "status": "draft"
   },
   "the-map.kicker": {
@@ -522,9 +492,9 @@
     "status": "draft"
   },
   "the-map.lead": {
-    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
-    "text": "Каждое подразделение — человек, команда, [ИИ-агент](term:ai-agent) — размещается по двум мандатам, которые ему даны, а не по должности. Всегда картируйте под **один бизнес-результат**: мандаты бывают широкими или узкими, полными или неполными только относительно результата, который кто-то должен поставить.",
-    "src": "a562bc54",
+    "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
+    "text": "Размещайте каждое подразделение — человека, команду или [ИИ-агента](term:ai-agent) — по двум [мандатам](term:mandate), которые ему даны, а не по должности.",
+    "src": "8d76c459",
     "status": "draft"
   },
   "tools._nav": {

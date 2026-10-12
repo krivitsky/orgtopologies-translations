@@ -179,6 +179,12 @@
     "src": "06447a42",
     "status": "draft"
   },
+  "intelligences.cardsLead": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "Dvě dělicí čáry rozdělují mapu na čtyři kvadranty: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) a [Delivering](term:delivering-intelligence) — čtyři inteligence.",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
     "text": "Stejně jako lidé mohou být „slovně chytří“, „logicky chytří“, „hudebně chytří“ a tak dále, organizace projevují různé druhy chytrosti — *inteligence* — skrze strukturované mandáty, které dávají organizačním jednotkám.",
@@ -455,64 +461,28 @@
     "src": "5cbe0bd0",
     "status": "draft"
   },
-  "the-map.intro.kicker": {
-    "en": "AI-READY MAPPING",
-    "text": "MAPOVÁNÍ PŘIPRAVENÉ NA AI",
-    "src": "4c07a578",
-    "status": "draft"
-  },
-  "the-map.intro.text": {
-    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "Práci dělají **agenti inteligence** — organizační jednotky: lidé, skupiny i AI. Na všechny platí stejná mapa [mandátů](term:mandate) — ať jde o člověka, agenta nebo robota. Každého zařaďte podle toho, co se smí učit a na čem smí pracovat, ne podle jeho titulu.",
-    "src": "ddaaea6a",
-    "status": "draft"
-  },
   "the-map.items.0.text": {
-    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
-    "text": "Nejdřív pojmenujte obchodní outcome — produkt, zákaznický problém, value stream — a kdo na něm musí pracovat. Pak posuzujte mandáty každé jednotky vůči němu: tým může být pro jeden outcome úplný a pro jiný neúplný.",
-    "src": "dafff1b5",
+    "en": "Which skills a unit may apply. Left of the divider it is **incomplete**: it needs others to deliver customer value. Right of it, **complete**: it delivers without dependencies.",
+    "text": "Jaké dovednosti smí jednotka uplatnit. Vlevo od dělicí čáry je **neúplná**: k dodání zákaznické hodnoty potřebuje ostatní. Vpravo je **úplná**: dodává bez závislostí.",
+    "src": "cf7b9c01",
     "status": "draft"
   },
   "the-map.items.0.title": {
-    "en": "Start from one outcome",
-    "text": "Začněte jedním outcome",
-    "src": "3dc2efbe",
-    "status": "draft"
-  },
-  "the-map.items.1.text": {
-    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
-    "text": "Dovednosti, které jednotka dostala a smí uplatnit. Čím víc vpravo, tím víc může rychle dodat bez závislostí. Vlevo od dělicí čáry jsou jednotky **neúplné** — k dodání zákaznické hodnoty potřebují ostatní; vpravo jsou **úplné**.",
-    "src": "55a57aed",
-    "status": "draft"
-  },
-  "the-map.items.1.title": {
     "en": "Scope of skills mandate",
     "text": "Rozsah mandátu dovedností",
     "src": "97658681",
     "status": "draft"
   },
-  "the-map.items.2.text": {
-    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
-    "text": "Kolik práce jednotka vlastní: od úkolů a schopností (**outputs**) po částečná a celá řešení (**outcomes**). Víc outputs neznamená víc outcomes.",
-    "src": "ffb790eb",
+  "the-map.items.1.text": {
+    "en": "How much of the work a unit owns. Below the divider, tasks and capabilities: **outputs**. Above it, partial and whole solutions: **outcomes**. More output does not mean more outcomes.",
+    "text": "Kolik práce jednotka vlastní. Pod dělicí čárou jsou úkoly a schopnosti: **outputs**. Nad ní částečná a celá řešení: **outcomes**. Víc outputs neznamená víc outcomes.",
+    "src": "94558997",
     "status": "draft"
   },
-  "the-map.items.2.title": {
+  "the-map.items.1.title": {
     "en": "Scope of work mandate",
     "text": "Rozsah mandátu práce",
     "src": "41bef20e",
-    "status": "draft"
-  },
-  "the-map.items.3.text": {
-    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "Dvě dělicí čáry rozdělují mapu na čtyři kvadranty: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) a [Delivering](term:delivering-intelligence) — čtyři inteligence.",
-    "src": "b2bf261a",
-    "status": "draft"
-  },
-  "the-map.items.3.title": {
-    "en": "Four quadrants",
-    "text": "Čtyři kvadranty",
-    "src": "82a3726d",
     "status": "draft"
   },
   "the-map.kicker": {
@@ -522,9 +492,9 @@
     "status": "draft"
   },
   "the-map.lead": {
-    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
-    "text": "Každá jednotka — člověk, tým, [AI agent](term:ai-agent) — se zařazuje podle dvou mandátů, které dostala, ne podle titulu. Mapujte vždy vůči **jednomu obchodnímu outcome**: mandáty jsou široké či úzké, úplné či neúplné jen vzhledem k outcome, který někdo musí dodat.",
-    "src": "a562bc54",
+    "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
+    "text": "Zařaďte každou jednotku — člověka, tým i [AI agenta](term:ai-agent) — podle dvou [mandátů](term:mandate), která dostala, ne podle titulu.",
+    "src": "8d76c459",
     "status": "draft"
   },
   "tools._nav": {

@@ -179,6 +179,12 @@
     "src": "06447a42",
     "status": "draft"
   },
+  "intelligences.cardsLead": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "两条分界线把地图切成四个象限：[Directing](term:directing-intelligence)、[Driving](term:driving-intelligence)、[Doing](term:doing-intelligence) 和 [Delivering](term:delivering-intelligence)，即四种智能。",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
     "text": "正如人可以“语言聪明”“逻辑聪明”“音乐聪明”等等，组织也通过赋予组织单元的结构化授权，表现出不同的聪明之处，即*智能*。",
@@ -455,64 +461,28 @@
     "src": "5cbe0bd0",
     "status": "draft"
   },
-  "the-map.intro.kicker": {
-    "en": "AI-READY MAPPING",
-    "text": "面向 AI 的地图绘制",
-    "src": "4c07a578",
-    "status": "draft"
-  },
-  "the-map.intro.text": {
-    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "工作由**智能主体**完成，即组织单元：个人、群体和 AI。同一张[授权](term:mandate)地图适用于所有这些主体，无论是人、智能体还是机器人。按它被允许学习和从事的内容来定位，而不是按头衔。",
-    "src": "ddaaea6a",
-    "status": "draft"
-  },
   "the-map.items.0.text": {
-    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
-    "text": "先说出业务成果，可以是一个产品、一个客户问题或一条价值流，以及谁要为它工作。然后对照它来判断每个单元的授权：一个团队对某个成果可以是完整的，对另一个成果则可能不完整。",
-    "src": "dafff1b5",
+    "en": "Which skills a unit may apply. Left of the divider it is **incomplete**: it needs others to deliver customer value. Right of it, **complete**: it delivers without dependencies.",
+    "text": "单元可以运用哪些技能。分界线左侧是**不完整**的：需要他人配合才能交付客户价值。右侧是**完整**的：无需依赖他人即可交付。",
+    "src": "cf7b9c01",
     "status": "draft"
   },
   "the-map.items.0.title": {
-    "en": "Start from one outcome",
-    "text": "从一个成果出发",
-    "src": "3dc2efbe",
-    "status": "draft"
-  },
-  "the-map.items.1.text": {
-    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
-    "text": "单元被赋予并被允许运用的技能。越靠右，越能在没有依赖的情况下快速交付。分界线左侧的单元是**不完整**的，需要他人配合才能交付客户价值；右侧则是**完整**的。",
-    "src": "55a57aed",
-    "status": "draft"
-  },
-  "the-map.items.1.title": {
     "en": "Scope of skills mandate",
     "text": "技能授权范围",
     "src": "97658681",
     "status": "draft"
   },
-  "the-map.items.2.text": {
-    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
-    "text": "单元拥有多少工作：从任务和能力（**outputs**）到部分解决方案和整体解决方案（**outcomes**）。更多的 output 并不意味着更多的 outcome。",
-    "src": "ffb790eb",
+  "the-map.items.1.text": {
+    "en": "How much of the work a unit owns. Below the divider, tasks and capabilities: **outputs**. Above it, partial and whole solutions: **outcomes**. More output does not mean more outcomes.",
+    "text": "单元拥有多少工作。分界线以下是任务和能力：**outputs**。以上是部分解决方案和整体解决方案：**outcomes**。更多的 output 并不意味着更多的 outcome。",
+    "src": "94558997",
     "status": "draft"
   },
-  "the-map.items.2.title": {
+  "the-map.items.1.title": {
     "en": "Scope of work mandate",
     "text": "工作授权范围",
     "src": "41bef20e",
-    "status": "draft"
-  },
-  "the-map.items.3.text": {
-    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "两条分界线把地图切成四个象限：[Directing](term:directing-intelligence)、[Driving](term:driving-intelligence)、[Doing](term:doing-intelligence) 和 [Delivering](term:delivering-intelligence)，即四种智能。",
-    "src": "b2bf261a",
-    "status": "draft"
-  },
-  "the-map.items.3.title": {
-    "en": "Four quadrants",
-    "text": "四个象限",
-    "src": "82a3726d",
     "status": "draft"
   },
   "the-map.kicker": {
@@ -522,9 +492,9 @@
     "status": "draft"
   },
   "the-map.lead": {
-    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
-    "text": "每个单元，无论是一个人、一个团队还是一个 [AI 智能体](term:ai-agent)，都按它被赋予的两项授权来定位，而不是按头衔。始终围绕**一个业务成果**来绘制：授权只有相对于某人必须交付的成果，才谈得上宽或窄、完整或不完整。",
-    "src": "a562bc54",
+    "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
+    "text": "按每个单元被赋予的两项[授权](term:mandate)来定位它，无论是一个人、一个团队还是一个 [AI 智能体](term:ai-agent)，而不是按头衔。",
+    "src": "8d76c459",
     "status": "draft"
   },
   "tools._nav": {

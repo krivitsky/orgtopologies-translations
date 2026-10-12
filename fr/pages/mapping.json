@@ -179,6 +179,12 @@
     "src": "06447a42",
     "status": "draft"
   },
+  "intelligences.cardsLead": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "Les deux lignes de séparation découpent la carte en quatre quadrants : [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) et [Delivering](term:delivering-intelligence), les quatre intelligences.",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
     "text": "De même que l’on peut être « doué pour les mots », « doué pour la logique », « doué pour la musique », etc., les organisations expriment des formes d’intelligence différentes, les *intelligences*, à travers les mandats structurés confiés à leurs unités.",
@@ -455,64 +461,28 @@
     "src": "5cbe0bd0",
     "status": "draft"
   },
-  "the-map.intro.kicker": {
-    "en": "AI-READY MAPPING",
-    "text": "CARTOGRAPHIE PRÊTE POUR L’IA",
-    "src": "4c07a578",
-    "status": "draft"
-  },
-  "the-map.intro.text": {
-    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "Le travail est accompli par des **agents d’intelligence**, les unités organisationnelles : personnes, groupes et IA. La même carte des [mandats](term:mandate) s’applique à tous, qu’il s’agisse d’humains, d’agents ou de robots. Placez chacun selon ce qu’il est autorisé à apprendre et à travailler, pas selon son titre.",
-    "src": "ddaaea6a",
-    "status": "draft"
-  },
   "the-map.items.0.text": {
-    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
-    "text": "Nommez d’abord le résultat business (un produit, un problème client, un flux de valeur) et qui doit y travailler. Évaluez ensuite les mandats de chaque unité par rapport à lui : une équipe peut être complète pour un résultat et incomplète pour un autre.",
-    "src": "dafff1b5",
+    "en": "Which skills a unit may apply. Left of the divider it is **incomplete**: it needs others to deliver customer value. Right of it, **complete**: it delivers without dependencies.",
+    "text": "Les compétences qu’une unité a le droit de mobiliser. À gauche de la ligne de séparation, elle est **incomplète** : elle a besoin d’autres pour livrer de la valeur au client. À droite, elle est **complète** : elle livre sans dépendances.",
+    "src": "cf7b9c01",
     "status": "draft"
   },
   "the-map.items.0.title": {
-    "en": "Start from one outcome",
-    "text": "Partir d’un seul résultat",
-    "src": "3dc2efbe",
-    "status": "draft"
-  },
-  "the-map.items.1.text": {
-    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
-    "text": "Les compétences qu’une unité reçoit et a le droit de mobiliser. Plus on va vers la droite, plus elle peut livrer vite sans dépendances. À gauche de la ligne de séparation, les unités sont **incomplètes** : elles ont besoin d’autres pour livrer de la valeur au client ; à droite, elles sont **complètes**.",
-    "src": "55a57aed",
-    "status": "draft"
-  },
-  "the-map.items.1.title": {
     "en": "Scope of skills mandate",
     "text": "Périmètre du mandat de compétences",
     "src": "97658681",
     "status": "draft"
   },
-  "the-map.items.2.text": {
-    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
-    "text": "La part du travail qu’une unité détient : des tâches et capacités (**outputs**) jusqu’aux solutions partielles et complètes (**outcomes**). Plus d’outputs ne signifie pas plus d’outcomes.",
-    "src": "ffb790eb",
+  "the-map.items.1.text": {
+    "en": "How much of the work a unit owns. Below the divider, tasks and capabilities: **outputs**. Above it, partial and whole solutions: **outcomes**. More output does not mean more outcomes.",
+    "text": "La part du travail qu’une unité détient. Sous la ligne de séparation, les tâches et capacités : **outputs**. Au-dessus, les solutions partielles et complètes : **outcomes**. Plus d’outputs ne signifie pas plus d’outcomes.",
+    "src": "94558997",
     "status": "draft"
   },
-  "the-map.items.2.title": {
+  "the-map.items.1.title": {
     "en": "Scope of work mandate",
     "text": "Périmètre du mandat de travail",
     "src": "41bef20e",
-    "status": "draft"
-  },
-  "the-map.items.3.text": {
-    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "Les deux lignes de séparation découpent la carte en quatre quadrants : [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) et [Delivering](term:delivering-intelligence), les quatre intelligences.",
-    "src": "b2bf261a",
-    "status": "draft"
-  },
-  "the-map.items.3.title": {
-    "en": "Four quadrants",
-    "text": "Quatre quadrants",
-    "src": "82a3726d",
     "status": "draft"
   },
   "the-map.kicker": {
@@ -522,9 +492,9 @@
     "status": "draft"
   },
   "the-map.lead": {
-    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
-    "text": "Chaque unité (une personne, une équipe, un [agent IA](term:ai-agent)) est placée selon les deux mandats qui lui sont confiés, pas selon son titre. Cartographiez toujours par rapport à **un seul résultat business** : les mandats ne sont larges ou étroits, complets ou incomplets que relativement au résultat que quelqu’un doit livrer.",
-    "src": "a562bc54",
+    "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
+    "text": "Placez chaque unité (une personne, une équipe ou un [agent IA](term:ai-agent)) selon les deux [mandats](term:mandate) qui lui sont confiés, pas selon son titre.",
+    "src": "8d76c459",
     "status": "draft"
   },
   "tools._nav": {

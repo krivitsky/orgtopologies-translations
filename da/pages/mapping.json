@@ -179,6 +179,12 @@
     "src": "06447a42",
     "status": "draft"
   },
+  "intelligences.cardsLead": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "De to skillelinjer deler kortet i fire kvadranter: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) og [Delivering](term:delivering-intelligence) — de fire intelligenser.",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
     "text": "Ligesom mennesker kan være »ordstærke«, »logikstærke«, »musikstærke« og så videre, udtrykker organisationer forskellige styrker — *intelligenser* — gennem de strukturerede mandater, der gives til organisatoriske enheder.",
@@ -455,64 +461,28 @@
     "src": "5cbe0bd0",
     "status": "draft"
   },
-  "the-map.intro.kicker": {
-    "en": "AI-READY MAPPING",
-    "text": "AI-KLAR KORTLÆGNING",
-    "src": "4c07a578",
-    "status": "draft"
-  },
-  "the-map.intro.text": {
-    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "Arbejdet udføres af **intelligensagenter** — organisatoriske enheder: mennesker, grupper og AI. Det samme kort over [mandater](term:mandate) gælder for dem alle — menneske, agent eller robot. Placér hver enkelt ud fra, hvad den må lære og arbejde med, ikke ud fra titlen.",
-    "src": "ddaaea6a",
-    "status": "draft"
-  },
   "the-map.items.0.text": {
-    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
-    "text": "Navngiv først forretningsresultatet — et produkt, et kundeproblem, en værdistrøm — og hvem der skal arbejde på det. Vurdér derefter hver enheds mandater i forhold til det: et team kan være fuldstændigt for ét resultat og ufuldstændigt for et andet.",
-    "src": "dafff1b5",
+    "en": "Which skills a unit may apply. Left of the divider it is **incomplete**: it needs others to deliver customer value. Right of it, **complete**: it delivers without dependencies.",
+    "text": "Hvilke kompetencer en enhed må anvende. Til venstre for skillelinjen er den **ufuldstændig**: den har brug for andre for at levere kundeværdi. Til højre er den **fuldstændig**: den leverer uden afhængigheder.",
+    "src": "cf7b9c01",
     "status": "draft"
   },
   "the-map.items.0.title": {
-    "en": "Start from one outcome",
-    "text": "Start med ét resultat",
-    "src": "3dc2efbe",
-    "status": "draft"
-  },
-  "the-map.items.1.text": {
-    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
-    "text": "De kompetencer, en enhed har fået og må anvende. Jo længere til højre, desto mere kan den levere hurtigt uden afhængigheder. Til venstre for skillelinjen er enhederne **ufuldstændige** — de har brug for andre for at levere kundeværdi; til højre er de **fuldstændige**.",
-    "src": "55a57aed",
-    "status": "draft"
-  },
-  "the-map.items.1.title": {
     "en": "Scope of skills mandate",
     "text": "Omfanget af kompetencemandatet",
     "src": "97658681",
     "status": "draft"
   },
-  "the-map.items.2.text": {
-    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
-    "text": "Hvor meget af arbejdet en enhed ejer: fra opgaver og evner (**outputs**) op til delvise og hele løsninger (**outcomes**). Mere output betyder ikke flere outcomes.",
-    "src": "ffb790eb",
+  "the-map.items.1.text": {
+    "en": "How much of the work a unit owns. Below the divider, tasks and capabilities: **outputs**. Above it, partial and whole solutions: **outcomes**. More output does not mean more outcomes.",
+    "text": "Hvor meget af arbejdet en enhed ejer. Under skillelinjen er opgaver og evner: **outputs**. Over den er delvise og hele løsninger: **outcomes**. Mere output betyder ikke flere outcomes.",
+    "src": "94558997",
     "status": "draft"
   },
-  "the-map.items.2.title": {
+  "the-map.items.1.title": {
     "en": "Scope of work mandate",
     "text": "Omfanget af arbejdsmandatet",
     "src": "41bef20e",
-    "status": "draft"
-  },
-  "the-map.items.3.text": {
-    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "De to skillelinjer deler kortet i fire kvadranter: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) og [Delivering](term:delivering-intelligence) — de fire intelligenser.",
-    "src": "b2bf261a",
-    "status": "draft"
-  },
-  "the-map.items.3.title": {
-    "en": "Four quadrants",
-    "text": "Fire kvadranter",
-    "src": "82a3726d",
     "status": "draft"
   },
   "the-map.kicker": {
@@ -522,9 +492,9 @@
     "status": "draft"
   },
   "the-map.lead": {
-    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
-    "text": "Hver enhed — et menneske, et team, en [AI-agent](term:ai-agent) — placeres efter de to mandater, den har fået, ikke efter sin titel. Kortlæg altid ud fra **ét forretningsresultat**: mandater er kun brede eller snævre, fuldstændige eller ufuldstændige i forhold til det resultat, nogen skal levere.",
-    "src": "a562bc54",
+    "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
+    "text": "Placér hver enhed — et menneske, et team eller en [AI-agent](term:ai-agent) — efter de to [mandater](term:mandate), den har fået, ikke efter sin titel.",
+    "src": "8d76c459",
     "status": "draft"
   },
   "tools._nav": {

@@ -179,6 +179,12 @@
     "src": "06447a42",
     "status": "draft"
   },
+  "intelligences.cardsLead": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "2本の区切り線がマップを4つの象限に分けます。[Directing](term:directing-intelligence)、[Driving](term:driving-intelligence)、[Doing](term:doing-intelligence)、[Delivering](term:delivering-intelligence)の4つのインテリジェンスです。",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
     "text": "人に「言語が得意」「論理が得意」「音楽が得意」といった違いがあるように、組織にもさまざまな得意、つまり*インテリジェンス*があります。それは、組織ユニットに与えられた、構造化されたマンデートを通じて表れます。",
@@ -455,64 +461,28 @@
     "src": "5cbe0bd0",
     "status": "draft"
   },
-  "the-map.intro.kicker": {
-    "en": "AI-READY MAPPING",
-    "text": "AI時代のマッピング",
-    "src": "4c07a578",
-    "status": "draft"
-  },
-  "the-map.intro.text": {
-    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "仕事を担うのは**インテリジェンスの担い手**、つまり人、グループ、AIといった組織ユニットです。人でもエージェントでもロボットでも、同じ[マンデート](term:mandate)のマップが当てはまります。肩書きではなく、何を学び、何に取り組んでよいかで配置します。",
-    "src": "ddaaea6a",
-    "status": "draft"
-  },
   "the-map.items.0.text": {
-    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
-    "text": "まず、プロダクト、顧客の課題、バリューストリームといったビジネスアウトカムと、それに取り組む人を挙げます。そのうえで各ユニットのマンデートを、アウトカムに照らして判断します。あるアウトカムには完結しているチームが、別のアウトカムには不完全なこともあります。",
-    "src": "dafff1b5",
+    "en": "Which skills a unit may apply. Left of the divider it is **incomplete**: it needs others to deliver customer value. Right of it, **complete**: it delivers without dependencies.",
+    "text": "ユニットが使ってよいスキルの範囲です。区切り線より左は**不完全**で、顧客価値を届けるには他の力が要ります。右は**完結**していて、他に頼らず届けられます。",
+    "src": "cf7b9c01",
     "status": "draft"
   },
   "the-map.items.0.title": {
-    "en": "Start from one outcome",
-    "text": "ひとつのアウトカムから始める",
-    "src": "3dc2efbe",
-    "status": "draft"
-  },
-  "the-map.items.1.text": {
-    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
-    "text": "ユニットが使ってよいと認められている、スキルの範囲です。右に行くほど、他に頼らず素早く届けられます。区切り線より左のユニットは**不完全**で、顧客価値を届けるには他の力が要ります。右は**完結**しています。",
-    "src": "55a57aed",
-    "status": "draft"
-  },
-  "the-map.items.1.title": {
     "en": "Scope of skills mandate",
     "text": "スキル範囲のマンデート",
     "src": "97658681",
     "status": "draft"
   },
-  "the-map.items.2.text": {
-    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
-    "text": "ユニットが担う仕事の大きさです。タスクやケイパビリティ(**アウトプット**)から、部分的・全体的なソリューション(**アウトカム**)まであります。アウトプットが増えても、アウトカムが増えるとは限りません。",
-    "src": "ffb790eb",
+  "the-map.items.1.text": {
+    "en": "How much of the work a unit owns. Below the divider, tasks and capabilities: **outputs**. Above it, partial and whole solutions: **outcomes**. More output does not mean more outcomes.",
+    "text": "ユニットが担う仕事の大きさです。区切り線より下は、タスクとケイパビリティ(**アウトプット**)。上は、部分的・全体的なソリューション(**アウトカム**)です。アウトプットが増えても、アウトカムが増えるとは限りません。",
+    "src": "94558997",
     "status": "draft"
   },
-  "the-map.items.2.title": {
+  "the-map.items.1.title": {
     "en": "Scope of work mandate",
     "text": "仕事範囲のマンデート",
     "src": "41bef20e",
-    "status": "draft"
-  },
-  "the-map.items.3.text": {
-    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "2本の区切り線がマップを4つの象限に分けます。[Directing](term:directing-intelligence)、[Driving](term:driving-intelligence)、[Doing](term:doing-intelligence)、[Delivering](term:delivering-intelligence)の4つのインテリジェンスです。",
-    "src": "b2bf261a",
-    "status": "draft"
-  },
-  "the-map.items.3.title": {
-    "en": "Four quadrants",
-    "text": "4つの象限",
-    "src": "82a3726d",
     "status": "draft"
   },
   "the-map.kicker": {
@@ -522,9 +492,9 @@
     "status": "draft"
   },
   "the-map.lead": {
-    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
-    "text": "個人でもチームでも[AIエージェント](term:ai-agent)でも、すべてのユニットは、与えられた2つのマンデートで配置します。肩書きは関係ありません。マッピングは必ず**ひとつのビジネスアウトカム**を軸にします。マンデートが広いか狭いか、完結しているか不完全かは、誰かが届けるべきアウトカムに照らして初めて決まるからです。",
-    "src": "a562bc54",
+    "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
+    "text": "個人でもチームでも[AIエージェント](term:ai-agent)でも、すべてのユニットは、与えられた2つの[マンデート](term:mandate)で配置します。肩書きは関係ありません。",
+    "src": "8d76c459",
     "status": "draft"
   },
   "tools._nav": {
