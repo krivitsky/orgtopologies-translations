@@ -5,6 +5,7 @@ The text of [orgtopologies.com](https://www.orgtopologies.com) in every language
 
 | Folder | Language | On the site |
 |---|---|---|
+| [`cs/`](cs/) | Čeština · Czech | [/cs](https://www.orgtopologies.com/cs) |
 | [`ja/`](ja/) | 日本語 · Japanese | [/ja](https://www.orgtopologies.com/ja) |
 | [`uk/`](uk/) | Українська · Ukrainian | [/uk](https://www.orgtopologies.com/uk) |
 | [`de/`](de/) | Deutsch · German | [/de](https://www.orgtopologies.com/de) |
