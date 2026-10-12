@@ -1,0 +1,752 @@
+{
+  "four-by-four._nav": {
+    "en": "The 4×4 Map",
+    "text": "Mapa 4×4",
+    "src": "7e650bde",
+    "status": "draft"
+  },
+  "frameworks.goDeeper.body": {
+    "en": "See what a framework really optimizes for. “We are doing SAFe” says little about your design; mapping frameworks with Org Topologies shows their goals and their limits, so you can choose what fits.",
+    "text": "Podívejte se, na co framework skutečně optimalizuje. „Děláme SAFe“ o vašem designu říká málo; mapování frameworků pomocí Org Topologies ukáže jejich cíle i meze, takže si můžete vybrat, co sedí.",
+    "src": "2db793a2",
+    "status": "draft"
+  },
+  "frameworks.goDeeper.cta.label": {
+    "en": "To framework mappings →",
+    "text": "K mapování frameworků →",
+    "src": "bec57e5d",
+    "status": "draft"
+  },
+  "frameworks.heading": {
+    "en": "Mapping Your Framework?",
+    "text": "Mapujete svůj framework?",
+    "src": "26589f7f",
+    "status": "draft"
+  },
+  "frameworks.kicker": {
+    "en": "FRAMEWORK MAPPINGS",
+    "text": "MAPOVÁNÍ FRAMEWORKŮ",
+    "src": "b1e5dbc8",
+    "status": "draft"
+  },
+  "go-see._nav": {
+    "en": "Go See, with a Map",
+    "text": "Go See s mapou",
+    "src": "12efc89a",
+    "status": "draft"
+  },
+  "go-see.heading": {
+    "en": "Go see, with a map",
+    "text": "Go See s mapou",
+    "src": "4d7e996e",
+    "status": "draft"
+  },
+  "go-see.kicker": {
+    "en": "HOW TO MAP · GO SEE",
+    "text": "JAK MAPOVAT · GO SEE",
+    "src": "ee61471c",
+    "status": "draft"
+  },
+  "go-see.lead": {
+    "en": "A topology is never assessed from a desk. Mapping and the Gemba, the place where the work actually happens, make each other better. Map without judgment, with curiosity, and together.",
+    "text": "Topologii nikdy nehodnotíte od stolu. Mapování a Gemba, místo, kde se práce skutečně dělá, se vzájemně zlepšují. Mapujte bez souzení, se zvídavostí a společně.",
+    "src": "d78bd185",
+    "status": "draft"
+  },
+  "go-see.points.0.text": {
+    "en": "You can’t place a unit from an org chart. Watch the work — what comes in, what goes out, who waits for whom — then draw it, not the titles and layers.",
+    "text": "Jednotku nezařadíte podle organigramu. Sledujte práci — co přichází, co odchází, kdo na koho čeká — a pak nakreslete ji, ne tituly a úrovně.",
+    "src": "1ee501fd",
+    "status": "draft"
+  },
+  "go-see.points.0.title": {
+    "en": "Go See feeds the map",
+    "text": "Go See živí mapu",
+    "src": "11c6c5bf",
+    "status": "draft"
+  },
+  "go-see.points.1.text": {
+    "en": "Once drawn, it shows where to look next: heavy dependency lines, hand-offs between incomplete units, the gap to the topology you need.",
+    "text": "Když je nakreslená, ukáže, kam se podívat dál: husté čáry závislostí, předávání mezi neúplnými jednotkami, mezera k topologii, kterou potřebujete.",
+    "src": "f8bcd91b",
+    "status": "draft"
+  },
+  "go-see.points.1.title": {
+    "en": "The map guides the walk",
+    "text": "Mapa vede procházku",
+    "src": "aedb1ad9",
+    "status": "draft"
+  },
+  "go-see.points.2.text": {
+    "en": "The map can be reviewed, challenged and improved together, so leaders and workers co-own the discoveries that matter most.",
+    "text": "Mapu lze společně procházet, zpochybňovat a vylepšovat, takže lídři i pracovníci spoluvlastní objevy, na kterých záleží nejvíc.",
+    "src": "a681b133",
+    "status": "draft"
+  },
+  "go-see.points.2.title": {
+    "en": "A shared artifact",
+    "text": "Sdílený artefakt",
+    "src": "3bf9d418",
+    "status": "draft"
+  },
+  "go-see.questions.0.question": {
+    "en": "Which business outcome are we mapping, and who has to work on it?",
+    "text": "Jaký obchodní outcome mapujeme a kdo na něm musí pracovat?",
+    "src": "c48e30ac",
+    "status": "draft"
+  },
+  "go-see.questions.0.title": {
+    "en": "The outcome",
+    "text": "Outcome",
+    "src": "d068666f",
+    "status": "draft"
+  },
+  "go-see.questions.1.question": {
+    "en": "What does the unit take on toward that outcome?",
+    "text": "Co jednotka přebírá směrem k tomuto outcome?",
+    "src": "4d647569",
+    "status": "draft"
+  },
+  "go-see.questions.1.title": {
+    "en": "The kind of work",
+    "text": "Druh práce",
+    "src": "a6fd05ef",
+    "status": "draft"
+  },
+  "go-see.questions.2.question": {
+    "en": "What does it rely on, and from where?",
+    "text": "Na čem závisí a odkud to dostává?",
+    "src": "f8ec1241",
+    "status": "draft"
+  },
+  "go-see.questions.2.title": {
+    "en": "Its inputs",
+    "text": "Její vstupy",
+    "src": "b4b85068",
+    "status": "draft"
+  },
+  "go-see.questions.3.question": {
+    "en": "What does it produce, and for whom?",
+    "text": "Co vytváří a pro koho?",
+    "src": "7fd02c35",
+    "status": "draft"
+  },
+  "go-see.questions.3.title": {
+    "en": "Its outputs",
+    "text": "Její výstupy",
+    "src": "fad7c1d2",
+    "status": "draft"
+  },
+  "go-see.questions.4.question": {
+    "en": "How does work move — idea to cash?",
+    "text": "Jak práce putuje — od nápadu po hotovost?",
+    "src": "0ff95ec9",
+    "status": "draft"
+  },
+  "go-see.questions.4.title": {
+    "en": "The flow",
+    "text": "Tok",
+    "src": "c70103ce",
+    "status": "draft"
+  },
+  "go-see.quote.paragraphs.0": {
+    "en": "Such a map doesn’t replace visiting the Gemba: mapping and Go See reinforce each other. … Once mapped, the value-creation terrain appears as a living structure—not a static org chart frozen in time—highlighting exactly where the improvement is most needed.",
+    "text": "Taková mapa nenahrazuje návštěvu Gemba: mapování a Go See se vzájemně posilují. … Po zmapování se terén tvorby hodnoty ukáže jako živá struktura — ne jako statický organigram zamrzlý v čase — a přesně zvýrazní, kde je zlepšení nejvíc potřeba.",
+    "src": "4ee3a7e7",
+    "status": "draft"
+  },
+  "go-see.quote.source": {
+    "en": "FROM THE BOOK · 10X ORG, “GO SEE WITH A MAP”",
+    "text": "Z KNIHY · 10X ORG, „GO SEE S MAPOU“",
+    "src": "ead34e3c",
+    "status": "draft"
+  },
+  "go-see.stepGoal.goal": {
+    "en": "Which parts of our organization contribute to creating value, and how do they interact to produce it — from idea to cash?",
+    "text": "Které části naší organizace přispívají k tvorbě hodnoty a jak spolu interagují, aby ji vytvářely — od nápadu po hotovost?",
+    "src": "fdcc5a1e",
+    "status": "draft"
+  },
+  "go-see.stepGoal.value": {
+    "en": "Curiosity",
+    "text": "Zvídavost",
+    "src": "c0a70c18",
+    "status": "draft"
+  },
+  "intelligences._nav": {
+    "en": "Four Intelligences",
+    "text": "Čtyři inteligence",
+    "src": "06447a42",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.0": {
+    "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
+    "text": "Stejně jako lidé mohou být „slovně chytří“, „logicky chytří“, „hudebně chytří“ a tak dále, organizace projevují různé druhy chytrosti — *inteligence* — skrze strukturované mandáty, které dávají organizačním jednotkám.",
+    "src": "a78780f8",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.1": {
+    "en": "[Organizational intelligence](term:organizational-intelligence) is not a fixed trait and does not reside in individuals. These qualities emerge from the system itself—specifically from the mandates that define who is allowed to decide, act, learn, and shape outcomes. When mandates are narrow, intelligence is constrained. When mandates are broad and coherent, intelligence expands.",
+    "text": "[Organizační inteligence](term:organizational-intelligence) není pevná vlastnost a nesídlí v jednotlivcích. Tyto kvality vznikají ze samotného systému — konkrétně z mandátů, které určují, kdo smí rozhodovat, jednat, učit se a utvářet výsledky. Když jsou mandáty úzké, inteligence je omezená. Když jsou mandáty široké a soudržné, inteligence roste.",
+    "src": "b013a554",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.2": {
+    "en": "The question is no longer which intelligence is “better,” but which combination best supports the current strategic challenge—and how that mix must evolve as strategy changes. … Organizations are not locked into a single intelligence; they can intentionally develop neglected ones and combine them to support performance.",
+    "text": "Otázka už nezní, která inteligence je „lepší“, ale jaká kombinace nejlépe podpoří aktuální strategickou výzvu — a jak se tato směs musí vyvíjet, když se mění strategie. … Organizace nejsou uzamčené v jediné inteligenci; mohou záměrně rozvíjet ty opomíjené a kombinovat je ve prospěch výkonu.",
+    "src": "0d6beaa0",
+    "status": "draft"
+  },
+  "intelligences.quote.source": {
+    "en": "FROM THE BOOK · 10X ORG, PRINCIPLE 3: SHAPE INTELLIGENCE WITH MANDATES",
+    "text": "Z KNIHY · 10X ORG, PRINCIP 3: UTVÁŘEJTE INTELIGENCI MANDÁTY",
+    "src": "fa14ac35",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Map your organization with a simple language and one map of two mandates, then see how it really works. Learn the four intelligences and start with free tools.",
+    "text": "Zmapujte svou organizaci jednoduchým jazykem a jednou mapou dvou mandátů a uvidíte, jak skutečně funguje. Poznejte čtyři inteligence a začněte s bezplatnými nástroji.",
+    "src": "6ad2fef4",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Map your organization",
+    "text": "Zmapujte svou organizaci",
+    "src": "f0fb5bb8",
+    "status": "draft"
+  },
+  "poster._nav": {
+    "en": "Mapping Examples",
+    "text": "Příklady mapování",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "poster.byline.kicker": {
+    "en": "MAPPING A REAL ORG CHANGE · CASE BY ALEXEY KRIVITSKY",
+    "text": "MAPOVÁNÍ SKUTEČNÉ ZMĚNY ORGANIZACE · PŘÍPAD OD ALEXEYE KRIVITSKÉHO",
+    "src": "1a8864e3",
+    "status": "draft"
+  },
+  "poster.cta.label": {
+    "en": "Read Alexey’s full case study →",
+    "text": "Přečíst celou případovou studii od Alexeye →",
+    "src": "e8524f64",
+    "status": "draft"
+  },
+  "poster.figure.alt": {
+    "en": "Poster, mapping the change: component teams and team-level managers in Doing elevate to a team of teams with product and engineering managers in Driving",
+    "text": "Poster, mapování změny: komponentové týmy a manažeři na úrovni týmů v Doing povyšují na tým týmů s produktovými a inženýrskými manažery v Driving",
+    "src": "fa818256",
+    "status": "draft"
+  },
+  "poster.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILUSTRACE · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "poster.footer.text": {
+    "en": "Mapping does not change the organization. But without mapping, change is blind.",
+    "text": "Mapování organizaci nezmění. Ale bez mapování je změna slepá.",
+    "src": "3d1e9ccb",
+    "status": "draft"
+  },
+  "poster.heading": {
+    "en": "Mapping Examples",
+    "text": "Příklady mapování",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "poster.intro": {
+    "en": "In 2021, Alexey Krivitsky helped Poster, a Ukraine-based SaaS company, rethink its organizational design. It reshaped its R&D from 12 narrow, component-oriented specialist teams into 6 versatile whole-product teams.",
+    "text": "V roce 2021 pomohl Alexey Krivitsky společnosti Poster, SaaS firmě z Ukrajiny, přehodnotit design organizace. Přetvořila svůj R&D z 12 úzkých, komponentově orientovaných specializovaných týmů na 6 všestranných týmů celého produktu.",
+    "src": "c1ad25ab",
+    "status": "draft"
+  },
+  "poster.points.0.text": {
+    "en": "Component teams with team-level managers, each with its own list of work, tied together by dependencies.",
+    "text": "Komponentové týmy s manažery na úrovni týmů, každý s vlastním seznamem práce, svázané závislostmi.",
+    "src": "c96e9c1f",
+    "status": "draft"
+  },
+  "poster.points.0.title": {
+    "en": "Before: Doing",
+    "text": "Před: Doing",
+    "src": "c10935e5",
+    "status": "draft"
+  },
+  "poster.points.1.text": {
+    "en": "One [team of teams](term:team-of-teams) on a shared product backlog, with a product owner, product managers and engineering managers around it.",
+    "text": "Jeden [tým týmů](term:team-of-teams) na sdíleném produktovém backlogu, kolem něj product owner, produktoví manažeři a manažeři inženýrství.",
+    "src": "cb69f6f6",
+    "status": "draft"
+  },
+  "poster.points.1.title": {
+    "en": "After: Driving",
+    "text": "Po: Driving",
+    "src": "45079c72",
+    "status": "draft"
+  },
+  "poster.points.2.text": {
+    "en": "Teams took ownership of feature adoption: a feature is done once a selected client actively uses it.",
+    "text": "Týmy převzaly odpovědnost za adopci funkcí: funkce je hotová, až ji vybraný klient aktivně používá.",
+    "src": "466067a5",
+    "status": "draft"
+  },
+  "poster.points.2.title": {
+    "en": "Done means adopted",
+    "text": "Hotovo znamená přijato",
+    "src": "9ba86a0e",
+    "status": "draft"
+  },
+  "poster.points.3.text": {
+    "en": "When COVID-19 and later the full-scale invasion hit, Poster did not need to redesign under pressure.",
+    "text": "Když udeřila pandemie COVID-19 a později plnohodnotná invaze, Poster nemusel přepracovávat organizaci pod tlakem.",
+    "src": "424e780d",
+    "status": "draft"
+  },
+  "poster.points.3.title": {
+    "en": "Resilient by design",
+    "text": "Odolné z designu",
+    "src": "94ae5f04",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.context": {
+    "en": "DIM.RIA is one of Ukraine’s leading real estate marketplaces. When the full-scale invasion hit the market in 2022, it redesigned its structure, entirely remotely, around LeSS principles. The map shows where it started: a [Resource Topology](term:resource-topology) (Directing + Doing), with product managers handing work down to many small teams. The case study tells how it moved toward an adaptive organization.",
+    "text": "DIM.RIA je jeden z předních ukrajinských realitních tržišť. Když trh v roce 2022 zasáhla plnohodnotná invaze, přepracovalo svou strukturu, zcela na dálku, podle principů LeSS. Mapa ukazuje, kde začínalo: [Resource Topology](term:resource-topology) (Directing + Doing), kde produktoví manažeři předávají práci mnoha malým týmům. Případová studie vypráví, jak se posunulo k adaptivní organizaci.",
+    "src": "866751b6",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.meta": {
+    "en": "PropTech · Ukraine · LeSS",
+    "text": "PropTech · Ukrajina · LeSS",
+    "src": "144536cc",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.title": {
+    "en": "DIM.RIA: adapting in wartime",
+    "text": "DIM.RIA: přizpůsobení za války",
+    "src": "9f05cc28",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.context": {
+    "en": "Flo Health, Europe’s first femtech unicorn, runs 20+ [cross-functional](term:cross-functional) product teams across mobile, AI, content, medical and commercial. Instead of dissolving its domain teams, Flo added a General Manager layer as an overlay, so each initiative has one owner while the domain teams keep their expertise.",
+    "text": "Flo Health, první evropský femtech jednorožec, provozuje přes 20 [multifunkčních](term:cross-functional) produktových týmů napříč mobilem, AI, obsahem, medicínou a obchodem. Místo rušení doménových týmů přidal Flo vrstvu General Managerů jako nadstavbu, takže každá iniciativa má jednoho vlastníka a doménové týmy si drží svou expertizu.",
+    "src": "0a80c193",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.meta": {
+    "en": "Femtech · 350 people in product and engineering",
+    "text": "Femtech · 350 lidí v produktu a inženýrství",
+    "src": "fe386ce5",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.title": {
+    "en": "Flo Health: from domain silos to strategic ownership",
+    "text": "Flo Health: od doménových ostrůvků ke strategickému vlastnictví",
+    "src": "13568252",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.context": {
+    "en": "FPED is a research unit at Eurecat, the Technology Centre of Catalonia, developing new manufacturing processes for plastic and composite materials. Heads of R&D lines moved from managing every detail towards Product Owner-like roles and delegated more to their teams. The map shows both states: the initial one in black, the current one in blue.",
+    "text": "FPED je výzkumná jednotka v Eurecat, Technologickém centru Katalánska, která vyvíjí nové výrobní procesy pro plastové a kompozitní materiály. Vedoucí linií R&D přešli od řízení každého detailu k rolím podobným Product Ownerovi a více delegovali na své týmy. Mapa ukazuje oba stavy: počáteční černě, současný modře.",
+    "src": "32748c23",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.meta": {
+    "en": "Industrial R&D · Spain",
+    "text": "Průmyslový R&D · Španělsko",
+    "src": "16b846a7",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.title": {
+    "en": "Eurecat FPED: agility in a research unit",
+    "text": "Eurecat FPED: agilita ve výzkumné jednotce",
+    "src": "03782790",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.context": {
+    "en": "An Agile Release Train in the planning domain of one of Europe’s largest technology companies, with trains organized around business capabilities. A next-generation planning solution, Paradigm, became the occasion to redesign. The map shows the optimal design: a [team of teams](term:team-of-teams) at PART-3.",
+    "text": "Agile Release Train v plánovací doméně jedné z největších evropských technologických firem, s vlaky organizovanými kolem obchodních schopností. Plánovací řešení nové generace, Paradigm, se stalo příležitostí k redesignu. Mapa ukazuje optimální design: [tým týmů](term:team-of-teams) na úrovni PART-3.",
+    "src": "72ca40da",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.meta": {
+    "en": "High-tech manufacturing · IT · SAFe",
+    "text": "High-tech výroba · IT · SAFe",
+    "src": "d38f13d7",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.title": {
+    "en": "Paradigm: bringing business and IT together",
+    "text": "Paradigm: spojení byznysu a IT",
+    "src": "c85a8df0",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.context": {
+    "en": "A product manager in a government organization leads three product owners and four teams. On paper they are agile; in practice everyone works on their own backlog, and when one team is blocked the others watch. The map shows the future design: teams aligned to whole product domains that build, validate and run the product end to end.",
+    "text": "Produktový manažer ve vládní organizaci vede tři product ownery a čtyři týmy. Na papíře jsou agilní; v praxi každý pracuje na svém backlogu, a když je jeden tým zablokovaný, ostatní se dívají. Mapa ukazuje budoucí design: týmy sladěné s celými produktovými doménami, které produkt staví, ověřují a provozují od začátku do konce.",
+    "src": "08179b95",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.meta": {
+    "en": "Government · digital services",
+    "text": "Státní správa · digitální služby",
+    "src": "aea809dc",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.title": {
+    "en": "It started over dinner",
+    "text": "Začalo to u večeře",
+    "src": "fec7c412",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.context": {
+    "en": "Business Banking at de Volksbank moved from developers working on tasks to feature teams paired with the operations teams they serve. By 2023 most of its four dev teams were CAPS-2, incomplete teams working on customer journeys, and one reached CAPS-3, working end-to-end. The map shows that reality, with the vendor and IT still around the teams.",
+    "text": "Business Banking v de Volksbank přešel od vývojářů pracujících na úkolech k feature týmům spárovaným s provozními týmy, kterým slouží. V roce 2023 byla většina ze čtyř vývojových týmů CAPS-2, neúplné týmy pracující na zákaznických cestách, a jeden dosáhl CAPS-3, práce od začátku do konce. Mapa ukazuje tuto realitu, s dodavatelem a IT stále kolem týmů.",
+    "src": "7a8dc104",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.meta": {
+    "en": "Banking · the Netherlands",
+    "text": "Bankovnictví · Nizozemsko",
+    "src": "6975640c",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.title": {
+    "en": "de Volksbank: dev teams beside operations",
+    "text": "de Volksbank: vývojové týmy vedle provozu",
+    "src": "3fbb1aa9",
+    "status": "draft"
+  },
+  "sample-mappings.heading": {
+    "en": "From the Community",
+    "text": "Z komunity",
+    "src": "fb4606a9",
+    "status": "draft"
+  },
+  "sample-mappings.lead": {
+    "en": "Real organizations, mapped by the people who worked with them. Each map comes with the context you need to read it and a link to the full case study.",
+    "text": "Skutečné organizace zmapované lidmi, kteří s nimi pracovali. Ke každé mapě patří kontext potřebný k jejímu čtení a odkaz na celou případovou studii.",
+    "src": "da3d1180",
+    "status": "draft"
+  },
+  "the-map._nav": {
+    "en": "The 2×2 Map",
+    "text": "Mapa 2×2",
+    "src": "09dd8c74",
+    "status": "draft"
+  },
+  "the-map.figure.alt": {
+    "en": "The blank Org Topologies map: scope of skills mandate across, scope of work mandate up",
+    "text": "Prázdná mapa Org Topologies: rozsah mandátu dovedností napříč, rozsah mandátu práce nahoru",
+    "src": "9f3cfc56",
+    "status": "draft"
+  },
+  "the-map.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILUSTRACE · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "the-map.heading": {
+    "en": "Two mandates, one map",
+    "text": "Dva mandáty, jedna mapa",
+    "src": "5cbe0bd0",
+    "status": "draft"
+  },
+  "the-map.intro.kicker": {
+    "en": "AI-READY MAPPING",
+    "text": "MAPOVÁNÍ PŘIPRAVENÉ NA AI",
+    "src": "4c07a578",
+    "status": "draft"
+  },
+  "the-map.intro.text": {
+    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
+    "text": "Práci dělají **agenti inteligence** — organizační jednotky: lidé, skupiny i AI. Na všechny platí stejná mapa [mandátů](term:mandate) — ať jde o člověka, agenta nebo robota. Každého zařaďte podle toho, co se smí učit a na čem smí pracovat, ne podle jeho titulu.",
+    "src": "ddaaea6a",
+    "status": "draft"
+  },
+  "the-map.items.0.text": {
+    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
+    "text": "Nejdřív pojmenujte obchodní outcome — produkt, zákaznický problém, value stream — a kdo na něm musí pracovat. Pak posuzujte mandáty každé jednotky vůči němu: tým může být pro jeden outcome úplný a pro jiný neúplný.",
+    "src": "dafff1b5",
+    "status": "draft"
+  },
+  "the-map.items.0.title": {
+    "en": "Start from one outcome",
+    "text": "Začněte jedním outcome",
+    "src": "3dc2efbe",
+    "status": "draft"
+  },
+  "the-map.items.1.text": {
+    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
+    "text": "Dovednosti, které jednotka dostala a smí uplatnit. Čím víc vpravo, tím víc může rychle dodat bez závislostí. Vlevo od dělicí čáry jsou jednotky **neúplné** — k dodání zákaznické hodnoty potřebují ostatní; vpravo jsou **úplné**.",
+    "src": "55a57aed",
+    "status": "draft"
+  },
+  "the-map.items.1.title": {
+    "en": "Scope of skills mandate",
+    "text": "Rozsah mandátu dovedností",
+    "src": "97658681",
+    "status": "draft"
+  },
+  "the-map.items.2.text": {
+    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
+    "text": "Kolik práce jednotka vlastní: od úkolů a schopností (**outputs**) po částečná a celá řešení (**outcomes**). Víc outputs neznamená víc outcomes.",
+    "src": "ffb790eb",
+    "status": "draft"
+  },
+  "the-map.items.2.title": {
+    "en": "Scope of work mandate",
+    "text": "Rozsah mandátu práce",
+    "src": "41bef20e",
+    "status": "draft"
+  },
+  "the-map.items.3.text": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "Dvě dělicí čáry rozdělují mapu na čtyři kvadranty: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) a [Delivering](term:delivering-intelligence) — čtyři inteligence.",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
+  "the-map.items.3.title": {
+    "en": "Four quadrants",
+    "text": "Čtyři kvadranty",
+    "src": "82a3726d",
+    "status": "draft"
+  },
+  "the-map.kicker": {
+    "en": "THE MAP",
+    "text": "MAPA",
+    "src": "330a58d9",
+    "status": "draft"
+  },
+  "the-map.lead": {
+    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
+    "text": "Každá jednotka — člověk, tým, [AI agent](term:ai-agent) — se zařazuje podle dvou mandátů, které dostala, ne podle titulu. Mapujte vždy vůči **jednomu obchodnímu outcome**: mandáty jsou široké či úzké, úplné či neúplné jen vzhledem k outcome, který někdo musí dodat.",
+    "src": "a562bc54",
+    "status": "draft"
+  },
+  "tools._nav": {
+    "en": "Free Tools",
+    "text": "Bezplatné nástroje",
+    "src": "60dad1bd",
+    "status": "draft"
+  },
+  "tools.cards.0.body": {
+    "en": "Essentials and empty maps to start mapping with your team, online.",
+    "text": "Základy a prázdné mapy, s nimiž můžete s týmem začít mapovat online.",
+    "src": "c3f8545c",
+    "status": "draft"
+  },
+  "tools.cards.0.label": {
+    "en": "Open in Miroverse →",
+    "text": "Otevřít v Miroverse →",
+    "src": "1130126d",
+    "status": "draft"
+  },
+  "tools.cards.0.title": {
+    "en": "Miro template",
+    "text": "Šablona pro Miro",
+    "src": "4e457459",
+    "status": "draft"
+  },
+  "tools.cards.1.body": {
+    "en": "“We are doing SAFe” says little about your design. See SAFe, LeSS, Team Topologies and more on the map.",
+    "text": "„Děláme SAFe“ o vašem designu říká málo. Podívejte se na SAFe, LeSS, Team Topologies a další na mapě.",
+    "src": "b4f7ab7f",
+    "status": "draft"
+  },
+  "tools.cards.1.label": {
+    "en": "Study framework mapping →",
+    "text": "Studovat mapování frameworků →",
+    "src": "35df44bf",
+    "status": "draft"
+  },
+  "tools.cards.1.title": {
+    "en": "Framework mapping",
+    "text": "Mapování frameworků",
+    "src": "e3fd7258",
+    "status": "draft"
+  },
+  "tools.heading": {
+    "en": "Free tools & more mapping ideas",
+    "text": "Bezplatné nástroje a další nápady k mapování",
+    "src": "d3cfba98",
+    "status": "draft"
+  },
+  "tools.kicker": {
+    "en": "START MAPPING",
+    "text": "ZAČNĚTE MAPOVAT",
+    "src": "9b8daf1f",
+    "status": "draft"
+  },
+  "top._nav": {
+    "en": "Org Topologies Mapping",
+    "text": "Mapování Org Topologies",
+    "src": "533f211e",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 1 · MAP",
+    "text": "MADE · KROK 1 · MAP",
+    "src": "4348a04d",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A simple language and one map to see how your organization really works — without “agile” or framework jargon. You can’t figure out where to go next until you know where you are.",
+    "text": "Jednoduchý jazyk a jedna mapa, díky nimž uvidíte, jak vaše organizace skutečně funguje — bez „agilního“ a frameworkového žargonu. Nemůžete určit, kam jít dál, dokud nevíte, kde jste.",
+    "src": "26f889cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Map your\norganization.",
+    "text": "Zmapujte svou\norganizaci.",
+    "src": "60a7c3e9",
+    "status": "draft"
+  },
+  "topologies.goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "Prozkoumejte, která topologie sedí vaší strategii: ukázková mapa každé z nich, čtyři inteligence k proklikání a jak se s mapou podívat na vlastní organizaci.",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "topologies.goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Rozlišit topologie →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "topologies.goDeeper.title": {
+    "en": "The three topologies",
+    "text": "Tři topologie",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "topologies.heading": {
+    "en": "Three topologies, three goals",
+    "text": "Tři topologie, tři cíle",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "topologies.kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "STUDUJTE BĚŽNÉ TOPOLOGIE",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "topologies.lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "Každá běžná topologie kombinuje různé inteligence — specializaci, tok, koordinaci, adaptivitu — a „září“ v jiném prostředí.",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "Stabilní prostředí řízená procesy",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "(inteligence specializace + koordinace)",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "Vytížení a předvídatelnost",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "Rigidní, když se mění strategie",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "Známá práce, která zapadá do struktury týmů",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "(inteligence toku + koordinace)",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "Rychlost a tok v mezích",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "Průřezová práce vyžaduje koordinaci",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "Turbulentní, inovacemi tažená prostředí",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "(adaptivní inteligence)",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "Přizpůsobivost a učení",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "Zpochybňuje stávající řídicí struktury",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

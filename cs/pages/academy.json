@@ -1,0 +1,74 @@
+{
+  "classes.eventsCaption": {
+    "en": "Core certification programs",
+    "text": "Hlavní certifikační programy",
+    "src": "04cbb1ef",
+    "status": "draft"
+  },
+  "classes.heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Naučte se přístup Org Topologies",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "classes.inHouse.body": {
+    "en": "Every class and program can run in-house, tailored to your needs.",
+    "text": "Každý kurz i program může proběhnout in-house, přizpůsobený vašim potřebám.",
+    "src": "a8b1bd9d",
+    "status": "draft"
+  },
+  "classes.inHouse.cta.label": {
+    "en": "Email us →",
+    "text": "Napište nám →",
+    "src": "6601537f",
+    "status": "draft"
+  },
+  "classes.inHouse.heading": {
+    "en": "Book any program in-house",
+    "text": "Objednejte si libovolný program in-house",
+    "src": "9d118ce8",
+    "status": "draft"
+  },
+  "classes.inHouse.kicker": {
+    "en": "IN-HOUSE",
+    "text": "IN-HOUSE",
+    "src": "ca23c49e",
+    "status": "draft"
+  },
+  "classes.kicker": {
+    "en": "CERTIFICATIONS AND DATES",
+    "text": "CERTIFIKACE A TERMÍNY",
+    "src": "b05203b1",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Certification classes in Org Topologies: Practitioner (C-OTP) and Consultant (C-OTC), live online and in person, with all upcoming dates.",
+    "text": "Certifikační kurzy Org Topologies: Practitioner (C-OTP) a Consultant (C-OTC), živě online i osobně, se všemi nadcházejícími termíny.",
+    "src": "85f4325a",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Learn to see your organization as a system, map it, and redesign it for performance — with the creators of Org Topologies, live online and in person.",
+    "text": "Naučte se vidět svou organizaci jako systém, zmapovat ji a předělat pro výkon — s tvůrci Org Topologies, živě online i osobně.",
+    "src": "7f2bf5cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  }
+}
