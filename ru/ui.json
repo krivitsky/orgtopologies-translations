@@ -257,6 +257,12 @@
     "src": "6bde51a2",
     "status": "draft"
   },
+  "c.suggest.why": {
+    "en": "Why? (optional)",
+    "text": "Почему? (необязательно)",
+    "src": "dde87e85",
+    "status": "draft"
+  },
   "c.suggest.yours": {
     "en": "Your version (edit the text)",
     "text": "Ваш вариант (отредактируйте текст)",
