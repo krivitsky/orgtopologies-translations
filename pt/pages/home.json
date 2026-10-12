@@ -1,0 +1,236 @@
+{
+  "craig.heading": {
+    "en": "Craig Larman on 10X ORG",
+    "text": "Craig Larman sobre 10X ORG",
+    "src": "ad704c84",
+    "status": "draft"
+  },
+  "craig.kicker": {
+    "en": "WHY THIS BOOK",
+    "text": "POR QUE ESTE LIVRO",
+    "src": "8ec207f6",
+    "status": "draft"
+  },
+  "craig.paragraphs.0": {
+    "en": "Craig Larman, co-author of *10X ORG* and contributor to the Org Topologies model, on why he thinks this book matters.",
+    "text": "Craig Larman, coautor de *10X ORG* e colaborador do modelo Org Topologies, explica por que considera este livro importante.",
+    "src": "74389678",
+    "status": "draft"
+  },
+  "craig.video.title": {
+    "en": "Craig Larman on 10X ORG",
+    "text": "Craig Larman sobre 10X ORG",
+    "src": "ad704c84",
+    "status": "draft"
+  },
+  "craig.video.youtube": {
+    "en": "6TRqhOHIxfU",
+    "text": "6TRqhOHIxfU",
+    "src": "5a5cc7e7",
+    "status": "draft"
+  },
+  "intelligences.goDeeper.body": {
+    "en": "Learn the language of org design and map your own organization: see where each unit sits, what it optimizes for and where work gets stuck. The 16 archetypes and free tools get you started today.",
+    "text": "Aprenda a linguagem do design organizacional e mapeie a sua própria organização: veja onde cada unidade está, o que ela otimiza e onde o trabalho trava. Os 16 arquétipos e as ferramentas gratuitas ajudam você a começar hoje.",
+    "src": "7d69dff8",
+    "status": "draft"
+  },
+  "intelligences.goDeeper.cta.label": {
+    "en": "Learn to map →",
+    "text": "Aprenda a mapear →",
+    "src": "fc958562",
+    "status": "draft"
+  },
+  "intelligences.goDeeper.title": {
+    "en": "Org Topologies mapping",
+    "text": "Mapeamento com Org Topologies",
+    "src": "67c4bb59",
+    "status": "draft"
+  },
+  "intelligences.intro.kicker": {
+    "en": "AI-READY MAPPING",
+    "text": "MAPEAMENTO PRONTO PARA A IA",
+    "src": "4c07a578",
+    "status": "draft"
+  },
+  "intelligences.intro.text": {
+    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of mandates applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
+    "text": "O trabalho é feito por **agentes de inteligência**, as unidades organizacionais: pessoas, grupos e IA. O mesmo mapa de mandatos vale para todos eles, sejam humanos, agentes ou robôs. Posicione cada um pelo que ele pode aprender e pelo trabalho que pode assumir, não pelo cargo.",
+    "src": "4bf9d83d",
+    "status": "draft"
+  },
+  "latest.heading": {
+    "en": "New articles and talks",
+    "text": "Novos artigos e palestras",
+    "src": "fec7de5f",
+    "status": "draft"
+  },
+  "latest.kicker": {
+    "en": "LATEST",
+    "text": "RECENTES",
+    "src": "b336adc1",
+    "status": "draft"
+  },
+  "latest.links.0.label": {
+    "en": "All articles →",
+    "text": "Todos os artigos →",
+    "src": "a30b3c8f",
+    "status": "draft"
+  },
+  "latest.links.1.label": {
+    "en": "All videos →",
+    "text": "Todos os vídeos →",
+    "src": "7d0421a8",
+    "status": "draft"
+  },
+  "map.academy.badges.0.alt": {
+    "en": "Certified Org Topologies Practitioner (C-OTP) badge",
+    "text": "Selo Certified Org Topologies Practitioner (C-OTP)",
+    "src": "f53ce26c",
+    "status": "draft"
+  },
+  "map.academy.badges.1.alt": {
+    "en": "Certified Org Topologies Consultant (C-OTC) badge",
+    "text": "Selo Certified Org Topologies Consultant (C-OTC)",
+    "src": "6675cca6",
+    "status": "draft"
+  },
+  "map.academy.body": {
+    "en": "Practitioner ([C-OTP](term:c-otp)) and Consultant ([C-OTC](term:c-otc)) classes, live online and in person.",
+    "text": "Turmas de Practitioner ([C-OTP](term:c-otp)) e de Consultant ([C-OTC](term:c-otc)), ao vivo online e presenciais.",
+    "src": "b4e8ceff",
+    "status": "draft"
+  },
+  "map.academy.cta.label": {
+    "en": "Visit the Academy →",
+    "text": "Visite a Academy →",
+    "src": "2e415b5d",
+    "status": "draft"
+  },
+  "map.academy.heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Aprenda a abordagem Org Topologies",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "map.academy.kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  },
+  "map.heading": {
+    "en": "Org Topologies™",
+    "text": "Org Topologies™",
+    "src": "96d77511",
+    "status": "draft"
+  },
+  "map.hint": {
+    "en": "Click a step to pause on it",
+    "text": "Clique em um passo para pausar nele",
+    "src": "3173b490",
+    "status": "draft"
+  },
+  "map.kicker": {
+    "en": "THE MAP, STEP BY STEP",
+    "text": "O MAPA, PASSO A PASSO",
+    "src": "582d66b4",
+    "status": "draft"
+  },
+  "map.more.label": {
+    "en": "How to map your org →",
+    "text": "Como mapear a sua organização →",
+    "src": "21b56978",
+    "status": "draft"
+  },
+  "map.pauseLabel": {
+    "en": "❚❚ Pause",
+    "text": "❚❚ Pausar",
+    "src": "ed1b842f",
+    "status": "draft"
+  },
+  "map.playLabel": {
+    "en": "▶ Play",
+    "text": "▶ Reproduzir",
+    "src": "b3b60a22",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
+    "text": "Org Topologies é a casa do design organizacional moderno: um mapa compartilhado, uma linguagem comum e um ciclo de aprendizado para organizações adequadas ao propósito, com pessoas e IA.",
+    "src": "3324126d",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Org Topologies — the home of modern org design",
+    "text": "Org Topologies — a casa do design organizacional moderno",
+    "src": "a6a83b24",
+    "status": "draft"
+  },
+  "testimonials.lead": {
+    "en": "Leaders, coaches and consultants who mapped their organizations with Org Topologies.",
+    "text": "Líderes, coaches e consultores que mapearam suas organizações com Org Topologies.",
+    "src": "bd581fac",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "STRATEGIC ORG DESIGN WITH PEOPLE AND AI",
+    "text": "DESIGN ORGANIZACIONAL ESTRATÉGICO COM PESSOAS E IA",
+    "src": "8cb1f3f1",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
+    "text": "Org Topologies é um sistema de design organizacional estratégico: um mapa compartilhado, uma linguagem comum e [um ciclo de aprendizado para redesenhar a organização](term:made) que ajudam líderes a tornar as organizações [adequadas ao propósito](term:fit-for-purpose) e a impulsionar o desempenho com pessoas e IA.",
+    "src": "89e05667",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Org design\ndrives performance.",
+    "text": "O design organizacional\nimpulsiona o desempenho.",
+    "src": "5ced6dd5",
+    "status": "draft"
+  },
+  "why.closer": {
+    "en": "Shape your organization’s intelligence. ==10x the impact.==",
+    "text": "Molde a inteligência da sua organização. ==Multiplique o impacto por 10.==",
+    "src": "a5802364",
+    "status": "draft"
+  },
+  "why.heading": {
+    "en": "The agentic age runs on ==org design==.",
+    "text": "A era agêntica funciona com ==design organizacional==.",
+    "src": "6b094299",
+    "status": "draft"
+  },
+  "why.image.alt": {
+    "en": "Org Topologies logo: an arrow elevating from Delivering to Driving",
+    "text": "Logo da Org Topologies: uma seta que sobe de Delivering para Driving",
+    "src": "c14805fb",
+    "status": "draft"
+  },
+  "why.kicker": {
+    "en": "WHY ORG TOPOLOGIES",
+    "text": "POR QUE ORG TOPOLOGIES",
+    "src": "bb87cdcc",
+    "status": "draft"
+  },
+  "why.paragraphs.0": {
+    "en": "Inside narrow [mandates](term:mandate), **AI speeds up each individual and team** while the system stays stuck — more motion, more output, same performance.",
+    "text": "Dentro de [mandatos](term:mandate) estreitos, **a IA acelera cada indivíduo e cada equipe**, mas o sistema continua travado: mais movimento, mais produção, o mesmo desempenho.",
+    "src": "892b0b13",
+    "status": "draft"
+  },
+  "why.paragraphs.1": {
+    "en": "A [Ferrari effect](term:ferrari-effect): swap every car in a traffic jam for a Ferrari and the jam stays. Fix the road first.",
+    "text": "Um [Ferrari effect](term:ferrari-effect): troque todos os carros de um engarrafamento por Ferraris e o engarrafamento continua. Conserte primeiro a estrada.",
+    "src": "d50f8ea0",
+    "status": "draft"
+  },
+  "why.paragraphs.2": {
+    "en": "**Org Topologies** helps fix the road**:** see your org design, choose what to optimize for, and change it step by step — so AI’s speed turns into business results and human intelligence shines.",
+    "text": "**Org Topologies** ajuda a consertar a estrada**:** veja o design da sua organização, escolha o que otimizar e mude passo a passo, para que a velocidade da IA vire resultado de negócio e a inteligência humana brilhe.",
+    "src": "b3e8f3b9",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "page.description": {
+    "en": "Every Org Topologies term in one place: the map, the four intelligences, topologies, MADE, Elevating Katas and AI, defined as in the book 10X ORG.",
+    "text": "Todos os termos da Org Topologies em um só lugar: o mapa, as quatro inteligências, topologias, MADE, Elevating Katas e IA, definidos como no livro 10X ORG.",
+    "src": "c745b22e",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Glossary: the Org Topologies vocabulary",
+    "text": "Glossário: o vocabulário da Org Topologies",
+    "src": "55c6d637",
+    "status": "draft"
+  },
+  "terms.heading": {
+    "en": "Terms",
+    "text": "Termos",
+    "src": "ede54899",
+    "status": "draft"
+  },
+  "terms.kicker": {
+    "en": "FROM THE BOOK 10X ORG",
+    "text": "DO LIVRO 10X ORG",
+    "src": "5b5e5353",
+    "status": "draft"
+  },
+  "terms.lead": {
+    "en": "Grouped as you meet them: the foundations, the map, the topologies, MADE, the nine principles, the katas and AI. Link to any term with its anchor.",
+    "text": "Agrupados na ordem em que você os encontra: os fundamentos, o mapa, as topologias, o MADE, os nove princípios, os katas e a IA. Linke qualquer termo pela sua âncora.",
+    "src": "618ae822",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "VOCABULARY",
+    "text": "VOCABULÁRIO",
+    "src": "a0278ccf",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "One shared language is half the work of org design. Every Org Topologies term, defined as in the book *10X ORG*.",
+    "text": "Uma linguagem compartilhada é metade do trabalho de design organizacional. Todos os termos da Org Topologies, definidos como no livro *10X ORG*.",
+    "src": "6432c87b",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Glossary.",
+    "text": "Glossário.",
+    "src": "5139d9c6",
+    "status": "draft"
+  }
+}

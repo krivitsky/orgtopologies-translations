@@ -1,0 +1,38 @@
+{
+  "Current state": {
+    "en": "Current state",
+    "text": "当前状态",
+    "src": "760732d8",
+    "status": "draft"
+  },
+  "Current state (FPED)": {
+    "en": "Current state (FPED)",
+    "text": "当前状态 (FPED)",
+    "src": "4c93f115",
+    "status": "draft"
+  },
+  "Drawn on the 2024.10 version of the grid": {
+    "en": "Drawn on the 2024.10 version of the grid",
+    "text": "按 2024.10 版网格绘制",
+    "src": "4f99a64f",
+    "status": "draft"
+  },
+  "Initial state": {
+    "en": "Initial state",
+    "text": "初始状态",
+    "src": "925750e6",
+    "status": "draft"
+  },
+  "Initial state (FPED)": {
+    "en": "Initial state (FPED)",
+    "text": "初始状态 (FPED)",
+    "src": "2ebec62a",
+    "status": "draft"
+  },
+  "Initial state in black, current state in blue": {
+    "en": "Initial state in black, current state in blue",
+    "text": "初始状态为黑色，当前状态为蓝色",
+    "src": "57da0e2e",
+    "status": "draft"
+  }
+}

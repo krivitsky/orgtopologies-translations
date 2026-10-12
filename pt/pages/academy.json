@@ -1,0 +1,74 @@
+{
+  "classes.eventsCaption": {
+    "en": "Core certification programs",
+    "text": "Programas principais de certificação",
+    "src": "04cbb1ef",
+    "status": "draft"
+  },
+  "classes.heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Aprenda a abordagem Org Topologies",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "classes.inHouse.body": {
+    "en": "Every class and program can run in-house, tailored to your needs.",
+    "text": "Toda turma e todo programa podem ser realizados in-house, sob medida para as suas necessidades.",
+    "src": "a8b1bd9d",
+    "status": "draft"
+  },
+  "classes.inHouse.cta.label": {
+    "en": "Email us →",
+    "text": "Escreva para nós →",
+    "src": "6601537f",
+    "status": "draft"
+  },
+  "classes.inHouse.heading": {
+    "en": "Book any program in-house",
+    "text": "Contrate qualquer programa in-house",
+    "src": "9d118ce8",
+    "status": "draft"
+  },
+  "classes.inHouse.kicker": {
+    "en": "IN-HOUSE",
+    "text": "IN-HOUSE",
+    "src": "ca23c49e",
+    "status": "draft"
+  },
+  "classes.kicker": {
+    "en": "CERTIFICATIONS AND DATES",
+    "text": "CERTIFICAÇÕES E DATAS",
+    "src": "b05203b1",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Certification classes in Org Topologies: Practitioner (C-OTP) and Consultant (C-OTC), live online and in person, with all upcoming dates.",
+    "text": "Turmas de certificação em Org Topologies: Practitioner (C-OTP) e Consultant (C-OTC), ao vivo online e presenciais, com todas as próximas datas.",
+    "src": "85f4325a",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Learn to see your organization as a system, map it, and redesign it for performance — with the creators of Org Topologies, live online and in person.",
+    "text": "Aprenda a ver sua organização como um sistema, mapeá-la e redesenhá-la para o desempenho — com os criadores da Org Topologies, ao vivo online e presencialmente.",
+    "src": "7f2bf5cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  }
+}

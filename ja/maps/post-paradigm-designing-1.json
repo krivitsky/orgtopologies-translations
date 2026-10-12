@@ -1,0 +1,98 @@
+{
+  "1. Central solution team": {
+    "en": "1. Central solution team",
+    "text": "1. 中央ソリューションチーム",
+    "src": "c8d7601c",
+    "status": "draft"
+  },
+  "2. Functional workstream": {
+    "en": "2. Functional workstream",
+    "text": "2. 機能別ワークストリーム",
+    "src": "1a6283cc",
+    "status": "draft"
+  },
+  "3. Expert consultants": {
+    "en": "3. Expert consultants",
+    "text": "3. 専門コンサルタント",
+    "src": "57125ab6",
+    "status": "draft"
+  },
+  "4. BPAs": {
+    "en": "4. BPAs",
+    "text": "4. BPA",
+    "src": "2a179475",
+    "status": "draft"
+  },
+  "5. DEVs": {
+    "en": "5. DEVs",
+    "text": "5. 開発者",
+    "src": "d9eb9787",
+    "status": "draft"
+  },
+  "Business owner": {
+    "en": "Business owner",
+    "text": "事業オーナー",
+    "src": "097f0bec",
+    "status": "draft"
+  },
+  "Design (between - R2)": {
+    "en": "Design (between - R2)",
+    "text": "Design（中間 - R2）",
+    "src": "a56812cf",
+    "status": "draft"
+  },
+  "Design (optimal)": {
+    "en": "Design (optimal)",
+    "text": "Design（最適）",
+    "src": "1d71f342",
+    "status": "draft"
+  },
+  "Map + Assess (Now)": {
+    "en": "Map + Assess (Now)",
+    "text": "Map + Assess（現在）",
+    "src": "2df4ee90",
+    "status": "draft"
+  },
+  "Ops?": {
+    "en": "Ops?",
+    "text": "運用？",
+    "src": "c417069e",
+    "status": "draft"
+  },
+  "PO?": {
+    "en": "PO?",
+    "text": "PO？",
+    "src": "e82a7c1a",
+    "status": "draft"
+  },
+  "Partial solution": {
+    "en": "Partial solution",
+    "text": "部分ソリューション",
+    "src": "e1e063e4",
+    "status": "draft"
+  },
+  "Partial solution - cp": {
+    "en": "Partial solution - cp",
+    "text": "部分ソリューション - cp",
+    "src": "c5e69ed5",
+    "status": "draft"
+  },
+  "Partial solution - mp": {
+    "en": "Partial solution - mp",
+    "text": "部分ソリューション - mp",
+    "src": "8f20eb41",
+    "status": "draft"
+  },
+  "Team - Partial solution - DP": {
+    "en": "Team - Partial solution - DP",
+    "text": "チーム - 部分ソリューション - DP",
+    "src": "bbd4e42e",
+    "status": "draft"
+  },
+  "Team - partial solution": {
+    "en": "Team - partial solution",
+    "text": "チーム - 部分ソリューション",
+    "src": "2bada44d",
+    "status": "draft"
+  }
+}

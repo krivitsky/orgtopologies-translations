@@ -1,0 +1,98 @@
+{
+  "CE": {
+    "en": "CE",
+    "text": "CE",
+    "src": "d68956cd",
+    "status": "draft"
+  },
+  "Chat": {
+    "en": "Chat",
+    "text": "チャット",
+    "src": "460b3a7d",
+    "status": "draft"
+  },
+  "FloHealth operating model": {
+    "en": "FloHealth operating model",
+    "text": "FloHealthのオペレーティングモデル",
+    "src": "7a359ac2",
+    "status": "draft"
+  },
+  "GM": {
+    "en": "GM",
+    "text": "GM",
+    "src": "b3910ba4",
+    "status": "draft"
+  },
+  "HM": {
+    "en": "HM",
+    "text": "HM",
+    "src": "58462b59",
+    "status": "draft"
+  },
+  "MON": {
+    "en": "MON",
+    "text": "MON",
+    "src": "2b76b5a3",
+    "status": "draft"
+  },
+  "Med Adv": {
+    "en": "Med Adv",
+    "text": "医療アドバイザー",
+    "src": "3f866d70",
+    "status": "draft"
+  },
+  "ONB": {
+    "en": "ONB",
+    "text": "ONB",
+    "src": "0bc59d28",
+    "status": "draft"
+  },
+  "PA": {
+    "en": "PA",
+    "text": "PA",
+    "src": "86a7f47b",
+    "status": "draft"
+  },
+  "PD": {
+    "en": "PD",
+    "text": "PD",
+    "src": "17f7eeaf",
+    "status": "draft"
+  },
+  "PM": {
+    "en": "PM",
+    "text": "PM",
+    "src": "6b987654",
+    "status": "draft"
+  },
+  "SE": {
+    "en": "SE",
+    "text": "SE",
+    "src": "f031b70a",
+    "status": "draft"
+  },
+  "Tr": {
+    "en": "Tr",
+    "text": "Tr",
+    "src": "924e2294",
+    "status": "draft"
+  },
+  "UA": {
+    "en": "UA",
+    "text": "UA",
+    "src": "1cf587e0",
+    "status": "draft"
+  },
+  "UXR": {
+    "en": "UXR",
+    "text": "UXR",
+    "src": "e68c9777",
+    "status": "draft"
+  },
+  "With the GM": {
+    "en": "With the GM",
+    "text": "GMあり",
+    "src": "229843bb",
+    "status": "draft"
+  }
+}

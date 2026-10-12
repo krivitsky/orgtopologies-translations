@@ -1,0 +1,386 @@
+{
+  "aiden.goDeeper.body": {
+    "en": "Aiden, the 10X ORG expert GPT, knows the [Katalog](term:katalog) and the book. Describe the constraint you face and ask which kata to start with, then design it as a safe-to-try experiment. Try: *“It is unclear to me yet what an elevating kata looks like in practice. Give me examples.”* or *“How do I reduce dependencies and increase adaptability in my org?”*",
+    "text": "O Aiden, o GPT especialista em 10X ORG, conhece o [Katalog](term:katalog) e o livro. Descreva a restrição que você enfrenta e pergunte com qual kata começar; depois desenhe-o como um experimento seguro de testar. Experimente: *“Ainda não está claro para mim como é um elevating kata na prática. Dê-me exemplos.”* ou *“Como reduzo dependências e aumento a adaptabilidade na minha organização?”*",
+    "src": "4218f082",
+    "status": "draft"
+  },
+  "aiden.goDeeper.cta.label": {
+    "en": "Ask Aiden →",
+    "text": "Pergunte ao Aiden →",
+    "src": "6bf39853",
+    "status": "draft"
+  },
+  "aiden.goDeeper.kicker": {
+    "en": "ASK AIDEN",
+    "text": "PERGUNTE AO AIDEN",
+    "src": "e06d5596",
+    "status": "draft"
+  },
+  "aiden.goDeeper.title": {
+    "en": "Learn how to apply the katas with Aiden",
+    "text": "Aprenda a aplicar os katas com o Aiden",
+    "src": "9fcd9924",
+    "status": "draft"
+  },
+  "book.cover.alt": {
+    "en": "10X ORG book cover",
+    "text": "Capa do livro 10X ORG",
+    "src": "e5243dbf",
+    "status": "draft"
+  },
+  "book.cta.label": {
+    "en": "Get the book →",
+    "text": "Pegue o livro →",
+    "src": "3b4eb7f8",
+    "status": "draft"
+  },
+  "book.heading": {
+    "en": "See the katas at work in 10X ORG",
+    "text": "Veja os katas em ação no 10X ORG",
+    "src": "7f37ea99",
+    "status": "draft"
+  },
+  "book.kicker": {
+    "en": "FROM 10X ORG",
+    "text": "DO 10X ORG",
+    "src": "562aad8f",
+    "status": "draft"
+  },
+  "book.lead": {
+    "en": "*10X ORG* lists every Elevating Kata. The chapters show them at work: the Elevate step of the [MADE](term:made) method, tailwind career paths, multi-team line management and [Obeya](term:obeya).",
+    "text": "O *10X ORG* lista todos os Elevating Katas. Os capítulos os mostram em ação: o passo Elevate do método [MADE](term:made), trajetórias de carreira a favor do vento, gestão de linha multiequipe e [Obeya](term:obeya).",
+    "src": "088a6122",
+    "status": "draft"
+  },
+  "case-studies._nav": {
+    "en": "Selected Case Studies",
+    "text": "Casos selecionados",
+    "src": "4c493073",
+    "status": "draft"
+  },
+  "case-studies.heading": {
+    "en": "Selected Case Studies Rich with Katas",
+    "text": "Casos selecionados ricos em katas",
+    "src": "74d44969",
+    "status": "draft"
+  },
+  "elevation._nav": {
+    "en": "Elevation",
+    "text": "Elevação",
+    "src": "8a7d4c8e",
+    "status": "draft"
+  },
+  "elevation.figure.alt": {
+    "en": "Elevating Katas: a big arrow lifts a web of narrow, dependent units in the bottom left toward a team of teams in the top right, labelled Elevate to Adaptive Topology",
+    "text": "Elevating Katas: uma grande seta ergue uma rede de unidades estreitas e dependentes, embaixo à esquerda, rumo a uma equipe de equipes, no alto à direita, com a legenda Elevate to Adaptive Topology",
+    "src": "6b4a4945",
+    "status": "draft"
+  },
+  "elevation.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILUSTRAÇÃO · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "elevation.heading": {
+    "en": "Elevate toward the top right of the map",
+    "text": "Elevate rumo ao canto superior direito do mapa",
+    "src": "e373f31d",
+    "status": "draft"
+  },
+  "elevation.items.0.text": {
+    "en": "The katas are not meant to be applied top-to-bottom. They form a menu of deliberate moves. The right starting point depends on where an organization’s constraints sit on the map.",
+    "text": "Os katas não devem ser aplicados de cima para baixo. Eles formam um menu de movimentos deliberados. O ponto de partida certo depende de onde ficam, no mapa, as restrições da organização.",
+    "src": "27f726e6",
+    "status": "draft"
+  },
+  "elevation.items.0.title": {
+    "en": "A menu, not a sequence",
+    "text": "Um menu, não uma sequência",
+    "src": "6a32bd6c",
+    "status": "draft"
+  },
+  "elevation.items.1.text": {
+    "en": "Organizations typically begin with a few katas that match their most pressing design challenges, then expand or shift their use as learning accumulates.",
+    "text": "As organizações costumam começar com alguns katas que respondem aos desafios de design mais urgentes e depois ampliam ou mudam seu uso conforme o aprendizado se acumula.",
+    "src": "2f2d889e",
+    "status": "draft"
+  },
+  "elevation.items.1.title": {
+    "en": "Start small, then expand",
+    "text": "Comece pequeno e depois expanda",
+    "src": "6f309ed5",
+    "status": "draft"
+  },
+  "elevation.items.2.text": {
+    "en": "In service organizations, “product” maps to a service offering, customer journey, case type or operational capability. Backlogs become service queues; reviews become service inspections.",
+    "text": "Em organizações de serviços, “produto” corresponde a uma oferta de serviço, jornada do cliente, tipo de caso ou capacidade operacional. Backlogs viram filas de serviço; reviews viram inspeções de serviço.",
+    "src": "b57147c9",
+    "status": "draft"
+  },
+  "elevation.items.2.title": {
+    "en": "Not only for software",
+    "text": "Não só para software",
+    "src": "98e6fcd9",
+    "status": "draft"
+  },
+  "elevation.kicker": {
+    "en": "THE ELEVATION JOURNEY",
+    "text": "A JORNADA DE ELEVAÇÃO",
+    "src": "8a480ca5",
+    "status": "draft"
+  },
+  "elevation.lead": {
+    "en": "Elevating is a deliberate move right and up on the [Org Topologies map](term:org-topologies-map): broader skills and broader work mandates, from delivering outputs to delivering outcomes.",
+    "text": "Elevate (elevar) é um movimento deliberado para a direita e para cima no [mapa Org Topologies](term:org-topologies-map): habilidades mais amplas e mandatos de trabalho mais amplos, de entregar outputs a entregar outcomes.",
+    "src": "2b3c61b1",
+    "status": "draft"
+  },
+  "in-cases._nav": {
+    "en": "Katas in Case Studies",
+    "text": "Katas nos casos",
+    "src": "e47045cf",
+    "status": "draft"
+  },
+  "in-cases.heading": {
+    "en": "Katas in case studies",
+    "text": "Katas nos casos",
+    "src": "abea71e7",
+    "status": "draft"
+  },
+  "in-cases.kicker": {
+    "en": "FROM THE COMMUNITY",
+    "text": "DA COMUNIDADE",
+    "src": "53ba7088",
+    "status": "draft"
+  },
+  "in-cases.lead": {
+    "en": "Every published case study, read for the katas it describes. A filled dot means the organization applied the kata; a ring means it was proposed or planned. Hover a dot to see how it showed up, or click a code to read the kata.",
+    "text": "Todos os casos publicados, lidos à procura dos katas que descrevem. Um ponto cheio significa que a organização aplicou o kata; um círculo vazio, que ele foi proposto ou planejado. Passe o mouse sobre um ponto para ver como ele apareceu, ou clique em um código para ler o kata.",
+    "src": "5eedceae",
+    "status": "draft"
+  },
+  "katalog._nav": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "katalog.casesLabel": {
+    "en": "{n} cases",
+    "text": "{n} casos",
+    "src": "9b4d29bd",
+    "status": "draft"
+  },
+  "katalog.explanation.paragraphs.0": {
+    "en": "Jay Galbraith’s Star Model™ teaches that an organization is not just its org chart or the sum of its policies, but **a system of interconnected design choices** that must be made deliberately and kept in sync.",
+    "text": "O Star Model™ de Jay Galbraith ensina que uma organização não é só o seu organograma nem a soma de suas políticas, mas **um sistema de escolhas de design interconectadas**, que precisam ser feitas de propósito e mantidas em sincronia.",
+    "src": "4d9c4bf1",
+    "status": "draft"
+  },
+  "katalog.explanation.paragraphs.1": {
+    "en": "Five elements make up the star: the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they are aligned and reinforce one another, performance becomes more reliable and less accidental.",
+    "text": "Cinco elementos formam a estrela: os **critérios de design organizacional** derivados da estratégia, a **estrutura**, os **processos**, as **recompensas** e as **pessoas**. Quando estão alinhados e se reforçam, o desempenho se torna mais confiável e menos acidental.",
+    "src": "12ff4051",
+    "status": "draft"
+  },
+  "katalog.explanation.paragraphs.2": {
+    "en": "Change only one and the others pull back. A company that adopts Scrum as a process add-on, while hiring, rewards and structure stay as they were, gets the predictable result: “Agile is dead.” The katas work on all five elements, so change becomes systemic.",
+    "text": "Mude só um e os outros puxam de volta. Uma empresa que adota o Scrum como um complemento de processo, enquanto contratação, recompensas e estrutura continuam como estavam, obtém o resultado previsível: “o Agile morreu”. Os katas atuam nos cinco elementos, e assim a mudança se torna sistêmica.",
+    "src": "93a9b7c2",
+    "status": "draft"
+  },
+  "katalog.explanation.quote.source": {
+    "en": "Jay R. Galbraith, quoted in 10X ORG",
+    "text": "Jay R. Galbraith, citado no 10X ORG",
+    "src": "6fcc3ace",
+    "status": "draft"
+  },
+  "katalog.explanation.quote.text": {
+    "en": "People behave according to how they are measured, organized, and rewarded.",
+    "text": "As pessoas se comportam conforme são medidas, organizadas e recompensadas.",
+    "src": "92208ac6",
+    "status": "draft"
+  },
+  "katalog.figure.alt": {
+    "en": "Jay Galbraith’s Star Model™: Org Design Criteria at the top, with Structure, Processes, Rewards and People around a five-pointed star",
+    "text": "Star Model™ de Jay Galbraith: Critérios de Design Organizacional no alto, com Estrutura, Processos, Recompensas e Pessoas em torno de uma estrela de cinco pontas",
+    "src": "0f01db9d",
+    "status": "draft"
+  },
+  "katalog.figure.credit": {
+    "en": "STAR MODEL™, JAY R. GALBRAITH · PUBLISHED WITH PERMISSION OF SASHA GALBRAITH OF GALBRAITH MANAGEMENT CONSULTANTS, LLC",
+    "text": "STAR MODEL™, JAY R. GALBRAITH · PUBLICADO COM PERMISSÃO DE SASHA GALBRAITH, DA GALBRAITH MANAGEMENT CONSULTANTS, LLC",
+    "src": "0083ba9a",
+    "status": "draft"
+  },
+  "katalog.heading": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "katalog.kicker": {
+    "en": "Katas on the Star Model",
+    "text": "Katas no Star Model",
+    "src": "9029095f",
+    "status": "draft"
+  },
+  "katalog.lead": {
+    "en": "[Katalog](term:katalog) groups the katas by the five elements of org design in Jay Galbraith’s Star Model™. Change one element and the others must follow. Every kata links to its description and to the case studies that apply it.",
+    "text": "O [Katalog](term:katalog) agrupa os katas pelos cinco elementos do design organizacional no Star Model™ de Jay Galbraith. Mude um elemento e os outros precisam acompanhar. Cada kata leva à sua descrição e aos casos que o aplicam.",
+    "src": "8c09180c",
+    "status": "draft"
+  },
+  "katalog.source": {
+    "en": "Element definitions are quoted from 10X ORG, which also lists the full Katalog.",
+    "text": "As definições dos elementos são citadas do 10X ORG, que também traz o Katalog completo.",
+    "src": "49411f50",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Elevating Katas are repeatable routines that turn org design intent into lived behavior, grouped by the Star Model and shown in real case studies.",
+    "text": "Os Elevating Katas são rotinas repetíveis que transformam a intenção de design organizacional em comportamento vivido, agrupadas pelo Star Model e mostradas em casos reais.",
+    "src": "df3451e7",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "systemic.heading": {
+    "en": "Five ways katas move the whole system",
+    "text": "Cinco maneiras de os katas mexerem no sistema inteiro",
+    "src": "c5bd54c3",
+    "status": "draft"
+  },
+  "systemic.items.0.label": {
+    "en": "Whole system",
+    "text": "Sistema inteiro",
+    "src": "ef253ee1",
+    "status": "draft"
+  },
+  "systemic.items.0.lines.0": {
+    "en": "A kata never tweaks one element in isolation: it touches governance, roles, events, practices and artifacts together, as the [Star Model](term:star-model) asks.",
+    "text": "Um kata nunca ajusta um elemento isolado: ele toca governança, papéis, eventos, práticas e artefatos ao mesmo tempo, como pede o [Star Model](term:star-model).",
+    "src": "1a75fa40",
+    "status": "draft"
+  },
+  "systemic.items.1.label": {
+    "en": "Strategy",
+    "text": "Estratégia",
+    "src": "6b27710d",
+    "status": "draft"
+  },
+  "systemic.items.1.lines.0": {
+    "en": "Routines such as multi-team Product Backlog Refinement or vertical slicing bring the strategic goal into the daily work, so structure and process follow strategy.",
+    "text": "Rotinas como o refinamento multiequipe do Product Backlog ou o fatiamento vertical trazem o objetivo estratégico para o trabalho diário, de modo que estrutura e processo seguem a estratégia.",
+    "src": "f99a2c8a",
+    "status": "draft"
+  },
+  "systemic.items.2.label": {
+    "en": "People and roles",
+    "text": "Pessoas e papéis",
+    "src": "7c550b42",
+    "status": "draft"
+  },
+  "systemic.items.2.lines.0": {
+    "en": "Katas like *Elevate Product Ownership* stretch roles beyond their old definitions; repeated practice grows the skills the new design needs.",
+    "text": "Katas como *Elevate Product Ownership* levam os papéis além de suas antigas definições; a prática repetida desenvolve as habilidades de que o novo desenho precisa.",
+    "src": "b4d56a5a",
+    "status": "draft"
+  },
+  "systemic.items.3.label": {
+    "en": "Behavior and culture",
+    "text": "Comportamento e cultura",
+    "src": "74913b2c",
+    "status": "draft"
+  },
+  "systemic.items.3.lines.0": {
+    "en": "Culture programs fail on abstract values. Katas change the working pattern itself, and the desired behavior (collaboration, customer focus, learning) comes with it.",
+    "text": "Programas de cultura fracassam com valores abstratos. Os katas mudam o próprio padrão de trabalho, e o comportamento desejado (colaboração, foco no cliente, aprendizado) vem junto.",
+    "src": "590a25ce",
+    "status": "draft"
+  },
+  "systemic.items.4.label": {
+    "en": "Rewards",
+    "text": "Recompensas",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "systemic.items.4.lines.0": {
+    "en": "Because a kata repeats, it closes its own feedback loop: faster cycle times, better product fit and more engaged teams reward the new habit.",
+    "text": "Como um kata se repete, ele fecha o próprio ciclo de feedback: ciclos mais curtos, melhor adequação ao produto e equipes mais engajadas recompensam o novo hábito.",
+    "src": "8b8d4594",
+    "status": "draft"
+  },
+  "systemic.kicker": {
+    "en": "KEEPING KATAS SYSTEMIC",
+    "text": "MANTENDO OS KATAS SISTÊMICOS",
+    "src": "9e69759d",
+    "status": "draft"
+  },
+  "systemic.lead": {
+    "en": "Leaders don't need another transformation program. Choose a handful of katas and make sure they are practiced faithfully: as the routines become habits, agility and resilience grow, and the culture follows the work.",
+    "text": "Os líderes não precisam de mais um programa de transformação. Escolha alguns katas e garanta que sejam praticados com fidelidade: à medida que as rotinas viram hábito, agilidade e resiliência crescem, e a cultura acompanha o trabalho.",
+    "src": "aa448cf0",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "METHOD · FROM 10X ORG",
+    "text": "MÉTODO · DO 10X ORG",
+    "src": "d430b2ae",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Structured, repeatable improvement routines that turn organizational design intent into lived behavior.",
+    "text": "Rotinas de melhoria estruturadas e repetíveis que transformam a intenção de design organizacional em comportamento vivido.",
+    "src": "5008a904",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Elevating\nKatas.",
+    "text": "Elevating\nKatas.",
+    "src": "095d79f9",
+    "status": "draft"
+  },
+  "what.closer": {
+    "en": "[Elevating Katas](term:elevating-kata) are ==problem-driven, not methodology-driven.==",
+    "text": "Os [Elevating Katas](term:elevating-kata) são ==guiados por problemas, não por metodologias.==",
+    "src": "a243bad4",
+    "status": "draft"
+  },
+  "what.heading": {
+    "en": "A practiced sequence, not a one-off transformation",
+    "text": "Uma sequência praticada, não uma transformação pontual",
+    "src": "a92767ba",
+    "status": "draft"
+  },
+  "what.kicker": {
+    "en": "KATAS AS A TERM",
+    "text": "KATAS COMO CONCEITO",
+    "src": "76bb928f",
+    "status": "draft"
+  },
+  "what.paragraphs.0": {
+    "en": "The term **kata** comes from martial arts, where it describes a practiced sequence used to build skill and judgment through repetition. In management it was popularized through Toyota: a studied, repeatable pattern for disciplined improvement.",
+    "text": "O termo **kata** vem das artes marciais, onde descreve uma sequência praticada para desenvolver habilidade e discernimento por meio da repetição. Na gestão, ele foi popularizado pela Toyota: um padrão estudado e repetível de melhoria disciplinada.",
+    "src": "e9070d50",
+    "status": "draft"
+  },
+  "what.paragraphs.1": {
+    "en": "The [10X Org](term:10x-org) principles set direction. The katas make that direction actionable. They are applied in the **Elevate** step of the [MADE](term:made) method, where insights from mapping, assessment and design turn into concrete change.",
+    "text": "Os princípios do [10X Org](term:10x-org) definem a direção. Os katas tornam essa direção executável. Eles são aplicados no passo **Elevate** do método [MADE](term:made), em que os insights do mapeamento, da avaliação e do design viram mudança concreta.",
+    "src": "bbc5f4c7",
+    "status": "draft"
+  },
+  "what.paragraphs.2": {
+    "en": "Each kata targets a concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance, and tests whether expanding [mandates](term:mandate) or reducing friction moves the system closer to the intended elevated state.",
+    "text": "Cada kata ataca uma restrição concreta, como fronteiras de equipe, direitos de decisão, interfaces, políticas ou governança, e testa se ampliar os [mandatos](term:mandate) ou reduzir o atrito aproxima o sistema do estado elevado pretendido.",
+    "src": "38f07d8d",
+    "status": "draft"
+  }
+}

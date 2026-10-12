@@ -1,0 +1,44 @@
+{
+  "Current state": {
+    "en": "Current state",
+    "text": "Aktueller Stand",
+    "src": "760732d8",
+    "status": "draft"
+  },
+  "Future state": {
+    "en": "Future state",
+    "text": "Zielbild",
+    "src": "1f770675",
+    "status": "draft"
+  },
+  "Stacy": {
+    "en": "Stacy",
+    "text": "Stacy",
+    "src": "68c48949",
+    "status": "draft"
+  },
+  "UAT": {
+    "en": "UAT",
+    "text": "UAT",
+    "src": "72c048cb",
+    "status": "draft"
+  },
+  "implem": {
+    "en": "implem",
+    "text": "Umsetzung",
+    "src": "55984b75",
+    "status": "draft"
+  },
+  "release": {
+    "en": "release",
+    "text": "Release",
+    "src": "a4d451ec",
+    "status": "draft"
+  },
+  "team of teams": {
+    "en": "team of teams",
+    "text": "Team of Teams",
+    "src": "c050d25b",
+    "status": "draft"
+  }
+}

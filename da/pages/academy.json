@@ -1,0 +1,74 @@
+{
+  "classes.eventsCaption": {
+    "en": "Core certification programs",
+    "text": "Certificeringsprogrammer",
+    "src": "04cbb1ef",
+    "status": "draft"
+  },
+  "classes.heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Lær Org Topologies-tilgangen",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "classes.inHouse.body": {
+    "en": "Every class and program can run in-house, tailored to your needs.",
+    "text": "Alle forløb og programmer kan afholdes internt hos jer, skræddersyet til jeres behov.",
+    "src": "a8b1bd9d",
+    "status": "draft"
+  },
+  "classes.inHouse.cta.label": {
+    "en": "Email us →",
+    "text": "Skriv til os →",
+    "src": "6601537f",
+    "status": "draft"
+  },
+  "classes.inHouse.heading": {
+    "en": "Book any program in-house",
+    "text": "Book ethvert program internt",
+    "src": "9d118ce8",
+    "status": "draft"
+  },
+  "classes.inHouse.kicker": {
+    "en": "IN-HOUSE",
+    "text": "INTERNT",
+    "src": "ca23c49e",
+    "status": "draft"
+  },
+  "classes.kicker": {
+    "en": "CERTIFICATIONS AND DATES",
+    "text": "CERTIFICERINGER OG DATOER",
+    "src": "b05203b1",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Certification classes in Org Topologies: Practitioner (C-OTP) and Consultant (C-OTC), live online and in person, with all upcoming dates.",
+    "text": "Certificeringsforløb i Org Topologies: Practitioner (C-OTP) og Consultant (C-OTC), live online og på stedet, med alle kommende datoer.",
+    "src": "85f4325a",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Learn to see your organization as a system, map it, and redesign it for performance — with the creators of Org Topologies, live online and in person.",
+    "text": "Lær at se din organisation som et system, mappe den og redesigne den til ydeevne — sammen med skaberne af Org Topologies, live online og på stedet.",
+    "src": "7f2bf5cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  }
+}

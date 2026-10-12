@@ -1,0 +1,212 @@
+{
+  "compare.note": {
+    "en": "Lead with the 2×2. Reach for a specific [archetype](term:archetype) name when it genuinely sharpens the point — or when someone asks.",
+    "text": "先从 2×2 讲起。只有当特定的[原型](term:archetype)名称确实能让观点更清晰，或有人问起时，再使用它。",
+    "src": "d7b5ed2c",
+    "status": "draft"
+  },
+  "compare.options.0.label": {
+    "en": "THE 2×2 · THE BOOK'S MAP",
+    "text": "2×2 · 书中的地图",
+    "src": "9b5b66e1",
+    "status": "draft"
+  },
+  "compare.options.0.points.0": {
+    "en": "Explaining Org Topologies: the two mandates, the four intelligences and the three topologies.",
+    "text": "讲解 Org Topologies：两种授权、四种智能和三种拓扑。",
+    "src": "6983d290",
+    "status": "draft"
+  },
+  "compare.options.0.points.1": {
+    "en": "Conversations with leaders about what the organization is designed for — and whether that fits the strategy.",
+    "text": "与领导者讨论组织为何而设计，以及这是否契合战略。",
+    "src": "a2f13e07",
+    "status": "draft"
+  },
+  "compare.options.0.points.2": {
+    "en": "Comparing topologies and choosing an org goal.",
+    "text": "比较各种拓扑，选择组织目标。",
+    "src": "b7e70f5d",
+    "status": "draft"
+  },
+  "compare.options.0.title": {
+    "en": "To explain and decide",
+    "text": "用于说明和决策",
+    "src": "ce0d3415",
+    "status": "draft"
+  },
+  "compare.options.1.label": {
+    "en": "THE 4×4 · DETAILED MAPPING",
+    "text": "4×4 · 详细地图",
+    "src": "3efa166b",
+    "status": "draft"
+  },
+  "compare.options.1.points.0": {
+    "en": "Placing every unit precisely — functional, multi-skill, end-to-end or expanding; tasks up to whole solution.",
+    "text": "精确安放每个单元：职能型、多技能、端到端或拓展型；从任务直到整体解决方案。",
+    "src": "a596a6fe",
+    "status": "draft"
+  },
+  "compare.options.1.points.1": {
+    "en": "Seeing small differences that matter, such as a multi-skill team that is still incomplete (CAPS-2) versus an end-to-end one (CAPS-3).",
+    "text": "看出重要的细微差别，例如仍不完整的多技能团队（CAPS-2）与端到端团队（CAPS-3）。",
+    "src": "e388b392",
+    "status": "draft"
+  },
+  "compare.options.1.points.2": {
+    "en": "Naming the current and target ecosystem in a shared, framework-free language.",
+    "text": "用一种共享的、不依附于任何框架的语言来命名当前与目标生态系统。",
+    "src": "4a45321a",
+    "status": "draft"
+  },
+  "compare.options.1.title": {
+    "en": "To map units in detail",
+    "text": "用于详细绘制单元",
+    "src": "357a9cba",
+    "status": "draft"
+  },
+  "compare.title": {
+    "en": "2×2 or 4×4?",
+    "text": "2×2 还是 4×4？",
+    "src": "a7d048f1",
+    "status": "draft"
+  },
+  "example.ecosystems.0.label": {
+    "en": "ECOSYSTEM 1 · TODAY",
+    "text": "生态系统 1 · 现状",
+    "src": "95d48acd",
+    "status": "draft"
+  },
+  "example.ecosystems.0.text": {
+    "en": "Most of the teams are CAPS-2: multi-skilled, yet incomplete, lacking certain capabilities. Functional TASKS-1 specialists support them. That creates dependencies, which CAPS-1 and PART-1 groups manage.",
+    "text": "大多数团队是 CAPS-2：多技能，但不完整，缺少某些能力。职能型的 TASKS-1 专家为它们提供支持。这就产生了依赖，由 CAPS-1 和 PART-1 小组来管理。",
+    "src": "a312c977",
+    "status": "draft"
+  },
+  "example.ecosystems.1.label": {
+    "en": "ECOSYSTEM 2 · IMPROVED",
+    "text": "生态系统 2 · 改进后",
+    "src": "c70f636a",
+    "status": "draft"
+  },
+  "example.ecosystems.1.text": {
+    "en": "The specialists join the teams, so most teams become CAPS-3: end-to-end, with every skill needed to deliver a whole capability. One team grows into CAPS-4 and learns new skills when the work asks for them. With far fewer dependencies, the CAPS-1 coordination group is no longer needed; a PART-1 group still sets the direction. Together that is a Delivery Topology.",
+    "text": "专家加入团队，于是大多数团队成为 CAPS-3：端到端，具备交付一整项能力所需的全部技能。有一个团队成长为 CAPS-4，在工作需要时学习新技能。依赖大幅减少，不再需要 CAPS-1 协调小组；仍由一个 PART-1 小组设定方向。合在一起，就是 Delivery Topology。",
+    "src": "0ea2d37d",
+    "status": "draft"
+  },
+  "example.source": {
+    "en": "Mapping Language",
+    "text": "地图语言",
+    "src": "27dd0b55",
+    "status": "draft"
+  },
+  "example.title": {
+    "en": "Ecosystem Mapping",
+    "text": "生态系统地图",
+    "src": "65762817",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Sixteen archetypes, one language",
+    "text": "十六个原型，一种语言",
+    "src": "0dd39dbc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "DETAILED MAPPING · THE 4×4",
+    "text": "详细地图 · 4×4",
+    "src": "caf62f8f",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "The 2×2 shows the four intelligences. For detailed mapping of org units there is a [4×4](term:4x4-map) version: four levels on each axis and **16 archetypes** — common patterns of how a unit is structured and operates, each with a short name.",
+    "text": "2×2 展示四种智能。要对组织单元做详细的地图绘制，有 [4×4 地图](term:4x4-map)版本：每条轴四个层级，共 **16 个原型**，即单元如何构成和运作的常见模式，每个都有一个简短的名称。",
+    "src": "efd78a26",
+    "status": "draft"
+  },
+  "levels.0.items.0": {
+    "en": "**Functional** — specialists in one functional area, e.g. a movie costume department.",
+    "text": "**职能型**：某一职能领域的专家，例如电影的服装部门。",
+    "src": "cb89ab6e",
+    "status": "draft"
+  },
+  "levels.0.items.1": {
+    "en": "**Multi-skill** — cross-functional but still incomplete, e.g. a surgical team relying on post-op care.",
+    "text": "**多技能**：跨职能但仍不完整，例如依赖术后护理的外科团队。",
+    "src": "fa538234",
+    "status": "draft"
+  },
+  "levels.0.items.2": {
+    "en": "**End-to-end** — everything needed to deliver complete value, e.g. a software feature team.",
+    "text": "**端到端**：具备交付完整价值所需的一切，例如软件特性团队。",
+    "src": "93d41d0f",
+    "status": "draft"
+  },
+  "levels.0.items.3": {
+    "en": "**Expanding** — end-to-end, with the mandate to acquire new skills when needed, e.g. a special-forces team.",
+    "text": "**拓展型**：端到端，并有权在需要时获取新技能，例如特种部队小队。",
+    "src": "1780d39b",
+    "status": "draft"
+  },
+  "levels.0.title": {
+    "en": "Scope of skills mandate →",
+    "text": "技能授权范围 →",
+    "src": "a1251831",
+    "status": "draft"
+  },
+  "levels.1.items.0": {
+    "en": "**Tasks** — fine-grained tasks matching one expertise, e.g. a sous-chef preparing ingredients.",
+    "text": "**任务**：与某一项专长匹配的细粒度任务，例如备料的副厨师长。",
+    "src": "3d0696c2",
+    "status": "draft"
+  },
+  "levels.1.items.1": {
+    "en": "**Capabilities** — a full capability (feature, function, service element), e.g. a claims-processing group.",
+    "text": "**能力**：一整项能力（特性、职能、服务环节），例如理赔处理小组。",
+    "src": "c964f695",
+    "status": "draft"
+  },
+  "levels.1.items.2": {
+    "en": "**Partial solution** — one business vertical, e.g. Uber Ride versus Uber Eats.",
+    "text": "**部分解决方案**：一个业务垂直领域，例如 Uber Ride 与 Uber Eats。",
+    "src": "88c7a40f",
+    "status": "draft"
+  },
+  "levels.1.items.3": {
+    "en": "**Whole solution** — holistic problems and customer value, with no permanent separation inside the unit, e.g. a two-person Instagram-like startup.",
+    "text": "**整体解决方案**：整体性的问题和客户价值，单元内部没有永久的分隔，例如类似 Instagram 的两人创业公司。",
+    "src": "6d9c4c38",
+    "status": "draft"
+  },
+  "levels.1.title": {
+    "en": "Scope of work mandate ↑",
+    "text": "工作授权范围 ↑",
+    "src": "f968973e",
+    "status": "draft"
+  },
+  "naming.text": {
+    "en": "The **prefix** names the work-mandate row (TASKS, CAPS, PART, WHOLE); the **digit** names the skills-mandate column, counting from the left. So CAPS-3 reads “end-to-end @ capability” — a complete unit, output-oriented, in the Delivering group.",
+    "text": "**前缀**表示工作授权所在的行（TASKS、CAPS、PART、WHOLE）；**数字**表示技能授权所在的列，从左数起。因此 CAPS-3 读作“端到端 @ 能力”：一个完整单元，面向产出，属于 Delivering 一组。",
+    "src": "45341f16",
+    "status": "draft"
+  },
+  "naming.title": {
+    "en": "How the names work",
+    "text": "名称如何构成",
+    "src": "e66cf906",
+    "status": "draft"
+  },
+  "note.text": {
+    "en": "A simple notation and a few sentences describe a whole ecosystem, so it can be grasped as a whole, its challenges recognized, and a conversation about improving it can begin. Not team by team: improvements at the team level rarely stick. The units of an ecosystem depend on each other, so they have to be improved together, as one system.",
+    "text": "一套简单的记法和几句话，就能描述整个生态系统，让人从整体上把握它、认清它的挑战，并展开如何改进的对话。不是逐个团队地做：团队层面的改进很少能持久。生态系统中的各个单元相互依赖，所以必须作为一个系统一起改进。",
+    "src": "14b21968",
+    "status": "draft"
+  },
+  "note.title": {
+    "en": "Mapping Benefits",
+    "text": "地图的好处",
+    "src": "45bc3e8e",
+    "status": "draft"
+  }
+}

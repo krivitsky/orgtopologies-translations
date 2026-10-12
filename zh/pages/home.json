@@ -1,0 +1,236 @@
+{
+  "craig.heading": {
+    "en": "Craig Larman on 10X ORG",
+    "text": "Craig Larman 谈 10X ORG",
+    "src": "ad704c84",
+    "status": "draft"
+  },
+  "craig.kicker": {
+    "en": "WHY THIS BOOK",
+    "text": "为什么读这本书",
+    "src": "8ec207f6",
+    "status": "draft"
+  },
+  "craig.paragraphs.0": {
+    "en": "Craig Larman, co-author of *10X ORG* and contributor to the Org Topologies model, on why he thinks this book matters.",
+    "text": "Craig Larman 是 *10X ORG* 的合著者，也是 Org Topologies 模型的贡献者，他在这里谈了为什么认为这本书很重要。",
+    "src": "74389678",
+    "status": "draft"
+  },
+  "craig.video.title": {
+    "en": "Craig Larman on 10X ORG",
+    "text": "Craig Larman 谈 10X ORG",
+    "src": "ad704c84",
+    "status": "draft"
+  },
+  "craig.video.youtube": {
+    "en": "6TRqhOHIxfU",
+    "text": "6TRqhOHIxfU",
+    "src": "5a5cc7e7",
+    "status": "draft"
+  },
+  "intelligences.goDeeper.body": {
+    "en": "Learn the language of org design and map your own organization: see where each unit sits, what it optimizes for and where work gets stuck. The 16 archetypes and free tools get you started today.",
+    "text": "学会组织设计的语言，绘制您自己的组织：看清每个单元位于何处、优化什么、工作卡在哪里。16 个原型和免费工具让您今天就能上手。",
+    "src": "7d69dff8",
+    "status": "draft"
+  },
+  "intelligences.goDeeper.cta.label": {
+    "en": "Learn to map →",
+    "text": "学习绘制地图 →",
+    "src": "fc958562",
+    "status": "draft"
+  },
+  "intelligences.goDeeper.title": {
+    "en": "Org Topologies mapping",
+    "text": "Org Topologies 地图绘制",
+    "src": "67c4bb59",
+    "status": "draft"
+  },
+  "intelligences.intro.kicker": {
+    "en": "AI-READY MAPPING",
+    "text": "面向 AI 的地图绘制",
+    "src": "4c07a578",
+    "status": "draft"
+  },
+  "intelligences.intro.text": {
+    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of mandates applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
+    "text": "工作由**智能主体**完成，即组织单元：个人、群体和 AI。同一张授权地图适用于所有这些主体，无论是人、智能体还是机器人。按它被允许学习和从事的内容来定位，而不是按头衔。",
+    "src": "4bf9d83d",
+    "status": "draft"
+  },
+  "latest.heading": {
+    "en": "New articles and talks",
+    "text": "新文章和演讲",
+    "src": "fec7de5f",
+    "status": "draft"
+  },
+  "latest.kicker": {
+    "en": "LATEST",
+    "text": "最新",
+    "src": "b336adc1",
+    "status": "draft"
+  },
+  "latest.links.0.label": {
+    "en": "All articles →",
+    "text": "全部文章 →",
+    "src": "a30b3c8f",
+    "status": "draft"
+  },
+  "latest.links.1.label": {
+    "en": "All videos →",
+    "text": "全部视频 →",
+    "src": "7d0421a8",
+    "status": "draft"
+  },
+  "map.academy.badges.0.alt": {
+    "en": "Certified Org Topologies Practitioner (C-OTP) badge",
+    "text": "Org Topologies 认证实践者（C-OTP）徽章",
+    "src": "f53ce26c",
+    "status": "draft"
+  },
+  "map.academy.badges.1.alt": {
+    "en": "Certified Org Topologies Consultant (C-OTC) badge",
+    "text": "Org Topologies 认证顾问（C-OTC）徽章",
+    "src": "6675cca6",
+    "status": "draft"
+  },
+  "map.academy.body": {
+    "en": "Practitioner ([C-OTP](term:c-otp)) and Consultant ([C-OTC](term:c-otc)) classes, live online and in person.",
+    "text": "实践者（[C-OTP](term:c-otp)）和顾问（[C-OTC](term:c-otc)）课程，线上直播与线下面授。",
+    "src": "b4e8ceff",
+    "status": "draft"
+  },
+  "map.academy.cta.label": {
+    "en": "Visit the Academy →",
+    "text": "访问学院 →",
+    "src": "2e415b5d",
+    "status": "draft"
+  },
+  "map.academy.heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "学习 Org Topologies 方法",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "map.academy.kicker": {
+    "en": "ACADEMY",
+    "text": "学院",
+    "src": "d34cba0c",
+    "status": "draft"
+  },
+  "map.heading": {
+    "en": "Org Topologies™",
+    "text": "Org Topologies™",
+    "src": "96d77511",
+    "status": "draft"
+  },
+  "map.hint": {
+    "en": "Click a step to pause on it",
+    "text": "点击一个步骤即可暂停",
+    "src": "3173b490",
+    "status": "draft"
+  },
+  "map.kicker": {
+    "en": "THE MAP, STEP BY STEP",
+    "text": "一步一步看地图",
+    "src": "582d66b4",
+    "status": "draft"
+  },
+  "map.more.label": {
+    "en": "How to map your org →",
+    "text": "如何绘制您的组织地图 →",
+    "src": "21b56978",
+    "status": "draft"
+  },
+  "map.pauseLabel": {
+    "en": "❚❚ Pause",
+    "text": "❚❚ 暂停",
+    "src": "ed1b842f",
+    "status": "draft"
+  },
+  "map.playLabel": {
+    "en": "▶ Play",
+    "text": "▶ 播放",
+    "src": "b3b60a22",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
+    "text": "Org Topologies 是现代组织设计的家园：一张共享地图、一套通用语言和一个学习回路，帮助组织适配目的，与人和 AI 一起取得成效。",
+    "src": "3324126d",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Org Topologies — the home of modern org design",
+    "text": "Org Topologies — 现代组织设计的家园",
+    "src": "a6a83b24",
+    "status": "draft"
+  },
+  "testimonials.lead": {
+    "en": "Leaders, coaches and consultants who mapped their organizations with Org Topologies.",
+    "text": "用 Org Topologies 绘制过自己组织的领导者、教练和顾问。",
+    "src": "bd581fac",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "STRATEGIC ORG DESIGN WITH PEOPLE AND AI",
+    "text": "与人和 AI 一起做战略性组织设计",
+    "src": "8cb1f3f1",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
+    "text": "Org Topologies 是一套战略性组织设计体系：一张共享地图、一套通用语言和[一个组织再设计的学习回路](term:made)，帮助领导者让组织[适配目的](term:fit-for-purpose)，与人和 AI 一起驱动绩效。",
+    "src": "89e05667",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Org design\ndrives performance.",
+    "text": "组织设计\n驱动绩效。",
+    "src": "5ced6dd5",
+    "status": "draft"
+  },
+  "why.closer": {
+    "en": "Shape your organization’s intelligence. ==10x the impact.==",
+    "text": "塑造组织的智能。==让影响力提升 10 倍。==",
+    "src": "a5802364",
+    "status": "draft"
+  },
+  "why.heading": {
+    "en": "The agentic age runs on ==org design==.",
+    "text": "智能体时代靠==组织设计==运转。",
+    "src": "6b094299",
+    "status": "draft"
+  },
+  "why.image.alt": {
+    "en": "Org Topologies logo: an arrow elevating from Delivering to Driving",
+    "text": "Org Topologies 标志：一支箭头从 Delivering 升向 Driving",
+    "src": "c14805fb",
+    "status": "draft"
+  },
+  "why.kicker": {
+    "en": "WHY ORG TOPOLOGIES",
+    "text": "为什么选择 ORG TOPOLOGIES",
+    "src": "bb87cdcc",
+    "status": "draft"
+  },
+  "why.paragraphs.0": {
+    "en": "Inside narrow [mandates](term:mandate), **AI speeds up each individual and team** while the system stays stuck — more motion, more output, same performance.",
+    "text": "在狭窄的[授权](term:mandate)之内，**AI 让每个人和每个团队都更快**，而系统依然卡住：动作更多，产出更多，绩效不变。",
+    "src": "892b0b13",
+    "status": "draft"
+  },
+  "why.paragraphs.1": {
+    "en": "A [Ferrari effect](term:ferrari-effect): swap every car in a traffic jam for a Ferrari and the jam stays. Fix the road first.",
+    "text": "这就是 [Ferrari effect](term:ferrari-effect)：把堵车队伍里的每辆车都换成法拉利，堵车照旧。先修路。",
+    "src": "d50f8ea0",
+    "status": "draft"
+  },
+  "why.paragraphs.2": {
+    "en": "**Org Topologies** helps fix the road**:** see your org design, choose what to optimize for, and change it step by step — so AI’s speed turns into business results and human intelligence shines.",
+    "text": "**Org Topologies** 帮您修路**：**看清您的组织设计，选择要优化的目标，一步一步改变它，让 AI 的速度转化为业务成果，让人的智慧大放异彩。",
+    "src": "b3e8f3b9",
+    "status": "draft"
+  }
+}

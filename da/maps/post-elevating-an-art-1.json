@@ -1,0 +1,68 @@
+{
+  "BO": {
+    "en": "BO",
+    "text": "BO",
+    "src": "84ed3cf3",
+    "status": "draft"
+  },
+  "Broaden Scope of Work": {
+    "en": "Broaden Scope of Work",
+    "text": "Udvid arbejdsområdet",
+    "src": "7e6984b1",
+    "status": "draft"
+  },
+  "Elevating an ART": {
+    "en": "Elevating an ART",
+    "text": "Elevate (løft) en ART",
+    "src": "4cb1f965",
+    "status": "draft"
+  },
+  "Improve Capabilities": {
+    "en": "Improve Capabilities",
+    "text": "Styrk evner",
+    "src": "f2fc4ff4",
+    "status": "draft"
+  },
+  "Improve capabilities, broaden the scope of work": {
+    "en": "Improve capabilities, broaden the scope of work",
+    "text": "Styrk evnerne, udvid arbejdsområdet",
+    "src": "ab394136",
+    "status": "draft"
+  },
+  "PM": {
+    "en": "PM",
+    "text": "PM",
+    "src": "6b987654",
+    "status": "draft"
+  },
+  "RTE": {
+    "en": "RTE",
+    "text": "RTE",
+    "src": "3daec95c",
+    "status": "draft"
+  },
+  "SA": {
+    "en": "SA",
+    "text": "SA",
+    "src": "360bf3a8",
+    "status": "draft"
+  },
+  "TARGET STATE": {
+    "en": "TARGET STATE",
+    "text": "MÅLBILLEDE",
+    "src": "ffacda0e",
+    "status": "draft"
+  },
+  "sys team": {
+    "en": "sys team",
+    "text": "sys-team",
+    "src": "a7dafdbf",
+    "status": "draft"
+  },
+  "team": {
+    "en": "team",
+    "text": "team",
+    "src": "ca8b22d0",
+    "status": "draft"
+  }
+}

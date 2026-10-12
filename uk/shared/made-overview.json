@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "Змінюйте оргдизайн без реорганізації «одним махом»: змапуйте наявне, оберіть, що оптимізувати, спроєктуйте ціль, тоді піднімайтеся крок за кроком. Побачте всі чотири рухи на одному прикладі організації.",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "Дізнатися про підхід →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The MADE method",
+    "text": "Метод MADE",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Change, MADE systemic",
+    "text": "Зміни, зроблені системними (MADE)",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Change MADE systemic: Study (Map, Assess) і Improve (Design, Elevate) навколо оргдизайну, між стратегією та продуктивністю",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Спершу **вивчіть** наявний дизайн, потім **покращуйте** його до потрібного.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Оргдизайн стоїть між стратегією та продуктивністю. **MADE** — це цикл, що тримає його відповідним меті, названий за чотирма рухами:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "THE APPROACH",
+    "text": "ПІДХІД",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "phases.0.note": {
+    "en": "the design you have",
+    "text": "дизайн, який ви маєте",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "Розмістіть кожен підрозділ за навичками й мандатом на роботу",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "Назвіть наявну топологію — і чи вона відповідає меті",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "phases.1.note": {
+    "en": "the design you need",
+    "text": "дизайн, який вам потрібен",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Уявіть організацію, яка вам потрібна, без сьогоднішніх обмежень",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "phases.1.steps.1.text": {
+    "en": "Get the change going with Elevating Katas",
+    "text": "Запустіть зміни за допомогою Elevating Katas",
+    "src": "b716f0f0",
+    "status": "draft"
+  },
+  "phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,1838 @@
+{
+  "10x-org.definition": {
+    "en": "The book's people-centric, AI-ready system of nine principles for building organizations that can learn, adapt and perform. Org Topologies is the map and method that powers it.",
+    "text": "这本书提出的以人为本、面向 AI 的九项原则体系，用于打造能够学习、适应并取得成效的组织。Org Topologies 是支撑它的地图和方法。",
+    "src": "9f54b849",
+    "status": "draft"
+  },
+  "10x-org.term": {
+    "en": "10X Org",
+    "text": "10X Org",
+    "src": "65ee28cc",
+    "status": "draft"
+  },
+  "10x.definition": {
+    "en": "A tenfold increase in an organization's capability to learn, evolve, create value and stay strategically aligned. It is about more adaptability, impact and relevance, not more activity.",
+    "text": "组织在学习、进化、创造价值并与战略保持一致方面的能力提升十倍。重点是更强的适应力、影响力和相关性，而不是更多的活动。",
+    "src": "6ec602c3",
+    "status": "draft"
+  },
+  "10x.term": {
+    "en": "10X",
+    "text": "10X",
+    "src": "87d1d093",
+    "status": "draft"
+  },
+  "4x4-map.definition": {
+    "en": "The detailed version of the map, with four levels on each axis and sixteen archetypes, used for precise assessment.",
+    "text": "地图的详细版本，每条轴有四个层级，共十六个原型，用于精确评估。",
+    "src": "cfdc8ae7",
+    "status": "draft"
+  },
+  "4x4-map.term": {
+    "en": "4x4 map",
+    "text": "4×4 地图",
+    "src": "2dc40edb",
+    "status": "draft"
+  },
+  "adaptive-capability.definition": {
+    "en": "The ability to follow value into the unknown, learn there and still deliver, so the organization recombines as conditions change without reshuffling its structure.",
+    "text": "追随价值进入未知领域、在那里学习并仍能交付的能力，使组织在条件变化时重新组合，而无需重组结构。",
+    "src": "4c0cd9ca",
+    "status": "draft"
+  },
+  "adaptive-capability.term": {
+    "en": "Adaptive capability",
+    "text": "适应能力",
+    "src": "2ce2a0ca",
+    "status": "draft"
+  },
+  "adaptive-performance.definition": {
+    "en": "An employee's ability to remain effective as work conditions shift. It correlates with adaptive expertise, and the book stresses that experience alone does not produce it: it is developed through exposure to the unexpected.",
+    "text": "员工在工作条件变化时仍保持高效的能力。它与适应性专长相关，书中强调，仅有经验并不会产生它：它来自对意外情况的接触。",
+    "src": "f30ae504",
+    "status": "draft"
+  },
+  "adaptive-performance.term": {
+    "en": "Adaptive performance",
+    "text": "适应性绩效",
+    "src": "45d99e41",
+    "status": "draft"
+  },
+  "adaptive-topology.definition": {
+    "en": "Driving units: broad skills and work mandates, units that swarm around outcomes. Org goal: minimize the cost of learning and reconfiguration in volatile environments.",
+    "text": "Driving 单元：技能授权和工作授权都很宽，围绕成果 Swarming 的单元。组织目标：在多变环境中把学习和重新配置的成本降到最低。",
+    "src": "a49c7775",
+    "status": "draft"
+  },
+  "adaptive-topology.term": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptiveness.definition": {
+    "en": "The ability to change direction easily and cheaply, guided by the learning needed to deliver better customer value with less friction. It is the org goal of the Adaptive Topology.",
+    "text": "轻松、低成本地改变方向的能力，以交付更好的客户价值、减少摩擦所需的学习为指引。这是 Adaptive Topology 的组织目标。",
+    "src": "052192fa",
+    "status": "draft"
+  },
+  "adaptiveness.term": {
+    "en": "Adaptiveness",
+    "text": "适应性",
+    "src": "cf63f4bb",
+    "status": "draft"
+  },
+  "agentic-org-design.definition": {
+    "en": "Designing the mandates of organizations where AI agents work across digital workflows, so they do not recreate a Taylorist split between thinking and doing.",
+    "text": "为 AI 智能体在数字化工作流中工作的组织设计授权，避免重现思考与执行分离的泰勒主义。",
+    "src": "8d3c079f",
+    "status": "draft"
+  },
+  "agentic-org-design.term": {
+    "en": "Agentic org design",
+    "text": "智能体式组织设计",
+    "src": "6e1f9d9f",
+    "status": "draft"
+  },
+  "agile-release-train.definition": {
+    "en": "In SAFe, a group of teams that plan together in program increments of 8 to 12 weeks. The dependencies between its teams are analyzed upfront and managed outside the teams, so a traditional ART is not a team of teams.",
+    "text": "在 SAFe 中，一组在 8 到 12 周的项目增量（program increment）中共同规划的团队。其团队之间的依赖在事前分析，并在团队之外管理，因此传统的 ART 不是团队的团队。",
+    "src": "31604840",
+    "status": "draft"
+  },
+  "agile-release-train.term": {
+    "en": "Agile Release Train (ART)",
+    "text": "Agile Release Train (ART)",
+    "src": "a9e6e55e",
+    "status": "draft"
+  },
+  "aging-and-descaling.definition": {
+    "en": "Organizations typically drift from Adaptive toward Resource as they hire and specialize; the book calls this aging. The reverse path, Resource to Delivery to Adaptive, is descaling.",
+    "text": "随着招聘和专业化，组织通常会从 Adaptive 滑向 Resource；书中称之为老化。反方向的路径，从 Resource 到 Delivery 再到 Adaptive，就是降规模（descaling）。",
+    "src": "e1bebee3",
+    "status": "draft"
+  },
+  "aging-and-descaling.term": {
+    "en": "Aging and descaling",
+    "text": "老化与降规模",
+    "src": "6fb679bc",
+    "status": "draft"
+  },
+  "ai-agent.definition": {
+    "en": "An AI system acting as an organizational unit. It can sit on the map like any unit: single-purpose agents are Doing units; agents can join Driving collaboration.",
+    "text": "作为组织单元运作的 AI 系统。它可以像其他单元一样出现在地图上：单一用途的智能体是 Doing 单元；智能体也可以加入 Driving 协作。",
+    "src": "870d104d",
+    "status": "draft"
+  },
+  "ai-agent.term": {
+    "en": "AI agent",
+    "text": "AI 智能体",
+    "src": "92c7d7f8",
+    "status": "draft"
+  },
+  "ai-sdd.definition": {
+    "en": "AI-assisted spec-driven development: humans specify intent and AI agents turn it into plans, tasks and code.",
+    "text": "AI 辅助的规格驱动开发：人类说明意图，AI 智能体把它转化为计划、任务和代码。",
+    "src": "dc2c1307",
+    "status": "draft"
+  },
+  "ai-sdd.term": {
+    "en": "AI-SDD",
+    "text": "AI-SDD",
+    "src": "96913472",
+    "status": "draft"
+  },
+  "aiden.definition": {
+    "en": "The book's custom GPT and 10X ORG expert, powered by Org Topologies; he/him.",
+    "text": "书中的定制 GPT 和 10X ORG 专家，由 Org Topologies 驱动；他/him。",
+    "src": "275a8a21",
+    "status": "draft"
+  },
+  "aiden.term": {
+    "en": "Aiden",
+    "text": "Aiden",
+    "src": "ee2942b0",
+    "status": "draft"
+  },
+  "archetype-codes.definition": {
+    "en": "Short names for the sixteen 4x4 cells: the row of the work mandate (TASKS, CAPS, PART, WHOLE) plus the skills column from 1 to 4. CAPS-3 reads end-to-end skills at the capabilities level.",
+    "text": "十六个 4×4 格子的简称：工作授权所在的行（TASKS、CAPS、PART、WHOLE）加上 1 到 4 的技能列。CAPS-3 表示能力层面上的端到端技能。",
+    "src": "59c2c2a2",
+    "status": "draft"
+  },
+  "archetype-codes.term": {
+    "en": "Archetype codes (TASKS, CAPS, PART, WHOLE)",
+    "text": "原型代码（TASKS、CAPS、PART、WHOLE）",
+    "src": "0a5d80f7",
+    "status": "draft"
+  },
+  "archetype.definition": {
+    "en": "A common pattern of how an organizational unit is structured and operates. The 4x4 map names sixteen of them.",
+    "text": "组织单元如何构成与运作的常见模式。4×4 地图命名了其中十六种。",
+    "src": "ac085cb2",
+    "status": "draft"
+  },
+  "archetype.term": {
+    "en": "Archetype",
+    "text": "原型",
+    "src": "ecd5f88e",
+    "status": "draft"
+  },
+  "business-objective.definition": {
+    "en": "The external result a strategy aims at, such as profit or market share. It is uncertain; org design, by contrast, is internal and largely in your control.",
+    "text": "战略所指向的外部结果，例如利润或市场份额。它具有不确定性；相比之下，组织设计是内部的，在很大程度上由你掌控。",
+    "src": "f1899706",
+    "status": "draft"
+  },
+  "business-objective.term": {
+    "en": "Business objective",
+    "text": "业务目标",
+    "src": "6c4aa05b",
+    "status": "draft"
+  },
+  "c-otc.definition": {
+    "en": "Certified Org Topologies Consultant: the Academy class for consultants and transformation leaders.",
+    "text": "Certified Org Topologies Consultant：Academy 面向顾问和转型负责人的课程。",
+    "src": "3a574f73",
+    "status": "draft"
+  },
+  "c-otc.term": {
+    "en": "C-OTC",
+    "text": "C-OTC",
+    "src": "d19b9555",
+    "status": "draft"
+  },
+  "c-otp.definition": {
+    "en": "Certified Org Topologies Practitioner: the Academy course for improving your own organization.",
+    "text": "Certified Org Topologies Practitioner：Academy 的课程，用于改进你自己的组织。",
+    "src": "6fc96a6e",
+    "status": "draft"
+  },
+  "c-otp.term": {
+    "en": "C-OTP",
+    "text": "C-OTP",
+    "src": "d24c3891",
+    "status": "draft"
+  },
+  "change-fatigue.definition": {
+    "en": "The exhaustion that sets in when repeated shake-ups never address the real problems. Morale drops and performance stalls.",
+    "text": "反复折腾却始终没有触及真正问题时产生的疲惫。士气下降，绩效停滞。",
+    "src": "69b5e03d",
+    "status": "draft"
+  },
+  "change-fatigue.term": {
+    "en": "Change fatigue",
+    "text": "变革疲劳",
+    "src": "a1c5fd88",
+    "status": "draft"
+  },
+  "change-theater.definition": {
+    "en": "Change without real structural backing: fresh slide decks, labels and jargon while the deeper performance problems stay as they were. Each new fad, now often co-written with generative AI, repeats the cycle.",
+    "text": "没有真正结构支撑的变革：全新的幻灯片、标签和行话，而深层的绩效问题原封不动。每一个新的时髦概念（如今常常有生成式 AI 参与撰写）都在重复这一循环。",
+    "src": "694a0b1e",
+    "status": "draft"
+  },
+  "change-theater.term": {
+    "en": "Change theater",
+    "text": "Change theater",
+    "src": "2302b006",
+    "status": "draft"
+  },
+  "cognitive-distance.definition": {
+    "en": "The gap between leaders and the real system of work, created by physical or structural separation. Reports and dashboards then filter reality. Go See and the Gemba counter it.",
+    "text": "领导者与真实工作系统之间的差距，由物理或结构上的隔离造成。报告和仪表盘随后会过滤现实。Go See 和 Gemba 可以抵消它。",
+    "src": "38e26324",
+    "status": "draft"
+  },
+  "cognitive-distance.term": {
+    "en": "Cognitive distance",
+    "text": "认知距离",
+    "src": "36c3c322",
+    "status": "draft"
+  },
+  "cognitive-overload.definition": {
+    "en": "Cognitive load is the mental effort needed to do a task and learn while doing it. People overload when the cost of learning is high, not when they know much; narrow ownership often raises load through handoffs and context switching.",
+    "text": "认知负荷是完成任务并在过程中学习所需的脑力。人们过载是因为学习的成本高，而不是因为知道得多；狭窄的归属往往因交接和上下文切换而加重负荷。",
+    "src": "2967204d",
+    "status": "draft"
+  },
+  "cognitive-overload.term": {
+    "en": "Cognitive overload",
+    "text": "认知过载",
+    "src": "2e9bb007",
+    "status": "draft"
+  },
+  "combining-topologies.definition": {
+    "en": "Letting multiple topologies coexist in one organization where parts do different kinds of work; each should be self-sufficient, accountable for outcomes and kept evolving.",
+    "text": "让多种拓扑在同一个组织中并存，因为不同部分做着不同类型的工作；每一部分都应能自给自足、对成果负责，并持续演进。",
+    "src": "4bf90c5d",
+    "status": "draft"
+  },
+  "combining-topologies.term": {
+    "en": "Combining topologies",
+    "text": "组合拓扑",
+    "src": "11c6f801",
+    "status": "draft"
+  },
+  "competing-commitment.definition": {
+    "en": "A hidden commitment that works against a stated improvement goal, which explains why people resist even changes they support.",
+    "text": "一种暗中与既定改进目标相悖的隐性承诺，这解释了为什么人们连自己支持的变革也会抵制。",
+    "src": "d54f0f70",
+    "status": "draft"
+  },
+  "competing-commitment.term": {
+    "en": "Competing commitment",
+    "text": "相互冲突的承诺",
+    "src": "70295d88",
+    "status": "draft"
+  },
+  "complete-unit.definition": {
+    "en": "A unit with the skills, data and authority to deliver value independently, without relying on other units. Sits right of the vertical divider.",
+    "text": "拥有技能、数据和权限，能够独立交付价值而不依赖其他单元的单元。位于垂直分界线的右侧。",
+    "src": "6a8001d5",
+    "status": "draft"
+  },
+  "complete-unit.term": {
+    "en": "Complete unit",
+    "text": "完整单元",
+    "src": "525a7af5",
+    "status": "draft"
+  },
+  "component-development.definition": {
+    "en": "Organizing teams around architectural components so each delivers only its part of a feature; this structure makes development sequential, a structural outcome rather than a mindset problem.",
+    "text": "围绕架构组件来组织团队，使每个团队只交付功能的一部分；这种结构让开发变成串行，是结构性的结果，而不是心态问题。",
+    "src": "223ece43",
+    "status": "draft"
+  },
+  "component-development.term": {
+    "en": "Component Development",
+    "text": "组件开发",
+    "src": "bb553fa7",
+    "status": "draft"
+  },
+  "contextual-blindness.definition": {
+    "en": "Applying a single organizing logic, metric set or governance model across the whole company in the belief that consistency equals efficiency. Across unequal contexts it destroys value and becomes a misfit at the Gemba.",
+    "text": "认为一致就等于高效，于是在整个公司套用单一的组织逻辑、指标体系或治理模式。在不同的情境之间，这样做会毁掉价值，并在 Gemba 形成错配。",
+    "src": "7c200d38",
+    "status": "draft"
+  },
+  "contextual-blindness.term": {
+    "en": "Contextual blindness",
+    "text": "情境盲视",
+    "src": "c7cfbbb7",
+    "status": "draft"
+  },
+  "cost-as-a-constraint.definition": {
+    "en": "Cost is a constraint to design within, not an org goal to optimize for. A top priority of cutting cost, taken to its end, means shutting the company down.",
+    "text": "成本是设计时要在其中取舍的约束，而不是要去优化的组织目标。把削减成本作为头号优先事项，走到尽头就是关闭公司。",
+    "src": "ceb18063",
+    "status": "draft"
+  },
+  "cost-as-a-constraint.term": {
+    "en": "Cost as a constraint",
+    "text": "成本是约束条件",
+    "src": "7110926d",
+    "status": "draft"
+  },
+  "cross-functional.definition": {
+    "en": "A team that combines several functions. By itself it only moves a unit horizontally; Adaptive Topology needs units that are both cross-functional and cross-component.",
+    "text": "汇集多种职能的团队。仅凭这一点，单元只会横向移动；Adaptive Topology 需要既跨职能又跨组件的单元。",
+    "src": "40973973",
+    "status": "draft"
+  },
+  "cross-functional.term": {
+    "en": "Cross-functional",
+    "text": "跨职能",
+    "src": "089d9299",
+    "status": "draft"
+  },
+  "deep-specialization.definition": {
+    "en": "Mastery in one narrow skill. It makes sense when expertise is scarce and demand for it effectively unlimited, a rare case; AI democratizes expertise, so most people need to become multi-learners.",
+    "text": "在某一项狭窄技能上的精通。只有在专长稀缺、需求几乎无限时才说得通，这种情况很少见；AI 让专长大众化，所以大多数人需要成为 multi-learner。",
+    "src": "847f0ee3",
+    "status": "draft"
+  },
+  "deep-specialization.term": {
+    "en": "Deep specialization",
+    "text": "深度专业化",
+    "src": "6083ac4b",
+    "status": "draft"
+  },
+  "default-to-human-strengths.definition": {
+    "en": "Challenge the limits that organizational design puts on people, and build environments that elevate natural human strengths, such as learning, combining and recombining skills, instead of competing with AI on narrow tasks.",
+    "text": "挑战组织设计加在人身上的限制，营造能提升人类天赋优势（如学习、组合与重新组合技能）的环境，而不是在狭窄的任务上与 AI 竞争。",
+    "src": "2bbcc5a3",
+    "status": "draft"
+  },
+  "default-to-human-strengths.term": {
+    "en": "Default to human strengths",
+    "text": "Default to human strengths",
+    "src": "109c5649",
+    "status": "draft"
+  },
+  "definition-of-done.definition": {
+    "en": "Scrum's statement of when work is truly finished and usable: integrated, tested, documented where needed and ready for real use. The horizontal axis reads as the growing completeness of this definition.",
+    "text": "Scrum 对工作何时真正完成并可使用的界定：已集成、已测试、必要处有文档，并可投入实际使用。横轴可以理解为这一定义的完整程度不断提高。",
+    "src": "e2bc59af",
+    "status": "draft"
+  },
+  "definition-of-done.term": {
+    "en": "Definition of Done",
+    "text": "Definition of Done",
+    "src": "3fe1caa2",
+    "status": "draft"
+  },
+  "delivering-intelligence.definition": {
+    "en": "Lower-right quadrant: complete units working on outputs within a bounded scope, delivering with good flow but not owning the whole.",
+    "text": "右下象限：在有限范围内处理产出的完整单元，交付顺畅，但不拥有整体。",
+    "src": "dd25344b",
+    "status": "draft"
+  },
+  "delivering-intelligence.term": {
+    "en": "Delivering Intelligence",
+    "text": "Delivering Intelligence",
+    "src": "2b2f0c64",
+    "status": "draft"
+  },
+  "delivery-team.definition": {
+    "en": "Marty Cagan's name for teams that deliver output on whatever is handed to them, with a product owner acting as a backlog administrator. He counts teams in SAFe among them.",
+    "text": "Marty Cagan 对这类团队的称呼：对交到手上的任何事项交付产出，产品负责人（product owner）则像待办清单管理员。他把 SAFe 中的团队也算在其中。",
+    "src": "1f14ed77",
+    "status": "draft"
+  },
+  "delivery-team.term": {
+    "en": "Delivery team",
+    "text": "交付团队",
+    "src": "eda2f0d8",
+    "status": "draft"
+  },
+  "delivery-topology.definition": {
+    "en": "Directing units over Delivering units: stable cross-functional teams in bounded areas. Org goal: end-to-end flow of predictable work from demand to delivery.",
+    "text": "Directing 单元位于 Delivering 单元之上：在有限领域内的稳定跨职能团队。组织目标：从需求到交付，让可预测的工作实现端到端的流动。",
+    "src": "01d2d04e",
+    "status": "draft"
+  },
+  "delivery-topology.term": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "dependency.definition": {
+    "en": "A reliance between units. Painful only when people are forced apart and cannot work synchronously; when they work on shared work together it becomes ordinary collaboration.",
+    "text": "单元之间的相互倚赖。只有当人们被迫分开、无法同步工作时才会造成痛苦；当大家一起处理共同的工作时，它就成了日常协作。",
+    "src": "8990ad1a",
+    "status": "draft"
+  },
+  "dependency.term": {
+    "en": "Dependency",
+    "text": "依赖",
+    "src": "711595f1",
+    "status": "draft"
+  },
+  "directing-intelligence.definition": {
+    "en": "Upper-left quadrant: incomplete units that oversee the whole solution space and coordinate, prioritize and control, but do not create customer value directly.",
+    "text": "左上象限：纵览整个解决方案空间并负责协调、排序和控制的不完整单元，但并不直接创造客户价值。",
+    "src": "1c3ae2a0",
+    "status": "draft"
+  },
+  "directing-intelligence.term": {
+    "en": "Directing Intelligence",
+    "text": "Directing Intelligence",
+    "src": "fbdfd902",
+    "status": "draft"
+  },
+  "divide-and-conquer.definition": {
+    "en": "The common practice of slicing an organization into bounded parts, such as squads, tribes or stream-aligned teams, each with a narrow mandate. It fits locally until work shifts, then falls between the cracks and another reorganization follows.",
+    "text": "把组织切分成有边界的部分的常见做法，如小队（squad）、部落（tribe）或 stream-aligned 团队，每个部分的授权都很窄。工作不变时局部适配，工作一变就会掉进缝隙，接着又是一轮重组。",
+    "src": "f11e208a",
+    "status": "draft"
+  },
+  "divide-and-conquer.term": {
+    "en": "Divide and conquer",
+    "text": "分而治之",
+    "src": "0b315bd9",
+    "status": "draft"
+  },
+  "doing-intelligence.definition": {
+    "en": "Lower-left quadrant: incomplete units working on outputs in narrow domains (individual contributors, groups, teams, AI agents). Strong at precision, dependent on others for end-to-end value.",
+    "text": "左下象限：在狭窄领域处理产出的不完整单元（个人贡献者、小组、团队、AI 智能体）。精确度高，但端到端的价值依赖他人。",
+    "src": "94f9bc84",
+    "status": "draft"
+  },
+  "doing-intelligence.term": {
+    "en": "Doing Intelligence",
+    "text": "Doing Intelligence",
+    "src": "e852e906",
+    "status": "draft"
+  },
+  "driving-intelligence.definition": {
+    "en": "Upper-right quadrant: complete units owning outcomes and shaping what is built next, blending dreaming, thinking and doing; the Adaptive Topology.",
+    "text": "右上象限：对成果负责并决定接下来构建什么的完整单元，融合了设想、思考与行动；即 Adaptive Topology。",
+    "src": "995ee6a9",
+    "status": "draft"
+  },
+  "driving-intelligence.term": {
+    "en": "Driving Intelligence",
+    "text": "Driving Intelligence",
+    "src": "a069b70c",
+    "status": "draft"
+  },
+  "efficiency.definition": {
+    "en": "Efficiency has no single meaning. In the Resource Topology it is maximum use of specialized skills; in Delivery, fast reliable flow of known work; in Adaptive, lowering the cost of learning, reconfiguration and redirection.",
+    "text": "效率没有唯一的含义。在 Resource Topology 中，它是对专业技能的最大化利用；在 Delivery 中，是已知工作快速可靠的流动；在 Adaptive 中，是降低学习、重新配置和转向的成本。",
+    "src": "7b3d9072",
+    "status": "draft"
+  },
+  "efficiency.term": {
+    "en": "Efficiency",
+    "text": "效率",
+    "src": "87b180c8",
+    "status": "draft"
+  },
+  "elevate-not-eliminate.definition": {
+    "en": "The book's closing stance on AI: elevate people to higher mandates instead of eliminating them.",
+    "text": "书中对 AI 的收尾立场：把人提升到更高的授权，而不是淘汰他们。",
+    "src": "b7b1ab8c",
+    "status": "draft"
+  },
+  "elevate-not-eliminate.term": {
+    "en": "Elevate, not eliminate",
+    "text": "Elevate, not eliminate",
+    "src": "486639b9",
+    "status": "draft"
+  },
+  "elevated-art.definition": {
+    "en": "An Agile Release Train elevated to a team of teams: all its teams share one backlog of business objectives and one cadence, contain their dependencies and work synchronously. Elevate one ART at a time.",
+    "text": "被提升为团队的团队的 Agile Release Train：所有团队共享同一个业务目标待办清单和同一个节奏，把依赖收拢在内部并同步工作。一次只 Elevate 一个 ART。",
+    "src": "82f39a23",
+    "status": "draft"
+  },
+  "elevated-art.term": {
+    "en": "Elevated ART (eART)",
+    "text": "Elevated ART (eART)",
+    "src": "3d6acb87",
+    "status": "draft"
+  },
+  "elevating-kata.definition": {
+    "en": "A structured, repeatable improvement routine that turns org design intent into lived behavior, applied mainly in the Elevate step.",
+    "text": "一种结构化、可重复的改进惯例，把组织设计的意图转化为真实的行为，主要用于 Elevate 步骤。",
+    "src": "453dbecf",
+    "status": "draft"
+  },
+  "elevating-kata.term": {
+    "en": "Elevating Kata",
+    "text": "Elevating Kata",
+    "src": "83f3b4c9",
+    "status": "draft"
+  },
+  "empowered-product-team.definition": {
+    "en": "Marty Cagan's term for a team that is cross-functional (product, design and engineering), measured by outcomes rather than output, and empowered to find the best way to solve the problems it is asked to solve. With a product manager on each team and a team-level backlog, it maps to Delivering, not Driving.",
+    "text": "Marty Cagan 的术语，指跨职能（产品、设计和工程）、以成果而非产出来衡量，并被赋权去找到解决所托付问题的最佳方式的团队。每个团队有一位产品经理和团队级待办清单，它在地图上属于 Delivering，而不是 Driving。",
+    "src": "79acf3e0",
+    "status": "draft"
+  },
+  "empowered-product-team.term": {
+    "en": "Empowered product team",
+    "text": "Empowered product team",
+    "src": "64d011fd",
+    "status": "draft"
+  },
+  "exploit-and-explore.definition": {
+    "en": "Exploit optimizes the delivery of value already understood (Delivery Topology); explore optimizes learning to discover what is valuable (Adaptive Topology). Do not turn them into camps: master both. Driving units integrate the two.",
+    "text": "利用是优化已被理解的价值的交付（Delivery Topology）；探索是优化学习，以发现什么有价值（Adaptive Topology）。不要把它们变成两个阵营：两者都要精通。Driving 单元把两者融为一体。",
+    "src": "7720fa2f",
+    "status": "draft"
+  },
+  "exploit-and-explore.term": {
+    "en": "Exploit and explore",
+    "text": "利用与探索",
+    "src": "ae07844b",
+    "status": "draft"
+  },
+  "false-dilemma.definition": {
+    "en": "Presenting two valued options as opposites when a range of choices exists; reframing with a primary and a secondary concern reveals new options.",
+    "text": "把两个都有价值的选项说成非此即彼，而实际上存在一系列选择；用首要关切和次要关切重新界定问题，就能发现新的选项。",
+    "src": "2cfdda08",
+    "status": "draft"
+  },
+  "false-dilemma.term": {
+    "en": "False dilemma",
+    "text": "虚假两难",
+    "src": "bdd0e77f",
+    "status": "draft"
+  },
+  "fast-flow.definition": {
+    "en": "Quick, smooth movement of known work inside a team's lane. In the Delivery Topology the flow is local: when an outcome needs many teams, local speed does not add up to global speed.",
+    "text": "已知工作在团队自己的通道内快速、顺畅地流转。在 Delivery Topology 中，流动是局部的：当一项成果需要多个团队时，局部的速度不会累加成整体的速度。",
+    "src": "14e40a4c",
+    "status": "draft"
+  },
+  "fast-flow.term": {
+    "en": "Fast flow",
+    "text": "快速流动",
+    "src": "97cb7bb6",
+    "status": "draft"
+  },
+  "feature-team.definition": {
+    "en": "In LeSS, a cross-functional, cross-component, long-living, customer-facing, self-managing team. Not a team that only codes pre-decided features.",
+    "text": "在 LeSS 中，指跨职能、跨组件、长期存续、面向客户、自我管理的团队。而不是只负责编写已被决定的特性的团队。",
+    "src": "e700700e",
+    "status": "draft"
+  },
+  "feature-team.term": {
+    "en": "Feature team",
+    "text": "特性团队",
+    "src": "e1c67912",
+    "status": "draft"
+  },
+  "ferrari-effect.definition": {
+    "en": "Putting faster engines (specialists, AI) into a jammed system makes motion louder but flow no better: local speed does not become global performance. Also called the Ferrari trap.",
+    "text": "把更快的引擎（专家、AI）装进一个堵塞的系统，只会让动静更大，流动并不会更好：局部的速度不会变成整体的绩效。也称为法拉利陷阱。",
+    "src": "e0e92614",
+    "status": "draft"
+  },
+  "ferrari-effect.term": {
+    "en": "Ferrari effect",
+    "text": "Ferrari effect",
+    "src": "c57a289f",
+    "status": "draft"
+  },
+  "first-design-then-ai.definition": {
+    "en": "The line that sums Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
+    "text": "概括原则 9 的一句话：先把 AI 放在一边，弄清楚结构，然后再把 AI 当作杠杆。",
+    "src": "46dd096c",
+    "status": "draft"
+  },
+  "first-design-then-ai.term": {
+    "en": "First design, then AI",
+    "text": "First design, then AI",
+    "src": "074153a7",
+    "status": "draft"
+  },
+  "fit-for-purpose.definition": {
+    "en": "An org design whose structure and mandates support what the organization is optimizing for. No topology is better in itself; the question is which one fits.",
+    "text": "结构和授权能够支撑组织所优化目标的组织设计。没有哪种拓扑本身更好；关键在于哪一种更适配。",
+    "src": "cfa6e905",
+    "status": "draft"
+  },
+  "fit-for-purpose.term": {
+    "en": "Fit for purpose",
+    "text": "适配目的",
+    "src": "ff32bf56",
+    "status": "draft"
+  },
+  "framework-thinking.definition": {
+    "en": "The assumption that implementing an industry-standard management framework is the key to success. Org Topologies reverses the order: business objectives, then the org goal, then the topology, and a framework last.",
+    "text": "认为落地一个业界标准的管理框架就是成功关键的想法。Org Topologies 颠倒了顺序：先是业务目标，然后是组织目标，接着是拓扑，框架放在最后。",
+    "src": "03bfebe7",
+    "status": "draft"
+  },
+  "framework-thinking.term": {
+    "en": "Framework thinking",
+    "text": "框架思维",
+    "src": "ba218957",
+    "status": "draft"
+  },
+  "gemba-and-go-see.definition": {
+    "en": "Gemba is where value is created; Go See means leaders observing the real work there instead of relying on reports. Mapping and Go See reinforce each other.",
+    "text": "Gemba 是价值被创造的地方；Go See 指领导者去那里观察真实的工作，而不是依赖报告。绘制地图与 Go See 相互促进。",
+    "src": "ea1a81e1",
+    "status": "draft"
+  },
+  "gemba-and-go-see.term": {
+    "en": "Gemba and Go See",
+    "text": "Gemba 与 Go See",
+    "src": "38617200",
+    "status": "draft"
+  },
+  "gemba-sprint.definition": {
+    "en": "A timeboxed immersion where leaders work with teams for days or weeks as active participants.",
+    "text": "限定时间的沉浸式活动，领导者作为积极参与者与团队一起工作数天或数周。",
+    "src": "e43467df",
+    "status": "draft"
+  },
+  "gemba-sprint.term": {
+    "en": "Gemba Sprint",
+    "text": "Gemba Sprint",
+    "src": "0a9ec74a",
+    "status": "draft"
+  },
+  "group.g-ai": {
+    "en": "AI",
+    "text": "AI",
+    "src": "11fb682b",
+    "status": "draft"
+  },
+  "group.g-archetypes-and-the-4x4": {
+    "en": "Archetypes and the 4x4",
+    "text": "原型与 4×4",
+    "src": "18be3fbf",
+    "status": "draft"
+  },
+  "group.g-elevating-katas": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "group.g-foundations": {
+    "en": "Foundations",
+    "text": "基础",
+    "src": "1157606e",
+    "status": "draft"
+  },
+  "group.g-frameworks": {
+    "en": "Frameworks",
+    "text": "框架",
+    "src": "cafd6b72",
+    "status": "draft"
+  },
+  "group.g-made": {
+    "en": "MADE",
+    "text": "MADE",
+    "src": "b7c0f4a6",
+    "status": "draft"
+  },
+  "group.g-people-and-roles": {
+    "en": "People and roles",
+    "text": "人与角色",
+    "src": "7c550b42",
+    "status": "draft"
+  },
+  "group.g-the-map": {
+    "en": "The map (2x2)",
+    "text": "地图（2×2）",
+    "src": "ce554483",
+    "status": "draft"
+  },
+  "group.g-the-nine-principles": {
+    "en": "The nine principles",
+    "text": "九项原则",
+    "src": "11a80761",
+    "status": "draft"
+  },
+  "group.g-topologies": {
+    "en": "Topologies",
+    "text": "拓扑",
+    "src": "d89d5f19",
+    "status": "draft"
+  },
+  "guiding-coalition.definition": {
+    "en": "A diverse leadership group that guides the change together.",
+    "text": "由背景多样的领导者组成、共同引领变革的群体。",
+    "src": "f8797274",
+    "status": "draft"
+  },
+  "guiding-coalition.term": {
+    "en": "Guiding coalition",
+    "text": "指导联盟",
+    "src": "1dba4645",
+    "status": "draft"
+  },
+  "high-variability-environment.definition": {
+    "en": "Work where demand, scope or technology change often, as in product development, where no feature is ever built twice. It calls for fast feedback, end-to-end responsibility and continuous learning; narrow stable lanes drift out of fit.",
+    "text": "需求、范围或技术经常变化的工作，如产品开发，其中没有一个功能会被做两次。它需要快速反馈、端到端的责任和持续学习；狭窄而稳定的通道会逐渐失去适配。",
+    "src": "234eeffb",
+    "status": "draft"
+  },
+  "high-variability-environment.term": {
+    "en": "High-variability environment",
+    "text": "高变化环境",
+    "src": "3c39e556",
+    "status": "draft"
+  },
+  "horizontal-divider.definition": {
+    "en": "The line on the map separating units optimized for partial outputs (below) from units designed to deliver whole outcomes (above).",
+    "text": "地图上将为局部产出而优化的单元（下）与为交付完整成果而设计的单元（上）分开的线。",
+    "src": "9afc2a67",
+    "status": "draft"
+  },
+  "horizontal-divider.term": {
+    "en": "Horizontal divider",
+    "text": "水平分界线",
+    "src": "b389e260",
+    "status": "draft"
+  },
+  "human-continuity.definition": {
+    "en": "Keeping people and their accumulated learning together, instead of treating them as interchangeable resources shuffled between temporary groups. The Adaptive Topology compounds this continuity into long-term performance.",
+    "text": "让人和他们积累的学习保持在一起，而不是把他们当作可互换的资源在临时小组之间调来调去。Adaptive Topology 把这种连续性复利为长期绩效。",
+    "src": "38723903",
+    "status": "draft"
+  },
+  "human-continuity.term": {
+    "en": "Human continuity",
+    "text": "人的连续性",
+    "src": "f2fb4a0e",
+    "status": "draft"
+  },
+  "incomplete-unit.definition": {
+    "en": "A unit that lacks the skills, or the mandate to use them, to deliver customer value end-to-end, so it depends on others and creates handoffs. Sits left of the vertical divider.",
+    "text": "缺少端到端交付客户价值所需的技能，或缺少运用这些技能的授权，因此依赖他人并产生交接的单元。位于垂直分界线的左侧。",
+    "src": "1a335200",
+    "status": "draft"
+  },
+  "incomplete-unit.term": {
+    "en": "Incomplete unit",
+    "text": "不完整单元",
+    "src": "6fe86d9d",
+    "status": "draft"
+  },
+  "informed-consent-workshop.definition": {
+    "en": "A deliberative workshop in which affected people learn why an org goal is chosen, what it enables and which trade-offs it implies, to build commitment.",
+    "text": "受影响的人了解为何选择某个组织目标、它带来什么、意味着哪些取舍的研讨式工作坊，目的是建立认同。",
+    "src": "2367671b",
+    "status": "draft"
+  },
+  "informed-consent-workshop.term": {
+    "en": "Informed consent workshop",
+    "text": "知情同意工作坊",
+    "src": "e01c32ba",
+    "status": "draft"
+  },
+  "intelligence-as-a-service.definition": {
+    "en": "AI treated as an available service that lowers the cost of learning and doing, so specialization is no longer scarce.",
+    "text": "把 AI 视为一种随取随用的服务，降低学习和执行的成本，使专业化不再稀缺。",
+    "src": "5726628b",
+    "status": "draft"
+  },
+  "intelligence-as-a-service.term": {
+    "en": "Intelligence-as-a-service",
+    "text": "Intelligence-as-a-service",
+    "src": "d3b66490",
+    "status": "draft"
+  },
+  "intentional-org-design.definition": {
+    "en": "Choosing structure, mandates, processes, rewards and people on purpose, around one primary org goal. The alternative is design that accretes through ad hoc reactions to internal political pressures, which sends mixed signals to everyone.",
+    "text": "围绕一个首要组织目标，有意识地选择结构、授权、流程、奖励和人员。与之相对的是，设计在应对内部政治压力的临时反应中不断堆积，向所有人传递混乱的信号。",
+    "src": "6af558a7",
+    "status": "draft"
+  },
+  "intentional-org-design.term": {
+    "en": "Intentional org design",
+    "text": "有意图的组织设计",
+    "src": "1346a115",
+    "status": "draft"
+  },
+  "kata-naming-convention.definition": {
+    "en": "Each kata name starts with \"Elevate by\" followed by a gerund phrase, e.g. Elevate by Expanding the Product Definition.",
+    "text": "每个 kata 的名称都以“Elevate by”开头，后接一个动名词短语，例如 Elevate by Expanding the Product Definition。",
+    "src": "185804fa",
+    "status": "draft"
+  },
+  "kata-naming-convention.term": {
+    "en": "Kata naming convention",
+    "text": "Kata 命名规则",
+    "src": "228689f6",
+    "status": "draft"
+  },
+  "katalog.definition": {
+    "en": "The catalog of Elevating Katas, grouped by Star Model element: Strategy, Structure, Processes, Rewards, People.",
+    "text": "Elevating Katas 的目录，按 Star Model 的要素分组：战略、结构、流程、奖励、人员。",
+    "src": "e574d5da",
+    "status": "draft"
+  },
+  "katalog.term": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "leading-proxy-indicators.definition": {
+    "en": "Early signals chosen to show that an organization is on track to deliver outcomes. Outcomes such as a customer who stays are lagging and hard to measure, so smart proxies give a reliable sense of progress sooner.",
+    "text": "用来表明组织正走在交付成果的轨道上的早期信号。像“客户留下来”这样的成果是滞后的，也难以衡量，因此选好的代理指标能更早地给出可靠的进展感。",
+    "src": "93546a55",
+    "status": "draft"
+  },
+  "leading-proxy-indicators.term": {
+    "en": "Leading proxy indicators",
+    "text": "领先代理指标",
+    "src": "35b7bac4",
+    "status": "draft"
+  },
+  "legacy-archetype-codes.definition": {
+    "en": "Older letter-plus-digit archetype codes (e.g. A1, B2, C3, Y1) used on pre-2025 posts.",
+    "text": "2025 年之前的文章中使用的旧式“字母加数字”原型代码（如 A1、B2、C3、Y1）。",
+    "src": "fd6a3b70",
+    "status": "draft"
+  },
+  "legacy-archetype-codes.term": {
+    "en": "Legacy archetype codes",
+    "text": "旧版原型代码",
+    "src": "cde899c5",
+    "status": "draft"
+  },
+  "light-run.definition": {
+    "en": "A quick, low-risk pass through MADE or a half-day mixed working session that lets people experience a different way of working before committing to structural change.",
+    "text": "快速、低风险地走一遍 MADE，或一场半天的混合工作坊，让人们在投入结构性变革之前先体验一种不同的工作方式。",
+    "src": "ae69ef13",
+    "status": "draft"
+  },
+  "light-run.term": {
+    "en": "Light run",
+    "text": "Light run",
+    "src": "e37597b0",
+    "status": "draft"
+  },
+  "local-optimization.definition": {
+    "en": "Each part improving what its own system rewards, which can lower performance of the whole.",
+    "text": "各部分都在改进自己所在体系所奖励的东西，这可能会降低整体的绩效。",
+    "src": "cf04e371",
+    "status": "draft"
+  },
+  "local-optimization.term": {
+    "en": "Local optimization",
+    "text": "局部优化",
+    "src": "bd947a5f",
+    "status": "draft"
+  },
+  "m-shaping.definition": {
+    "en": "Broadening a person's skills across several domains, so units can take on more of the work themselves.",
+    "text": "拓宽个人在多个领域的技能，使单元能自己承担更多工作。",
+    "src": "c65f6264",
+    "status": "draft"
+  },
+  "m-shaping.term": {
+    "en": "M-shaping",
+    "text": "M-shaping",
+    "src": "2b1619c9",
+    "status": "draft"
+  },
+  "made-assess.definition": {
+    "en": "Second step: judge, not people but the system, whether the current org design fits the business ambitions and strategy.",
+    "text": "第二步：评判的不是人，而是系统，即当前的组织设计是否适配业务抱负和战略。",
+    "src": "098a6fe0",
+    "status": "draft"
+  },
+  "made-assess.term": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made-core-values.definition": {
+    "en": "Curiosity (Map), honesty (Assess), commitment (Design) and openness (Elevate).",
+    "text": "好奇（Map）、诚实（Assess）、承诺（Design）和开放（Elevate）。",
+    "src": "6252e0bd",
+    "status": "draft"
+  },
+  "made-core-values.term": {
+    "en": "MADE core values",
+    "text": "MADE 核心价值观",
+    "src": "97fbed6d",
+    "status": "draft"
+  },
+  "made-design.definition": {
+    "en": "Third step: choose the one primary org goal and shape structure, processes, people and rewards to support it.",
+    "text": "第三步：选定唯一的首要组织目标，并塑造结构、流程、人员和奖励来支撑它。",
+    "src": "834b53f8",
+    "status": "draft"
+  },
+  "made-design.term": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made-elevate.definition": {
+    "en": "Fourth step: build the capability to make the new design work, by moving right and up with Elevating Katas as small experiments.",
+    "text": "第四步：培养让新设计运转起来的能力，通过 Elevating Katas 作为小实验，向右上方移动。",
+    "src": "c5798ae4",
+    "status": "draft"
+  },
+  "made-elevate.term": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "made-map.definition": {
+    "en": "First MADE step: bring the invisible system of collaboration into view by placing units on the map, at the Gemba, asking which parts create value and how they interact.",
+    "text": "MADE 的第一步：在 Gemba 把单元放到地图上，询问哪些部分创造价值、它们如何互动，让看不见的协作系统显现出来。",
+    "src": "e98ff396",
+    "status": "draft"
+  },
+  "made-map.term": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.definition": {
+    "en": "The Org Topologies method for continuous, systemic change: Map, Assess, Design, Elevate, and repeat, built around Galbraith's Star Model.",
+    "text": "Org Topologies 用于持续、系统性变革的方法：Map、Assess、Design、Elevate，然后循环，围绕 Galbraith 的 Star Model 构建。",
+    "src": "ae48985c",
+    "status": "draft"
+  },
+  "made.term": {
+    "en": "MADE",
+    "text": "MADE",
+    "src": "b7c0f4a6",
+    "status": "draft"
+  },
+  "manager-role.definition": {
+    "en": "In the book's view, managers grow capability and improve the system rather than direct work.",
+    "text": "按书中的观点，管理者的职责是培养能力、改进系统，而不是指挥工作。",
+    "src": "d50e5ed6",
+    "status": "draft"
+  },
+  "manager-role.term": {
+    "en": "Manager role",
+    "text": "管理者角色",
+    "src": "341632b1",
+    "status": "draft"
+  },
+  "mandate.definition": {
+    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle. Org Topologies recognizes two essential mandates: the Scope of Skills Mandate (the horizontal axis of the map) and the Scope of Work Mandate (the vertical axis).",
+    "text": "在既定范围内进行决策、探索、行动并交付成果的权力与责任的组合。授权决定了一个单元所能处理的最大复杂度。Org Topologies 识别出两种基本授权：技能授权范围（地图的横轴）和工作授权范围（纵轴）。",
+    "src": "a3712989",
+    "status": "draft"
+  },
+  "mandate.term": {
+    "en": "Mandate",
+    "text": "授权",
+    "src": "d9232514",
+    "status": "draft"
+  },
+  "misfit.definition": {
+    "en": "A gap between what the structure is optimized for and what the strategy needs, made visible by mapping and assessing.",
+    "text": "结构所优化的方向与战略所需之间的差距，通过绘制地图和评估（Map 与 Assess）变得可见。",
+    "src": "1048e781",
+    "status": "draft"
+  },
+  "misfit.term": {
+    "en": "Misfit",
+    "text": "错配",
+    "src": "092b3f34",
+    "status": "draft"
+  },
+  "multi-learning.definition": {
+    "en": "People or teams growing beyond their primary craft, building skills across domains and applying them in real work. It is the mechanism that expands the skills mandate and, with outcome ownership, moves units diagonally.",
+    "text": "人或团队在本职技艺之外成长，跨领域积累技能并运用到真实工作中。这是扩大技能授权的机制，与对成果的负责相结合，可使单元沿对角线移动。",
+    "src": "bd4c9dca",
+    "status": "draft"
+  },
+  "multi-learning.term": {
+    "en": "Multi-learning",
+    "text": "Multi-learning",
+    "src": "a67af15c",
+    "status": "draft"
+  },
+  "non-strategic-ai-adoption.definition": {
+    "en": "Naive, sporadic, ad hoc spreading of AI across existing silos, which amplifies the current pattern and the Ferrari effect.",
+    "text": "天真、零散、随意地把 AI 铺到现有的各个孤岛上，这会放大现有模式和 Ferrari effect。",
+    "src": "68ee6fd6",
+    "status": "draft"
+  },
+  "non-strategic-ai-adoption.term": {
+    "en": "Non-strategic AI adoption",
+    "text": "非战略性 AI 应用",
+    "src": "763c6733",
+    "status": "draft"
+  },
+  "obeya.definition": {
+    "en": "A shared decision space that pulls leaders out of local views toward strategic goals and systemic constraints.",
+    "text": "共享的决策空间，把领导者从局部视角拉向战略目标和系统性约束。",
+    "src": "a9e8f4eb",
+    "status": "draft"
+  },
+  "obeya.term": {
+    "en": "Obeya",
+    "text": "Obeya",
+    "src": "55ea6726",
+    "status": "draft"
+  },
+  "org-design-owner.definition": {
+    "en": "A leader who is accountable for understanding the system, choosing a direction and energizing others to co-own and improve it; MADE helps leaders become true owners.",
+    "text": "负责理解系统、选择方向、激励他人共同承担并改进的领导者；MADE 帮助领导者成为真正的所有者。",
+    "src": "4f7b9456",
+    "status": "draft"
+  },
+  "org-design-owner.term": {
+    "en": "Org design owner",
+    "text": "Org design owner",
+    "src": "9058fa74",
+    "status": "draft"
+  },
+  "org-design-system.definition": {
+    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopt only its events and leave structure, people and rewards untouched, and it fails for lack of systemic alignment, not for lack of merit.",
+    "text": "一组相互强化、指向同一目标的组织设计要素。Scrum 就是一例：只采用它的事件，而不触动结构、人员和奖励，它就会失败，原因是缺少系统性的一致，而不是它本身不好。",
+    "src": "e436dc82",
+    "status": "draft"
+  },
+  "org-design-system.term": {
+    "en": "Org design system",
+    "text": "组织设计体系",
+    "src": "352cc803",
+    "status": "draft"
+  },
+  "org-goal.definition": {
+    "en": "The one primary thing an organization deliberately optimizes for, chosen to support its strategy and used to settle trade-offs.",
+    "text": "组织有意识地优先优化的那一件首要之事，用来支撑战略，并在取舍时作为依据。",
+    "src": "24619bb4",
+    "status": "draft"
+  },
+  "org-goal.term": {
+    "en": "Org goal",
+    "text": "组织目标",
+    "src": "b746cadd",
+    "status": "draft"
+  },
+  "org-topologies-map.definition": {
+    "en": "The two-dimensional visual language that places organizational units by skills mandate (horizontal) and work mandate (vertical), so structure, dependencies and misfit become visible and shareable.",
+    "text": "一种二维可视化语言，按技能授权（横轴）和工作授权（纵轴）来安放组织单元，让结构、依赖和错配变得可见、可分享。",
+    "src": "fc6684d2",
+    "status": "draft"
+  },
+  "org-topologies-map.term": {
+    "en": "Org Topologies map",
+    "text": "Org Topologies 地图",
+    "src": "b65dc424",
+    "status": "draft"
+  },
+  "org-topologies.definition": {
+    "en": "An approach to raising performance through people-centered, strategy-driven, AI-ready organizational redesign: a visual map plus the MADE change method.",
+    "text": "通过以人为本、战略驱动、面向 AI 的组织重新设计来提升绩效的方法：一张可视化地图，加上 MADE 变革方法。",
+    "src": "91251108",
+    "status": "draft"
+  },
+  "org-topologies.term": {
+    "en": "Org Topologies (OT)",
+    "text": "Org Topologies (OT)",
+    "src": "1b31f1e1",
+    "status": "draft"
+  },
+  "org-topologist.definition": {
+    "en": "A leader, consultant or change agent who sees the people behind the boxes and lines on the map.",
+    "text": "能看见地图上方框和连线背后的人的领导者、顾问或变革推动者。",
+    "src": "0b8ccc51",
+    "status": "draft"
+  },
+  "org-topologist.term": {
+    "en": "Org topologist",
+    "text": "Org topologist",
+    "src": "113d5a94",
+    "status": "draft"
+  },
+  "org-topology.definition": {
+    "en": "A recognizable pattern, drawn from observation, of which quadrants an organization occupies and so what it is optimized for. There are three common ones and they can be combined.",
+    "text": "根据观察总结出的一种可识别模式，说明组织占据哪些象限，也就说明它在为什么而优化。常见的有三种，并且可以组合。",
+    "src": "1bd9db02",
+    "status": "draft"
+  },
+  "org-topology.term": {
+    "en": "Org topology",
+    "text": "组织拓扑",
+    "src": "94204b62",
+    "status": "draft"
+  },
+  "organization-design.definition": {
+    "en": "The process of developing and selecting an organization's structure (roles, reporting lines, units, interfaces, coordination) to meet its strategy and mandates; also the field that studies how structure improves effectiveness.",
+    "text": "为实现战略和授权而制定、选择组织结构（角色、汇报线、单元、接口、协调方式）的过程；也指研究结构如何提升效能的领域。",
+    "src": "ef3ea224",
+    "status": "draft"
+  },
+  "organization-design.term": {
+    "en": "Organization design",
+    "text": "组织设计",
+    "src": "1ce10f6f",
+    "status": "draft"
+  },
+  "organizational-intelligence.definition": {
+    "en": "What an organization can collectively see, learn and solve. It emerges from the mandates assigned to units, not from individuals, and mandates set its ceiling.",
+    "text": "组织能够集体看到、学习和解决的事物。它来自赋予各单元的授权，而不是来自个人，授权决定了它的上限。",
+    "src": "549221eb",
+    "status": "draft"
+  },
+  "organizational-intelligence.term": {
+    "en": "Organizational intelligence",
+    "text": "组织智能",
+    "src": "6de6bd7d",
+    "status": "draft"
+  },
+  "outcomes.definition": {
+    "en": "What customers and stakeholders actually value, such as the whole meal, a healthy patient or a customer who stays. Units above the horizontal divider own them.",
+    "text": "客户和利益相关者真正看重的东西，例如一整顿饭、一位康复的患者或一位留下来的客户。位于水平分界线之上的单元对其负责。",
+    "src": "7d575de4",
+    "status": "draft"
+  },
+  "outcomes.term": {
+    "en": "Outcomes",
+    "text": "Outcomes",
+    "src": "912d8e96",
+    "status": "draft"
+  },
+  "outputs.definition": {
+    "en": "The partial products of work (tickets closed, features shipped, documents done). More output does not create more customer value.",
+    "text": "工作的局部产物（关闭的工单、上线的功能、完成的文档）。更多的产出并不会带来更多的客户价值。",
+    "src": "626d3c44",
+    "status": "draft"
+  },
+  "outputs.term": {
+    "en": "Outputs",
+    "text": "Outputs",
+    "src": "e7ce9976",
+    "status": "draft"
+  },
+  "parity.definition": {
+    "en": "The result when everyone races to adopt the same AI tools, models and frameworks without changing structure: no advantage, only higher costs for consultants, tools and usage.",
+    "text": "每个人都争相采用同样的 AI 工具、模型和框架而不改变结构时的结果：没有优势，只有咨询、工具和使用上更高的成本。",
+    "src": "8ab681de",
+    "status": "draft"
+  },
+  "parity.term": {
+    "en": "Parity",
+    "text": "同质化",
+    "src": "717ef1d1",
+    "status": "draft"
+  },
+  "pin-factory.definition": {
+    "en": "Adam Smith's example of division of labor, used as a picture of the Resource Topology: workers pinned to narrow subtasks, efficient in stable, low-variability work.",
+    "text": "亚当·斯密关于分工的例子，用来描绘 Resource Topology：工人被固定在狭窄的子任务上，在稳定、低变化的工作中效率很高。",
+    "src": "f30a5c83",
+    "status": "draft"
+  },
+  "pin-factory.term": {
+    "en": "Pin factory",
+    "text": "别针工厂",
+    "src": "71b86e86",
+    "status": "draft"
+  },
+  "primary-and-secondary-concerns.definition": {
+    "en": "The primary concern is the org goal being optimized. A secondary concern is something valued and kept in view but pursued only as far as it does not undermine the primary one.",
+    "text": "首要关切是被优化的组织目标。次要关切是同样重视并持续关注的事项，但只追求到不损害首要关切为止。",
+    "src": "1b93936a",
+    "status": "draft"
+  },
+  "primary-and-secondary-concerns.term": {
+    "en": "Primary concern and secondary concerns",
+    "text": "首要关切与次要关切",
+    "src": "53c79659",
+    "status": "draft"
+  },
+  "principle-1-own-not-rent.definition": {
+    "en": "Lasting change is owned by those who create it; leaders must own it and cannot delegate it, and people support what they help create.",
+    "text": "持久的变革由创造它的人拥有；领导者必须自己承担，不能授权他人代劳，人们支持自己参与创造的东西。",
+    "src": "9971a982",
+    "status": "draft"
+  },
+  "principle-1-own-not-rent.term": {
+    "en": "Principle 1: Own, Not Rent",
+    "text": "原则 1：自己拥有，而非租用",
+    "src": "9e5c9875",
+    "status": "draft"
+  },
+  "principle-2-drive-performance-with-org-design.definition": {
+    "en": "Organization design turns intent into a system and drives performance more reliably than standalone culture programs.",
+    "text": "组织设计把意图变成体系，比孤立的文化项目更可靠地驱动绩效。",
+    "src": "a956ec5b",
+    "status": "draft"
+  },
+  "principle-2-drive-performance-with-org-design.term": {
+    "en": "Principle 2: Drive Performance with Org Design",
+    "text": "原则 2：用组织设计驱动绩效",
+    "src": "3b054b50",
+    "status": "draft"
+  },
+  "principle-3-shape-intelligence-with-mandates.definition": {
+    "en": "Reshape the skills and work mandates to change what the organization can see, learn and act on.",
+    "text": "重塑技能授权和工作授权，改变组织能够看到、学习和行动的范围。",
+    "src": "1e48bde1",
+    "status": "draft"
+  },
+  "principle-3-shape-intelligence-with-mandates.term": {
+    "en": "Principle 3: Shape Intelligence with Mandates",
+    "text": "原则 3：用授权塑造智能",
+    "src": "ac8f74e8",
+    "status": "draft"
+  },
+  "principle-4-fit-for-purpose.definition": {
+    "en": "Choose deliberately what to optimize for, accept what you will not optimize, and pick the topology that fits.",
+    "text": "有意识地选择要优化什么，接受你不会优化的部分，并选出适配的拓扑。",
+    "src": "9811a864",
+    "status": "draft"
+  },
+  "principle-4-fit-for-purpose.term": {
+    "en": "Principle 4: Fit for Purpose",
+    "text": "原则 4：适配目的",
+    "src": "1e705656",
+    "status": "draft"
+  },
+  "principle-5-change-through-a-learning-loop.definition": {
+    "en": "Change as a continuous evolution of fitness using MADE.",
+    "text": "借助 MADE，把变革视为适配度的持续演进。",
+    "src": "1e8ae545",
+    "status": "draft"
+  },
+  "principle-5-change-through-a-learning-loop.term": {
+    "en": "Principle 5: Change Through a Learning Loop",
+    "text": "原则 5：通过学习回路实现变革",
+    "src": "87e6cadc",
+    "status": "draft"
+  },
+  "principle-6-follow-the-value-learn-and-deliver.definition": {
+    "en": "Broaden mandates so people and teams follow value, learn and deliver, instead of re-slicing the organization every time work shifts.",
+    "text": "拓宽授权，让人和团队追随价值、学习并交付，而不是每当工作转移就重新切分组织。",
+    "src": "ca95e083",
+    "status": "draft"
+  },
+  "principle-6-follow-the-value-learn-and-deliver.term": {
+    "en": "Principle 6: Follow the Value—Learn and Deliver",
+    "text": "原则 6：追随价值，边学边交付",
+    "src": "45e1bd73",
+    "status": "draft"
+  },
+  "principle-7-make-the-org-goal-win.definition": {
+    "en": "Choose one primary org goal, accept its trade-offs and embed it into structure, mandates, incentives and decisions.",
+    "text": "选定一个首要组织目标，接受它的取舍，并把它嵌入结构、授权、激励和决策之中。",
+    "src": "51cac552",
+    "status": "draft"
+  },
+  "principle-7-make-the-org-goal-win.term": {
+    "en": "Principle 7: Make the Org Goal Win",
+    "text": "原则 7：让组织目标胜出",
+    "src": "1d6b4429",
+    "status": "draft"
+  },
+  "principle-8-embed-multi-learning.definition": {
+    "en": "Embed learning across domains so people can take broader responsibility and recombine skills as work evolves; amplify with AI.",
+    "text": "在各领域内嵌入学习，使人们能承担更广的责任，并随工作演变重新组合技能；用 AI 加以放大。",
+    "src": "c764345f",
+    "status": "draft"
+  },
+  "principle-8-embed-multi-learning.term": {
+    "en": "Principle 8: Embed Multi-Learning",
+    "text": "原则 8：嵌入 Multi-learning",
+    "src": "83e56ef5",
+    "status": "draft"
+  },
+  "principle-9-accelerate-with-strategic-ai.definition": {
+    "en": "Use AI to accelerate the chosen org design direction, after design, not instead of it.",
+    "text": "用 AI 加速已选定的组织设计方向，是在设计之后，而不是代替设计。",
+    "src": "a2b7b303",
+    "status": "draft"
+  },
+  "principle-9-accelerate-with-strategic-ai.term": {
+    "en": "Principle 9: Accelerate with Strategic AI",
+    "text": "原则 9：用战略性 AI 加速",
+    "src": "3adef5de",
+    "status": "draft"
+  },
+  "product-definition.definition": {
+    "en": "How broadly an organization defines its product, from one component to the whole; a broader definition widens the work mandate.",
+    "text": "组织对产品的定义有多宽，从单个组件到整体；定义越宽，工作授权越大。",
+    "src": "667c8927",
+    "status": "draft"
+  },
+  "product-definition.term": {
+    "en": "Product Definition",
+    "text": "产品定义",
+    "src": "e7f4b805",
+    "status": "draft"
+  },
+  "product-developer.definition": {
+    "en": "A broader role name that replaces rigid titles such as Junior Java Developer in an Adaptive Topology, with clear progression levels.",
+    "text": "一个更宽泛的角色名称，在 Adaptive Topology 中取代 Junior Java Developer 这类僵化的头衔，并带有清晰的成长层级。",
+    "src": "7e14dad9",
+    "status": "draft"
+  },
+  "product-developer.term": {
+    "en": "Product developer",
+    "text": "产品开发者",
+    "src": "9140147d",
+    "status": "draft"
+  },
+  "project-style-approach-to-change.definition": {
+    "en": "Treating change as a project with start and end dates, deadlines and milestones. It teaches the organization to change the change so it looks good on paper, and diverts attention from real behavioral change.",
+    "text": "把变革当作有起止日期、截止时间和里程碑的项目。它教会组织去“改造变革本身”以便在纸面上好看，并转移了对真正行为改变的注意力。",
+    "src": "bb90dcc1",
+    "status": "draft"
+  },
+  "project-style-approach-to-change.term": {
+    "en": "Project-style approach to change",
+    "text": "项目式变革方法",
+    "src": "197a7b34",
+    "status": "draft"
+  },
+  "redesigning-from-a-messy-state.definition": {
+    "en": "Real org design starts from inherited structures, people, habits, commitments and budgets while the business keeps running. It is refactoring on the move, not drawing an ideal diagram on a blank whiteboard.",
+    "text": "真实的组织设计始于继承而来的结构、人员、习惯、承诺和预算，同时业务照常运转。这是边走边重构，而不是在空白白板上画一张理想图。",
+    "src": "0b6cc7c1",
+    "status": "draft"
+  },
+  "redesigning-from-a-messy-state.term": {
+    "en": "Redesigning from a messy state",
+    "text": "从混乱现状出发重新设计",
+    "src": "96675553",
+    "status": "draft"
+  },
+  "regression-to-1x.definition": {
+    "en": "The short spike in performance after a transformation followed by drift back to the old baseline, because the underlying paradigm did not change.",
+    "text": "转型之后绩效短暂飙升，随后又回落到原有基线，因为底层的范式并没有改变。",
+    "src": "62b7e502",
+    "status": "draft"
+  },
+  "regression-to-1x.term": {
+    "en": "Regression to 1X",
+    "text": "Regression to 1X",
+    "src": "7634ae22",
+    "status": "draft"
+  },
+  "regression-to-resource.definition": {
+    "en": "A downward spiral in which teams with weak trust retreat into isolated tasks to avoid the discomfort of collaboration. External coordinators then assign work, and the units slide back toward the Resource Topology.",
+    "text": "一种恶性循环：信任薄弱的团队为了躲避协作的不适，退回到孤立的任务。外部协调者随后分配工作，各单元便滑回 Resource Topology。",
+    "src": "cc9b86f2",
+    "status": "draft"
+  },
+  "regression-to-resource.term": {
+    "en": "Regression to Resource",
+    "text": "Regression to Resource",
+    "src": "0bc97a15",
+    "status": "draft"
+  },
+  "remapping.definition": {
+    "en": "Mapping again after elevation to check what actually changed and close the learning loop.",
+    "text": "在 Elevate 之后再次绘制地图，检查究竟发生了哪些变化，从而闭合学习回路。",
+    "src": "4c254bf7",
+    "status": "draft"
+  },
+  "remapping.term": {
+    "en": "Remapping",
+    "text": "Remapping",
+    "src": "881b6c27",
+    "status": "draft"
+  },
+  "renting-change.definition": {
+    "en": "Leaving change to outsiders or to a leadership blessing instead of owning it. People then resist being changed, comply on the surface and mimic progress, and the improvement fades as a temporary overlay.",
+    "text": "把变革交给外部人员，或寄望于领导层的一句祝福，而不是自己承担。于是人们抗拒被改变，表面服从、假装进步，改进也像临时覆盖层一样逐渐消退。",
+    "src": "3e2bdec3",
+    "status": "draft"
+  },
+  "renting-change.term": {
+    "en": "Renting change",
+    "text": "Renting change",
+    "src": "7bbeab77",
+    "status": "draft"
+  },
+  "resource-topology.definition": {
+    "en": "Directing units over Doing units: work divided by function, deep specialists, planning by resource managers. Org goal: efficiency of specialized skills under stable demand.",
+    "text": "Directing 单元位于 Doing 单元之上：按职能划分工作，专家深耕，由资源经理做计划。组织目标：在需求稳定时发挥专业技能的效率。",
+    "src": "bf7b2a46",
+    "status": "draft"
+  },
+  "resource-topology.term": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "routine-expertise-and-adaptive-expertise.definition": {
+    "en": "Routine expertise applies known procedures well in stable conditions; adaptive expertise extends, recombines or reinvents skills when conditions change.",
+    "text": "常规专长是在稳定条件下熟练运用已知流程；适应性专长是在条件变化时扩展、重组或重新创造技能。",
+    "src": "3ebee5d1",
+    "status": "draft"
+  },
+  "routine-expertise-and-adaptive-expertise.term": {
+    "en": "Routine expertise and adaptive expertise",
+    "text": "常规专长与适应性专长",
+    "src": "80972fc7",
+    "status": "draft"
+  },
+  "routinization-of-work.definition": {
+    "en": "The gradual conversion of novel work into routine work that machines absorb, in waves; the boundary of what stays human keeps moving.",
+    "text": "新颖的工作逐渐转变为由机器接手的常规工作，一波接一波；留给人的那条边界不断移动。",
+    "src": "4f25cf50",
+    "status": "draft"
+  },
+  "routinization-of-work.term": {
+    "en": "Routinization of work",
+    "text": "工作的常规化",
+    "src": "7cf5425c",
+    "status": "draft"
+  },
+  "scope-of-skills-mandate.definition": {
+    "en": "The horizontal axis: how many skills a unit has and is authorized to apply in its work. Units on the left are incomplete, on the right complete.",
+    "text": "横轴：一个单元拥有并被授权在工作中运用多少种技能。左侧的单元不完整，右侧的完整。",
+    "src": "f6912431",
+    "status": "draft"
+  },
+  "scope-of-skills-mandate.term": {
+    "en": "Scope of Skills Mandate",
+    "text": "技能授权范围",
+    "src": "0007322b",
+    "status": "draft"
+  },
+  "scope-of-work-mandate.definition": {
+    "en": "The vertical axis: the kind of work a unit is trusted to handle, from narrow tasks at the bottom to shared ownership of whole outcomes at the top.",
+    "text": "纵轴：一个单元被信任处理的工作类型，从底部的狭窄任务，到顶部对整体成果的共同负责。",
+    "src": "e9050626",
+    "status": "draft"
+  },
+  "scope-of-work-mandate.term": {
+    "en": "Scope of Work Mandate",
+    "text": "工作授权范围",
+    "src": "be1598cf",
+    "status": "draft"
+  },
+  "secondary-skills.definition": {
+    "en": "Skills people hold beyond their job title, from an old course or earlier work, which can rise to the occasion when needed. Capability extends beyond role names.",
+    "text": "人们在职位头衔之外拥有的技能，来自以往的课程或早期的工作，需要时可以挺身而出。能力超出角色名称的范围。",
+    "src": "8890863e",
+    "status": "draft"
+  },
+  "secondary-skills.term": {
+    "en": "Secondary skills",
+    "text": "次要技能",
+    "src": "b4b18a8e",
+    "status": "draft"
+  },
+  "sensemaking.definition": {
+    "en": "Making sense together of how work really happens, by observing the system rather than judging people. In MADE it reduces the psychological threat of change and prepares learning and commitment before any structural change.",
+    "text": "通过观察系统而不是评判人，共同弄清工作到底是如何发生的。在 MADE 中，它降低变革带来的心理威胁，并在任何结构性变革之前为学习和认同做好准备。",
+    "src": "dab101f0",
+    "status": "draft"
+  },
+  "sensemaking.term": {
+    "en": "Sensemaking",
+    "text": "Sensemaking",
+    "src": "bfc06789",
+    "status": "draft"
+  },
+  "skills-mandate-levels.definition": {
+    "en": "The four levels across the 4x4 map: Functional, Multi-Skill, End-to-End and Expanding. The 2x2 divider sits between Multi-Skill and End-to-End.",
+    "text": "4×4 地图横向的四个层级：Functional、Multi-Skill、End-to-End 和 Expanding。2×2 的分界线位于 Multi-Skill 与 End-to-End 之间。",
+    "src": "c97182a7",
+    "status": "draft"
+  },
+  "skills-mandate-levels.term": {
+    "en": "Skills-mandate levels",
+    "text": "技能授权层级",
+    "src": "e14e1de2",
+    "status": "draft"
+  },
+  "star-model.definition": {
+    "en": "Jay Galbraith's model of five interlinked design elements (org design criteria drawn from the org goal, structure, processes, rewards, people) that must be adjusted together. MADE adds a learning loop around it.",
+    "text": "Jay Galbraith 提出的模型，包含五个相互关联的设计要素（源自组织目标的组织设计标准、结构、流程、奖励、人员），必须一起调整。MADE 在其外围加上了一个学习闭环。",
+    "src": "f7bf7fd7",
+    "status": "draft"
+  },
+  "star-model.term": {
+    "en": "Star Model",
+    "text": "Star Model",
+    "src": "13a03c74",
+    "status": "draft"
+  },
+  "strategic-ai.definition": {
+    "en": "Purposeful adoption of AI paired with deliberate organizational design: first find the missing capabilities and structural constraints, then use AI to build and accelerate them.",
+    "text": "有目的地采用 AI，并配合有意识的组织设计：先找出缺失的能力和结构性约束，再用 AI 去构建和加速它们。",
+    "src": "1a8389bb",
+    "status": "draft"
+  },
+  "strategic-ai.term": {
+    "en": "Strategic AI",
+    "text": "战略性 AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "strategic-alignment.definition": {
+    "en": "How well the organization delivers what its strategy requires; achieved when org design elements are kept in sync with the strategy.",
+    "text": "组织在多大程度上交付了战略所要求的成果；当组织设计要素与战略保持同步时即可实现。",
+    "src": "9f7d46f8",
+    "status": "draft"
+  },
+  "strategic-alignment.term": {
+    "en": "Strategic alignment",
+    "text": "战略一致性",
+    "src": "edaad2fa",
+    "status": "draft"
+  },
+  "strategic-capabilities.definition": {
+    "en": "The abilities, such as adaptability, impact and relevance, that ultimately raise performance; each topology trades some capabilities off against others.",
+    "text": "最终推动绩效提升的能力，如适应力、影响力和相关性；每种拓扑都会在牺牲部分能力的同时换取另一些能力。",
+    "src": "67dbc110",
+    "status": "draft"
+  },
+  "strategic-capabilities.term": {
+    "en": "Strategic capabilities",
+    "text": "战略能力",
+    "src": "b5f68387",
+    "status": "draft"
+  },
+  "strategic-org-design.definition": {
+    "en": "Deliberately aligning business strategy, the org goal and the change process, instead of letting the design accrete by accident.",
+    "text": "有意识地让业务战略、组织目标和变革过程保持一致，而不是任由设计在无意中层层堆积。",
+    "src": "3bdd232e",
+    "status": "draft"
+  },
+  "strategic-org-design.term": {
+    "en": "Strategic org design",
+    "text": "战略性组织设计",
+    "src": "d0e7b7af",
+    "status": "draft"
+  },
+  "stream-aligned-team.definition": {
+    "en": "A team type popularized by Team Topologies, optimized for fast flow of change: it gets work within its field of expertise, inside a bounded area. On the map it sits in Delivering; dependencies between such teams remain, and the design needs regular reorganization as strategy moves.",
+    "text": "由 Team Topologies 推广的团队类型，为快速的变更流动而优化：它在有限领域内接手自己专长范围内的工作。在地图上位于 Delivering；这类团队之间的依赖依然存在，且随着战略转移，设计需要定期重组。",
+    "src": "d4be3036",
+    "status": "draft"
+  },
+  "stream-aligned-team.term": {
+    "en": "Stream-aligned team",
+    "text": "Stream-aligned team",
+    "src": "2ea68301",
+    "status": "draft"
+  },
+  "study-and-improve.definition": {
+    "en": "The two halves of MADE: Study is Map plus Assess; Improve is Design plus Elevate.",
+    "text": "MADE 的两半：Study 是 Map 加 Assess；Improve 是 Design 加 Elevate。",
+    "src": "26b32f40",
+    "status": "draft"
+  },
+  "study-and-improve.term": {
+    "en": "Study and Improve",
+    "text": "Study and Improve",
+    "src": "1e691335",
+    "status": "draft"
+  },
+  "swarming.definition": {
+    "en": "Teams clustering fluidly around high-value outcomes in an Adaptive Topology, like swarm intelligence in nature.",
+    "text": "在 Adaptive Topology 中，团队围绕高价值成果灵活聚集，就像自然界的群体智能。",
+    "src": "da7c32ec",
+    "status": "draft"
+  },
+  "swarming.term": {
+    "en": "Swarming",
+    "text": "Swarming",
+    "src": "d6256a27",
+    "status": "draft"
+  },
+  "switching-costs.definition": {
+    "en": "The economic reading of the vertical axis: how hard it is to redirect effort to new opportunities, which falls as a unit moves up.",
+    "text": "对纵轴的经济学解读：把精力转向新机会有多困难，单元越向上移动，这一成本越低。",
+    "src": "10e7ed19",
+    "status": "draft"
+  },
+  "switching-costs.term": {
+    "en": "Switching costs",
+    "text": "转换成本",
+    "src": "aac6b4be",
+    "status": "draft"
+  },
+  "systems-thinking.definition": {
+    "en": "A core skill of MADE: performance comes not from individual elements but from how they interact. Improving visible roles, processes and tools while leaving interaction patterns untouched brings no lasting gain.",
+    "text": "MADE 的核心技能：绩效并非来自单个要素，而是来自要素之间的互动。只改进看得见的角色、流程和工具，而不触动互动模式，不会带来持久的收益。",
+    "src": "5f283aa4",
+    "status": "draft"
+  },
+  "systems-thinking.term": {
+    "en": "Systems thinking",
+    "text": "系统思考",
+    "src": "68438e50",
+    "status": "draft"
+  },
+  "task-force-team.definition": {
+    "en": "A temporary team spun up to finish cross-cutting work that does not fit the stable team boundaries. It signals a fall back into resource allocation and crisis management when unplanned work arrives.",
+    "text": "为完成不适合稳定团队边界的跨领域工作而临时组建的团队。当计划外的工作到来时，它标志着退回到资源分配和危机管理。",
+    "src": "deec6f75",
+    "status": "draft"
+  },
+  "task-force-team.term": {
+    "en": "Task force team",
+    "text": "专项小组",
+    "src": "3e8618f2",
+    "status": "draft"
+  },
+  "team-of-teams.definition": {
+    "en": "An organizational model in which small autonomous teams share purpose and transparency and are linked into a network that co-owns a broad outcome.",
+    "text": "一种组织模式：多个小型自治团队共享目标并保持透明，连接成网络，共同对一项宽泛的成果负责。",
+    "src": "8c651fee",
+    "status": "draft"
+  },
+  "team-of-teams.term": {
+    "en": "Team-of-teams",
+    "text": "团队的团队",
+    "src": "c9c196f8",
+    "status": "draft"
+  },
+  "the-living-ecosystem.definition": {
+    "en": "Metaphor for the Adaptive Topology: an organization that senses change, integrates learning and adjusts direction continuously.",
+    "text": "Adaptive Topology 的隐喻：一个感知变化、整合学习、持续调整方向的组织。",
+    "src": "3448fa9f",
+    "status": "draft"
+  },
+  "the-living-ecosystem.term": {
+    "en": "The Living Ecosystem",
+    "text": "The Living Ecosystem",
+    "src": "3c02c47a",
+    "status": "draft"
+  },
+  "the-mechanistic-system.definition": {
+    "en": "Metaphor for the Resource Topology: precision through specialization, effective where work can be planned in advance.",
+    "text": "Resource Topology 的隐喻：通过专业化实现精确，适用于可以事先规划的工作。",
+    "src": "41e06bc4",
+    "status": "draft"
+  },
+  "the-mechanistic-system.term": {
+    "en": "The Mechanistic System",
+    "text": "The Mechanistic System",
+    "src": "b687d56d",
+    "status": "draft"
+  },
+  "the-structured-network.definition": {
+    "en": "Metaphor for the Delivery Topology: stable cross-functional teams optimized for flow, coordinating through synchronous collaboration inside teams.",
+    "text": "Delivery Topology 的隐喻：为流动而优化的稳定跨职能团队，通过团队内部的同步协作来协调。",
+    "src": "70edb581",
+    "status": "draft"
+  },
+  "the-structured-network.term": {
+    "en": "The Structured Network",
+    "text": "The Structured Network",
+    "src": "4d09cb31",
+    "status": "draft"
+  },
+  "top-down-intent-bottom-up-change.definition": {
+    "en": "Leaders set the direction and people shape the change from within. Together they move decisions closer to the work, shorten feedback loops and reduce dependence on central coordination, as at Poster.",
+    "text": "领导者设定方向，人们从内部塑造变革。两者结合，使决策更靠近工作、缩短反馈回路、减少对集中协调的依赖，Poster 就是这样做的。",
+    "src": "eb6c3457",
+    "status": "draft"
+  },
+  "top-down-intent-bottom-up-change.term": {
+    "en": "Top-down intent and bottom-up change",
+    "text": "自上而下的意图与自下而上的变革",
+    "src": "33ffaa03",
+    "status": "draft"
+  },
+  "transaction-costs.definition": {
+    "en": "The economic reading of the horizontal axis: the cost of getting work through handoffs, which falls as a unit moves right.",
+    "text": "对横轴的经济学解读：通过交接完成工作的成本，单元越向右移动，这一成本越低。",
+    "src": "3c7b226f",
+    "status": "draft"
+  },
+  "transaction-costs.term": {
+    "en": "Transaction costs",
+    "text": "交易成本",
+    "src": "e45ed485",
+    "status": "draft"
+  },
+  "transformation-treadmill.definition": {
+    "en": "The cycle of recurring, wasteful reorganizations: reorg after reorg, each as justified, as expensive and as disruptive as the last. Each one treats symptoms while increasing instability and change fatigue.",
+    "text": "周而复始、浪费资源的重组循环：一次又一次重组，每一次都同样冠冕堂皇、同样昂贵、同样扰乱。每一次都只治标，却加剧了不稳定和变革疲劳。",
+    "src": "8159f0a6",
+    "status": "draft"
+  },
+  "transformation-treadmill.term": {
+    "en": "Transformation treadmill",
+    "text": "Transformation treadmill",
+    "src": "5ed2cc1a",
+    "status": "draft"
+  },
+  "triple-taxation.definition": {
+    "en": "Gene Gendel's picture of how client companies are taxed three times: by consultancies selling big-bang transformations, by frameworks that demand retraining and licensing, and by the tools that lock those frameworks in place.",
+    "text": "Gene Gendel 对客户公司被“征税”三次的描绘：咨询公司兜售大爆炸式转型，框架要求重新培训和购买授权，工具又把这些框架锁死。",
+    "src": "71a1592c",
+    "status": "draft"
+  },
+  "triple-taxation.term": {
+    "en": "Triple taxation",
+    "text": "Triple taxation",
+    "src": "14594536",
+    "status": "draft"
+  },
+  "unit-icons.definition": {
+    "en": "The five unit symbols on every map: human, AI agent, pool, team, team of teams.",
+    "text": "每张地图上的五种单元符号：人、AI 智能体、人才池、团队、团队的团队。",
+    "src": "748dd9eb",
+    "status": "draft"
+  },
+  "unit-icons.term": {
+    "en": "Unit icons",
+    "text": "单元图标",
+    "src": "320e6303",
+    "status": "draft"
+  },
+  "unpinning.definition": {
+    "en": "Moving units out of narrow lanes (workers in Resource, teams in Delivery) by expanding both mandates up to the level of the whole product.",
+    "text": "让单元走出狭窄的通道（Resource 中的工人、Delivery 中的团队），把两种授权都扩大到整个产品的层面。",
+    "src": "c219492b",
+    "status": "draft"
+  },
+  "unpinning.term": {
+    "en": "Unpinning",
+    "text": "Unpinning",
+    "src": "ce98590b",
+    "status": "draft"
+  },
+  "value-stream.definition": {
+    "en": "In Lean and the Toyota Production System, the flow of value end-to-end from the customer's view, activated by customer pull, from concept to cash.",
+    "text": "在精益和丰田生产方式中，从客户视角看的端到端价值流动，由客户拉动启动，从概念到现金。",
+    "src": "3e0b189e",
+    "status": "draft"
+  },
+  "value-stream.term": {
+    "en": "Value stream",
+    "text": "价值流",
+    "src": "c8243b7a",
+    "status": "draft"
+  },
+  "versatile-team.definition": {
+    "en": "A team with broad skills that owns a whole product instead of one component. Poster moved from twelve narrow specialist component teams to six versatile whole-product teams; Y Soft runs twenty as a team-of-teams.",
+    "text": "技能广泛、负责整个产品而非单个组件的团队。Poster 从十二个狭窄的专家组件团队转变为六个多面手的整体产品团队；Y Soft 把二十个团队作为团队的团队来运作。",
+    "src": "2e90bb7f",
+    "status": "draft"
+  },
+  "versatile-team.term": {
+    "en": "Versatile team",
+    "text": "多面手团队",
+    "src": "e7a21480",
+    "status": "draft"
+  },
+  "vertical-divider.definition": {
+    "en": "The line on the map separating incomplete units (left) from complete units (right).",
+    "text": "地图上将不完整单元（左）与完整单元（右）分开的线。",
+    "src": "edd84ffc",
+    "status": "draft"
+  },
+  "vertical-divider.term": {
+    "en": "Vertical divider",
+    "text": "垂直分界线",
+    "src": "39a2ed83",
+    "status": "draft"
+  },
+  "volunteering-for-change.definition": {
+    "en": "People opting in to shape and lead a change instead of being pushed into it. A core group of volunteers carries the change with energy and credibility, and peers choosing to join gives it legitimacy and momentum.",
+    "text": "人们主动选择塑造和领导变革，而不是被推着走。一批自愿者组成的核心群体以热情和公信力推动变革，同伴们选择加入则赋予变革正当性和势头。",
+    "src": "f752e10c",
+    "status": "draft"
+  },
+  "volunteering-for-change.term": {
+    "en": "Volunteering for change",
+    "text": "自愿参与变革",
+    "src": "76f00423",
+    "status": "draft"
+  },
+  "waterfall.definition": {
+    "en": "Sequential development, where each team optimizes its part, hands over and waits. Feedback arrives late and iteration collapses into stage gates. The book treats it as a structural outcome of component teams, not a mindset problem.",
+    "text": "串行的开发方式：各团队优化自己的部分，交接后等待。反馈来得很晚，迭代沦为阶段关卡。书中把它视为组件团队的结构性结果，而不是心态问题。",
+    "src": "1a2bfe38",
+    "status": "draft"
+  },
+  "waterfall.term": {
+    "en": "Waterfall",
+    "text": "瀑布",
+    "src": "6b53bc22",
+    "status": "draft"
+  },
+  "work-mandate-levels.definition": {
+    "en": "The four levels up the 4x4 map: Tasks, Capabilities, Partial Solution and Whole Solution. The 2x2 divider sits between Capabilities and Partial Solution.",
+    "text": "4×4 地图纵向的四个层级：Tasks、Capabilities、Partial Solution 和 Whole Solution。2×2 的分界线位于 Capabilities 与 Partial Solution 之间。",
+    "src": "d4c86a46",
+    "status": "draft"
+  },
+  "work-mandate-levels.term": {
+    "en": "Work-mandate levels",
+    "text": "工作授权层级",
+    "src": "0135b4cb",
+    "status": "draft"
+  }
+}

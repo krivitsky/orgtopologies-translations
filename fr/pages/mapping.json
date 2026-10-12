@@ -1,0 +1,752 @@
+{
+  "four-by-four._nav": {
+    "en": "The 4×4 Map",
+    "text": "La carte 4×4",
+    "src": "7e650bde",
+    "status": "draft"
+  },
+  "frameworks.goDeeper.body": {
+    "en": "See what a framework really optimizes for. “We are doing SAFe” says little about your design; mapping frameworks with Org Topologies shows their goals and their limits, so you can choose what fits.",
+    "text": "Voyez ce qu’un framework optimise réellement. « Nous faisons du SAFe » en dit peu sur votre conception ; cartographier les frameworks avec Org Topologies révèle leurs objectifs et leurs limites, pour que vous choisissiez ce qui vous convient.",
+    "src": "2db793a2",
+    "status": "draft"
+  },
+  "frameworks.goDeeper.cta.label": {
+    "en": "To framework mappings →",
+    "text": "Voir les frameworks →",
+    "src": "bec57e5d",
+    "status": "draft"
+  },
+  "frameworks.heading": {
+    "en": "Mapping Your Framework?",
+    "text": "Cartographier votre framework ?",
+    "src": "26589f7f",
+    "status": "draft"
+  },
+  "frameworks.kicker": {
+    "en": "FRAMEWORK MAPPINGS",
+    "text": "CARTOGRAPHIES DE FRAMEWORKS",
+    "src": "b1e5dbc8",
+    "status": "draft"
+  },
+  "go-see._nav": {
+    "en": "Go See, with a Map",
+    "text": "Go See, avec une carte",
+    "src": "12efc89a",
+    "status": "draft"
+  },
+  "go-see.heading": {
+    "en": "Go see, with a map",
+    "text": "Go See, avec une carte",
+    "src": "4d7e996e",
+    "status": "draft"
+  },
+  "go-see.kicker": {
+    "en": "HOW TO MAP · GO SEE",
+    "text": "COMMENT CARTOGRAPHIER · GO SEE",
+    "src": "ee61471c",
+    "status": "draft"
+  },
+  "go-see.lead": {
+    "en": "A topology is never assessed from a desk. Mapping and the Gemba, the place where the work actually happens, make each other better. Map without judgment, with curiosity, and together.",
+    "text": "On n’évalue jamais une topologie depuis un bureau. La cartographie et le Gemba, l’endroit où le travail se fait réellement, s’enrichissent mutuellement. Cartographiez sans jugement, avec curiosité, et ensemble.",
+    "src": "d78bd185",
+    "status": "draft"
+  },
+  "go-see.points.0.text": {
+    "en": "You can’t place a unit from an org chart. Watch the work — what comes in, what goes out, who waits for whom — then draw it, not the titles and layers.",
+    "text": "On ne place pas une unité à partir d’un organigramme. Observez le travail (ce qui entre, ce qui sort, qui attend qui), puis dessinez-le, plutôt que les titres et les niveaux hiérarchiques.",
+    "src": "1ee501fd",
+    "status": "draft"
+  },
+  "go-see.points.0.title": {
+    "en": "Go See feeds the map",
+    "text": "Go See nourrit la carte",
+    "src": "11c6c5bf",
+    "status": "draft"
+  },
+  "go-see.points.1.text": {
+    "en": "Once drawn, it shows where to look next: heavy dependency lines, hand-offs between incomplete units, the gap to the topology you need.",
+    "text": "Une fois dessinée, elle montre où regarder ensuite : les lignes de dépendance épaisses, les passages de relais entre unités incomplètes, l’écart avec la topologie dont vous avez besoin.",
+    "src": "f8bcd91b",
+    "status": "draft"
+  },
+  "go-see.points.1.title": {
+    "en": "The map guides the walk",
+    "text": "La carte guide la visite",
+    "src": "aedb1ad9",
+    "status": "draft"
+  },
+  "go-see.points.2.text": {
+    "en": "The map can be reviewed, challenged and improved together, so leaders and workers co-own the discoveries that matter most.",
+    "text": "La carte peut être relue, discutée et améliorée ensemble, si bien que dirigeants et opérationnels co-détiennent les découvertes qui comptent le plus.",
+    "src": "a681b133",
+    "status": "draft"
+  },
+  "go-see.points.2.title": {
+    "en": "A shared artifact",
+    "text": "Un artefact partagé",
+    "src": "3bf9d418",
+    "status": "draft"
+  },
+  "go-see.questions.0.question": {
+    "en": "Which business outcome are we mapping, and who has to work on it?",
+    "text": "Quel résultat business cartographions-nous, et qui doit y travailler ?",
+    "src": "c48e30ac",
+    "status": "draft"
+  },
+  "go-see.questions.0.title": {
+    "en": "The outcome",
+    "text": "Le résultat",
+    "src": "d068666f",
+    "status": "draft"
+  },
+  "go-see.questions.1.question": {
+    "en": "What does the unit take on toward that outcome?",
+    "text": "Que prend en charge l’unité pour atteindre ce résultat ?",
+    "src": "4d647569",
+    "status": "draft"
+  },
+  "go-see.questions.1.title": {
+    "en": "The kind of work",
+    "text": "Le type de travail",
+    "src": "a6fd05ef",
+    "status": "draft"
+  },
+  "go-see.questions.2.question": {
+    "en": "What does it rely on, and from where?",
+    "text": "De quoi dépend-elle, et d’où cela vient-il ?",
+    "src": "f8ec1241",
+    "status": "draft"
+  },
+  "go-see.questions.2.title": {
+    "en": "Its inputs",
+    "text": "Ses entrées",
+    "src": "b4b85068",
+    "status": "draft"
+  },
+  "go-see.questions.3.question": {
+    "en": "What does it produce, and for whom?",
+    "text": "Que produit-elle, et pour qui ?",
+    "src": "7fd02c35",
+    "status": "draft"
+  },
+  "go-see.questions.3.title": {
+    "en": "Its outputs",
+    "text": "Ses sorties",
+    "src": "fad7c1d2",
+    "status": "draft"
+  },
+  "go-see.questions.4.question": {
+    "en": "How does work move — idea to cash?",
+    "text": "Comment le travail circule-t-il, de l’idée à l’encaissement ?",
+    "src": "0ff95ec9",
+    "status": "draft"
+  },
+  "go-see.questions.4.title": {
+    "en": "The flow",
+    "text": "Le flux",
+    "src": "c70103ce",
+    "status": "draft"
+  },
+  "go-see.quote.paragraphs.0": {
+    "en": "Such a map doesn’t replace visiting the Gemba: mapping and Go See reinforce each other. … Once mapped, the value-creation terrain appears as a living structure—not a static org chart frozen in time—highlighting exactly where the improvement is most needed.",
+    "text": "Une telle carte ne remplace pas la visite du Gemba : cartographie et Go See se renforcent mutuellement. … Une fois cartographié, le terrain de la création de valeur apparaît comme une structure vivante, et non comme un organigramme statique figé dans le temps, et révèle exactement où l’amélioration est la plus nécessaire.",
+    "src": "4ee3a7e7",
+    "status": "draft"
+  },
+  "go-see.quote.source": {
+    "en": "FROM THE BOOK · 10X ORG, “GO SEE WITH A MAP”",
+    "text": "EXTRAIT DU LIVRE · 10X ORG, « GO SEE WITH A MAP »",
+    "src": "ead34e3c",
+    "status": "draft"
+  },
+  "go-see.stepGoal.goal": {
+    "en": "Which parts of our organization contribute to creating value, and how do they interact to produce it — from idea to cash?",
+    "text": "Quelles parties de notre organisation contribuent à créer de la valeur, et comment interagissent-elles pour la produire, de l’idée à l’encaissement ?",
+    "src": "fdcc5a1e",
+    "status": "draft"
+  },
+  "go-see.stepGoal.value": {
+    "en": "Curiosity",
+    "text": "Curiosité",
+    "src": "c0a70c18",
+    "status": "draft"
+  },
+  "intelligences._nav": {
+    "en": "Four Intelligences",
+    "text": "Quatre intelligences",
+    "src": "06447a42",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.0": {
+    "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
+    "text": "De même que l’on peut être « doué pour les mots », « doué pour la logique », « doué pour la musique », etc., les organisations expriment des formes d’intelligence différentes, les *intelligences*, à travers les mandats structurés confiés à leurs unités.",
+    "src": "a78780f8",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.1": {
+    "en": "[Organizational intelligence](term:organizational-intelligence) is not a fixed trait and does not reside in individuals. These qualities emerge from the system itself—specifically from the mandates that define who is allowed to decide, act, learn, and shape outcomes. When mandates are narrow, intelligence is constrained. When mandates are broad and coherent, intelligence expands.",
+    "text": "L’[intelligence organisationnelle](term:organizational-intelligence) n’est pas un trait figé et ne réside pas dans les individus. Ces qualités émergent du système lui-même, et plus précisément des mandats qui définissent qui est autorisé à décider, agir, apprendre et façonner les résultats. Quand les mandats sont étroits, l’intelligence est bridée. Quand ils sont larges et cohérents, elle s’étend.",
+    "src": "b013a554",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.2": {
+    "en": "The question is no longer which intelligence is “better,” but which combination best supports the current strategic challenge—and how that mix must evolve as strategy changes. … Organizations are not locked into a single intelligence; they can intentionally develop neglected ones and combine them to support performance.",
+    "text": "La question n’est plus de savoir quelle intelligence est « meilleure », mais quelle combinaison soutient le mieux le défi stratégique du moment, et comment ce dosage doit évoluer avec la stratégie. … Les organisations ne sont pas enfermées dans une seule intelligence ; elles peuvent développer délibérément celles qu’elles ont négligées et les combiner pour soutenir la performance.",
+    "src": "0d6beaa0",
+    "status": "draft"
+  },
+  "intelligences.quote.source": {
+    "en": "FROM THE BOOK · 10X ORG, PRINCIPLE 3: SHAPE INTELLIGENCE WITH MANDATES",
+    "text": "EXTRAIT DU LIVRE · 10X ORG, PRINCIPE 3 : FAÇONNER L’INTELLIGENCE PAR LES MANDATS",
+    "src": "fa14ac35",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Map your organization with a simple language and one map of two mandates, then see how it really works. Learn the four intelligences and start with free tools.",
+    "text": "Cartographiez votre organisation avec un langage simple et une carte à deux mandats, puis voyez comment elle fonctionne vraiment. Découvrez les quatre intelligences et des outils gratuits.",
+    "src": "6ad2fef4",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Map your organization",
+    "text": "Cartographiez votre organisation",
+    "src": "f0fb5bb8",
+    "status": "draft"
+  },
+  "poster._nav": {
+    "en": "Mapping Examples",
+    "text": "Exemples de cartographie",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "poster.byline.kicker": {
+    "en": "MAPPING A REAL ORG CHANGE · CASE BY ALEXEY KRIVITSKY",
+    "text": "CARTOGRAPHIER UN VRAI CHANGEMENT D’ORGANISATION · CAS PAR ALEXEY KRIVITSKY",
+    "src": "1a8864e3",
+    "status": "draft"
+  },
+  "poster.cta.label": {
+    "en": "Read Alexey’s full case study →",
+    "text": "Lire l’étude de cas complète d’Alexey →",
+    "src": "e8524f64",
+    "status": "draft"
+  },
+  "poster.figure.alt": {
+    "en": "Poster, mapping the change: component teams and team-level managers in Doing elevate to a team of teams with product and engineering managers in Driving",
+    "text": "Poster, cartographie du changement : les équipes composants et les managers d’équipe dans Doing évoluent vers une équipe d’équipes avec des managers produit et ingénierie dans Driving",
+    "src": "fa818256",
+    "status": "draft"
+  },
+  "poster.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "poster.footer.text": {
+    "en": "Mapping does not change the organization. But without mapping, change is blind.",
+    "text": "La cartographie ne change pas l’organisation. Mais sans cartographie, le changement est aveugle.",
+    "src": "3d1e9ccb",
+    "status": "draft"
+  },
+  "poster.heading": {
+    "en": "Mapping Examples",
+    "text": "Exemples de cartographie",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "poster.intro": {
+    "en": "In 2021, Alexey Krivitsky helped Poster, a Ukraine-based SaaS company, rethink its organizational design. It reshaped its R&D from 12 narrow, component-oriented specialist teams into 6 versatile whole-product teams.",
+    "text": "En 2021, Alexey Krivitsky a aidé Poster, une entreprise SaaS basée en Ukraine, à repenser sa conception organisationnelle. Elle a transformé sa R&D, passée de 12 équipes de spécialistes étroites, centrées sur des composants, à 6 équipes polyvalentes responsables d’un produit entier.",
+    "src": "c1ad25ab",
+    "status": "draft"
+  },
+  "poster.points.0.text": {
+    "en": "Component teams with team-level managers, each with its own list of work, tied together by dependencies.",
+    "text": "Des équipes composants avec des managers au niveau de l’équipe, chacune avec sa propre liste de travail, reliées entre elles par des dépendances.",
+    "src": "c96e9c1f",
+    "status": "draft"
+  },
+  "poster.points.0.title": {
+    "en": "Before: Doing",
+    "text": "Avant : Doing",
+    "src": "c10935e5",
+    "status": "draft"
+  },
+  "poster.points.1.text": {
+    "en": "One [team of teams](term:team-of-teams) on a shared product backlog, with a product owner, product managers and engineering managers around it.",
+    "text": "Une [équipe d’équipes](term:team-of-teams) autour d’un backlog produit commun, entourée d’un product owner, de product managers et d’engineering managers.",
+    "src": "cb69f6f6",
+    "status": "draft"
+  },
+  "poster.points.1.title": {
+    "en": "After: Driving",
+    "text": "Après : Driving",
+    "src": "45079c72",
+    "status": "draft"
+  },
+  "poster.points.2.text": {
+    "en": "Teams took ownership of feature adoption: a feature is done once a selected client actively uses it.",
+    "text": "Les équipes se sont approprié l’adoption des fonctionnalités : une fonctionnalité est terminée dès qu’un client sélectionné l’utilise activement.",
+    "src": "466067a5",
+    "status": "draft"
+  },
+  "poster.points.2.title": {
+    "en": "Done means adopted",
+    "text": "Terminé signifie adopté",
+    "src": "9ba86a0e",
+    "status": "draft"
+  },
+  "poster.points.3.text": {
+    "en": "When COVID-19 and later the full-scale invasion hit, Poster did not need to redesign under pressure.",
+    "text": "Quand le COVID-19, puis l’invasion à grande échelle, ont frappé, Poster n’a pas eu à se réorganiser sous la pression.",
+    "src": "424e780d",
+    "status": "draft"
+  },
+  "poster.points.3.title": {
+    "en": "Resilient by design",
+    "text": "Résilient par conception",
+    "src": "94ae5f04",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.context": {
+    "en": "DIM.RIA is one of Ukraine’s leading real estate marketplaces. When the full-scale invasion hit the market in 2022, it redesigned its structure, entirely remotely, around LeSS principles. The map shows where it started: a [Resource Topology](term:resource-topology) (Directing + Doing), with product managers handing work down to many small teams. The case study tells how it moved toward an adaptive organization.",
+    "text": "DIM.RIA est l’une des principales places de marché immobilières d’Ukraine. Quand l’invasion à grande échelle a frappé le marché en 2022, elle a repensé sa structure, entièrement à distance, autour des principes de LeSS. La carte montre le point de départ : une [Resource Topology](term:resource-topology) (Directing + Doing), où des product managers transmettent le travail à de nombreuses petites équipes. L’étude de cas raconte comment elle a évolué vers une organisation adaptative.",
+    "src": "866751b6",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.meta": {
+    "en": "PropTech · Ukraine · LeSS",
+    "text": "PropTech · Ukraine · LeSS",
+    "src": "144536cc",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.title": {
+    "en": "DIM.RIA: adapting in wartime",
+    "text": "DIM.RIA : s’adapter en temps de guerre",
+    "src": "9f05cc28",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.context": {
+    "en": "Flo Health, Europe’s first femtech unicorn, runs 20+ [cross-functional](term:cross-functional) product teams across mobile, AI, content, medical and commercial. Instead of dissolving its domain teams, Flo added a General Manager layer as an overlay, so each initiative has one owner while the domain teams keep their expertise.",
+    "text": "Flo Health, première licorne femtech d’Europe, compte plus de 20 équipes produit [pluridisciplinaires](term:cross-functional) couvrant le mobile, l’IA, le contenu, le médical et le commercial. Plutôt que de dissoudre ses équipes de domaine, Flo a ajouté une couche de General Managers en surcouche : chaque initiative a ainsi un seul responsable, tandis que les équipes de domaine gardent leur expertise.",
+    "src": "0a80c193",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.meta": {
+    "en": "Femtech · 350 people in product and engineering",
+    "text": "Femtech · 350 personnes en produit et ingénierie",
+    "src": "fe386ce5",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.title": {
+    "en": "Flo Health: from domain silos to strategic ownership",
+    "text": "Flo Health : des silos de domaine à la responsabilité stratégique",
+    "src": "13568252",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.context": {
+    "en": "FPED is a research unit at Eurecat, the Technology Centre of Catalonia, developing new manufacturing processes for plastic and composite materials. Heads of R&D lines moved from managing every detail towards Product Owner-like roles and delegated more to their teams. The map shows both states: the initial one in black, the current one in blue.",
+    "text": "FPED est une unité de recherche d’Eurecat, le centre technologique de Catalogne, qui développe de nouveaux procédés de fabrication pour les matières plastiques et composites. Les responsables de lignes de R&D, qui géraient chaque détail, ont évolué vers des rôles proches de celui de Product Owner et délégué davantage à leurs équipes. La carte montre les deux états : l’état initial en noir, l’état actuel en bleu.",
+    "src": "32748c23",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.meta": {
+    "en": "Industrial R&D · Spain",
+    "text": "R&D industrielle · Espagne",
+    "src": "16b846a7",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.title": {
+    "en": "Eurecat FPED: agility in a research unit",
+    "text": "Eurecat FPED : l’agilité dans une unité de recherche",
+    "src": "03782790",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.context": {
+    "en": "An Agile Release Train in the planning domain of one of Europe’s largest technology companies, with trains organized around business capabilities. A next-generation planning solution, Paradigm, became the occasion to redesign. The map shows the optimal design: a [team of teams](term:team-of-teams) at PART-3.",
+    "text": "Un Agile Release Train dans le domaine de la planification de l’une des plus grandes entreprises technologiques d’Europe, avec des trains organisés autour de capacités business. Une solution de planification de nouvelle génération, Paradigm, a été l’occasion de repenser l’organisation. La carte montre la conception optimale : une [équipe d’équipes](term:team-of-teams) en PART-3.",
+    "src": "72ca40da",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.meta": {
+    "en": "High-tech manufacturing · IT · SAFe",
+    "text": "Fabrication high-tech · IT · SAFe",
+    "src": "d38f13d7",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.title": {
+    "en": "Paradigm: bringing business and IT together",
+    "text": "Paradigm : rapprocher le business et l’IT",
+    "src": "c85a8df0",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.context": {
+    "en": "A product manager in a government organization leads three product owners and four teams. On paper they are agile; in practice everyone works on their own backlog, and when one team is blocked the others watch. The map shows the future design: teams aligned to whole product domains that build, validate and run the product end to end.",
+    "text": "Dans une administration, un product manager dirige trois product owners et quatre équipes. Sur le papier, ils sont agiles ; en pratique, chacun travaille sur son propre backlog, et quand une équipe est bloquée, les autres regardent. La carte montre la conception cible : des équipes alignées sur des domaines produit entiers, qui construisent, valident et exploitent le produit de bout en bout.",
+    "src": "08179b95",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.meta": {
+    "en": "Government · digital services",
+    "text": "Secteur public · services numériques",
+    "src": "aea809dc",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.title": {
+    "en": "It started over dinner",
+    "text": "Tout a commencé autour d’un dîner",
+    "src": "fec7c412",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.context": {
+    "en": "Business Banking at de Volksbank moved from developers working on tasks to feature teams paired with the operations teams they serve. By 2023 most of its four dev teams were CAPS-2, incomplete teams working on customer journeys, and one reached CAPS-3, working end-to-end. The map shows that reality, with the vendor and IT still around the teams.",
+    "text": "Business Banking, chez de Volksbank, est passé de développeurs travaillant sur des tâches à des feature teams associées aux équipes d’exploitation qu’elles servent. En 2023, la plupart de ses quatre équipes de développement étaient en CAPS-2, des équipes incomplètes travaillant sur des parcours client, et l’une avait atteint CAPS-3, travaillant de bout en bout. La carte montre cette réalité, avec le fournisseur et l’IT toujours autour des équipes.",
+    "src": "7a8dc104",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.meta": {
+    "en": "Banking · the Netherlands",
+    "text": "Banque · Pays-Bas",
+    "src": "6975640c",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.title": {
+    "en": "de Volksbank: dev teams beside operations",
+    "text": "de Volksbank : les équipes de développement aux côtés des opérations",
+    "src": "3fbb1aa9",
+    "status": "draft"
+  },
+  "sample-mappings.heading": {
+    "en": "From the Community",
+    "text": "Issu de la communauté",
+    "src": "fb4606a9",
+    "status": "draft"
+  },
+  "sample-mappings.lead": {
+    "en": "Real organizations, mapped by the people who worked with them. Each map comes with the context you need to read it and a link to the full case study.",
+    "text": "De vraies organisations, cartographiées par ceux qui ont travaillé avec elles. Chaque carte est accompagnée du contexte nécessaire pour la lire et d’un lien vers l’étude de cas complète.",
+    "src": "da3d1180",
+    "status": "draft"
+  },
+  "the-map._nav": {
+    "en": "The 2×2 Map",
+    "text": "La carte 2×2",
+    "src": "09dd8c74",
+    "status": "draft"
+  },
+  "the-map.figure.alt": {
+    "en": "The blank Org Topologies map: scope of skills mandate across, scope of work mandate up",
+    "text": "La carte Org Topologies vierge : périmètre du mandat de compétences en abscisse, périmètre du mandat de travail en ordonnée",
+    "src": "9f3cfc56",
+    "status": "draft"
+  },
+  "the-map.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "the-map.heading": {
+    "en": "Two mandates, one map",
+    "text": "Deux mandats, une carte",
+    "src": "5cbe0bd0",
+    "status": "draft"
+  },
+  "the-map.intro.kicker": {
+    "en": "AI-READY MAPPING",
+    "text": "CARTOGRAPHIE PRÊTE POUR L’IA",
+    "src": "4c07a578",
+    "status": "draft"
+  },
+  "the-map.intro.text": {
+    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
+    "text": "Le travail est accompli par des **agents d’intelligence**, les unités organisationnelles : personnes, groupes et IA. La même carte des [mandats](term:mandate) s’applique à tous, qu’il s’agisse d’humains, d’agents ou de robots. Placez chacun selon ce qu’il est autorisé à apprendre et à travailler, pas selon son titre.",
+    "src": "ddaaea6a",
+    "status": "draft"
+  },
+  "the-map.items.0.text": {
+    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
+    "text": "Nommez d’abord le résultat business (un produit, un problème client, un flux de valeur) et qui doit y travailler. Évaluez ensuite les mandats de chaque unité par rapport à lui : une équipe peut être complète pour un résultat et incomplète pour un autre.",
+    "src": "dafff1b5",
+    "status": "draft"
+  },
+  "the-map.items.0.title": {
+    "en": "Start from one outcome",
+    "text": "Partir d’un seul résultat",
+    "src": "3dc2efbe",
+    "status": "draft"
+  },
+  "the-map.items.1.text": {
+    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
+    "text": "Les compétences qu’une unité reçoit et a le droit de mobiliser. Plus on va vers la droite, plus elle peut livrer vite sans dépendances. À gauche de la ligne de séparation, les unités sont **incomplètes** : elles ont besoin d’autres pour livrer de la valeur au client ; à droite, elles sont **complètes**.",
+    "src": "55a57aed",
+    "status": "draft"
+  },
+  "the-map.items.1.title": {
+    "en": "Scope of skills mandate",
+    "text": "Périmètre du mandat de compétences",
+    "src": "97658681",
+    "status": "draft"
+  },
+  "the-map.items.2.text": {
+    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
+    "text": "La part du travail qu’une unité détient : des tâches et capacités (**outputs**) jusqu’aux solutions partielles et complètes (**outcomes**). Plus d’outputs ne signifie pas plus d’outcomes.",
+    "src": "ffb790eb",
+    "status": "draft"
+  },
+  "the-map.items.2.title": {
+    "en": "Scope of work mandate",
+    "text": "Périmètre du mandat de travail",
+    "src": "41bef20e",
+    "status": "draft"
+  },
+  "the-map.items.3.text": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "Les deux lignes de séparation découpent la carte en quatre quadrants : [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) et [Delivering](term:delivering-intelligence), les quatre intelligences.",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
+  "the-map.items.3.title": {
+    "en": "Four quadrants",
+    "text": "Quatre quadrants",
+    "src": "82a3726d",
+    "status": "draft"
+  },
+  "the-map.kicker": {
+    "en": "THE MAP",
+    "text": "LA CARTE",
+    "src": "330a58d9",
+    "status": "draft"
+  },
+  "the-map.lead": {
+    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
+    "text": "Chaque unité (une personne, une équipe, un [agent IA](term:ai-agent)) est placée selon les deux mandats qui lui sont confiés, pas selon son titre. Cartographiez toujours par rapport à **un seul résultat business** : les mandats ne sont larges ou étroits, complets ou incomplets que relativement au résultat que quelqu’un doit livrer.",
+    "src": "a562bc54",
+    "status": "draft"
+  },
+  "tools._nav": {
+    "en": "Free Tools",
+    "text": "Outils gratuits",
+    "src": "60dad1bd",
+    "status": "draft"
+  },
+  "tools.cards.0.body": {
+    "en": "Essentials and empty maps to start mapping with your team, online.",
+    "text": "Des cartes essentielles et vierges pour commencer à cartographier avec votre équipe, en ligne.",
+    "src": "c3f8545c",
+    "status": "draft"
+  },
+  "tools.cards.0.label": {
+    "en": "Open in Miroverse →",
+    "text": "Ouvrir dans Miroverse →",
+    "src": "1130126d",
+    "status": "draft"
+  },
+  "tools.cards.0.title": {
+    "en": "Miro template",
+    "text": "Modèle Miro",
+    "src": "4e457459",
+    "status": "draft"
+  },
+  "tools.cards.1.body": {
+    "en": "“We are doing SAFe” says little about your design. See SAFe, LeSS, Team Topologies and more on the map.",
+    "text": "« Nous faisons du SAFe » en dit peu sur votre conception. Voyez SAFe, LeSS, Team Topologies et d’autres sur la carte.",
+    "src": "b4f7ab7f",
+    "status": "draft"
+  },
+  "tools.cards.1.label": {
+    "en": "Study framework mapping →",
+    "text": "Étudier la cartographie de frameworks →",
+    "src": "35df44bf",
+    "status": "draft"
+  },
+  "tools.cards.1.title": {
+    "en": "Framework mapping",
+    "text": "Cartographie de frameworks",
+    "src": "e3fd7258",
+    "status": "draft"
+  },
+  "tools.heading": {
+    "en": "Free tools & more mapping ideas",
+    "text": "Outils gratuits et autres idées de cartographie",
+    "src": "d3cfba98",
+    "status": "draft"
+  },
+  "tools.kicker": {
+    "en": "START MAPPING",
+    "text": "COMMENCER À CARTOGRAPHIER",
+    "src": "9b8daf1f",
+    "status": "draft"
+  },
+  "top._nav": {
+    "en": "Org Topologies Mapping",
+    "text": "Org Topologies Mapping",
+    "src": "533f211e",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 1 · MAP",
+    "text": "MADE · ÉTAPE 1 · MAP",
+    "src": "4348a04d",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A simple language and one map to see how your organization really works — without “agile” or framework jargon. You can’t figure out where to go next until you know where you are.",
+    "text": "Un langage simple et une carte pour voir comment votre organisation fonctionne vraiment, sans jargon « agile » ni jargon de framework. Impossible de savoir où aller tant que vous ne savez pas où vous êtes.",
+    "src": "26f889cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Map your\norganization.",
+    "text": "Cartographiez votre\norganisation.",
+    "src": "60a7c3e9",
+    "status": "draft"
+  },
+  "topologies.goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "Découvrez quelle topologie convient à votre stratégie : un exemple de carte pour chacune, les quatre intelligences à explorer en cliquant, et comment aller voir votre propre organisation avec une carte.",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "topologies.goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Distinguer les topologies →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "topologies.goDeeper.title": {
+    "en": "The three topologies",
+    "text": "Les trois topologies",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "topologies.heading": {
+    "en": "Three topologies, three goals",
+    "text": "Trois topologies, trois objectifs",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "topologies.kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "ÉTUDIER LES TOPOLOGIES COURANTES",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "topologies.lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "Chaque topologie courante combine des intelligences différentes (spécialisation, flux, coordination, adaptative) et « brille » dans un environnement différent.",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "Environnements stables, pilotés par les processus",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "(intelligences de spécialisation + de coordination)",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "Utilisation et prévisibilité",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "Rigide quand la stratégie change",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "Travail connu qui épouse la structure des équipes",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "(intelligences de flux + de coordination)",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "Vitesse et flux dans des limites définies",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "Le travail transverse exige de la coordination",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "Contextes volatils, portés par l’innovation",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "(intelligence adaptative)",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "Adaptabilité et apprentissage",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "Remet en cause les structures de contrôle existantes",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,1016 @@
+{
+  "adaptive._nav": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.contexts": {
+    "en": "**Typical contexts:** new product development, innovation, platform exploration, consulting, research, emerging services.",
+    "text": "**Contextos típicos:** desenvolvimento de novos produtos, inovação, exploração de plataformas, consultoria, pesquisa, serviços emergentes.",
+    "src": "80dabdc4",
+    "status": "draft"
+  },
+  "adaptive.dynamics.label": {
+    "en": "Dynamics",
+    "text": "Dinâmica",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "adaptive.dynamics.text": {
+    "en": "Directing, doing and delivering merge into one [team-of-teams](term:team-of-teams) — people and AI agents — with a broad shared mandate. Work is synchronous and coordinated by those doing it; learning runs across skills and across the scope of work.",
+    "text": "Directing, doing e delivering se fundem em uma só [equipe de equipes](term:team-of-teams), com pessoas e agentes de IA, e um mandato amplo e compartilhado. O trabalho é síncrono e coordenado por quem o realiza; o aprendizado acontece entre habilidades e em todo o escopo do trabalho.",
+    "src": "beb4d40e",
+    "status": "draft"
+  },
+  "adaptive.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "AMBIENTE ESTÁVEL",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "adaptive.environments.0.text": {
+    "en": "Continuous learning and reconfiguration cost efficiency and add variability.",
+    "text": "Aprendizado e reconfiguração contínuos custam eficiência e acrescentam variabilidade.",
+    "src": "662bcd36",
+    "status": "draft"
+  },
+  "adaptive.environments.0.verdict": {
+    "en": "− Overhead",
+    "text": "− Sobrecarga",
+    "src": "cc174b93",
+    "status": "draft"
+  },
+  "adaptive.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "AMBIENTE EM MUDANÇA",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "adaptive.environments.1.text": {
+    "en": "Resilience, sustained relevance, cheap and fast pivots toward customer outcomes.",
+    "text": "Resiliência, relevância duradoura, mudanças de rumo baratas e rápidas em direção aos outcomes do cliente.",
+    "src": "92d503ad",
+    "status": "draft"
+  },
+  "adaptive.environments.1.verdict": {
+    "en": "+ Fits well",
+    "text": "+ Combina bem",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "adaptive.frameworks": {
+    "en": "**Frameworks that build it:** [LeSS](/less), Nexus, [FAST](/fast) and Creating Agile Organizations (CAO). See all [framework mappings](/framework-mapping).",
+    "text": "**Frameworks que a constroem:** [LeSS](/less), Nexus, [FAST](/fast) e Creating Agile Organizations (CAO). Veja todos os [mapeamentos de frameworks](/framework-mapping).",
+    "src": "ce30dcfb",
+    "status": "draft"
+  },
+  "adaptive.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "OCULTAR DETALHES −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "adaptive.glance.label": {
+    "en": "At a glance",
+    "text": "Em resumo",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.detail": {
+    "en": "Fast delivery of uncertain results, to seek, change, discover and adapt",
+    "text": "Entrega rápida de resultados incertos, para buscar, mudar, descobrir e se adaptar",
+    "src": "6d99ca01",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "Uso comum",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.detail": {
+    "en": "Flexible, holistic and novel",
+    "text": "Flexível, holística e inovadora",
+    "src": "6e445867",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "Criação de valor",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.detail": {
+    "en": "Low; units work autonomously with minimal dependency on external groups",
+    "text": "Baixas; as unidades trabalham de forma autônoma, com mínima dependência de grupos externos",
+    "src": "fd14d78b",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "Dependências",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.detail": {
+    "en": "Multi-skilled and organized for exploratory outcomes and flexibility",
+    "text": "Multiqualificada e organizada para outcomes exploratórios e flexibilidade",
+    "src": "ce452a44",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "Estrutura dos grupos",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.detail": {
+    "en": "High; owns entire processes including inter-unit coordination",
+    "text": "Alto; é dona de processos inteiros, incluindo a coordenação entre unidades",
+    "src": "723b1137",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "Empoderamento",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.detail": {
+    "en": "Collaborate across boundaries to deliver complete customer solutions, with end-to-end ownership",
+    "text": "Colaboram além das fronteiras para entregar soluções completas ao cliente, com responsabilidade de ponta a ponta",
+    "src": "ab86dd7d",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "Contribuidores individuais",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.detail": {
+    "en": "Drives innovation, predicts customer needs, supports strategic decision-making",
+    "text": "Impulsiona a inovação, antecipa as necessidades dos clientes, apoia a tomada de decisões estratégicas",
+    "src": "b61d38f1",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "IA estratégica",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.detail": {
+    "en": "Units working across the entire solution space (“Uber”) or a partial domain (“Uber Eats”)",
+    "text": "Unidades que atuam em todo o espaço da solução (“Uber”) ou em um domínio parcial (“Uber Eats”)",
+    "src": "571aede2",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.term": {
+    "en": "Example",
+    "text": "Exemplo",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "adaptive.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "MOSTRAR DETALHES +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "adaptive.goal": {
+    "en": "**Org goal:** minimize the cost of learning and reconfiguration in volatile environments.",
+    "text": "**Objetivo organizacional:** minimizar o custo de aprender e se reconfigurar em ambientes voláteis.",
+    "src": "ef3c20f0",
+    "status": "draft"
+  },
+  "adaptive.heading": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.kicker": {
+    "en": "03 · DRIVING",
+    "text": "03 · DRIVING",
+    "src": "fe223656",
+    "status": "draft"
+  },
+  "adaptive.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "MAPEAMENTO DE EXEMPLO",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "adaptive.quote": {
+    "en": "“THE LIVING ECOSYSTEM” — co-evolving with its environment",
+    "text": "“THE LIVING ECOSYSTEM”: coevoluindo com o ambiente",
+    "src": "5a53b3fa",
+    "status": "draft"
+  },
+  "adaptive.withAi": {
+    "en": "**With AI:** AI as teacher and sparring partner lowers the cost of switching domains — and makes this design easier to reach.",
+    "text": "**Com IA:** a IA como professora e parceira de reflexão reduz o custo de trocar de domínio e torna esse desenho mais fácil de alcançar.",
+    "src": "0317cd61",
+    "status": "draft"
+  },
+  "delivery._nav": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.contexts": {
+    "en": "**Typical contexts:** established products with known demand, SaaS in growth or maturity, managed services, customer support.",
+    "text": "**Contextos típicos:** produtos consolidados com demanda conhecida, SaaS em crescimento ou maturidade, serviços gerenciados, suporte ao cliente.",
+    "src": "a55ffc56",
+    "status": "draft"
+  },
+  "delivery.dynamics.label": {
+    "en": "Dynamics",
+    "text": "Dinâmica",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "delivery.dynamics.text": {
+    "en": "Complete [cross-functional](term:cross-functional) teams deliver within fixed, narrow value boundaries. Discovery stays separate, with directing units deciding what to build. Fast and efficient at outputs — sometimes called a “feature factory”.",
+    "text": "Equipes [multifuncionais](term:cross-functional) completas entregam dentro de fronteiras de valor fixas e estreitas. A descoberta fica separada, e unidades Directing decidem o que construir. Rápida e eficiente em outputs, às vezes chamada de “fábrica de funcionalidades”.",
+    "src": "98a4cedb",
+    "status": "draft"
+  },
+  "delivery.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "AMBIENTE ESTÁVEL",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "delivery.environments.0.text": {
+    "en": "Reliable, predictable delivery with short lead times and operational excellence.",
+    "text": "Entrega confiável e previsível, com lead times curtos e excelência operacional.",
+    "src": "181821ef",
+    "status": "draft"
+  },
+  "delivery.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ Combina bem",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "delivery.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "AMBIENTE EM MUDANÇA",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "delivery.environments.1.text": {
+    "en": "Learning gets expensive; strategic response lags; the design filters out weak market signals. More output, not necessarily more outcome.",
+    "text": "Aprender fica caro; a resposta estratégica atrasa; o desenho filtra sinais fracos do mercado. Mais output, não necessariamente mais outcome.",
+    "src": "06e5336e",
+    "status": "draft"
+  },
+  "delivery.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− Sofre",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "delivery.frameworks": {
+    "en": "**Frameworks that build it:** [Team Topologies](/team-topologies), Marty Cagan’s Product Operating Model ([Empowered Product Teams](/empowered)), the [Spotify Model](/spotify) when real teams form, and team-level Scrum.",
+    "text": "**Frameworks que a constroem:** [Team Topologies](/team-topologies), o Product Operating Model de Marty Cagan ([Empowered Product Teams](/empowered)), o [Modelo Spotify](/spotify) quando equipes reais se formam e o Scrum no nível da equipe.",
+    "src": "3d14595c",
+    "status": "draft"
+  },
+  "delivery.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "OCULTAR DETALHES −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "delivery.glance.label": {
+    "en": "At a glance",
+    "text": "Em resumo",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.detail": {
+    "en": "Fast delivery of proven worth with minimal change or learning",
+    "text": "Entrega rápida de valor comprovado, com mínimo de mudança ou aprendizado",
+    "src": "b72a75fe",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "Uso comum",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.detail": {
+    "en": "Narrowly focused on specific capabilities",
+    "text": "Focada em capacidades específicas",
+    "src": "babba5e3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "Criação de valor",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.detail": {
+    "en": "Moderate; units coordinate across boundaries but less frequently",
+    "text": "Moderadas; as unidades se coordenam além das fronteiras, mas com menos frequência",
+    "src": "36e0bd22",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "Dependências",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.detail": {
+    "en": "Cross-functional and aligned with narrow product or service features",
+    "text": "Multifuncional e alinhada a funcionalidades estreitas de produto ou serviço",
+    "src": "6a88c041",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "Estrutura dos grupos",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.detail": {
+    "en": "Moderate; empowered within a small home unit but dependent on alignment between units, managed by Directing units",
+    "text": "Moderado; empoderadas dentro de uma pequena unidade de origem, mas dependentes do alinhamento entre unidades, gerenciado pelas unidades Directing",
+    "src": "206fd9b9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "Empoderamento",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.detail": {
+    "en": "Coordinate to deliver features and components within the team’s scope",
+    "text": "Coordenam-se para entregar funcionalidades e componentes dentro do escopo da equipe",
+    "src": "fb4f2c30",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "Contribuidores individuais",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.detail": {
+    "en": "Integrates data, improves collaboration, aligns team outputs through real-time insights and feedback loops",
+    "text": "Integra dados, melhora a colaboração, alinha os outputs das equipes por meio de insights em tempo real e ciclos de feedback",
+    "src": "b2ce0ea9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "IA estratégica",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.detail": {
+    "en": "A diner with short-order cooks: the owner decides the menu, the cooks deliver complete plates",
+    "text": "Uma lanchonete com cozinheiros de pedidos rápidos: o dono decide o cardápio, os cozinheiros entregam pratos completos",
+    "src": "63bbca2d",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.term": {
+    "en": "Example",
+    "text": "Exemplo",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "delivery.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "MOSTRAR DETALHES +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "delivery.goal": {
+    "en": "**Org goal:** maximize end-to-end flow of predictable work from demand to delivery.",
+    "text": "**Objetivo organizacional:** maximizar o fluxo de ponta a ponta de trabalho previsível, da demanda à entrega.",
+    "src": "2ff5c086",
+    "status": "draft"
+  },
+  "delivery.heading": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.kicker": {
+    "en": "02 · DIRECTING + DELIVERING",
+    "text": "02 · DIRECTING + DELIVERING",
+    "src": "914897aa",
+    "status": "draft"
+  },
+  "delivery.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "MAPEAMENTO DE EXEMPLO",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "delivery.quote": {
+    "en": "“THE STRUCTURED NETWORK” — optimized for flow",
+    "text": "“THE STRUCTURED NETWORK”: otimizada para o fluxo",
+    "src": "cbb49173",
+    "status": "draft"
+  },
+  "delivery.withAi": {
+    "en": "**With AI:** AI absorbs execution work faster than teams can adapt their skills and mandates.",
+    "text": "**Com IA:** a IA absorve o trabalho de execução mais rápido do que as equipes conseguem adaptar suas habilidades e mandatos.",
+    "src": "902b6443",
+    "status": "draft"
+  },
+  "fit._nav": {
+    "en": "Fit for Purpose",
+    "text": "Adequado ao propósito",
+    "src": "3f7c997b",
+    "status": "draft"
+  },
+  "fit.closing": {
+    "en": "Different parts of one company can run different topologies — a legacy service in Delivery, a new venture in Adaptive. What matters is that each part's design serves its goal.",
+    "text": "Partes diferentes de uma mesma empresa podem operar topologias diferentes: um serviço legado em Delivery, um novo negócio em Adaptive. O que importa é que o desenho de cada parte sirva ao seu objetivo.",
+    "src": "ec6d6319",
+    "status": "draft"
+  },
+  "fit.heading": {
+    "en": "Fit for purpose",
+    "text": "Adequado ao propósito",
+    "src": "ff32bf56",
+    "status": "draft"
+  },
+  "fit.kicker": {
+    "en": "TOPOLOGIES AT A GLANCE",
+    "text": "AS TOPOLOGIAS EM RESUMO",
+    "src": "045c9a7b",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.0": {
+    "en": "Leaders must decide what they are optimizing for. That decision requires accountability, not consensus. It implies consciously accepting what they are *not* optimizing for. Trade-offs are unavoidable: no organization can optimize for everything at once.",
+    "text": "Os líderes precisam decidir o que estão otimizando. Essa decisão exige responsabilização, não consenso. Ela implica aceitar conscientemente aquilo que *não* estão otimizando. Os trade-offs são inevitáveis: nenhuma organização consegue otimizar tudo ao mesmo tempo.",
+    "src": "6fa3806d",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.1": {
+    "en": "Choosing among the [topologies](term:org-topology), or deliberately combining them for different goals, is the core practice of organizational design. It determines what kind of performance the organization can reliably produce.",
+    "text": "Escolher entre as [topologias](term:org-topology), ou combiná-las de propósito para objetivos diferentes, é a prática central do design organizacional. Isso determina que tipo de desempenho a organização consegue produzir de forma confiável.",
+    "src": "d2d2c05c",
+    "status": "draft"
+  },
+  "fit.principle.source": {
+    "en": "FROM 10X ORG · PRINCIPLE 4",
+    "text": "DO 10X ORG · PRINCÍPIO 4",
+    "src": "ac29e0c3",
+    "status": "draft"
+  },
+  "fit.principle.statement": {
+    "en": "No organizational topology is “better” in and of itself. There is “no one best way” to organize; there is only the way that fits your purpose.",
+    "text": "Nenhuma topologia organizacional é “melhor” em si mesma. Não existe “uma melhor maneira” de organizar; existe apenas a que se adequa ao seu propósito.",
+    "src": "4a3b604a",
+    "status": "draft"
+  },
+  "fit.question.heading": {
+    "en": "Which organizational capabilities will effectively support our strategy?",
+    "text": "Quais capacidades organizacionais vão sustentar nossa estratégia com eficácia?",
+    "src": "cf620706",
+    "status": "draft"
+  },
+  "fit.question.kicker": {
+    "en": "THE KEY QUESTION",
+    "text": "A PERGUNTA-CHAVE",
+    "src": "09487e53",
+    "status": "draft"
+  },
+  "fit.question.lead": {
+    "en": "Are you trying to get better at:",
+    "text": "Você quer melhorar em:",
+    "src": "e66c3967",
+    "status": "draft"
+  },
+  "fit.question.options.0.answer": {
+    "en": "→ RESOURCE · “THE MECHANISTIC SYSTEM”",
+    "text": "→ RESOURCE · “THE MECHANISTIC SYSTEM”",
+    "src": "dc0318e1",
+    "status": "draft"
+  },
+  "fit.question.options.0.question": {
+    "en": "Reducing the cost per task?",
+    "text": "Reduzir o custo por tarefa?",
+    "src": "06ccacc1",
+    "status": "draft"
+  },
+  "fit.question.options.1.answer": {
+    "en": "→ DELIVERY · “THE STRUCTURED NETWORK”",
+    "text": "→ DELIVERY · “THE STRUCTURED NETWORK”",
+    "src": "cb3d32ce",
+    "status": "draft"
+  },
+  "fit.question.options.1.question": {
+    "en": "Speeding up known and repeatable workflows?",
+    "text": "Acelerar fluxos de trabalho conhecidos e repetíveis?",
+    "src": "05b87f5e",
+    "status": "draft"
+  },
+  "fit.question.options.2.answer": {
+    "en": "→ ADAPTIVE · “THE LIVING ECOSYSTEM”",
+    "text": "→ ADAPTIVE · “THE LIVING ECOSYSTEM”",
+    "src": "e3365d22",
+    "status": "draft"
+  },
+  "fit.question.options.2.question": {
+    "en": "Or continuously reshaping yourself to meet evolving needs?",
+    "text": "Ou se reinventar continuamente para atender a necessidades em evolução?",
+    "src": "fe4ba1b8",
+    "status": "draft"
+  },
+  "fit.rows.0.label": {
+    "en": "Maximizes",
+    "text": "Maximiza",
+    "src": "7362cd33",
+    "status": "draft"
+  },
+  "fit.rows.0.values.0": {
+    "en": "Resource use, specialization",
+    "text": "Uso de recursos, especialização",
+    "src": "d0f84f2a",
+    "status": "draft"
+  },
+  "fit.rows.0.values.1": {
+    "en": "Output, predictability",
+    "text": "Output, previsibilidade",
+    "src": "c1ab064b",
+    "status": "draft"
+  },
+  "fit.rows.0.values.2": {
+    "en": "Outcome, innovation",
+    "text": "Outcome, inovação",
+    "src": "329cd125",
+    "status": "draft"
+  },
+  "fit.rows.1.label": {
+    "en": "Dependencies",
+    "text": "Dependências",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "fit.rows.1.values.0": {
+    "en": "High",
+    "text": "Altas",
+    "src": "c4ebc6d4",
+    "status": "draft"
+  },
+  "fit.rows.1.values.1": {
+    "en": "Moderate",
+    "text": "Moderadas",
+    "src": "5c42afc7",
+    "status": "draft"
+  },
+  "fit.rows.1.values.2": {
+    "en": "Low",
+    "text": "Baixas",
+    "src": "f793de20",
+    "status": "draft"
+  },
+  "fit.rows.2.label": {
+    "en": "Best environment",
+    "text": "Melhor ambiente",
+    "src": "fd5b1f81",
+    "status": "draft"
+  },
+  "fit.rows.2.values.0": {
+    "en": "Stable, repeatable demand",
+    "text": "Demanda estável e repetível",
+    "src": "e4ed730b",
+    "status": "draft"
+  },
+  "fit.rows.2.values.1": {
+    "en": "Known demand, stable roadmap",
+    "text": "Demanda conhecida, roadmap estável",
+    "src": "3cf5b2f9",
+    "status": "draft"
+  },
+  "fit.rows.2.values.2": {
+    "en": "Uncertain, fast-changing markets",
+    "text": "Mercados incertos e de mudança rápida",
+    "src": "a9c51da0",
+    "status": "draft"
+  },
+  "fit.topologies.0.name": {
+    "en": "RESOURCE",
+    "text": "RESOURCE",
+    "src": "1e88bb01",
+    "status": "draft"
+  },
+  "fit.topologies.1.name": {
+    "en": "DELIVERY",
+    "text": "DELIVERY",
+    "src": "9f4029f1",
+    "status": "draft"
+  },
+  "fit.topologies.2.name": {
+    "en": "ADAPTIVE",
+    "text": "ADAPTIVE",
+    "src": "b67399bd",
+    "status": "draft"
+  },
+  "made.goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "Mude o design da sua organização sem uma reorganização de big bang: mapeie o que você tem, escolha o que otimizar, desenhe o alvo e depois eleve passo a passo. Veja os quatro movimentos em uma única organização de exemplo.",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "made.goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "Conheça a abordagem →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "made.goDeeper.title": {
+    "en": "The MADE method",
+    "text": "O método MADE",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "made.heading": {
+    "en": "Change, MADE systemic",
+    "text": "Mudança, MADE sistêmico",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "made.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Mudança MADE sistêmica: Study (Map, Assess) e Improve (Design, Elevate) em torno do design organizacional, entre estratégia e desempenho",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "made.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Primeiro **estude** o desenho que você tem, depois **melhore** rumo ao desenho de que precisa.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "made.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "O design organizacional fica entre a estratégia e o desempenho. **MADE** é o ciclo que o mantém adequado, com o nome de seus quatro movimentos:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "made.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "made.kicker": {
+    "en": "THE APPROACH",
+    "text": "A ABORDAGEM",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "made.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "made.phases.0.note": {
+    "en": "the design you have",
+    "text": "o desenho que você tem",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "Posicione cada unidade por habilidades e mandato de trabalho",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "Dê nome à topologia que você tem e diga se ela é adequada",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "made.phases.1.note": {
+    "en": "the design you need",
+    "text": "o desenho de que você precisa",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Imagine a organização de que você precisa, sem os limites de hoje",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "Ponha a mudança em movimento com os [Elevating Katas](term:elevating-kata)",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Resource, Delivery and Adaptive: three recurring org designs, each optimized for a different goal. Compare them and choose the one that fits your purpose.",
+    "text": "Resource, Delivery e Adaptive: três desenhos organizacionais recorrentes, cada um otimizado para um objetivo diferente. Compare-os e escolha o que combina com o seu propósito.",
+    "src": "c9b56bb3",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Three topologies: choose your org goal",
+    "text": "Três topologias: escolha seu objetivo organizacional",
+    "src": "2d5e0680",
+    "status": "draft"
+  },
+  "resource._nav": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.contexts": {
+    "en": "**Typical contexts:** shared services, payroll, compliance, commodity manufacturing, long-lived platforms.",
+    "text": "**Contextos típicos:** serviços compartilhados, folha de pagamento, compliance, manufatura de commodities, plataformas de longa duração.",
+    "src": "0008e8ac",
+    "status": "draft"
+  },
+  "resource.dynamics.label": {
+    "en": "Dynamics",
+    "text": "Dinâmica",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "resource.dynamics.text": {
+    "en": "[Directing](term:directing-intelligence) units plan, split and dispatch work. Specialists in functional groups each do one part. Specs, hand-offs and coordination connect the pieces; upfront planning and re-planning keep it moving.",
+    "text": "Unidades [Directing](term:directing-intelligence) planejam, dividem e distribuem o trabalho. Especialistas em grupos funcionais fazem, cada um, uma parte. Especificações, passagens de bastão e coordenação ligam as peças; planejamento antecipado e replanejamento mantêm tudo andando.",
+    "src": "059d4b03",
+    "status": "draft"
+  },
+  "resource.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "AMBIENTE ESTÁVEL",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "resource.environments.0.text": {
+    "en": "Deep expertise, high utilization, consistent standard work.",
+    "text": "Expertise profunda, alta utilização, trabalho padronizado e consistente.",
+    "src": "2f23dec9",
+    "status": "draft"
+  },
+  "resource.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ Combina bem",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "resource.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "AMBIENTE EM MUDANÇA",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "resource.environments.1.text": {
+    "en": "Coordination overhead grows; end-to-end response slows; learning stays inside existing skills.",
+    "text": "O custo de coordenação cresce; a resposta de ponta a ponta fica lenta; o aprendizado fica restrito às habilidades existentes.",
+    "src": "1871d6a5",
+    "status": "draft"
+  },
+  "resource.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− Sofre",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "resource.frameworks": {
+    "en": "**Frameworks that build it:** PRINCE2, ITIL and others. Also [SAFe](/safe): ideally it can build a Delivery Topology, but the implementations we studied lean heavily toward Resource, because cross-team interdependencies are not eliminated, only managed as they are.",
+    "text": "**Frameworks que a constroem:** PRINCE2, ITIL e outros. Também o [SAFe](/safe): em tese ele pode construir uma Delivery Topology, mas as implementações que estudamos se inclinam fortemente para Resource, porque as interdependências entre equipes não são eliminadas, apenas gerenciadas como estão.",
+    "src": "8e0dff0f",
+    "status": "draft"
+  },
+  "resource.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "OCULTAR DETALHES −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "resource.glance.label": {
+    "en": "At a glance",
+    "text": "Em resumo",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.detail": {
+    "en": "PMO resource management of specialists",
+    "text": "Gestão de recursos de especialistas pelo PMO",
+    "src": "6e8904fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "Uso comum",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.detail": {
+    "en": "Fragmented and reliant on multiple handoffs and coordination",
+    "text": "Fragmentada, dependente de várias passagens de bastão e de coordenação",
+    "src": "afb364ee",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "Criação de valor",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.detail": {
+    "en": "High; units depend on coordination across functional silos",
+    "text": "Altas; as unidades dependem de coordenação entre silos funcionais",
+    "src": "fc984280",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "Dependências",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.detail": {
+    "en": "Siloed functional groups with specialized roles",
+    "text": "Grupos funcionais em silos, com papéis especializados",
+    "src": "92aa9db6",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "Estrutura dos grupos",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.detail": {
+    "en": "Low; constrained to predefined tasks with little autonomy",
+    "text": "Baixo; restrito a tarefas predefinidas, com pouca autonomia",
+    "src": "b93376de",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "Empoderamento",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.detail": {
+    "en": "Complete isolated tasks (defined by coordinators) using specific skills, with minimal ownership",
+    "text": "Executam tarefas isoladas (definidas por coordenadores) com habilidades específicas e pouca responsabilidade pelo resultado",
+    "src": "f81e852b",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "Contribuidores individuais",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.detail": {
+    "en": "Automates repetitive tasks, optimizes workflows, enhances resource efficiency",
+    "text": "Automatiza tarefas repetitivas, otimiza fluxos de trabalho, aumenta a eficiência dos recursos",
+    "src": "e27812e1",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "IA estratégica",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.detail": {
+    "en": "A movie producer hiring dancers for a scene",
+    "text": "Um produtor de cinema contratando dançarinos para uma cena",
+    "src": "e6ea66eb",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.term": {
+    "en": "Example",
+    "text": "Exemplo",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "resource.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "MOSTRAR DETALHES +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "resource.goal": {
+    "en": "**Org goal:** maximize efficiency of specialized skills under stable demand.",
+    "text": "**Objetivo organizacional:** maximizar a eficiência de habilidades especializadas sob demanda estável.",
+    "src": "091004b4",
+    "status": "draft"
+  },
+  "resource.heading": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.kicker": {
+    "en": "01 · DIRECTING + DOING",
+    "text": "01 · DIRECTING + DOING",
+    "src": "64b08171",
+    "status": "draft"
+  },
+  "resource.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "MAPEAMENTO DE EXEMPLO",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "resource.quote": {
+    "en": "“THE MECHANISTIC SYSTEM” — precision through specialization",
+    "text": "“THE MECHANISTIC SYSTEM”: precisão por meio da especialização",
+    "src": "db890cd5",
+    "status": "draft"
+  },
+  "resource.withAi": {
+    "en": "**With AI:** AI automates specialized tasks fast — narrow specialist roles face displacement unless [mandates](term:mandate) widen.",
+    "text": "**Com IA:** a IA automatiza tarefas especializadas rapidamente; papéis de especialista estreitos correm o risco de ser substituídos, a menos que os [mandatos](term:mandate) se ampliem.",
+    "src": "4b1adfe5",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 2 · ASSESS",
+    "text": "MADE · PASSO 2 · ASSESS",
+    "src": "a9fecccc",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A topology is a recognizable pattern of where an organization's units sit on the map. Each one is optimized for something — and pays for it somewhere else. None is “best”. The question is whether it fits your purpose and your environment.",
+    "text": "Uma topologia é um padrão reconhecível de onde as unidades de uma organização ficam no mapa. Cada uma é otimizada para algo e paga por isso em outro lugar. Nenhuma é a “melhor”. A questão é se ela combina com o seu propósito e com o seu ambiente.",
+    "src": "0efd9661",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Three topologies.\nChoose your org goal.",
+    "text": "Três topologias.\nEscolha seu objetivo organizacional.",
+    "src": "39eedbd4",
+    "status": "draft"
+  }
+}

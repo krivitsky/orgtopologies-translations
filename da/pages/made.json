@@ -1,0 +1,698 @@
+{
+  "assess._nav": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "assess.goDeeper.body": {
+    "en": "Explore which topology fits your organization: a sample map of each, the [org goal](term:org-goal) it serves, and its trade-offs in stable and changing markets.",
+    "text": "Udforsk, hvilken topologi der passer til din organisation: et eksempelkort for hver, det [organisationsmål](term:org-goal) den tjener, og dens afvejninger i stabile og skiftende markeder.",
+    "src": "5831a35c",
+    "status": "draft"
+  },
+  "assess.goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Skeln mellem topologierne →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "assess.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "GÅ DYBERE",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
+  "assess.goDeeper.title": {
+    "en": "The three topologies",
+    "text": "De tre topologier",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "assess.goal.goal": {
+    "en": "Given the current org design and its emerging capabilities, how well does it fit the business ambitions and organizational strategy?",
+    "text": "Hvor godt passer det nuværende organisationsdesign og dets fremvoksende evner til forretningsambitionerne og organisationens strategi?",
+    "src": "b4568034",
+    "status": "draft"
+  },
+  "assess.goal.value": {
+    "en": "HONESTY",
+    "text": "ÆRLIGHED",
+    "src": "a9d4ea02",
+    "status": "draft"
+  },
+  "assess.lead": {
+    "en": "Compare your map with the three topologies. What is this organization designed for — and does that fit your strategy?",
+    "text": "Sammenlign dit kort med de tre topologier. Hvad er denne organisation designet til — og passer det til din strategi?",
+    "src": "738f9931",
+    "status": "draft"
+  },
+  "assess.paragraphs.0": {
+    "en": "Directing units decide what to build; complete teams deliver it within narrow, fixed scopes. That pattern is a [Delivery Topology](term:delivery-topology).",
+    "text": "Directing-enheder beslutter, hvad der skal bygges; fuldstændige teams leverer det inden for snævre, faste rammer. Det mønster er en [Delivery Topology](term:delivery-topology).",
+    "src": "ca58646c",
+    "status": "draft"
+  },
+  "assess.phaseLabel": {
+    "en": "STUDY · THE DESIGN YOU HAVE",
+    "text": "STUDY · DET DESIGN, DU HAR",
+    "src": "aafb18f2",
+    "status": "draft"
+  },
+  "assess.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "assess.topologies.0.fit": {
+    "en": "Fits stable, repeatable work. Slow to change direction.",
+    "text": "Passer til stabilt, gentageligt arbejde. Langsom til at skifte retning.",
+    "src": "0d446c9a",
+    "status": "draft"
+  },
+  "assess.topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "assess.topologies.0.summary": {
+    "en": "Built for utilization of specialized skills.",
+    "text": "Bygget til udnyttelse af specialiserede kompetencer.",
+    "src": "e089a72e",
+    "status": "draft"
+  },
+  "assess.topologies.1.badge": {
+    "en": "THIS MAP",
+    "text": "DETTE KORT",
+    "src": "b11858ec",
+    "status": "draft"
+  },
+  "assess.topologies.1.fit": {
+    "en": "Fits known demand. Teams ship within narrowly defined areas for faster flow.",
+    "text": "Passer til kendt efterspørgsel. Teams leverer inden for snævert afgrænsede områder for hurtigere flow.",
+    "src": "43bce414",
+    "status": "draft"
+  },
+  "assess.topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "assess.topologies.1.summary": {
+    "en": "Built for fast, predictable flow of outputs.",
+    "text": "Bygget til et hurtigt, forudsigeligt flow af outputs.",
+    "src": "a1486965",
+    "status": "draft"
+  },
+  "assess.topologies.2.fit": {
+    "en": "Fits product R&D where user habits and market demands keep changing.",
+    "text": "Passer til produkt-R&D, hvor brugernes vaner og markedets krav hele tiden ændrer sig.",
+    "src": "7ad22087",
+    "status": "draft"
+  },
+  "assess.topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "assess.topologies.2.summary": {
+    "en": "Built for innovation and adaptability, to create more value.",
+    "text": "Bygget til innovation og tilpasningsevne, for at skabe mere værdi.",
+    "src": "46ada2f5",
+    "status": "draft"
+  },
+  "book.goDeeper.body": {
+    "en": "Read the method as a business novel: follow Hanna, head of HR, as she looks at her organization through the Org Topologies lens, with principles, maps and real case studies.",
+    "text": "Læs metoden som en forretningsroman: følg Hanna, HR-chef, mens hun ser på sin organisation gennem Org Topologies-linsen, med principper, kort og virkelige cases.",
+    "src": "2060fd37",
+    "status": "draft"
+  },
+  "book.goDeeper.cta.label": {
+    "en": "Get the book →",
+    "text": "Få bogen →",
+    "src": "3b4eb7f8",
+    "status": "draft"
+  },
+  "book.goDeeper.kicker": {
+    "en": "THE BOOK · #1 AMAZON BEST SELLER",
+    "text": "BOGEN · #1 AMAZON-BESTSELLER",
+    "src": "9c188034",
+    "status": "draft"
+  },
+  "book.goDeeper.title": {
+    "en": "10X ORG",
+    "text": "10X ORG",
+    "src": "a6f6e5fe",
+    "status": "draft"
+  },
+  "book.media.alt": {
+    "en": "10X ORG book cover",
+    "text": "Forsiden af bogen 10X ORG",
+    "src": "e5243dbf",
+    "status": "draft"
+  },
+  "design._nav": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "design.goal.goal": {
+    "en": "What should this organization be optimizing for, and which strategic capabilities does it need to develop to better serve its future?",
+    "text": "Hvad skal denne organisation optimere for, og hvilke strategiske evner skal den udvikle for bedre at tjene sin fremtid?",
+    "src": "b16f5a02",
+    "status": "draft"
+  },
+  "design.goal.value": {
+    "en": "COMMITMENT",
+    "text": "ENGAGEMENT",
+    "src": "82b180a1",
+    "status": "draft"
+  },
+  "design.goalTable.columns.0": {
+    "en": "ORG GOAL",
+    "text": "ORG-MÅL",
+    "src": "bb9bd759",
+    "status": "draft"
+  },
+  "design.goalTable.columns.1": {
+    "en": "WHEN",
+    "text": "NÅR",
+    "src": "cd474e12",
+    "status": "draft"
+  },
+  "design.goalTable.columns.2": {
+    "en": "DESIGN TOWARD",
+    "text": "DESIGN MOD",
+    "src": "b370c24c",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.goal": {
+    "en": "Utilization",
+    "text": "Udnyttelse",
+    "src": "dee34f53",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.when": {
+    "en": "stable, repeatable demand",
+    "text": "stabil, gentagelig efterspørgsel",
+    "src": "ef5e3ef3",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.goal": {
+    "en": "Flow",
+    "text": "Flow",
+    "src": "f1273dc7",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.when": {
+    "en": "known demand, fast delivery",
+    "text": "kendt efterspørgsel, hurtig levering",
+    "src": "30cfa6e0",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.badge": {
+    "en": "THIS EXAMPLE",
+    "text": "DETTE EKSEMPEL",
+    "src": "d73bdfdd",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.goal": {
+    "en": "Adaptiveness",
+    "text": "Tilpasningsevne",
+    "src": "cf63f4bb",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.when": {
+    "en": "uncertain, changing markets",
+    "text": "usikre, skiftende markeder",
+    "src": "dd8db5ed",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.goal": {
+    "en": "Both, by part",
+    "text": "Begge, efter del",
+    "src": "0d72d566",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.name": {
+    "en": "A mix",
+    "text": "En blanding",
+    "src": "4d4ecb91",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.when": {
+    "en": "a steady core plus a new venture",
+    "text": "en stabil kerne plus en ny satsning",
+    "src": "1a1308d9",
+    "status": "draft"
+  },
+  "design.lead": {
+    "en": "Imagine the organization you need — without today’s limits. Choose the [org goal](term:org-goal), then sketch the target design.",
+    "text": "Forestil dig den organisation, du har brug for — uden nutidens begrænsninger. Vælg [organisationens mål](term:org-goal), og skitsér derefter måldesignet.",
+    "src": "1cf0aaa7",
+    "status": "draft"
+  },
+  "design.paragraphs.0": {
+    "en": "Don’t start from who sits where today. No topology is best; [fit for purpose](term:fit-for-purpose) is, and different parts of one company can choose different designs. In this example the goal is [adaptiveness](term:adaptiveness): everyone works as one [team of teams](term:team-of-teams) in the Driving quadrant.",
+    "text": "Start ikke med, hvem der sidder hvor i dag. Ingen topologi er den bedste; [fit for purpose](term:fit-for-purpose) er, og forskellige dele af én virksomhed kan vælge forskellige designs. I dette eksempel er målet [tilpasningsevne](term:adaptiveness): alle arbejder som ét [team af teams](term:team-of-teams) i Driving-kvadranten.",
+    "src": "8f02ded3",
+    "status": "draft"
+  },
+  "design.phaseLabel": {
+    "en": "IMPROVE · THE DESIGN YOU NEED",
+    "text": "IMPROVE · DET DESIGN, DU HAR BRUG FOR",
+    "src": "9e24a8f5",
+    "status": "draft"
+  },
+  "design.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "elevate._nav": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "elevate.goDeeper.body": {
+    "en": "Find your next small, safe step: the full [Katalog](term:katalog) by area (structure, strategy, processes), with what each kata changes.",
+    "text": "Find dit næste lille, sikre skridt: hele [Katalog](term:katalog) efter område (struktur, strategi, processer), med det hver kata ændrer.",
+    "src": "dc9eb4e6",
+    "status": "draft"
+  },
+  "elevate.goDeeper.cta.label": {
+    "en": "Browse the Katalog →",
+    "text": "Gennemse Katalog →",
+    "src": "117e8c99",
+    "status": "draft"
+  },
+  "elevate.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "GÅ DYBERE",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
+  "elevate.goDeeper.title": {
+    "en": "Elevating Katas™",
+    "text": "Elevating Katas™",
+    "src": "e9ea1cea",
+    "status": "draft"
+  },
+  "elevate.goal.goal": {
+    "en": "How do we make this new org design work in practice to build the missing capabilities?",
+    "text": "Hvordan får vi dette nye organisationsdesign til at virke i praksis, så vi bygger de manglende evner?",
+    "src": "20335460",
+    "status": "draft"
+  },
+  "elevate.goal.value": {
+    "en": "OPENNESS",
+    "text": "ÅBENHED",
+    "src": "7ae55fc6",
+    "status": "draft"
+  },
+  "elevate.katas.caption": {
+    "en": "ONE PATH FOR THIS EXAMPLE · 4 KATAS",
+    "text": "ÉN VEJ FOR DETTE EKSEMPEL · 4 KATAS",
+    "src": "ec304709",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.area": {
+    "en": "STRUCTURE",
+    "text": "STRUKTUR",
+    "src": "bd3642a7",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.text": {
+    "en": "The two teams join one product group.",
+    "text": "De to teams samles i én produktgruppe.",
+    "src": "fa9204e1",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.title": {
+    "en": "Form a team of teams",
+    "text": "Dan et team af teams",
+    "src": "4cee2184",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.area": {
+    "en": "STRATEGY",
+    "text": "STRATEGI",
+    "src": "ee45ffc0",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.text": {
+    "en": "One backlog for the whole product: the work mandate grows ↑",
+    "text": "Én backlog for hele produktet: arbejdsmandatet vokser ↑",
+    "src": "5262fd35",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.title": {
+    "en": "Merge product backlogs",
+    "text": "Slå produkt-backlogs sammen",
+    "src": "0a00f23a",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.area": {
+    "en": "STRATEGY",
+    "text": "STRATEGI",
+    "src": "ee45ffc0",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.text": {
+    "en": "Managers stop directing outputs; teams own the outcome.",
+    "text": "Ledere holder op med at styre outputs; teamene ejer outcomet.",
+    "src": "7668f796",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.title": {
+    "en": "Re-center product ownership on outcomes",
+    "text": "Flyt produktejerskabet over på outcomes",
+    "src": "b06ae93e",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.area": {
+    "en": "PROCESSES",
+    "text": "PROCESSER",
+    "src": "dae2c8cb",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.text": {
+    "en": "Everyone inspects the whole product together, every cycle.",
+    "text": "Alle gennemgår hele produktet sammen, hver cyklus.",
+    "src": "d58e22df",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.title": {
+    "en": "Hold product-level reviews",
+    "text": "Hold reviews på produktniveau",
+    "src": "ec76f42d",
+    "status": "draft"
+  },
+  "elevate.lead": {
+    "en": "Now get the change going. [Elevating Katas](term:elevating-kata)™ are small, safe experiments that widen skills and work mandates toward the target design.",
+    "text": "Nu skal forandringen i gang. [Elevating Katas](term:elevating-kata)™ er små, sikre eksperimenter, der udvider kompetence- og arbejdsmandater mod måldesignet.",
+    "src": "5167c1b2",
+    "status": "draft"
+  },
+  "elevate.paragraphs.0": {
+    "en": "The dashed circles show the target design; the arrows show the direction of change. Run the katas, then remap and start the loop again.",
+    "text": "De stiplede cirkler viser måldesignet; pilene viser forandringens retning. Kør katas, kortlæg igen, og start løkken forfra.",
+    "src": "a0225fe4",
+    "status": "draft"
+  },
+  "elevate.phaseLabel": {
+    "en": "IMPROVE · THE DESIGN YOU NEED",
+    "text": "IMPROVE · DET DESIGN, DU HAR BRUG FOR",
+    "src": "9e24a8f5",
+    "status": "draft"
+  },
+  "elevate.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "map._nav": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "map.goal.goal": {
+    "en": "Which parts of our organization contribute to creating value, and how do they interact to produce it — from idea to cash?",
+    "text": "Hvilke dele af vores organisation bidrager til at skabe værdi, og hvordan spiller de sammen om det — fra idé til kontanter?",
+    "src": "fdcc5a1e",
+    "status": "draft"
+  },
+  "map.goal.value": {
+    "en": "CURIOSITY",
+    "text": "NYSGERRIGHED",
+    "src": "5fd9bb17",
+    "status": "draft"
+  },
+  "map.lead": {
+    "en": "Place every unit by its two mandates: how broad its skills are (→) and how much of the work it owns (↑).",
+    "text": "Placér hver enhed efter dens to mandater: hvor brede dens kompetencer er (→), og hvor meget af arbejdet den ejer (↑).",
+    "src": "968c2174",
+    "status": "draft"
+  },
+  "map.note": {
+    "en": "Why it matters: in a study of nearly 200 org design consultants, more than half said their clients find it hard to trace how people collaborate across units.",
+    "text": "Hvorfor det betyder noget: i en undersøgelse af næsten 200 konsulenter i organisationsdesign sagde mere end halvdelen, at deres kunder har svært ved at spore, hvordan folk samarbejder på tværs af enheder.",
+    "src": "77e58861",
+    "status": "draft"
+  },
+  "map.paragraphs.0": {
+    "en": "People, teams and AI agents all go on the same map. Lines show who depends on whom. Here: a product manager and a project manager direct two complete teams of people and AI agents.",
+    "text": "Mennesker, teams og AI-agenter placeres alle på det samme kort. Linjer viser, hvem der afhænger af hvem. Her: en produktchef og en projektleder styrer to fuldstændige teams af mennesker og AI-agenter.",
+    "src": "654bb2b9",
+    "status": "draft"
+  },
+  "map.paragraphs.1": {
+    "en": "This is not reproducing the org chart with titles and layers. You study the kinds of work units take on, the inputs they rely on, the outputs they produce, and how work actually flows between them.",
+    "text": "Det er ikke en gengivelse af organisationsdiagrammet med titler og niveauer. Du studerer, hvilke typer arbejde enhederne tager på sig, hvad de bygger på, hvad de leverer, og hvordan arbejdet i virkeligheden flyder mellem dem.",
+    "src": "4bc28eda",
+    "status": "draft"
+  },
+  "map.phaseLabel": {
+    "en": "STUDY · THE DESIGN YOU HAVE",
+    "text": "STUDY · DET DESIGN, DU HAR",
+    "src": "aafb18f2",
+    "status": "draft"
+  },
+  "map.principles.0.text": {
+    "en": "Map where work actually happens — not how the slides say it happens.",
+    "text": "Kortlæg, hvor arbejdet rent faktisk foregår — ikke hvordan slidesene siger, at det foregår.",
+    "src": "8f3c8068",
+    "status": "draft"
+  },
+  "map.principles.0.title": {
+    "en": "Go to the Gemba",
+    "text": "Gå til Gemba",
+    "src": "70b88635",
+    "status": "draft"
+  },
+  "map.principles.1.text": {
+    "en": "See the system as it really works today, before deciding how to improve it.",
+    "text": "Se systemet, som det reelt fungerer i dag, før du beslutter, hvordan det skal forbedres.",
+    "src": "94f019d0",
+    "status": "draft"
+  },
+  "map.principles.1.title": {
+    "en": "Without judgment",
+    "text": "Uden vurdering",
+    "src": "509ab16f",
+    "status": "draft"
+  },
+  "map.principles.2.text": {
+    "en": "Without curiosity, mapping quickly degenerates into justification.",
+    "text": "Uden nysgerrighed ender kortlægning hurtigt som en retfærdiggørelse.",
+    "src": "1b4fabc8",
+    "status": "draft"
+  },
+  "map.principles.2.title": {
+    "en": "With curiosity",
+    "text": "Med nysgerrighed",
+    "src": "c65d03f2",
+    "status": "draft"
+  },
+  "map.pullQuote.quote": {
+    "en": "“Mapping does not change the organization. But without mapping, change is blind.”",
+    "text": "»Kortlægning ændrer ikke organisationen. Men uden kortlægning er forandring blind.«",
+    "src": "df324588",
+    "status": "draft"
+  },
+  "map.pullQuote.source": {
+    "en": "10X ORG · STUDY: MAP AND ASSESS",
+    "text": "10X ORG · STUDY: MAP OG ASSESS",
+    "src": "de4ff633",
+    "status": "draft"
+  },
+  "map.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview._nav": {
+    "en": "Change, MADE Systemic",
+    "text": "Forandring, MADE systemisk",
+    "src": "03610ffd",
+    "status": "draft"
+  },
+  "overview.before": {
+    "en": "Every organization already has a design, whether purposeful or an ad hoc accretion over the years. Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Enhver organisation har allerede et design, uanset om det er tilsigtet eller en tilfældig ophobning gennem årene. Organisationsdesign ligger mellem strategi og ydeevne. **MADE** er den løkke, der holder det fit, opkaldt efter dens fire trin:",
+    "src": "24bb66ce",
+    "status": "draft"
+  },
+  "overview.heading": {
+    "en": "Change, MADE systemic",
+    "text": "Forandring, MADE systemisk",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "overview.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Forandring, MADE systemisk: Study (Map, Assess) og Improve (Design, Elevate) omkring organisationsdesign, mellem strategi og ydeevne",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "overview.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Først **Study** det design, du har, derefter **Improve** mod det design, du har brug for.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "overview.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Organisationsdesign ligger mellem strategi og ydeevne. **MADE** er den løkke, der holder det fit, opkaldt efter dens fire trin:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "overview.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "overview.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "overview.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "overview.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "overview.phases.0.note": {
+    "en": "the design you have",
+    "text": "det design, du har",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work [mandate](term:mandate)",
+    "text": "Placér hver enhed efter kompetence- og arbejds[mandat](term:mandate)",
+    "src": "c27f024b",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.1.text": {
+    "en": "Name the [topology](term:org-topology) you have — and whether it fits",
+    "text": "Navngiv den [topologi](term:org-topology), du har — og om den passer",
+    "src": "633803cf",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "overview.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "overview.phases.1.note": {
+    "en": "the design you need",
+    "text": "det design, du har brug for",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Forestil dig den organisation, du har brug for, uden nutidens begrænsninger",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "Få forandringen i gang med [Elevating Katas](term:elevating-kata)",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Map, Assess, Design, Elevate: see how your organization really works, then redesign it for the goal you choose, in four moves you can repeat.",
+    "text": "Map, Assess, Design, Elevate: se, hvordan din organisation virkelig fungerer, og redesign den derefter til det mål, du vælger, i fire trin, du kan gentage.",
+    "src": "c0d0b3f0",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "The MADE method — Map, Assess, Design, Elevate",
+    "text": "MADE-metoden — Map, Assess, Design, Elevate",
+    "src": "14f7ac95",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Map · Assess · Design · Elevate: see how your organization really works, then redesign it for the goal you choose — in four moves you can repeat.",
+    "text": "Map · Assess · Design · Elevate: se, hvordan din organisation virkelig fungerer, og redesign den derefter til det mål, du vælger — i fire trin, du kan gentage.",
+    "src": "d5584f91",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "The MADE\nmethod.",
+    "text": "MADE-\nmetoden.",
+    "src": "da839d0e",
+    "status": "draft"
+  }
+}

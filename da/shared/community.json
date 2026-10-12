@@ -1,0 +1,80 @@
+{
+  "aiden.cta.label": {
+    "en": "Learn with Aiden",
+    "text": "Lær med Aiden",
+    "src": "8dab14c7",
+    "status": "draft"
+  },
+  "aiden.heading": {
+    "en": "“How do I map my org?”",
+    "text": "»Hvordan mapper jeg min organisation?«",
+    "src": "41262b42",
+    "status": "draft"
+  },
+  "aiden.kicker": {
+    "en": "ASK OUR AI",
+    "text": "SPØRG VORES AI",
+    "src": "b4d29b86",
+    "status": "draft"
+  },
+  "newsletter.follow": {
+    "en": "Or follow [Org Topologies on LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
+    "text": "Eller følg [Org Topologies på LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
+    "src": "542aa9e1",
+    "status": "draft"
+  },
+  "newsletter.label": {
+    "en": "NEWSLETTER",
+    "text": "NYHEDSBREV",
+    "src": "67700c27",
+    "status": "draft"
+  },
+  "newsletter.note": {
+    "en": "Unsubscribe anytime. [Privacy →](/privacy)",
+    "text": "Afmeld når som helst. [Privatliv →](/privacy)",
+    "src": "5ba3f6df",
+    "status": "draft"
+  },
+  "newsletter.placeholder": {
+    "en": "you@company.com",
+    "text": "dig@virksomhed.dk",
+    "src": "652740e1",
+    "status": "draft"
+  },
+  "newsletter.submitLabel": {
+    "en": "Subscribe",
+    "text": "Tilmeld",
+    "src": "cc0e38da",
+    "status": "draft"
+  },
+  "newsletter.text": {
+    "en": "Upcoming classes and events, announcements and new material for your org design practice. Now and then, never spam.",
+    "text": "Kommende forløb og events, nyheder og nyt materiale til din praksis inden for organisationsdesign. En gang imellem, aldrig spam.",
+    "src": "45be597b",
+    "status": "draft"
+  },
+  "slack.cta.label": {
+    "en": "Join Slack",
+    "text": "Join Slack",
+    "src": "033266fb",
+    "status": "draft"
+  },
+  "slack.heading": {
+    "en": "Learn with community",
+    "text": "Lær sammen med community'et",
+    "src": "b76f8374",
+    "status": "draft"
+  },
+  "slack.kicker": {
+    "en": "TALK TO THE AUTHORS LIVE",
+    "text": "TAL LIVE MED FORFATTERNE",
+    "src": "5f5d49d6",
+    "status": "draft"
+  },
+  "slack.text": {
+    "en": "Practitioners share maps, and the authors join the conversation live in Slack.",
+    "text": "Practitioners deler maps, og forfatterne deltager live i samtalen på Slack.",
+    "src": "ae812c6d",
+    "status": "draft"
+  }
+}

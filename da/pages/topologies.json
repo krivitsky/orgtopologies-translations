@@ -1,0 +1,1016 @@
+{
+  "adaptive._nav": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.contexts": {
+    "en": "**Typical contexts:** new product development, innovation, platform exploration, consulting, research, emerging services.",
+    "text": "**Typiske sammenhænge:** udvikling af nye produkter, innovation, platformudforskning, rådgivning, forskning, nye tjenester.",
+    "src": "80dabdc4",
+    "status": "draft"
+  },
+  "adaptive.dynamics.label": {
+    "en": "Dynamics",
+    "text": "Dynamik",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "adaptive.dynamics.text": {
+    "en": "Directing, doing and delivering merge into one [team-of-teams](term:team-of-teams) — people and AI agents — with a broad shared mandate. Work is synchronous and coordinated by those doing it; learning runs across skills and across the scope of work.",
+    "text": "Directing, Doing og Delivering smelter sammen til ét [team af teams](term:team-of-teams) – mennesker og AI-agenter – med et bredt fælles mandat. Arbejdet er synkront og koordineres af dem, der udfører det; læringen går på tværs af kompetencer og arbejdsområder.",
+    "src": "beb4d40e",
+    "status": "draft"
+  },
+  "adaptive.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "STABILT MILJØ",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "adaptive.environments.0.text": {
+    "en": "Continuous learning and reconfiguration cost efficiency and add variability.",
+    "text": "Løbende læring og omkonfigurering koster effektivitet og tilfører variation.",
+    "src": "662bcd36",
+    "status": "draft"
+  },
+  "adaptive.environments.0.verdict": {
+    "en": "− Overhead",
+    "text": "− Overhead",
+    "src": "cc174b93",
+    "status": "draft"
+  },
+  "adaptive.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "SKIFTENDE MILJØ",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "adaptive.environments.1.text": {
+    "en": "Resilience, sustained relevance, cheap and fast pivots toward customer outcomes.",
+    "text": "Robusthed, vedvarende relevans, billige og hurtige kursskift mod kundeoutcomes.",
+    "src": "92d503ad",
+    "status": "draft"
+  },
+  "adaptive.environments.1.verdict": {
+    "en": "+ Fits well",
+    "text": "+ Passer godt",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "adaptive.frameworks": {
+    "en": "**Frameworks that build it:** [LeSS](/less), Nexus, [FAST](/fast) and Creating Agile Organizations (CAO). See all [framework mappings](/framework-mapping).",
+    "text": "**Rammeværker, der bygger den:** [LeSS](/less), Nexus, [FAST](/fast) og Creating Agile Organizations (CAO). Se alle [framework-mappings](/framework-mapping).",
+    "src": "ce30dcfb",
+    "status": "draft"
+  },
+  "adaptive.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "SKJUL DETALJER −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "adaptive.glance.label": {
+    "en": "At a glance",
+    "text": "I korte træk",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.detail": {
+    "en": "Fast delivery of uncertain results, to seek, change, discover and adapt",
+    "text": "Hurtig levering af usikre resultater: at søge, ændre, opdage og tilpasse sig",
+    "src": "6d99ca01",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "Typisk brug",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.detail": {
+    "en": "Flexible, holistic and novel",
+    "text": "Fleksibel, helhedsorienteret og nyskabende",
+    "src": "6e445867",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "Værdiskabelse",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.detail": {
+    "en": "Low; units work autonomously with minimal dependency on external groups",
+    "text": "Få; enheder arbejder selvstændigt med minimal afhængighed af eksterne grupper",
+    "src": "fd14d78b",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "Afhængigheder",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.detail": {
+    "en": "Multi-skilled and organized for exploratory outcomes and flexibility",
+    "text": "Mangeartet i kompetencer og organiseret til udforskende outcomes og fleksibilitet",
+    "src": "ce452a44",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "Gruppestruktur",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.detail": {
+    "en": "High; owns entire processes including inter-unit coordination",
+    "text": "Høj; ejer hele processer, også koordineringen mellem enheder",
+    "src": "723b1137",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "Empowerment",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.detail": {
+    "en": "Collaborate across boundaries to deliver complete customer solutions, with end-to-end ownership",
+    "text": "Samarbejder på tværs af grænser om at levere komplette kundeløsninger med ejerskab fra ende til anden",
+    "src": "ab86dd7d",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "Individuelle bidragydere",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.detail": {
+    "en": "Drives innovation, predicts customer needs, supports strategic decision-making",
+    "text": "Driver innovation, forudsiger kundebehov og understøtter strategiske beslutninger",
+    "src": "b61d38f1",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "Strategisk AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.detail": {
+    "en": "Units working across the entire solution space (“Uber”) or a partial domain (“Uber Eats”)",
+    "text": "Enheder, der arbejder på tværs af hele løsningsrummet (»Uber«) eller et delområde (»Uber Eats«)",
+    "src": "571aede2",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.term": {
+    "en": "Example",
+    "text": "Eksempel",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "adaptive.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "VIS DETALJER +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "adaptive.goal": {
+    "en": "**Org goal:** minimize the cost of learning and reconfiguration in volatile environments.",
+    "text": "**Organisationsmål:** minimere omkostningerne ved læring og omkonfigurering i omskiftelige omgivelser.",
+    "src": "ef3c20f0",
+    "status": "draft"
+  },
+  "adaptive.heading": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.kicker": {
+    "en": "03 · DRIVING",
+    "text": "03 · DRIVING",
+    "src": "fe223656",
+    "status": "draft"
+  },
+  "adaptive.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "EKSEMPEL PÅ MAPPING",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "adaptive.quote": {
+    "en": "“THE LIVING ECOSYSTEM” — co-evolving with its environment",
+    "text": "»THE LIVING ECOSYSTEM« – udvikler sig sammen med omgivelserne",
+    "src": "5a53b3fa",
+    "status": "draft"
+  },
+  "adaptive.withAi": {
+    "en": "**With AI:** AI as teacher and sparring partner lowers the cost of switching domains — and makes this design easier to reach.",
+    "text": "**Med AI:** AI som lærer og sparringspartner sænker prisen for at skifte domæne – og gør dette design lettere at nå.",
+    "src": "0317cd61",
+    "status": "draft"
+  },
+  "delivery._nav": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.contexts": {
+    "en": "**Typical contexts:** established products with known demand, SaaS in growth or maturity, managed services, customer support.",
+    "text": "**Typiske sammenhænge:** etablerede produkter med kendt efterspørgsel, SaaS i vækst eller modenhed, managed services, kundesupport.",
+    "src": "a55ffc56",
+    "status": "draft"
+  },
+  "delivery.dynamics.label": {
+    "en": "Dynamics",
+    "text": "Dynamik",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "delivery.dynamics.text": {
+    "en": "Complete [cross-functional](term:cross-functional) teams deliver within fixed, narrow value boundaries. Discovery stays separate, with directing units deciding what to build. Fast and efficient at outputs — sometimes called a “feature factory”.",
+    "text": "Fuldstændige [tværfunktionelle](term:cross-functional) teams leverer inden for faste, snævre værdigrænser. Discovery holdes adskilt, og Directing-enheder beslutter, hvad der skal bygges. Hurtig og effektiv til outputs – kaldes nogle gange en »feature factory«.",
+    "src": "98a4cedb",
+    "status": "draft"
+  },
+  "delivery.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "STABILT MILJØ",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "delivery.environments.0.text": {
+    "en": "Reliable, predictable delivery with short lead times and operational excellence.",
+    "text": "Pålidelig, forudsigelig levering med korte gennemløbstider og driftsmæssig topkvalitet.",
+    "src": "181821ef",
+    "status": "draft"
+  },
+  "delivery.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ Passer godt",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "delivery.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "SKIFTENDE MILJØ",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "delivery.environments.1.text": {
+    "en": "Learning gets expensive; strategic response lags; the design filters out weak market signals. More output, not necessarily more outcome.",
+    "text": "Læring bliver dyr; det strategiske svar kommer for sent; designet filtrerer svage markedssignaler fra. Mere output, ikke nødvendigvis mere outcome.",
+    "src": "06e5336e",
+    "status": "draft"
+  },
+  "delivery.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− Under pres",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "delivery.frameworks": {
+    "en": "**Frameworks that build it:** [Team Topologies](/team-topologies), Marty Cagan’s Product Operating Model ([Empowered Product Teams](/empowered)), the [Spotify Model](/spotify) when real teams form, and team-level Scrum.",
+    "text": "**Rammeværker, der bygger den:** [Team Topologies](/team-topologies), Marty Cagans Product Operating Model ([Empowered Product Teams](/empowered)), [Spotify-modellen](/spotify), når der dannes rigtige teams, og Scrum på teamniveau.",
+    "src": "3d14595c",
+    "status": "draft"
+  },
+  "delivery.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "SKJUL DETALJER −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "delivery.glance.label": {
+    "en": "At a glance",
+    "text": "I korte træk",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.detail": {
+    "en": "Fast delivery of proven worth with minimal change or learning",
+    "text": "Hurtig levering af bevist værdi med minimal forandring eller læring",
+    "src": "b72a75fe",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "Typisk brug",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.detail": {
+    "en": "Narrowly focused on specific capabilities",
+    "text": "Snævert fokuseret på bestemte evner",
+    "src": "babba5e3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "Værdiskabelse",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.detail": {
+    "en": "Moderate; units coordinate across boundaries but less frequently",
+    "text": "Moderate; enheder koordinerer på tværs af grænser, men sjældnere",
+    "src": "36e0bd22",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "Afhængigheder",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.detail": {
+    "en": "Cross-functional and aligned with narrow product or service features",
+    "text": "Tværfunktionel og afstemt efter snævre produkt- eller servicefunktioner",
+    "src": "6a88c041",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "Gruppestruktur",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.detail": {
+    "en": "Moderate; empowered within a small home unit but dependent on alignment between units, managed by Directing units",
+    "text": "Moderat; bemyndiget i en lille hjemmeenhed, men afhængig af afstemning mellem enheder, styret af Directing-enheder",
+    "src": "206fd9b9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "Empowerment",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.detail": {
+    "en": "Coordinate to deliver features and components within the team’s scope",
+    "text": "Koordinerer for at levere funktioner og komponenter inden for teamets område",
+    "src": "fb4f2c30",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "Individuelle bidragydere",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.detail": {
+    "en": "Integrates data, improves collaboration, aligns team outputs through real-time insights and feedback loops",
+    "text": "Samler data, styrker samarbejdet og afstemmer teamenes outputs gennem indsigt og feedback i realtid",
+    "src": "b2ce0ea9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "Strategisk AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.detail": {
+    "en": "A diner with short-order cooks: the owner decides the menu, the cooks deliver complete plates",
+    "text": "En diner med hurtigkokke: ejeren beslutter menuen, kokkene leverer færdige tallerkener",
+    "src": "63bbca2d",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.term": {
+    "en": "Example",
+    "text": "Eksempel",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "delivery.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "VIS DETALJER +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "delivery.goal": {
+    "en": "**Org goal:** maximize end-to-end flow of predictable work from demand to delivery.",
+    "text": "**Organisationsmål:** maksimere flowet af forudsigeligt arbejde fra efterspørgsel til levering.",
+    "src": "2ff5c086",
+    "status": "draft"
+  },
+  "delivery.heading": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.kicker": {
+    "en": "02 · DIRECTING + DELIVERING",
+    "text": "02 · DIRECTING + DELIVERING",
+    "src": "914897aa",
+    "status": "draft"
+  },
+  "delivery.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "EKSEMPEL PÅ MAPPING",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "delivery.quote": {
+    "en": "“THE STRUCTURED NETWORK” — optimized for flow",
+    "text": "»THE STRUCTURED NETWORK« – optimeret til flow",
+    "src": "cbb49173",
+    "status": "draft"
+  },
+  "delivery.withAi": {
+    "en": "**With AI:** AI absorbs execution work faster than teams can adapt their skills and mandates.",
+    "text": "**Med AI:** AI overtager udførelsesarbejde hurtigere, end teams kan tilpasse deres kompetencer og mandater.",
+    "src": "902b6443",
+    "status": "draft"
+  },
+  "fit._nav": {
+    "en": "Fit for Purpose",
+    "text": "Fit for purpose",
+    "src": "3f7c997b",
+    "status": "draft"
+  },
+  "fit.closing": {
+    "en": "Different parts of one company can run different topologies — a legacy service in Delivery, a new venture in Adaptive. What matters is that each part's design serves its goal.",
+    "text": "Forskellige dele af ét selskab kan køre forskellige topologier – en ældre tjeneste i Delivery, en ny satsning i Adaptive. Det vigtige er, at hver dels design tjener dens mål.",
+    "src": "ec6d6319",
+    "status": "draft"
+  },
+  "fit.heading": {
+    "en": "Fit for purpose",
+    "text": "Fit for purpose",
+    "src": "ff32bf56",
+    "status": "draft"
+  },
+  "fit.kicker": {
+    "en": "TOPOLOGIES AT A GLANCE",
+    "text": "TOPOLOGIERNE I KORTE TRÆK",
+    "src": "045c9a7b",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.0": {
+    "en": "Leaders must decide what they are optimizing for. That decision requires accountability, not consensus. It implies consciously accepting what they are *not* optimizing for. Trade-offs are unavoidable: no organization can optimize for everything at once.",
+    "text": "Ledere må beslutte, hvad de optimerer for. Den beslutning kræver ansvar, ikke konsensus. Den indebærer, at man bevidst accepterer, hvad man *ikke* optimerer for. Afvejninger er uundgåelige: ingen organisation kan optimere for alt på én gang.",
+    "src": "6fa3806d",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.1": {
+    "en": "Choosing among the [topologies](term:org-topology), or deliberately combining them for different goals, is the core practice of organizational design. It determines what kind of performance the organization can reliably produce.",
+    "text": "At vælge mellem [Org topologies](term:org-topology) eller bevidst kombinere dem til forskellige mål er kernen i organisationsdesign. Det afgør, hvilken slags præstation organisationen pålideligt kan levere.",
+    "src": "d2d2c05c",
+    "status": "draft"
+  },
+  "fit.principle.source": {
+    "en": "FROM 10X ORG · PRINCIPLE 4",
+    "text": "FRA 10X ORG · PRINCIP 4",
+    "src": "ac29e0c3",
+    "status": "draft"
+  },
+  "fit.principle.statement": {
+    "en": "No organizational topology is “better” in and of itself. There is “no one best way” to organize; there is only the way that fits your purpose.",
+    "text": "Ingen organisatorisk topologi er »bedre« i sig selv. Der findes ikke »én bedste måde« at organisere på; der findes kun den måde, der passer til dit formål.",
+    "src": "4a3b604a",
+    "status": "draft"
+  },
+  "fit.question.heading": {
+    "en": "Which organizational capabilities will effectively support our strategy?",
+    "text": "Hvilke organisatoriske evner understøtter vores strategi bedst?",
+    "src": "cf620706",
+    "status": "draft"
+  },
+  "fit.question.kicker": {
+    "en": "THE KEY QUESTION",
+    "text": "DET AFGØRENDE SPØRGSMÅL",
+    "src": "09487e53",
+    "status": "draft"
+  },
+  "fit.question.lead": {
+    "en": "Are you trying to get better at:",
+    "text": "Vil du blive bedre til at:",
+    "src": "e66c3967",
+    "status": "draft"
+  },
+  "fit.question.options.0.answer": {
+    "en": "→ RESOURCE · “THE MECHANISTIC SYSTEM”",
+    "text": "→ RESOURCE · »THE MECHANISTIC SYSTEM«",
+    "src": "dc0318e1",
+    "status": "draft"
+  },
+  "fit.question.options.0.question": {
+    "en": "Reducing the cost per task?",
+    "text": "Sænke prisen pr. opgave?",
+    "src": "06ccacc1",
+    "status": "draft"
+  },
+  "fit.question.options.1.answer": {
+    "en": "→ DELIVERY · “THE STRUCTURED NETWORK”",
+    "text": "→ DELIVERY · »THE STRUCTURED NETWORK«",
+    "src": "cb3d32ce",
+    "status": "draft"
+  },
+  "fit.question.options.1.question": {
+    "en": "Speeding up known and repeatable workflows?",
+    "text": "Fremskynde kendte og gentagelige arbejdsgange?",
+    "src": "05b87f5e",
+    "status": "draft"
+  },
+  "fit.question.options.2.answer": {
+    "en": "→ ADAPTIVE · “THE LIVING ECOSYSTEM”",
+    "text": "→ ADAPTIVE · »THE LIVING ECOSYSTEM«",
+    "src": "e3365d22",
+    "status": "draft"
+  },
+  "fit.question.options.2.question": {
+    "en": "Or continuously reshaping yourself to meet evolving needs?",
+    "text": "Eller løbende forme dig selv efter nye behov?",
+    "src": "fe4ba1b8",
+    "status": "draft"
+  },
+  "fit.rows.0.label": {
+    "en": "Maximizes",
+    "text": "Maksimerer",
+    "src": "7362cd33",
+    "status": "draft"
+  },
+  "fit.rows.0.values.0": {
+    "en": "Resource use, specialization",
+    "text": "Ressourceudnyttelse, specialisering",
+    "src": "d0f84f2a",
+    "status": "draft"
+  },
+  "fit.rows.0.values.1": {
+    "en": "Output, predictability",
+    "text": "Output, forudsigelighed",
+    "src": "c1ab064b",
+    "status": "draft"
+  },
+  "fit.rows.0.values.2": {
+    "en": "Outcome, innovation",
+    "text": "Outcome, innovation",
+    "src": "329cd125",
+    "status": "draft"
+  },
+  "fit.rows.1.label": {
+    "en": "Dependencies",
+    "text": "Afhængigheder",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "fit.rows.1.values.0": {
+    "en": "High",
+    "text": "Mange",
+    "src": "c4ebc6d4",
+    "status": "draft"
+  },
+  "fit.rows.1.values.1": {
+    "en": "Moderate",
+    "text": "Moderate",
+    "src": "5c42afc7",
+    "status": "draft"
+  },
+  "fit.rows.1.values.2": {
+    "en": "Low",
+    "text": "Få",
+    "src": "f793de20",
+    "status": "draft"
+  },
+  "fit.rows.2.label": {
+    "en": "Best environment",
+    "text": "Bedste miljø",
+    "src": "fd5b1f81",
+    "status": "draft"
+  },
+  "fit.rows.2.values.0": {
+    "en": "Stable, repeatable demand",
+    "text": "Stabil, gentagelig efterspørgsel",
+    "src": "e4ed730b",
+    "status": "draft"
+  },
+  "fit.rows.2.values.1": {
+    "en": "Known demand, stable roadmap",
+    "text": "Kendt efterspørgsel, stabil køreplan",
+    "src": "3cf5b2f9",
+    "status": "draft"
+  },
+  "fit.rows.2.values.2": {
+    "en": "Uncertain, fast-changing markets",
+    "text": "Usikre, hurtigt skiftende markeder",
+    "src": "a9c51da0",
+    "status": "draft"
+  },
+  "fit.topologies.0.name": {
+    "en": "RESOURCE",
+    "text": "RESOURCE",
+    "src": "1e88bb01",
+    "status": "draft"
+  },
+  "fit.topologies.1.name": {
+    "en": "DELIVERY",
+    "text": "DELIVERY",
+    "src": "9f4029f1",
+    "status": "draft"
+  },
+  "fit.topologies.2.name": {
+    "en": "ADAPTIVE",
+    "text": "ADAPTIVE",
+    "src": "b67399bd",
+    "status": "draft"
+  },
+  "made.goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "Ændr dit organisationsdesign uden en stor omvæltning: kortlæg det, du har, vælg, hvad du optimerer for, design målbilledet, og løft så trin for trin. Se alle fire træk på én eksempelorganisation.",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "made.goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "Læs om tilgangen →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "made.goDeeper.title": {
+    "en": "The MADE method",
+    "text": "MADE-metoden",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "made.heading": {
+    "en": "Change, MADE systemic",
+    "text": "Forandring, MADE systemisk",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "made.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Forandring MADE systemisk: Study (Map, Assess) og Improve (Design, Elevate) omkring organisationsdesign, mellem strategi og præstation",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "made.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Først **undersøger** du det design, du har, derefter **forbedrer** du mod det design, du har brug for.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "made.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Organisationsdesign sidder mellem strategi og præstation. **MADE** er løkken, der holder det tilpasset, opkaldt efter dens fire træk:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "made.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "made.kicker": {
+    "en": "THE APPROACH",
+    "text": "TILGANGEN",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "made.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "made.phases.0.note": {
+    "en": "the design you have",
+    "text": "det design, du har",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "Placér hver enhed efter kompetencer og arbejdsmandat",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "Navngiv den topologi, du har – og om den passer",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "made.phases.1.note": {
+    "en": "the design you need",
+    "text": "det design, du har brug for",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Forestil dig den organisation, du har brug for, uden nutidens begrænsninger",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "Få forandringen i gang med [Elevating Katas](term:elevating-kata)",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Resource, Delivery and Adaptive: three recurring org designs, each optimized for a different goal. Compare them and choose the one that fits your purpose.",
+    "text": "Resource, Delivery og Adaptive: tre tilbagevendende organisationsdesigns, hver optimeret til et forskelligt mål. Sammenlign dem, og vælg det, der passer til dit formål.",
+    "src": "c9b56bb3",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Three topologies: choose your org goal",
+    "text": "Tre topologier: vælg dit organisationsmål",
+    "src": "2d5e0680",
+    "status": "draft"
+  },
+  "resource._nav": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.contexts": {
+    "en": "**Typical contexts:** shared services, payroll, compliance, commodity manufacturing, long-lived platforms.",
+    "text": "**Typiske sammenhænge:** shared services, lønadministration, compliance, standardproduktion, langlivede platforme.",
+    "src": "0008e8ac",
+    "status": "draft"
+  },
+  "resource.dynamics.label": {
+    "en": "Dynamics",
+    "text": "Dynamik",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "resource.dynamics.text": {
+    "en": "[Directing](term:directing-intelligence) units plan, split and dispatch work. Specialists in functional groups each do one part. Specs, hand-offs and coordination connect the pieces; upfront planning and re-planning keep it moving.",
+    "text": "[Directing](term:directing-intelligence)-enheder planlægger, opdeler og fordeler arbejdet. Specialister i funktionelle grupper løser hver sin del. Specifikationer, overdragelser og koordinering binder delene sammen; planlægning på forhånd og genplanlægning holder det i gang.",
+    "src": "059d4b03",
+    "status": "draft"
+  },
+  "resource.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "STABILT MILJØ",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "resource.environments.0.text": {
+    "en": "Deep expertise, high utilization, consistent standard work.",
+    "text": "Dyb ekspertise, høj udnyttelse, ensartet standardarbejde.",
+    "src": "2f23dec9",
+    "status": "draft"
+  },
+  "resource.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ Passer godt",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "resource.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "SKIFTENDE MILJØ",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "resource.environments.1.text": {
+    "en": "Coordination overhead grows; end-to-end response slows; learning stays inside existing skills.",
+    "text": "Koordineringsomkostningerne vokser; responsen fra ende til anden bliver langsommere; læringen bliver inden for de eksisterende kompetencer.",
+    "src": "1871d6a5",
+    "status": "draft"
+  },
+  "resource.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− Under pres",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "resource.frameworks": {
+    "en": "**Frameworks that build it:** PRINCE2, ITIL and others. Also [SAFe](/safe): ideally it can build a Delivery Topology, but the implementations we studied lean heavily toward Resource, because cross-team interdependencies are not eliminated, only managed as they are.",
+    "text": "**Rammeværker, der bygger den:** PRINCE2, ITIL og andre. Også [SAFe](/safe): i bedste fald kan det bygge en Delivery Topology, men de implementeringer, vi har undersøgt, hælder kraftigt mod Resource, fordi afhængigheder mellem teams ikke fjernes, kun håndteres, som de er.",
+    "src": "8e0dff0f",
+    "status": "draft"
+  },
+  "resource.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "SKJUL DETALJER −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "resource.glance.label": {
+    "en": "At a glance",
+    "text": "I korte træk",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.detail": {
+    "en": "PMO resource management of specialists",
+    "text": "PMO-styring af specialisternes ressourcer",
+    "src": "6e8904fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "Typisk brug",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.detail": {
+    "en": "Fragmented and reliant on multiple handoffs and coordination",
+    "text": "Opsplittet og afhængig af mange overdragelser og koordinering",
+    "src": "afb364ee",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "Værdiskabelse",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.detail": {
+    "en": "High; units depend on coordination across functional silos",
+    "text": "Mange; enheder afhænger af koordinering på tværs af funktionelle siloer",
+    "src": "fc984280",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "Afhængigheder",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.detail": {
+    "en": "Siloed functional groups with specialized roles",
+    "text": "Funktionelle siloer med specialiserede roller",
+    "src": "92aa9db6",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "Gruppestruktur",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.detail": {
+    "en": "Low; constrained to predefined tasks with little autonomy",
+    "text": "Lav; begrænset til foruddefinerede opgaver med lidt autonomi",
+    "src": "b93376de",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "Empowerment",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.detail": {
+    "en": "Complete isolated tasks (defined by coordinators) using specific skills, with minimal ownership",
+    "text": "Løser isolerede opgaver (defineret af koordinatorer) med bestemte kompetencer og minimalt ejerskab",
+    "src": "f81e852b",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "Individuelle bidragydere",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.detail": {
+    "en": "Automates repetitive tasks, optimizes workflows, enhances resource efficiency",
+    "text": "Automatiserer gentagne opgaver, optimerer arbejdsgange og øger ressourceeffektiviteten",
+    "src": "e27812e1",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "Strategisk AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.detail": {
+    "en": "A movie producer hiring dancers for a scene",
+    "text": "En filmproducer, der hyrer dansere til en scene",
+    "src": "e6ea66eb",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.term": {
+    "en": "Example",
+    "text": "Eksempel",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "resource.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "VIS DETALJER +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "resource.goal": {
+    "en": "**Org goal:** maximize efficiency of specialized skills under stable demand.",
+    "text": "**Organisationsmål:** maksimere effektiviteten af specialiserede kompetencer ved stabil efterspørgsel.",
+    "src": "091004b4",
+    "status": "draft"
+  },
+  "resource.heading": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.kicker": {
+    "en": "01 · DIRECTING + DOING",
+    "text": "01 · DIRECTING + DOING",
+    "src": "64b08171",
+    "status": "draft"
+  },
+  "resource.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "EKSEMPEL PÅ MAPPING",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "resource.quote": {
+    "en": "“THE MECHANISTIC SYSTEM” — precision through specialization",
+    "text": "»THE MECHANISTIC SYSTEM« – præcision gennem specialisering",
+    "src": "db890cd5",
+    "status": "draft"
+  },
+  "resource.withAi": {
+    "en": "**With AI:** AI automates specialized tasks fast — narrow specialist roles face displacement unless [mandates](term:mandate) widen.",
+    "text": "**Med AI:** AI automatiserer specialiserede opgaver hurtigt – snævre specialistroller risikerer at blive overflødige, medmindre [mandaterne](term:mandate) udvides.",
+    "src": "4b1adfe5",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 2 · ASSESS",
+    "text": "MADE · TRIN 2 · ASSESS",
+    "src": "a9fecccc",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A topology is a recognizable pattern of where an organization's units sit on the map. Each one is optimized for something — and pays for it somewhere else. None is “best”. The question is whether it fits your purpose and your environment.",
+    "text": "En topologi er et genkendeligt mønster for, hvor en organisations enheder placerer sig på kortet. Hver er optimeret til noget – og betaler for det et andet sted. Ingen er »den bedste«. Spørgsmålet er, om den passer til dit formål og dine omgivelser.",
+    "src": "0efd9661",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Three topologies.\nChoose your org goal.",
+    "text": "Tre topologier.\nVælg dit organisationsmål.",
+    "src": "39eedbd4",
+    "status": "draft"
+  }
+}

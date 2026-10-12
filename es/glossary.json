@@ -1,0 +1,1838 @@
+{
+  "10x-org.definition": {
+    "en": "The book's people-centric, AI-ready system of nine principles for building organizations that can learn, adapt and perform. Org Topologies is the map and method that powers it.",
+    "text": "El sistema del libro, centrado en las personas y preparado para la IA, con nueve principios para construir organizaciones capaces de aprender, adaptarse y rendir. Org Topologies es el mapa y el método que lo impulsa.",
+    "src": "9f54b849",
+    "status": "draft"
+  },
+  "10x-org.term": {
+    "en": "10X Org",
+    "text": "10X Org",
+    "src": "65ee28cc",
+    "status": "draft"
+  },
+  "10x.definition": {
+    "en": "A tenfold increase in an organization's capability to learn, evolve, create value and stay strategically aligned. It is about more adaptability, impact and relevance, not more activity.",
+    "text": "Multiplicar por diez la capacidad de una organización para aprender, evolucionar, crear valor y mantenerse alineada con la estrategia. Se trata de más adaptabilidad, impacto y relevancia, no de más actividad.",
+    "src": "6ec602c3",
+    "status": "draft"
+  },
+  "10x.term": {
+    "en": "10X",
+    "text": "10X",
+    "src": "87d1d093",
+    "status": "draft"
+  },
+  "4x4-map.definition": {
+    "en": "The detailed version of the map, with four levels on each axis and sixteen archetypes, used for precise assessment.",
+    "text": "La versión detallada del mapa, con cuatro niveles en cada eje y dieciséis arquetipos, usada para una evaluación precisa.",
+    "src": "cfdc8ae7",
+    "status": "draft"
+  },
+  "4x4-map.term": {
+    "en": "4x4 map",
+    "text": "Mapa 4x4",
+    "src": "2dc40edb",
+    "status": "draft"
+  },
+  "adaptive-capability.definition": {
+    "en": "The ability to follow value into the unknown, learn there and still deliver, so the organization recombines as conditions change without reshuffling its structure.",
+    "text": "La capacidad de seguir el valor hacia lo desconocido, aprender allí y aun así entregar, de modo que la organización se recombine cuando cambian las condiciones sin tener que reorganizar su estructura.",
+    "src": "4c0cd9ca",
+    "status": "draft"
+  },
+  "adaptive-capability.term": {
+    "en": "Adaptive capability",
+    "text": "Capacidad adaptativa",
+    "src": "2ce2a0ca",
+    "status": "draft"
+  },
+  "adaptive-performance.definition": {
+    "en": "An employee's ability to remain effective as work conditions shift. It correlates with adaptive expertise, and the book stresses that experience alone does not produce it: it is developed through exposure to the unexpected.",
+    "text": "La capacidad de un empleado de seguir siendo efectivo cuando cambian las condiciones de trabajo. Se correlaciona con la experticia adaptativa, y el libro subraya que la experiencia por sí sola no la produce: se desarrolla mediante la exposición a lo inesperado.",
+    "src": "f30ae504",
+    "status": "draft"
+  },
+  "adaptive-performance.term": {
+    "en": "Adaptive performance",
+    "text": "Desempeño adaptativo",
+    "src": "45d99e41",
+    "status": "draft"
+  },
+  "adaptive-topology.definition": {
+    "en": "Driving units: broad skills and work mandates, units that swarm around outcomes. Org goal: minimize the cost of learning and reconfiguration in volatile environments.",
+    "text": "Unidades Driving: mandatos amplios de habilidades y de trabajo, unidades que se agrupan en enjambre en torno a los outcomes. Objetivo organizacional: minimizar el costo de aprender y reconfigurarse en entornos volátiles.",
+    "src": "a49c7775",
+    "status": "draft"
+  },
+  "adaptive-topology.term": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptiveness.definition": {
+    "en": "The ability to change direction easily and cheaply, guided by the learning needed to deliver better customer value with less friction. It is the org goal of the Adaptive Topology.",
+    "text": "La capacidad de cambiar de dirección con facilidad y a bajo costo, guiada por el aprendizaje necesario para entregar más valor al cliente con menos fricción. Es el objetivo organizacional de la Adaptive Topology.",
+    "src": "052192fa",
+    "status": "draft"
+  },
+  "adaptiveness.term": {
+    "en": "Adaptiveness",
+    "text": "Adaptabilidad",
+    "src": "cf63f4bb",
+    "status": "draft"
+  },
+  "agentic-org-design.definition": {
+    "en": "Designing the mandates of organizations where AI agents work across digital workflows, so they do not recreate a Taylorist split between thinking and doing.",
+    "text": "Diseñar los mandatos de organizaciones donde los agentes de IA trabajan a lo largo de flujos digitales, para que no reproduzcan una separación taylorista entre pensar y hacer.",
+    "src": "8d3c079f",
+    "status": "draft"
+  },
+  "agentic-org-design.term": {
+    "en": "Agentic org design",
+    "text": "Diseño organizacional agéntico",
+    "src": "6e1f9d9f",
+    "status": "draft"
+  },
+  "agile-release-train.definition": {
+    "en": "In SAFe, a group of teams that plan together in program increments of 8 to 12 weeks. The dependencies between its teams are analyzed upfront and managed outside the teams, so a traditional ART is not a team of teams.",
+    "text": "En SAFe, un grupo de equipos que planifican juntos en program increments de 8 a 12 semanas. Las dependencias entre sus equipos se analizan por adelantado y se gestionan fuera de los equipos, así que un ART tradicional no es un equipo de equipos.",
+    "src": "31604840",
+    "status": "draft"
+  },
+  "agile-release-train.term": {
+    "en": "Agile Release Train (ART)",
+    "text": "Agile Release Train (ART)",
+    "src": "a9e6e55e",
+    "status": "draft"
+  },
+  "aging-and-descaling.definition": {
+    "en": "Organizations typically drift from Adaptive toward Resource as they hire and specialize; the book calls this aging. The reverse path, Resource to Delivery to Adaptive, is descaling.",
+    "text": "Las organizaciones suelen derivar de Adaptive hacia Resource a medida que contratan y se especializan; el libro lo llama envejecimiento. El camino inverso, de Resource a Delivery y a Adaptive, es el descaling.",
+    "src": "e1bebee3",
+    "status": "draft"
+  },
+  "aging-and-descaling.term": {
+    "en": "Aging and descaling",
+    "text": "Envejecimiento y descaling",
+    "src": "6fb679bc",
+    "status": "draft"
+  },
+  "ai-agent.definition": {
+    "en": "An AI system acting as an organizational unit. It can sit on the map like any unit: single-purpose agents are Doing units; agents can join Driving collaboration.",
+    "text": "Un sistema de IA que actúa como unidad organizacional. Puede aparecer en el mapa como cualquier otra unidad: los agentes de un solo propósito son unidades Doing; los agentes pueden sumarse a la colaboración Driving.",
+    "src": "870d104d",
+    "status": "draft"
+  },
+  "ai-agent.term": {
+    "en": "AI agent",
+    "text": "Agente de IA",
+    "src": "92c7d7f8",
+    "status": "draft"
+  },
+  "ai-sdd.definition": {
+    "en": "AI-assisted spec-driven development: humans specify intent and AI agents turn it into plans, tasks and code.",
+    "text": "Desarrollo guiado por especificaciones asistido por IA: las personas especifican la intención y los agentes de IA la convierten en planes, tareas y código.",
+    "src": "dc2c1307",
+    "status": "draft"
+  },
+  "ai-sdd.term": {
+    "en": "AI-SDD",
+    "text": "AI-SDD",
+    "src": "96913472",
+    "status": "draft"
+  },
+  "aiden.definition": {
+    "en": "The book's custom GPT and 10X ORG expert, powered by Org Topologies; he/him.",
+    "text": "El GPT personalizado del libro y experto en 10X ORG, impulsado por Org Topologies; pronombre: él.",
+    "src": "275a8a21",
+    "status": "draft"
+  },
+  "aiden.term": {
+    "en": "Aiden",
+    "text": "Aiden",
+    "src": "ee2942b0",
+    "status": "draft"
+  },
+  "archetype-codes.definition": {
+    "en": "Short names for the sixteen 4x4 cells: the row of the work mandate (TASKS, CAPS, PART, WHOLE) plus the skills column from 1 to 4. CAPS-3 reads end-to-end skills at the capabilities level.",
+    "text": "Nombres cortos de las dieciséis celdas del 4x4: la fila del mandato de trabajo (TASKS, CAPS, PART, WHOLE) más la columna de habilidades del 1 al 4. CAPS-3 se lee como habilidades de extremo a extremo en el nivel de capacidades.",
+    "src": "59c2c2a2",
+    "status": "draft"
+  },
+  "archetype-codes.term": {
+    "en": "Archetype codes (TASKS, CAPS, PART, WHOLE)",
+    "text": "Códigos de arquetipo (TASKS, CAPS, PART, WHOLE)",
+    "src": "0a5d80f7",
+    "status": "draft"
+  },
+  "archetype.definition": {
+    "en": "A common pattern of how an organizational unit is structured and operates. The 4x4 map names sixteen of them.",
+    "text": "Un patrón común de cómo se estructura y opera una unidad organizacional. El mapa 4x4 nombra dieciséis.",
+    "src": "ac085cb2",
+    "status": "draft"
+  },
+  "archetype.term": {
+    "en": "Archetype",
+    "text": "Arquetipo",
+    "src": "ecd5f88e",
+    "status": "draft"
+  },
+  "business-objective.definition": {
+    "en": "The external result a strategy aims at, such as profit or market share. It is uncertain; org design, by contrast, is internal and largely in your control.",
+    "text": "El resultado externo al que apunta una estrategia, como el beneficio o la cuota de mercado. Es incierto; el diseño organizacional, en cambio, es interno y está en gran parte bajo tu control.",
+    "src": "f1899706",
+    "status": "draft"
+  },
+  "business-objective.term": {
+    "en": "Business objective",
+    "text": "Objetivo de negocio",
+    "src": "6c4aa05b",
+    "status": "draft"
+  },
+  "c-otc.definition": {
+    "en": "Certified Org Topologies Consultant: the Academy class for consultants and transformation leaders.",
+    "text": "Certified Org Topologies Consultant: la clase de la Academy para consultores y líderes de transformación.",
+    "src": "3a574f73",
+    "status": "draft"
+  },
+  "c-otc.term": {
+    "en": "C-OTC",
+    "text": "C-OTC",
+    "src": "d19b9555",
+    "status": "draft"
+  },
+  "c-otp.definition": {
+    "en": "Certified Org Topologies Practitioner: the Academy course for improving your own organization.",
+    "text": "Certified Org Topologies Practitioner: el curso de la Academy para mejorar tu propia organización.",
+    "src": "6fc96a6e",
+    "status": "draft"
+  },
+  "c-otp.term": {
+    "en": "C-OTP",
+    "text": "C-OTP",
+    "src": "d24c3891",
+    "status": "draft"
+  },
+  "change-fatigue.definition": {
+    "en": "The exhaustion that sets in when repeated shake-ups never address the real problems. Morale drops and performance stalls.",
+    "text": "El agotamiento que aparece cuando sacudidas repetidas nunca abordan los problemas reales. La moral cae y el rendimiento se estanca.",
+    "src": "69b5e03d",
+    "status": "draft"
+  },
+  "change-fatigue.term": {
+    "en": "Change fatigue",
+    "text": "Fatiga del cambio",
+    "src": "a1c5fd88",
+    "status": "draft"
+  },
+  "change-theater.definition": {
+    "en": "Change without real structural backing: fresh slide decks, labels and jargon while the deeper performance problems stay as they were. Each new fad, now often co-written with generative AI, repeats the cycle.",
+    "text": "Cambio sin respaldo estructural real: presentaciones nuevas, etiquetas y jerga mientras los problemas de rendimiento de fondo siguen igual. Cada nueva moda, hoy a menudo coescrita con IA generativa, repite el ciclo.",
+    "src": "694a0b1e",
+    "status": "draft"
+  },
+  "change-theater.term": {
+    "en": "Change theater",
+    "text": "Change theater",
+    "src": "2302b006",
+    "status": "draft"
+  },
+  "cognitive-distance.definition": {
+    "en": "The gap between leaders and the real system of work, created by physical or structural separation. Reports and dashboards then filter reality. Go See and the Gemba counter it.",
+    "text": "La brecha entre los líderes y el sistema real de trabajo, creada por una separación física o estructural. Los informes y los dashboards filtran entonces la realidad. Go See y el Gemba la contrarrestan.",
+    "src": "38e26324",
+    "status": "draft"
+  },
+  "cognitive-distance.term": {
+    "en": "Cognitive distance",
+    "text": "Distancia cognitiva",
+    "src": "36c3c322",
+    "status": "draft"
+  },
+  "cognitive-overload.definition": {
+    "en": "Cognitive load is the mental effort needed to do a task and learn while doing it. People overload when the cost of learning is high, not when they know much; narrow ownership often raises load through handoffs and context switching.",
+    "text": "La carga cognitiva es el esfuerzo mental necesario para hacer una tarea y aprender mientras se hace. La gente se sobrecarga cuando el costo de aprender es alto, no cuando sabe mucho; la propiedad acotada suele aumentar la carga por los traspasos y los cambios de contexto.",
+    "src": "2967204d",
+    "status": "draft"
+  },
+  "cognitive-overload.term": {
+    "en": "Cognitive overload",
+    "text": "Sobrecarga cognitiva",
+    "src": "2e9bb007",
+    "status": "draft"
+  },
+  "combining-topologies.definition": {
+    "en": "Letting multiple topologies coexist in one organization where parts do different kinds of work; each should be self-sufficient, accountable for outcomes and kept evolving.",
+    "text": "Dejar que varias topologías convivan en una misma organización cuando sus partes hacen trabajos de naturaleza distinta; cada una debe ser autosuficiente, responder por los outcomes y seguir evolucionando.",
+    "src": "4bf90c5d",
+    "status": "draft"
+  },
+  "combining-topologies.term": {
+    "en": "Combining topologies",
+    "text": "Combinar topologías",
+    "src": "11c6f801",
+    "status": "draft"
+  },
+  "competing-commitment.definition": {
+    "en": "A hidden commitment that works against a stated improvement goal, which explains why people resist even changes they support.",
+    "text": "Un compromiso oculto que va en contra de un objetivo de mejora declarado, y que explica por qué la gente se resiste incluso a cambios que apoya.",
+    "src": "d54f0f70",
+    "status": "draft"
+  },
+  "competing-commitment.term": {
+    "en": "Competing commitment",
+    "text": "Compromiso en competencia",
+    "src": "70295d88",
+    "status": "draft"
+  },
+  "complete-unit.definition": {
+    "en": "A unit with the skills, data and authority to deliver value independently, without relying on other units. Sits right of the vertical divider.",
+    "text": "Una unidad con las habilidades, los datos y la autoridad para entregar valor de forma independiente, sin depender de otras unidades. Se sitúa a la derecha de la línea divisoria vertical.",
+    "src": "6a8001d5",
+    "status": "draft"
+  },
+  "complete-unit.term": {
+    "en": "Complete unit",
+    "text": "Unidad completa",
+    "src": "525a7af5",
+    "status": "draft"
+  },
+  "component-development.definition": {
+    "en": "Organizing teams around architectural components so each delivers only its part of a feature; this structure makes development sequential, a structural outcome rather than a mindset problem.",
+    "text": "Organizar los equipos en torno a componentes de la arquitectura, de modo que cada uno entrega solo su parte de una funcionalidad; esta estructura hace secuencial el desarrollo, un resultado estructural y no un problema de mentalidad.",
+    "src": "223ece43",
+    "status": "draft"
+  },
+  "component-development.term": {
+    "en": "Component Development",
+    "text": "Desarrollo por componentes",
+    "src": "bb553fa7",
+    "status": "draft"
+  },
+  "contextual-blindness.definition": {
+    "en": "Applying a single organizing logic, metric set or governance model across the whole company in the belief that consistency equals efficiency. Across unequal contexts it destroys value and becomes a misfit at the Gemba.",
+    "text": "Aplicar una sola lógica de organización, un único conjunto de métricas o un modelo de gobierno a toda la empresa, creyendo que consistencia es igual a eficiencia. Entre contextos desiguales destruye valor y se convierte en un desajuste en el Gemba.",
+    "src": "7c200d38",
+    "status": "draft"
+  },
+  "contextual-blindness.term": {
+    "en": "Contextual blindness",
+    "text": "Ceguera contextual",
+    "src": "c7cfbbb7",
+    "status": "draft"
+  },
+  "cost-as-a-constraint.definition": {
+    "en": "Cost is a constraint to design within, not an org goal to optimize for. A top priority of cutting cost, taken to its end, means shutting the company down.",
+    "text": "El costo es una restricción dentro de la cual diseñar, no un objetivo organizacional que optimizar. Si la prioridad máxima es recortar costos, llevada hasta el final significa cerrar la empresa.",
+    "src": "ceb18063",
+    "status": "draft"
+  },
+  "cost-as-a-constraint.term": {
+    "en": "Cost as a constraint",
+    "text": "El costo como restricción",
+    "src": "7110926d",
+    "status": "draft"
+  },
+  "cross-functional.definition": {
+    "en": "A team that combines several functions. By itself it only moves a unit horizontally; Adaptive Topology needs units that are both cross-functional and cross-component.",
+    "text": "Un equipo que combina varias funciones. Por sí solo únicamente mueve a la unidad en horizontal; la Adaptive Topology necesita unidades que sean a la vez multifuncionales y multicomponente.",
+    "src": "40973973",
+    "status": "draft"
+  },
+  "cross-functional.term": {
+    "en": "Cross-functional",
+    "text": "Multifuncional",
+    "src": "089d9299",
+    "status": "draft"
+  },
+  "deep-specialization.definition": {
+    "en": "Mastery in one narrow skill. It makes sense when expertise is scarce and demand for it effectively unlimited, a rare case; AI democratizes expertise, so most people need to become multi-learners.",
+    "text": "Dominio de una sola habilidad acotada. Tiene sentido cuando la experticia es escasa y su demanda prácticamente ilimitada, un caso raro; la IA democratiza la experticia, así que la mayoría de las personas necesitan convertirse en multi-learners.",
+    "src": "847f0ee3",
+    "status": "draft"
+  },
+  "deep-specialization.term": {
+    "en": "Deep specialization",
+    "text": "Especialización profunda",
+    "src": "6083ac4b",
+    "status": "draft"
+  },
+  "default-to-human-strengths.definition": {
+    "en": "Challenge the limits that organizational design puts on people, and build environments that elevate natural human strengths, such as learning, combining and recombining skills, instead of competing with AI on narrow tasks.",
+    "text": "Cuestiona los límites que el diseño organizacional impone a las personas y construye entornos que potencien las fortalezas humanas naturales, como aprender, combinar y recombinar habilidades, en lugar de competir con la IA en tareas acotadas.",
+    "src": "2bbcc5a3",
+    "status": "draft"
+  },
+  "default-to-human-strengths.term": {
+    "en": "Default to human strengths",
+    "text": "Default to human strengths",
+    "src": "109c5649",
+    "status": "draft"
+  },
+  "definition-of-done.definition": {
+    "en": "Scrum's statement of when work is truly finished and usable: integrated, tested, documented where needed and ready for real use. The horizontal axis reads as the growing completeness of this definition.",
+    "text": "La declaración de Scrum de cuándo el trabajo está realmente terminado y es utilizable: integrado, probado, documentado donde haga falta y listo para un uso real. El eje horizontal se lee como la completitud creciente de esta definición.",
+    "src": "e2bc59af",
+    "status": "draft"
+  },
+  "definition-of-done.term": {
+    "en": "Definition of Done",
+    "text": "Definition of Done",
+    "src": "3fe1caa2",
+    "status": "draft"
+  },
+  "delivering-intelligence.definition": {
+    "en": "Lower-right quadrant: complete units working on outputs within a bounded scope, delivering with good flow but not owning the whole.",
+    "text": "Cuadrante inferior derecho: unidades completas que trabajan en outputs dentro de un alcance acotado y entregan con buen flujo, pero sin ser dueñas del conjunto.",
+    "src": "dd25344b",
+    "status": "draft"
+  },
+  "delivering-intelligence.term": {
+    "en": "Delivering Intelligence",
+    "text": "Delivering Intelligence",
+    "src": "2b2f0c64",
+    "status": "draft"
+  },
+  "delivery-team.definition": {
+    "en": "Marty Cagan's name for teams that deliver output on whatever is handed to them, with a product owner acting as a backlog administrator. He counts teams in SAFe among them.",
+    "text": "El nombre que da Marty Cagan a los equipos que entregan output sobre lo que se les pase, con un product owner que actúa como administrador del backlog. Cuenta entre ellos a los equipos de SAFe.",
+    "src": "1f14ed77",
+    "status": "draft"
+  },
+  "delivery-team.term": {
+    "en": "Delivery team",
+    "text": "Delivery team",
+    "src": "eda2f0d8",
+    "status": "draft"
+  },
+  "delivery-topology.definition": {
+    "en": "Directing units over Delivering units: stable cross-functional teams in bounded areas. Org goal: end-to-end flow of predictable work from demand to delivery.",
+    "text": "Unidades Directing sobre unidades Delivering: equipos multifuncionales estables en áreas acotadas. Objetivo organizacional: flujo de extremo a extremo de trabajo predecible, de la demanda a la entrega.",
+    "src": "01d2d04e",
+    "status": "draft"
+  },
+  "delivery-topology.term": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "dependency.definition": {
+    "en": "A reliance between units. Painful only when people are forced apart and cannot work synchronously; when they work on shared work together it becomes ordinary collaboration.",
+    "text": "Una relación en la que una unidad depende de otra. Duele solo cuando se obliga a las personas a trabajar separadas y no pueden hacerlo de forma sincrónica; cuando trabajan juntas en un trabajo compartido, se convierte en colaboración corriente.",
+    "src": "8990ad1a",
+    "status": "draft"
+  },
+  "dependency.term": {
+    "en": "Dependency",
+    "text": "Dependencia",
+    "src": "711595f1",
+    "status": "draft"
+  },
+  "directing-intelligence.definition": {
+    "en": "Upper-left quadrant: incomplete units that oversee the whole solution space and coordinate, prioritize and control, but do not create customer value directly.",
+    "text": "Cuadrante superior izquierdo: unidades incompletas que supervisan todo el espacio de soluciones y coordinan, priorizan y controlan, pero no crean valor para el cliente de forma directa.",
+    "src": "1c3ae2a0",
+    "status": "draft"
+  },
+  "directing-intelligence.term": {
+    "en": "Directing Intelligence",
+    "text": "Directing Intelligence",
+    "src": "fbdfd902",
+    "status": "draft"
+  },
+  "divide-and-conquer.definition": {
+    "en": "The common practice of slicing an organization into bounded parts, such as squads, tribes or stream-aligned teams, each with a narrow mandate. It fits locally until work shifts, then falls between the cracks and another reorganization follows.",
+    "text": "La práctica habitual de partir una organización en partes acotadas, como squads, tribus o equipos alineados al flujo, cada una con un mandato estrecho. Encaja a nivel local hasta que el trabajo se desplaza; entonces cae entre las grietas y llega otra reorganización.",
+    "src": "f11e208a",
+    "status": "draft"
+  },
+  "divide-and-conquer.term": {
+    "en": "Divide and conquer",
+    "text": "Divide y vencerás",
+    "src": "0b315bd9",
+    "status": "draft"
+  },
+  "doing-intelligence.definition": {
+    "en": "Lower-left quadrant: incomplete units working on outputs in narrow domains (individual contributors, groups, teams, AI agents). Strong at precision, dependent on others for end-to-end value.",
+    "text": "Cuadrante inferior izquierdo: unidades incompletas que trabajan en outputs dentro de dominios acotados (colaboradores individuales, grupos, equipos, agentes de IA). Fuertes en precisión, dependen de otros para el valor de extremo a extremo.",
+    "src": "94f9bc84",
+    "status": "draft"
+  },
+  "doing-intelligence.term": {
+    "en": "Doing Intelligence",
+    "text": "Doing Intelligence",
+    "src": "e852e906",
+    "status": "draft"
+  },
+  "driving-intelligence.definition": {
+    "en": "Upper-right quadrant: complete units owning outcomes and shaping what is built next, blending dreaming, thinking and doing; the Adaptive Topology.",
+    "text": "Cuadrante superior derecho: unidades completas que son dueñas de los outcomes y dan forma a lo que se construye a continuación, combinando soñar, pensar y hacer; la Adaptive Topology.",
+    "src": "995ee6a9",
+    "status": "draft"
+  },
+  "driving-intelligence.term": {
+    "en": "Driving Intelligence",
+    "text": "Driving Intelligence",
+    "src": "a069b70c",
+    "status": "draft"
+  },
+  "efficiency.definition": {
+    "en": "Efficiency has no single meaning. In the Resource Topology it is maximum use of specialized skills; in Delivery, fast reliable flow of known work; in Adaptive, lowering the cost of learning, reconfiguration and redirection.",
+    "text": "La eficiencia no tiene un único significado. En la Resource Topology es el uso máximo de habilidades especializadas; en Delivery, un flujo rápido y fiable de trabajo conocido; en Adaptive, reducir el costo de aprender, reconfigurarse y redirigirse.",
+    "src": "7b3d9072",
+    "status": "draft"
+  },
+  "efficiency.term": {
+    "en": "Efficiency",
+    "text": "Eficiencia",
+    "src": "87b180c8",
+    "status": "draft"
+  },
+  "elevate-not-eliminate.definition": {
+    "en": "The book's closing stance on AI: elevate people to higher mandates instead of eliminating them.",
+    "text": "La postura final del libro sobre la IA: elevar a las personas a mandatos más altos en lugar de eliminarlas.",
+    "src": "b7b1ab8c",
+    "status": "draft"
+  },
+  "elevate-not-eliminate.term": {
+    "en": "Elevate, not eliminate",
+    "text": "Elevate, not eliminate",
+    "src": "486639b9",
+    "status": "draft"
+  },
+  "elevated-art.definition": {
+    "en": "An Agile Release Train elevated to a team of teams: all its teams share one backlog of business objectives and one cadence, contain their dependencies and work synchronously. Elevate one ART at a time.",
+    "text": "Un Agile Release Train elevado a equipo de equipos: todos sus equipos comparten un único backlog de objetivos de negocio y una misma cadencia, contienen sus dependencias y trabajan de forma sincrónica. Eleva un ART cada vez.",
+    "src": "82f39a23",
+    "status": "draft"
+  },
+  "elevated-art.term": {
+    "en": "Elevated ART (eART)",
+    "text": "Elevated ART (eART)",
+    "src": "3d6acb87",
+    "status": "draft"
+  },
+  "elevating-kata.definition": {
+    "en": "A structured, repeatable improvement routine that turns org design intent into lived behavior, applied mainly in the Elevate step.",
+    "text": "Una rutina de mejora estructurada y repetible que convierte la intención del diseño organizacional en comportamiento vivido, aplicada sobre todo en el paso Elevate.",
+    "src": "453dbecf",
+    "status": "draft"
+  },
+  "elevating-kata.term": {
+    "en": "Elevating Kata",
+    "text": "Elevating Kata",
+    "src": "83f3b4c9",
+    "status": "draft"
+  },
+  "empowered-product-team.definition": {
+    "en": "Marty Cagan's term for a team that is cross-functional (product, design and engineering), measured by outcomes rather than output, and empowered to find the best way to solve the problems it is asked to solve. With a product manager on each team and a team-level backlog, it maps to Delivering, not Driving.",
+    "text": "El término de Marty Cagan para un equipo multifuncional (producto, diseño e ingeniería), medido por outcomes y no por output, y con autonomía para encontrar la mejor manera de resolver los problemas que se le plantean. Con un product manager en cada equipo y un backlog a nivel de equipo, se ubica en Delivering, no en Driving.",
+    "src": "79acf3e0",
+    "status": "draft"
+  },
+  "empowered-product-team.term": {
+    "en": "Empowered product team",
+    "text": "Empowered product team",
+    "src": "64d011fd",
+    "status": "draft"
+  },
+  "exploit-and-explore.definition": {
+    "en": "Exploit optimizes the delivery of value already understood (Delivery Topology); explore optimizes learning to discover what is valuable (Adaptive Topology). Do not turn them into camps: master both. Driving units integrate the two.",
+    "text": "Explotar optimiza la entrega del valor ya comprendido (Delivery Topology); explorar optimiza el aprendizaje para descubrir qué es valioso (Adaptive Topology). No los conviertas en bandos: domina ambos. Las unidades Driving integran los dos.",
+    "src": "7720fa2f",
+    "status": "draft"
+  },
+  "exploit-and-explore.term": {
+    "en": "Exploit and explore",
+    "text": "Explotar y explorar",
+    "src": "ae07844b",
+    "status": "draft"
+  },
+  "false-dilemma.definition": {
+    "en": "Presenting two valued options as opposites when a range of choices exists; reframing with a primary and a secondary concern reveals new options.",
+    "text": "Presentar dos opciones valiosas como opuestas cuando existe toda una gama de alternativas; replantearlo con una preocupación principal y una secundaria revela opciones nuevas.",
+    "src": "2cfdda08",
+    "status": "draft"
+  },
+  "false-dilemma.term": {
+    "en": "False dilemma",
+    "text": "Falso dilema",
+    "src": "bdd0e77f",
+    "status": "draft"
+  },
+  "fast-flow.definition": {
+    "en": "Quick, smooth movement of known work inside a team's lane. In the Delivery Topology the flow is local: when an outcome needs many teams, local speed does not add up to global speed.",
+    "text": "Movimiento rápido y fluido de trabajo conocido dentro del carril de un equipo. En la Delivery Topology el flujo es local: cuando un outcome necesita muchos equipos, la velocidad local no se suma en velocidad global.",
+    "src": "14e40a4c",
+    "status": "draft"
+  },
+  "fast-flow.term": {
+    "en": "Fast flow",
+    "text": "Fast flow",
+    "src": "97cb7bb6",
+    "status": "draft"
+  },
+  "feature-team.definition": {
+    "en": "In LeSS, a cross-functional, cross-component, long-living, customer-facing, self-managing team. Not a team that only codes pre-decided features.",
+    "text": "En LeSS, un equipo multifuncional, multicomponente, de larga duración, orientado al cliente y autogestionado. No es un equipo que solo programa funcionalidades ya decididas.",
+    "src": "e700700e",
+    "status": "draft"
+  },
+  "feature-team.term": {
+    "en": "Feature team",
+    "text": "Feature team",
+    "src": "e1c67912",
+    "status": "draft"
+  },
+  "ferrari-effect.definition": {
+    "en": "Putting faster engines (specialists, AI) into a jammed system makes motion louder but flow no better: local speed does not become global performance. Also called the Ferrari trap.",
+    "text": "Poner motores más rápidos (especialistas, IA) en un sistema atascado hace el movimiento más ruidoso, pero no mejora el flujo: la velocidad local no se convierte en rendimiento global. También llamado la trampa Ferrari.",
+    "src": "e0e92614",
+    "status": "draft"
+  },
+  "ferrari-effect.term": {
+    "en": "Ferrari effect",
+    "text": "Ferrari effect",
+    "src": "c57a289f",
+    "status": "draft"
+  },
+  "first-design-then-ai.definition": {
+    "en": "The line that sums Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
+    "text": "La frase que resume el Principio 9: deja la IA a un lado al principio, comprende la estructura y después usa la IA como palanca.",
+    "src": "46dd096c",
+    "status": "draft"
+  },
+  "first-design-then-ai.term": {
+    "en": "First design, then AI",
+    "text": "First design, then AI",
+    "src": "074153a7",
+    "status": "draft"
+  },
+  "fit-for-purpose.definition": {
+    "en": "An org design whose structure and mandates support what the organization is optimizing for. No topology is better in itself; the question is which one fits.",
+    "text": "Un diseño organizacional cuya estructura y mandatos apoyan aquello que la organización optimiza. Ninguna topología es mejor en sí misma; la pregunta es cuál encaja.",
+    "src": "cfa6e905",
+    "status": "draft"
+  },
+  "fit-for-purpose.term": {
+    "en": "Fit for purpose",
+    "text": "Adecuación al propósito",
+    "src": "ff32bf56",
+    "status": "draft"
+  },
+  "framework-thinking.definition": {
+    "en": "The assumption that implementing an industry-standard management framework is the key to success. Org Topologies reverses the order: business objectives, then the org goal, then the topology, and a framework last.",
+    "text": "La suposición de que implementar un framework de gestión estándar de la industria es la clave del éxito. Org Topologies invierte el orden: objetivos de negocio, luego el objetivo organizacional, luego la topología, y el framework al final.",
+    "src": "03bfebe7",
+    "status": "draft"
+  },
+  "framework-thinking.term": {
+    "en": "Framework thinking",
+    "text": "Pensamiento de framework",
+    "src": "ba218957",
+    "status": "draft"
+  },
+  "gemba-and-go-see.definition": {
+    "en": "Gemba is where value is created; Go See means leaders observing the real work there instead of relying on reports. Mapping and Go See reinforce each other.",
+    "text": "Gemba es donde se crea el valor; Go See significa que los líderes observan allí el trabajo real en lugar de fiarse de los informes. Mapear y Go See se refuerzan mutuamente.",
+    "src": "ea1a81e1",
+    "status": "draft"
+  },
+  "gemba-and-go-see.term": {
+    "en": "Gemba and Go See",
+    "text": "Gemba y Go See",
+    "src": "38617200",
+    "status": "draft"
+  },
+  "gemba-sprint.definition": {
+    "en": "A timeboxed immersion where leaders work with teams for days or weeks as active participants.",
+    "text": "Una inmersión con tiempo limitado en la que los líderes trabajan con los equipos durante días o semanas como participantes activos.",
+    "src": "e43467df",
+    "status": "draft"
+  },
+  "gemba-sprint.term": {
+    "en": "Gemba Sprint",
+    "text": "Gemba Sprint",
+    "src": "0a9ec74a",
+    "status": "draft"
+  },
+  "group.g-ai": {
+    "en": "AI",
+    "text": "IA",
+    "src": "11fb682b",
+    "status": "draft"
+  },
+  "group.g-archetypes-and-the-4x4": {
+    "en": "Archetypes and the 4x4",
+    "text": "Arquetipos y el 4x4",
+    "src": "18be3fbf",
+    "status": "draft"
+  },
+  "group.g-elevating-katas": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "group.g-foundations": {
+    "en": "Foundations",
+    "text": "Fundamentos",
+    "src": "1157606e",
+    "status": "draft"
+  },
+  "group.g-frameworks": {
+    "en": "Frameworks",
+    "text": "Frameworks",
+    "src": "cafd6b72",
+    "status": "draft"
+  },
+  "group.g-made": {
+    "en": "MADE",
+    "text": "MADE",
+    "src": "b7c0f4a6",
+    "status": "draft"
+  },
+  "group.g-people-and-roles": {
+    "en": "People and roles",
+    "text": "Personas y roles",
+    "src": "7c550b42",
+    "status": "draft"
+  },
+  "group.g-the-map": {
+    "en": "The map (2x2)",
+    "text": "El mapa (2x2)",
+    "src": "ce554483",
+    "status": "draft"
+  },
+  "group.g-the-nine-principles": {
+    "en": "The nine principles",
+    "text": "Los nueve principios",
+    "src": "11a80761",
+    "status": "draft"
+  },
+  "group.g-topologies": {
+    "en": "Topologies",
+    "text": "Topologies",
+    "src": "d89d5f19",
+    "status": "draft"
+  },
+  "guiding-coalition.definition": {
+    "en": "A diverse leadership group that guides the change together.",
+    "text": "Un grupo directivo diverso que guía el cambio en conjunto.",
+    "src": "f8797274",
+    "status": "draft"
+  },
+  "guiding-coalition.term": {
+    "en": "Guiding coalition",
+    "text": "Coalición guía",
+    "src": "1dba4645",
+    "status": "draft"
+  },
+  "high-variability-environment.definition": {
+    "en": "Work where demand, scope or technology change often, as in product development, where no feature is ever built twice. It calls for fast feedback, end-to-end responsibility and continuous learning; narrow stable lanes drift out of fit.",
+    "text": "Trabajo en el que la demanda, el alcance o la tecnología cambian a menudo, como en el desarrollo de producto, donde ninguna funcionalidad se construye dos veces. Pide feedback rápido, responsabilidad de extremo a extremo y aprendizaje continuo; los carriles estrechos y estables dejan de encajar.",
+    "src": "234eeffb",
+    "status": "draft"
+  },
+  "high-variability-environment.term": {
+    "en": "High-variability environment",
+    "text": "Entorno de alta variabilidad",
+    "src": "3c39e556",
+    "status": "draft"
+  },
+  "horizontal-divider.definition": {
+    "en": "The line on the map separating units optimized for partial outputs (below) from units designed to deliver whole outcomes (above).",
+    "text": "La línea del mapa que separa las unidades optimizadas para outputs parciales (abajo) de las diseñadas para entregar outcomes completos (arriba).",
+    "src": "9afc2a67",
+    "status": "draft"
+  },
+  "horizontal-divider.term": {
+    "en": "Horizontal divider",
+    "text": "Línea divisoria horizontal",
+    "src": "b389e260",
+    "status": "draft"
+  },
+  "human-continuity.definition": {
+    "en": "Keeping people and their accumulated learning together, instead of treating them as interchangeable resources shuffled between temporary groups. The Adaptive Topology compounds this continuity into long-term performance.",
+    "text": "Mantener juntas a las personas y su aprendizaje acumulado, en lugar de tratarlas como recursos intercambiables que se barajan entre grupos temporales. La Adaptive Topology capitaliza esta continuidad en rendimiento a largo plazo.",
+    "src": "38723903",
+    "status": "draft"
+  },
+  "human-continuity.term": {
+    "en": "Human continuity",
+    "text": "Continuidad humana",
+    "src": "f2fb4a0e",
+    "status": "draft"
+  },
+  "incomplete-unit.definition": {
+    "en": "A unit that lacks the skills, or the mandate to use them, to deliver customer value end-to-end, so it depends on others and creates handoffs. Sits left of the vertical divider.",
+    "text": "Una unidad a la que le faltan las habilidades, o el mandato para usarlas, para entregar valor al cliente de extremo a extremo, así que depende de otras y genera traspasos. Se sitúa a la izquierda de la línea divisoria vertical.",
+    "src": "1a335200",
+    "status": "draft"
+  },
+  "incomplete-unit.term": {
+    "en": "Incomplete unit",
+    "text": "Unidad incompleta",
+    "src": "6fe86d9d",
+    "status": "draft"
+  },
+  "informed-consent-workshop.definition": {
+    "en": "A deliberative workshop in which affected people learn why an org goal is chosen, what it enables and which trade-offs it implies, to build commitment.",
+    "text": "Un taller deliberativo en el que las personas afectadas aprenden por qué se elige un objetivo organizacional, qué hace posible y qué compromisos implica, para generar adhesión.",
+    "src": "2367671b",
+    "status": "draft"
+  },
+  "informed-consent-workshop.term": {
+    "en": "Informed consent workshop",
+    "text": "Taller de consentimiento informado",
+    "src": "e01c32ba",
+    "status": "draft"
+  },
+  "intelligence-as-a-service.definition": {
+    "en": "AI treated as an available service that lowers the cost of learning and doing, so specialization is no longer scarce.",
+    "text": "La IA tratada como un servicio disponible que reduce el costo de aprender y de hacer, de modo que la especialización ya no es escasa.",
+    "src": "5726628b",
+    "status": "draft"
+  },
+  "intelligence-as-a-service.term": {
+    "en": "Intelligence-as-a-service",
+    "text": "Intelligence-as-a-service",
+    "src": "d3b66490",
+    "status": "draft"
+  },
+  "intentional-org-design.definition": {
+    "en": "Choosing structure, mandates, processes, rewards and people on purpose, around one primary org goal. The alternative is design that accretes through ad hoc reactions to internal political pressures, which sends mixed signals to everyone.",
+    "text": "Elegir a propósito la estructura, los mandatos, los procesos, las recompensas y las personas en torno a un único objetivo organizacional principal. La alternativa es un diseño que se acumula por reacciones ad hoc a presiones políticas internas y envía mensajes contradictorios a todos.",
+    "src": "6af558a7",
+    "status": "draft"
+  },
+  "intentional-org-design.term": {
+    "en": "Intentional org design",
+    "text": "Diseño organizacional intencional",
+    "src": "1346a115",
+    "status": "draft"
+  },
+  "kata-naming-convention.definition": {
+    "en": "Each kata name starts with \"Elevate by\" followed by a gerund phrase, e.g. Elevate by Expanding the Product Definition.",
+    "text": "El nombre de cada kata empieza por «Elevate by» seguido de una frase con gerundio, p. ej. Elevate by Expanding the Product Definition.",
+    "src": "185804fa",
+    "status": "draft"
+  },
+  "kata-naming-convention.term": {
+    "en": "Kata naming convention",
+    "text": "Convención de nombres de los katas",
+    "src": "228689f6",
+    "status": "draft"
+  },
+  "katalog.definition": {
+    "en": "The catalog of Elevating Katas, grouped by Star Model element: Strategy, Structure, Processes, Rewards, People.",
+    "text": "El catálogo de Elevating Katas, agrupado por elemento del Star Model: Strategy, Structure, Processes, Rewards, People.",
+    "src": "e574d5da",
+    "status": "draft"
+  },
+  "katalog.term": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "leading-proxy-indicators.definition": {
+    "en": "Early signals chosen to show that an organization is on track to deliver outcomes. Outcomes such as a customer who stays are lagging and hard to measure, so smart proxies give a reliable sense of progress sooner.",
+    "text": "Señales tempranas elegidas para mostrar que una organización va camino de lograr outcomes. Outcomes como un cliente que se queda son indicadores rezagados y difíciles de medir, así que los proxies inteligentes dan antes una sensación fiable de avance.",
+    "src": "93546a55",
+    "status": "draft"
+  },
+  "leading-proxy-indicators.term": {
+    "en": "Leading proxy indicators",
+    "text": "Indicadores adelantados (proxies)",
+    "src": "35b7bac4",
+    "status": "draft"
+  },
+  "legacy-archetype-codes.definition": {
+    "en": "Older letter-plus-digit archetype codes (e.g. A1, B2, C3, Y1) used on pre-2025 posts.",
+    "text": "Los códigos de arquetipo antiguos de letra más dígito (p. ej. A1, B2, C3, Y1) usados en los artículos anteriores a 2025.",
+    "src": "fd6a3b70",
+    "status": "draft"
+  },
+  "legacy-archetype-codes.term": {
+    "en": "Legacy archetype codes",
+    "text": "Códigos de arquetipo anteriores",
+    "src": "cde899c5",
+    "status": "draft"
+  },
+  "light-run.definition": {
+    "en": "A quick, low-risk pass through MADE or a half-day mixed working session that lets people experience a different way of working before committing to structural change.",
+    "text": "Un recorrido rápido y de bajo riesgo por MADE, o una sesión de trabajo mixta de media jornada, que permite a las personas experimentar otra forma de trabajar antes de comprometerse con un cambio estructural.",
+    "src": "ae69ef13",
+    "status": "draft"
+  },
+  "light-run.term": {
+    "en": "Light run",
+    "text": "Light run",
+    "src": "e37597b0",
+    "status": "draft"
+  },
+  "local-optimization.definition": {
+    "en": "Each part improving what its own system rewards, which can lower performance of the whole.",
+    "text": "Cada parte mejora lo que su propio sistema recompensa, lo que puede reducir el rendimiento del conjunto.",
+    "src": "cf04e371",
+    "status": "draft"
+  },
+  "local-optimization.term": {
+    "en": "Local optimization",
+    "text": "Optimización local",
+    "src": "bd947a5f",
+    "status": "draft"
+  },
+  "m-shaping.definition": {
+    "en": "Broadening a person's skills across several domains, so units can take on more of the work themselves.",
+    "text": "Ampliar las habilidades de una persona a varios dominios, para que las unidades puedan asumir por sí mismas más parte del trabajo.",
+    "src": "c65f6264",
+    "status": "draft"
+  },
+  "m-shaping.term": {
+    "en": "M-shaping",
+    "text": "M-shaping",
+    "src": "2b1619c9",
+    "status": "draft"
+  },
+  "made-assess.definition": {
+    "en": "Second step: judge, not people but the system, whether the current org design fits the business ambitions and strategy.",
+    "text": "Segundo paso: juzgar, no a las personas sino al sistema, si el diseño organizacional actual encaja con las ambiciones del negocio y su estrategia.",
+    "src": "098a6fe0",
+    "status": "draft"
+  },
+  "made-assess.term": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made-core-values.definition": {
+    "en": "Curiosity (Map), honesty (Assess), commitment (Design) and openness (Elevate).",
+    "text": "Curiosidad (Map), honestidad (Assess), compromiso (Design) y apertura (Elevate).",
+    "src": "6252e0bd",
+    "status": "draft"
+  },
+  "made-core-values.term": {
+    "en": "MADE core values",
+    "text": "Valores centrales de MADE",
+    "src": "97fbed6d",
+    "status": "draft"
+  },
+  "made-design.definition": {
+    "en": "Third step: choose the one primary org goal and shape structure, processes, people and rewards to support it.",
+    "text": "Tercer paso: elegir el único objetivo organizacional principal y dar forma a la estructura, los procesos, las personas y las recompensas para apoyarlo.",
+    "src": "834b53f8",
+    "status": "draft"
+  },
+  "made-design.term": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made-elevate.definition": {
+    "en": "Fourth step: build the capability to make the new design work, by moving right and up with Elevating Katas as small experiments.",
+    "text": "Cuarto paso: desarrollar la capacidad de hacer funcionar el nuevo diseño, avanzando hacia la derecha y hacia arriba con Elevating Katas como pequeños experimentos.",
+    "src": "c5798ae4",
+    "status": "draft"
+  },
+  "made-elevate.term": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "made-map.definition": {
+    "en": "First MADE step: bring the invisible system of collaboration into view by placing units on the map, at the Gemba, asking which parts create value and how they interact.",
+    "text": "Primer paso de MADE: hacer visible el sistema invisible de colaboración situando las unidades en el mapa, en el Gemba, preguntando qué partes crean valor y cómo interactúan.",
+    "src": "e98ff396",
+    "status": "draft"
+  },
+  "made-map.term": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.definition": {
+    "en": "The Org Topologies method for continuous, systemic change: Map, Assess, Design, Elevate, and repeat, built around Galbraith's Star Model.",
+    "text": "El método de Org Topologies para un cambio continuo y sistémico: Map, Assess, Design, Elevate, y vuelta a empezar, construido en torno al Star Model de Galbraith.",
+    "src": "ae48985c",
+    "status": "draft"
+  },
+  "made.term": {
+    "en": "MADE",
+    "text": "MADE",
+    "src": "b7c0f4a6",
+    "status": "draft"
+  },
+  "manager-role.definition": {
+    "en": "In the book's view, managers grow capability and improve the system rather than direct work.",
+    "text": "Según el libro, los gerentes desarrollan capacidad y mejoran el sistema en lugar de dirigir el trabajo.",
+    "src": "d50e5ed6",
+    "status": "draft"
+  },
+  "manager-role.term": {
+    "en": "Manager role",
+    "text": "Rol del gerente",
+    "src": "341632b1",
+    "status": "draft"
+  },
+  "mandate.definition": {
+    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle. Org Topologies recognizes two essential mandates: the Scope of Skills Mandate (the horizontal axis of the map) and the Scope of Work Mandate (the vertical axis).",
+    "text": "Un conjunto de autoridad y responsabilidad para decidir, explorar, actuar y entregar resultados dentro de un alcance definido. Los mandatos fijan la complejidad máxima que una unidad puede manejar. Org Topologies reconoce dos mandatos esenciales: el Alcance del mandato de habilidades (el eje horizontal del mapa) y el Alcance del mandato de trabajo (el eje vertical).",
+    "src": "a3712989",
+    "status": "draft"
+  },
+  "mandate.term": {
+    "en": "Mandate",
+    "text": "Mandato",
+    "src": "d9232514",
+    "status": "draft"
+  },
+  "misfit.definition": {
+    "en": "A gap between what the structure is optimized for and what the strategy needs, made visible by mapping and assessing.",
+    "text": "Una brecha entre aquello para lo que está optimizada la estructura y lo que necesita la estrategia, que se hace visible al mapear y evaluar.",
+    "src": "1048e781",
+    "status": "draft"
+  },
+  "misfit.term": {
+    "en": "Misfit",
+    "text": "Desajuste",
+    "src": "092b3f34",
+    "status": "draft"
+  },
+  "multi-learning.definition": {
+    "en": "People or teams growing beyond their primary craft, building skills across domains and applying them in real work. It is the mechanism that expands the skills mandate and, with outcome ownership, moves units diagonally.",
+    "text": "Personas o equipos que crecen más allá de su oficio principal, desarrollan habilidades en distintos dominios y las aplican en trabajo real. Es el mecanismo que amplía el mandato de habilidades y, junto con la propiedad de los outcomes, mueve las unidades en diagonal.",
+    "src": "bd4c9dca",
+    "status": "draft"
+  },
+  "multi-learning.term": {
+    "en": "Multi-learning",
+    "text": "Multi-learning",
+    "src": "a67af15c",
+    "status": "draft"
+  },
+  "non-strategic-ai-adoption.definition": {
+    "en": "Naive, sporadic, ad hoc spreading of AI across existing silos, which amplifies the current pattern and the Ferrari effect.",
+    "text": "Extender la IA de forma ingenua, esporádica y ad hoc por los silos existentes, lo que amplifica el patrón actual y el efecto Ferrari.",
+    "src": "68ee6fd6",
+    "status": "draft"
+  },
+  "non-strategic-ai-adoption.term": {
+    "en": "Non-strategic AI adoption",
+    "text": "Adopción no estratégica de la IA",
+    "src": "763c6733",
+    "status": "draft"
+  },
+  "obeya.definition": {
+    "en": "A shared decision space that pulls leaders out of local views toward strategic goals and systemic constraints.",
+    "text": "Un espacio compartido de decisión que saca a los líderes de las visiones locales y los lleva hacia los objetivos estratégicos y las restricciones sistémicas.",
+    "src": "a9e8f4eb",
+    "status": "draft"
+  },
+  "obeya.term": {
+    "en": "Obeya",
+    "text": "Obeya",
+    "src": "55ea6726",
+    "status": "draft"
+  },
+  "org-design-owner.definition": {
+    "en": "A leader who is accountable for understanding the system, choosing a direction and energizing others to co-own and improve it; MADE helps leaders become true owners.",
+    "text": "Un líder que responde por comprender el sistema, elegir una dirección y motivar a los demás para que lo hagan suyo y lo mejoren juntos; MADE ayuda a los líderes a convertirse en verdaderos responsables.",
+    "src": "4f7b9456",
+    "status": "draft"
+  },
+  "org-design-owner.term": {
+    "en": "Org design owner",
+    "text": "Org design owner",
+    "src": "9058fa74",
+    "status": "draft"
+  },
+  "org-design-system.definition": {
+    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopt only its events and leave structure, people and rewards untouched, and it fails for lack of systemic alignment, not for lack of merit.",
+    "text": "Un conjunto coherente de elementos de diseño organizacional que se refuerzan entre sí hacia un objetivo. Scrum es uno: si adoptas solo sus eventos y dejas intactos la estructura, las personas y las recompensas, fracasa por falta de alineación sistémica, no por falta de mérito.",
+    "src": "e436dc82",
+    "status": "draft"
+  },
+  "org-design-system.term": {
+    "en": "Org design system",
+    "text": "Sistema de diseño organizacional",
+    "src": "352cc803",
+    "status": "draft"
+  },
+  "org-goal.definition": {
+    "en": "The one primary thing an organization deliberately optimizes for, chosen to support its strategy and used to settle trade-offs.",
+    "text": "Lo único que una organización optimiza de forma deliberada, elegido para apoyar su estrategia y usado para resolver los dilemas de prioridad.",
+    "src": "24619bb4",
+    "status": "draft"
+  },
+  "org-goal.term": {
+    "en": "Org goal",
+    "text": "Objetivo organizacional",
+    "src": "b746cadd",
+    "status": "draft"
+  },
+  "org-topologies-map.definition": {
+    "en": "The two-dimensional visual language that places organizational units by skills mandate (horizontal) and work mandate (vertical), so structure, dependencies and misfit become visible and shareable.",
+    "text": "El lenguaje visual bidimensional que sitúa las unidades de la organización según su mandato de habilidades (horizontal) y su mandato de trabajo (vertical), para que la estructura, las dependencias y los desajustes se vuelvan visibles y compartibles.",
+    "src": "fc6684d2",
+    "status": "draft"
+  },
+  "org-topologies-map.term": {
+    "en": "Org Topologies map",
+    "text": "Mapa de Org Topologies",
+    "src": "b65dc424",
+    "status": "draft"
+  },
+  "org-topologies.definition": {
+    "en": "An approach to raising performance through people-centered, strategy-driven, AI-ready organizational redesign: a visual map plus the MADE change method.",
+    "text": "Un enfoque para mejorar el rendimiento mediante un rediseño organizacional centrado en las personas, guiado por la estrategia y preparado para la IA: un mapa visual más el método de cambio MADE.",
+    "src": "91251108",
+    "status": "draft"
+  },
+  "org-topologies.term": {
+    "en": "Org Topologies (OT)",
+    "text": "Org Topologies (OT)",
+    "src": "1b31f1e1",
+    "status": "draft"
+  },
+  "org-topologist.definition": {
+    "en": "A leader, consultant or change agent who sees the people behind the boxes and lines on the map.",
+    "text": "Un líder, consultor o agente de cambio que ve a las personas detrás de las cajas y las líneas del mapa.",
+    "src": "0b8ccc51",
+    "status": "draft"
+  },
+  "org-topologist.term": {
+    "en": "Org topologist",
+    "text": "Org topologist",
+    "src": "113d5a94",
+    "status": "draft"
+  },
+  "org-topology.definition": {
+    "en": "A recognizable pattern, drawn from observation, of which quadrants an organization occupies and so what it is optimized for. There are three common ones and they can be combined.",
+    "text": "Un patrón reconocible, extraído de la observación, de los cuadrantes que ocupa una organización y, por tanto, de aquello para lo que está optimizada. Hay tres comunes y pueden combinarse.",
+    "src": "1bd9db02",
+    "status": "draft"
+  },
+  "org-topology.term": {
+    "en": "Org topology",
+    "text": "Topología organizacional",
+    "src": "94204b62",
+    "status": "draft"
+  },
+  "organization-design.definition": {
+    "en": "The process of developing and selecting an organization's structure (roles, reporting lines, units, interfaces, coordination) to meet its strategy and mandates; also the field that studies how structure improves effectiveness.",
+    "text": "El proceso de desarrollar y elegir la estructura de una organización (roles, líneas de reporte, unidades, interfaces, coordinación) para responder a su estrategia y sus mandatos; también el campo que estudia cómo la estructura mejora la efectividad.",
+    "src": "ef3ea224",
+    "status": "draft"
+  },
+  "organization-design.term": {
+    "en": "Organization design",
+    "text": "Diseño organizacional",
+    "src": "1ce10f6f",
+    "status": "draft"
+  },
+  "organizational-intelligence.definition": {
+    "en": "What an organization can collectively see, learn and solve. It emerges from the mandates assigned to units, not from individuals, and mandates set its ceiling.",
+    "text": "Lo que una organización puede ver, aprender y resolver de forma colectiva. Surge de los mandatos asignados a las unidades, no de las personas individuales, y los mandatos fijan su techo.",
+    "src": "549221eb",
+    "status": "draft"
+  },
+  "organizational-intelligence.term": {
+    "en": "Organizational intelligence",
+    "text": "Inteligencia organizacional",
+    "src": "6de6bd7d",
+    "status": "draft"
+  },
+  "outcomes.definition": {
+    "en": "What customers and stakeholders actually value, such as the whole meal, a healthy patient or a customer who stays. Units above the horizontal divider own them.",
+    "text": "Lo que los clientes y las partes interesadas realmente valoran, como la comida completa, un paciente sano o un cliente que se queda. Las unidades por encima de la línea divisoria horizontal son responsables de ellos.",
+    "src": "7d575de4",
+    "status": "draft"
+  },
+  "outcomes.term": {
+    "en": "Outcomes",
+    "text": "Outcomes",
+    "src": "912d8e96",
+    "status": "draft"
+  },
+  "outputs.definition": {
+    "en": "The partial products of work (tickets closed, features shipped, documents done). More output does not create more customer value.",
+    "text": "Los productos parciales del trabajo (tickets cerrados, funcionalidades entregadas, documentos terminados). Más output no crea más valor para el cliente.",
+    "src": "626d3c44",
+    "status": "draft"
+  },
+  "outputs.term": {
+    "en": "Outputs",
+    "text": "Outputs",
+    "src": "e7ce9976",
+    "status": "draft"
+  },
+  "parity.definition": {
+    "en": "The result when everyone races to adopt the same AI tools, models and frameworks without changing structure: no advantage, only higher costs for consultants, tools and usage.",
+    "text": "El resultado cuando todos corren a adoptar las mismas herramientas, modelos y frameworks de IA sin cambiar la estructura: ninguna ventaja, solo mayores costos en consultores, herramientas y uso.",
+    "src": "8ab681de",
+    "status": "draft"
+  },
+  "parity.term": {
+    "en": "Parity",
+    "text": "Paridad",
+    "src": "717ef1d1",
+    "status": "draft"
+  },
+  "pin-factory.definition": {
+    "en": "Adam Smith's example of division of labor, used as a picture of the Resource Topology: workers pinned to narrow subtasks, efficient in stable, low-variability work.",
+    "text": "El ejemplo de Adam Smith sobre la división del trabajo, usado como imagen de la Resource Topology: trabajadores fijados a subtareas acotadas, eficientes en trabajo estable y de baja variabilidad.",
+    "src": "f30a5c83",
+    "status": "draft"
+  },
+  "pin-factory.term": {
+    "en": "Pin factory",
+    "text": "Fábrica de alfileres",
+    "src": "71b86e86",
+    "status": "draft"
+  },
+  "primary-and-secondary-concerns.definition": {
+    "en": "The primary concern is the org goal being optimized. A secondary concern is something valued and kept in view but pursued only as far as it does not undermine the primary one.",
+    "text": "La preocupación principal es el objetivo organizacional que se optimiza. Una preocupación secundaria es algo que se valora y se tiene presente, pero que se persigue solo mientras no socave la principal.",
+    "src": "1b93936a",
+    "status": "draft"
+  },
+  "primary-and-secondary-concerns.term": {
+    "en": "Primary concern and secondary concerns",
+    "text": "Preocupación principal y preocupaciones secundarias",
+    "src": "53c79659",
+    "status": "draft"
+  },
+  "principle-1-own-not-rent.definition": {
+    "en": "Lasting change is owned by those who create it; leaders must own it and cannot delegate it, and people support what they help create.",
+    "text": "El cambio duradero pertenece a quienes lo crean; los líderes deben hacerlo suyo y no pueden delegarlo, y las personas apoyan aquello que ayudan a crear.",
+    "src": "9971a982",
+    "status": "draft"
+  },
+  "principle-1-own-not-rent.term": {
+    "en": "Principle 1: Own, Not Rent",
+    "text": "Principio 1: hacerlo propio, no alquilarlo",
+    "src": "9e5c9875",
+    "status": "draft"
+  },
+  "principle-2-drive-performance-with-org-design.definition": {
+    "en": "Organization design turns intent into a system and drives performance more reliably than standalone culture programs.",
+    "text": "El diseño organizacional convierte la intención en un sistema e impulsa el rendimiento de forma más fiable que los programas de cultura aislados.",
+    "src": "a956ec5b",
+    "status": "draft"
+  },
+  "principle-2-drive-performance-with-org-design.term": {
+    "en": "Principle 2: Drive Performance with Org Design",
+    "text": "Principio 2: impulsar el rendimiento con el diseño organizacional",
+    "src": "3b054b50",
+    "status": "draft"
+  },
+  "principle-3-shape-intelligence-with-mandates.definition": {
+    "en": "Reshape the skills and work mandates to change what the organization can see, learn and act on.",
+    "text": "Remodela los mandatos de habilidades y de trabajo para cambiar lo que la organización puede ver, aprender y hacer.",
+    "src": "1e48bde1",
+    "status": "draft"
+  },
+  "principle-3-shape-intelligence-with-mandates.term": {
+    "en": "Principle 3: Shape Intelligence with Mandates",
+    "text": "Principio 3: dar forma a la inteligencia con mandatos",
+    "src": "ac8f74e8",
+    "status": "draft"
+  },
+  "principle-4-fit-for-purpose.definition": {
+    "en": "Choose deliberately what to optimize for, accept what you will not optimize, and pick the topology that fits.",
+    "text": "Elige de forma deliberada qué optimizar, acepta lo que no vas a optimizar y escoge la topología que encaja.",
+    "src": "9811a864",
+    "status": "draft"
+  },
+  "principle-4-fit-for-purpose.term": {
+    "en": "Principle 4: Fit for Purpose",
+    "text": "Principio 4: adecuación al propósito",
+    "src": "1e705656",
+    "status": "draft"
+  },
+  "principle-5-change-through-a-learning-loop.definition": {
+    "en": "Change as a continuous evolution of fitness using MADE.",
+    "text": "El cambio como una evolución continua de la aptitud, usando MADE.",
+    "src": "1e8ae545",
+    "status": "draft"
+  },
+  "principle-5-change-through-a-learning-loop.term": {
+    "en": "Principle 5: Change Through a Learning Loop",
+    "text": "Principio 5: cambiar mediante un ciclo de aprendizaje",
+    "src": "87e6cadc",
+    "status": "draft"
+  },
+  "principle-6-follow-the-value-learn-and-deliver.definition": {
+    "en": "Broaden mandates so people and teams follow value, learn and deliver, instead of re-slicing the organization every time work shifts.",
+    "text": "Amplía los mandatos para que las personas y los equipos sigan el valor, aprendan y entreguen, en lugar de volver a trocear la organización cada vez que el trabajo se desplaza.",
+    "src": "ca95e083",
+    "status": "draft"
+  },
+  "principle-6-follow-the-value-learn-and-deliver.term": {
+    "en": "Principle 6: Follow the Value—Learn and Deliver",
+    "text": "Principio 6: sigue el valor, aprende y entrega",
+    "src": "45e1bd73",
+    "status": "draft"
+  },
+  "principle-7-make-the-org-goal-win.definition": {
+    "en": "Choose one primary org goal, accept its trade-offs and embed it into structure, mandates, incentives and decisions.",
+    "text": "Elige un único objetivo organizacional principal, acepta sus compromisos y plásmalo en la estructura, los mandatos, los incentivos y las decisiones.",
+    "src": "51cac552",
+    "status": "draft"
+  },
+  "principle-7-make-the-org-goal-win.term": {
+    "en": "Principle 7: Make the Org Goal Win",
+    "text": "Principio 7: haz que gane el objetivo organizacional",
+    "src": "1d6b4429",
+    "status": "draft"
+  },
+  "principle-8-embed-multi-learning.definition": {
+    "en": "Embed learning across domains so people can take broader responsibility and recombine skills as work evolves; amplify with AI.",
+    "text": "Integra el aprendizaje entre dominios para que las personas puedan asumir una responsabilidad más amplia y recombinar habilidades a medida que evoluciona el trabajo; potencíalo con IA.",
+    "src": "c764345f",
+    "status": "draft"
+  },
+  "principle-8-embed-multi-learning.term": {
+    "en": "Principle 8: Embed Multi-Learning",
+    "text": "Principio 8: integra el multi-learning",
+    "src": "83e56ef5",
+    "status": "draft"
+  },
+  "principle-9-accelerate-with-strategic-ai.definition": {
+    "en": "Use AI to accelerate the chosen org design direction, after design, not instead of it.",
+    "text": "Usa la IA para acelerar la dirección de diseño organizacional elegida, después del diseño y no en su lugar.",
+    "src": "a2b7b303",
+    "status": "draft"
+  },
+  "principle-9-accelerate-with-strategic-ai.term": {
+    "en": "Principle 9: Accelerate with Strategic AI",
+    "text": "Principio 9: acelera con IA estratégica",
+    "src": "3adef5de",
+    "status": "draft"
+  },
+  "product-definition.definition": {
+    "en": "How broadly an organization defines its product, from one component to the whole; a broader definition widens the work mandate.",
+    "text": "Qué tan ampliamente define una organización su producto, desde un componente hasta el conjunto; una definición más amplia ensancha el mandato de trabajo.",
+    "src": "667c8927",
+    "status": "draft"
+  },
+  "product-definition.term": {
+    "en": "Product Definition",
+    "text": "Definición del producto",
+    "src": "e7f4b805",
+    "status": "draft"
+  },
+  "product-developer.definition": {
+    "en": "A broader role name that replaces rigid titles such as Junior Java Developer in an Adaptive Topology, with clear progression levels.",
+    "text": "Un nombre de rol más amplio que reemplaza títulos rígidos como Junior Java Developer en una Adaptive Topology, con niveles de progresión claros.",
+    "src": "7e14dad9",
+    "status": "draft"
+  },
+  "product-developer.term": {
+    "en": "Product developer",
+    "text": "Desarrollador de producto",
+    "src": "9140147d",
+    "status": "draft"
+  },
+  "project-style-approach-to-change.definition": {
+    "en": "Treating change as a project with start and end dates, deadlines and milestones. It teaches the organization to change the change so it looks good on paper, and diverts attention from real behavioral change.",
+    "text": "Tratar el cambio como un proyecto con fechas de inicio y fin, plazos e hitos. Enseña a la organización a cambiar el cambio para que quede bien en el papel, y desvía la atención del cambio real de comportamiento.",
+    "src": "bb90dcc1",
+    "status": "draft"
+  },
+  "project-style-approach-to-change.term": {
+    "en": "Project-style approach to change",
+    "text": "Enfoque de proyecto para el cambio",
+    "src": "197a7b34",
+    "status": "draft"
+  },
+  "redesigning-from-a-messy-state.definition": {
+    "en": "Real org design starts from inherited structures, people, habits, commitments and budgets while the business keeps running. It is refactoring on the move, not drawing an ideal diagram on a blank whiteboard.",
+    "text": "El diseño organizacional real parte de estructuras, personas, hábitos, compromisos y presupuestos heredados, mientras el negocio sigue funcionando. Es refactorizar en marcha, no dibujar un diagrama ideal en una pizarra en blanco.",
+    "src": "0b6cc7c1",
+    "status": "draft"
+  },
+  "redesigning-from-a-messy-state.term": {
+    "en": "Redesigning from a messy state",
+    "text": "Rediseñar desde un estado caótico",
+    "src": "96675553",
+    "status": "draft"
+  },
+  "regression-to-1x.definition": {
+    "en": "The short spike in performance after a transformation followed by drift back to the old baseline, because the underlying paradigm did not change.",
+    "text": "El breve pico de rendimiento tras una transformación, seguido de un retroceso a la línea base anterior, porque el paradigma de fondo no cambió.",
+    "src": "62b7e502",
+    "status": "draft"
+  },
+  "regression-to-1x.term": {
+    "en": "Regression to 1X",
+    "text": "Regression to 1X",
+    "src": "7634ae22",
+    "status": "draft"
+  },
+  "regression-to-resource.definition": {
+    "en": "A downward spiral in which teams with weak trust retreat into isolated tasks to avoid the discomfort of collaboration. External coordinators then assign work, and the units slide back toward the Resource Topology.",
+    "text": "Una espiral descendente en la que equipos con poca confianza se repliegan en tareas aisladas para evitar la incomodidad de colaborar. Entonces coordinadores externos asignan el trabajo y las unidades se deslizan de vuelta hacia la Resource Topology.",
+    "src": "cc9b86f2",
+    "status": "draft"
+  },
+  "regression-to-resource.term": {
+    "en": "Regression to Resource",
+    "text": "Regression to Resource",
+    "src": "0bc97a15",
+    "status": "draft"
+  },
+  "remapping.definition": {
+    "en": "Mapping again after elevation to check what actually changed and close the learning loop.",
+    "text": "Volver a mapear después de elevar para comprobar qué cambió realmente y cerrar el ciclo de aprendizaje.",
+    "src": "4c254bf7",
+    "status": "draft"
+  },
+  "remapping.term": {
+    "en": "Remapping",
+    "text": "Remapping",
+    "src": "881b6c27",
+    "status": "draft"
+  },
+  "renting-change.definition": {
+    "en": "Leaving change to outsiders or to a leadership blessing instead of owning it. People then resist being changed, comply on the surface and mimic progress, and the improvement fades as a temporary overlay.",
+    "text": "Dejar el cambio en manos de externos o de la bendición de la dirección en lugar de hacerlo propio. Entonces la gente se resiste a que la cambien, cumple en la superficie y aparenta progreso, y la mejora se desvanece como una capa temporal.",
+    "src": "3e2bdec3",
+    "status": "draft"
+  },
+  "renting-change.term": {
+    "en": "Renting change",
+    "text": "Renting change",
+    "src": "7bbeab77",
+    "status": "draft"
+  },
+  "resource-topology.definition": {
+    "en": "Directing units over Doing units: work divided by function, deep specialists, planning by resource managers. Org goal: efficiency of specialized skills under stable demand.",
+    "text": "Unidades Directing sobre unidades Doing: trabajo dividido por función, especialistas profundos, planificación a cargo de gestores de recursos. Objetivo organizacional: la eficiencia de las habilidades especializadas con demanda estable.",
+    "src": "bf7b2a46",
+    "status": "draft"
+  },
+  "resource-topology.term": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "routine-expertise-and-adaptive-expertise.definition": {
+    "en": "Routine expertise applies known procedures well in stable conditions; adaptive expertise extends, recombines or reinvents skills when conditions change.",
+    "text": "La experticia rutinaria aplica bien procedimientos conocidos en condiciones estables; la experticia adaptativa amplía, recombina o reinventa habilidades cuando cambian las condiciones.",
+    "src": "3ebee5d1",
+    "status": "draft"
+  },
+  "routine-expertise-and-adaptive-expertise.term": {
+    "en": "Routine expertise and adaptive expertise",
+    "text": "Experticia rutinaria y experticia adaptativa",
+    "src": "80972fc7",
+    "status": "draft"
+  },
+  "routinization-of-work.definition": {
+    "en": "The gradual conversion of novel work into routine work that machines absorb, in waves; the boundary of what stays human keeps moving.",
+    "text": "La conversión gradual del trabajo novedoso en trabajo rutinario que absorben las máquinas, por oleadas; el límite de lo que sigue siendo humano no deja de moverse.",
+    "src": "4f25cf50",
+    "status": "draft"
+  },
+  "routinization-of-work.term": {
+    "en": "Routinization of work",
+    "text": "Rutinización del trabajo",
+    "src": "7cf5425c",
+    "status": "draft"
+  },
+  "scope-of-skills-mandate.definition": {
+    "en": "The horizontal axis: how many skills a unit has and is authorized to apply in its work. Units on the left are incomplete, on the right complete.",
+    "text": "El eje horizontal: cuántas habilidades tiene una unidad y está autorizada a aplicar en su trabajo. Las unidades de la izquierda son incompletas; las de la derecha, completas.",
+    "src": "f6912431",
+    "status": "draft"
+  },
+  "scope-of-skills-mandate.term": {
+    "en": "Scope of Skills Mandate",
+    "text": "Alcance del mandato de habilidades",
+    "src": "0007322b",
+    "status": "draft"
+  },
+  "scope-of-work-mandate.definition": {
+    "en": "The vertical axis: the kind of work a unit is trusted to handle, from narrow tasks at the bottom to shared ownership of whole outcomes at the top.",
+    "text": "El eje vertical: el tipo de trabajo que se confía a una unidad, desde tareas acotadas abajo hasta la propiedad compartida de resultados completos arriba.",
+    "src": "e9050626",
+    "status": "draft"
+  },
+  "scope-of-work-mandate.term": {
+    "en": "Scope of Work Mandate",
+    "text": "Alcance del mandato de trabajo",
+    "src": "be1598cf",
+    "status": "draft"
+  },
+  "secondary-skills.definition": {
+    "en": "Skills people hold beyond their job title, from an old course or earlier work, which can rise to the occasion when needed. Capability extends beyond role names.",
+    "text": "Habilidades que las personas tienen más allá de su cargo, de un curso antiguo o de trabajos anteriores, y que pueden estar a la altura cuando hacen falta. La capacidad va más allá de los nombres de los roles.",
+    "src": "8890863e",
+    "status": "draft"
+  },
+  "secondary-skills.term": {
+    "en": "Secondary skills",
+    "text": "Habilidades secundarias",
+    "src": "b4b18a8e",
+    "status": "draft"
+  },
+  "sensemaking.definition": {
+    "en": "Making sense together of how work really happens, by observing the system rather than judging people. In MADE it reduces the psychological threat of change and prepares learning and commitment before any structural change.",
+    "text": "Dar sentido en conjunto a cómo se trabaja realmente, observando el sistema en lugar de juzgar a las personas. En MADE reduce la amenaza psicológica del cambio y prepara el aprendizaje y el compromiso antes de cualquier cambio estructural.",
+    "src": "dab101f0",
+    "status": "draft"
+  },
+  "sensemaking.term": {
+    "en": "Sensemaking",
+    "text": "Sensemaking",
+    "src": "bfc06789",
+    "status": "draft"
+  },
+  "skills-mandate-levels.definition": {
+    "en": "The four levels across the 4x4 map: Functional, Multi-Skill, End-to-End and Expanding. The 2x2 divider sits between Multi-Skill and End-to-End.",
+    "text": "Los cuatro niveles a lo largo del mapa 4x4: Functional, Multi-Skill, End-to-End y Expanding. La línea divisoria del 2x2 queda entre Multi-Skill y End-to-End.",
+    "src": "c97182a7",
+    "status": "draft"
+  },
+  "skills-mandate-levels.term": {
+    "en": "Skills-mandate levels",
+    "text": "Niveles del mandato de habilidades",
+    "src": "e14e1de2",
+    "status": "draft"
+  },
+  "star-model.definition": {
+    "en": "Jay Galbraith's model of five interlinked design elements (org design criteria drawn from the org goal, structure, processes, rewards, people) that must be adjusted together. MADE adds a learning loop around it.",
+    "text": "El modelo de Jay Galbraith con cinco elementos de diseño interconectados (criterios de diseño derivados del objetivo organizacional, estructura, procesos, recompensas, personas) que deben ajustarse juntos. MADE añade un ciclo de aprendizaje a su alrededor.",
+    "src": "f7bf7fd7",
+    "status": "draft"
+  },
+  "star-model.term": {
+    "en": "Star Model",
+    "text": "Star Model",
+    "src": "13a03c74",
+    "status": "draft"
+  },
+  "strategic-ai.definition": {
+    "en": "Purposeful adoption of AI paired with deliberate organizational design: first find the missing capabilities and structural constraints, then use AI to build and accelerate them.",
+    "text": "Adopción deliberada de la IA junto con un diseño organizacional intencional: primero identifica las capacidades que faltan y las restricciones estructurales, y luego usa la IA para construirlas y acelerarlas.",
+    "src": "1a8389bb",
+    "status": "draft"
+  },
+  "strategic-ai.term": {
+    "en": "Strategic AI",
+    "text": "IA estratégica",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "strategic-alignment.definition": {
+    "en": "How well the organization delivers what its strategy requires; achieved when org design elements are kept in sync with the strategy.",
+    "text": "Qué tan bien entrega la organización lo que su estrategia exige; se logra cuando los elementos del diseño organizacional se mantienen sincronizados con la estrategia.",
+    "src": "9f7d46f8",
+    "status": "draft"
+  },
+  "strategic-alignment.term": {
+    "en": "Strategic alignment",
+    "text": "Alineación estratégica",
+    "src": "edaad2fa",
+    "status": "draft"
+  },
+  "strategic-capabilities.definition": {
+    "en": "The abilities, such as adaptability, impact and relevance, that ultimately raise performance; each topology trades some capabilities off against others.",
+    "text": "Las capacidades, como la adaptabilidad, el impacto y la relevancia, que en última instancia elevan el rendimiento; cada topología sacrifica algunas capacidades a cambio de otras.",
+    "src": "67dbc110",
+    "status": "draft"
+  },
+  "strategic-capabilities.term": {
+    "en": "Strategic capabilities",
+    "text": "Capacidades estratégicas",
+    "src": "b5f68387",
+    "status": "draft"
+  },
+  "strategic-org-design.definition": {
+    "en": "Deliberately aligning business strategy, the org goal and the change process, instead of letting the design accrete by accident.",
+    "text": "Alinear de forma deliberada la estrategia de negocio, el objetivo organizacional y el proceso de cambio, en lugar de dejar que el diseño se vaya acumulando por accidente.",
+    "src": "3bdd232e",
+    "status": "draft"
+  },
+  "strategic-org-design.term": {
+    "en": "Strategic org design",
+    "text": "Diseño organizacional estratégico",
+    "src": "d0e7b7af",
+    "status": "draft"
+  },
+  "stream-aligned-team.definition": {
+    "en": "A team type popularized by Team Topologies, optimized for fast flow of change: it gets work within its field of expertise, inside a bounded area. On the map it sits in Delivering; dependencies between such teams remain, and the design needs regular reorganization as strategy moves.",
+    "text": "Un tipo de equipo popularizado por Team Topologies, optimizado para un flujo rápido de cambio: recibe trabajo dentro de su campo de experticia, en un área acotada. En el mapa se sitúa en Delivering; las dependencias entre estos equipos persisten, y el diseño necesita reorganizarse con regularidad a medida que se mueve la estrategia.",
+    "src": "d4be3036",
+    "status": "draft"
+  },
+  "stream-aligned-team.term": {
+    "en": "Stream-aligned team",
+    "text": "Stream-aligned team",
+    "src": "2ea68301",
+    "status": "draft"
+  },
+  "study-and-improve.definition": {
+    "en": "The two halves of MADE: Study is Map plus Assess; Improve is Design plus Elevate.",
+    "text": "Las dos mitades de MADE: Study es Map más Assess; Improve es Design más Elevate.",
+    "src": "26b32f40",
+    "status": "draft"
+  },
+  "study-and-improve.term": {
+    "en": "Study and Improve",
+    "text": "Study and Improve",
+    "src": "1e691335",
+    "status": "draft"
+  },
+  "swarming.definition": {
+    "en": "Teams clustering fluidly around high-value outcomes in an Adaptive Topology, like swarm intelligence in nature.",
+    "text": "Equipos que se agrupan con fluidez en torno a outcomes de alto valor en una Adaptive Topology, como la inteligencia de enjambre en la naturaleza.",
+    "src": "da7c32ec",
+    "status": "draft"
+  },
+  "swarming.term": {
+    "en": "Swarming",
+    "text": "Swarming",
+    "src": "d6256a27",
+    "status": "draft"
+  },
+  "switching-costs.definition": {
+    "en": "The economic reading of the vertical axis: how hard it is to redirect effort to new opportunities, which falls as a unit moves up.",
+    "text": "La lectura económica del eje vertical: lo difícil que es redirigir el esfuerzo hacia nuevas oportunidades, que baja a medida que una unidad sube.",
+    "src": "10e7ed19",
+    "status": "draft"
+  },
+  "switching-costs.term": {
+    "en": "Switching costs",
+    "text": "Costos de cambio",
+    "src": "aac6b4be",
+    "status": "draft"
+  },
+  "systems-thinking.definition": {
+    "en": "A core skill of MADE: performance comes not from individual elements but from how they interact. Improving visible roles, processes and tools while leaving interaction patterns untouched brings no lasting gain.",
+    "text": "Una habilidad central de MADE: el rendimiento no viene de los elementos individuales, sino de cómo interactúan. Mejorar los roles, procesos y herramientas visibles sin tocar los patrones de interacción no trae ninguna ganancia duradera.",
+    "src": "5f283aa4",
+    "status": "draft"
+  },
+  "systems-thinking.term": {
+    "en": "Systems thinking",
+    "text": "Pensamiento sistémico",
+    "src": "68438e50",
+    "status": "draft"
+  },
+  "task-force-team.definition": {
+    "en": "A temporary team spun up to finish cross-cutting work that does not fit the stable team boundaries. It signals a fall back into resource allocation and crisis management when unplanned work arrives.",
+    "text": "Un equipo temporal creado para terminar trabajo transversal que no cabe en los límites estables de los equipos. Señala una recaída en la asignación de recursos y la gestión de crisis cuando llega trabajo imprevisto.",
+    "src": "deec6f75",
+    "status": "draft"
+  },
+  "task-force-team.term": {
+    "en": "Task force team",
+    "text": "Equipo task force",
+    "src": "3e8618f2",
+    "status": "draft"
+  },
+  "team-of-teams.definition": {
+    "en": "An organizational model in which small autonomous teams share purpose and transparency and are linked into a network that co-owns a broad outcome.",
+    "text": "Un modelo organizacional en el que pequeños equipos autónomos comparten propósito y transparencia y se conectan en una red que es copropietaria de un resultado amplio.",
+    "src": "8c651fee",
+    "status": "draft"
+  },
+  "team-of-teams.term": {
+    "en": "Team-of-teams",
+    "text": "Equipo de equipos",
+    "src": "c9c196f8",
+    "status": "draft"
+  },
+  "the-living-ecosystem.definition": {
+    "en": "Metaphor for the Adaptive Topology: an organization that senses change, integrates learning and adjusts direction continuously.",
+    "text": "Metáfora de la Adaptive Topology: una organización que percibe el cambio, integra el aprendizaje y ajusta su rumbo de forma continua.",
+    "src": "3448fa9f",
+    "status": "draft"
+  },
+  "the-living-ecosystem.term": {
+    "en": "The Living Ecosystem",
+    "text": "The Living Ecosystem",
+    "src": "3c02c47a",
+    "status": "draft"
+  },
+  "the-mechanistic-system.definition": {
+    "en": "Metaphor for the Resource Topology: precision through specialization, effective where work can be planned in advance.",
+    "text": "Metáfora de la Resource Topology: precisión mediante la especialización, eficaz donde el trabajo puede planificarse de antemano.",
+    "src": "41e06bc4",
+    "status": "draft"
+  },
+  "the-mechanistic-system.term": {
+    "en": "The Mechanistic System",
+    "text": "The Mechanistic System",
+    "src": "b687d56d",
+    "status": "draft"
+  },
+  "the-structured-network.definition": {
+    "en": "Metaphor for the Delivery Topology: stable cross-functional teams optimized for flow, coordinating through synchronous collaboration inside teams.",
+    "text": "Metáfora de la Delivery Topology: equipos multifuncionales estables optimizados para el flujo, que se coordinan mediante colaboración sincrónica dentro de los equipos.",
+    "src": "70edb581",
+    "status": "draft"
+  },
+  "the-structured-network.term": {
+    "en": "The Structured Network",
+    "text": "The Structured Network",
+    "src": "4d09cb31",
+    "status": "draft"
+  },
+  "top-down-intent-bottom-up-change.definition": {
+    "en": "Leaders set the direction and people shape the change from within. Together they move decisions closer to the work, shorten feedback loops and reduce dependence on central coordination, as at Poster.",
+    "text": "Los líderes marcan la dirección y las personas dan forma al cambio desde dentro. Juntos acercan las decisiones al trabajo, acortan los ciclos de feedback y reducen la dependencia de la coordinación central, como en Poster.",
+    "src": "eb6c3457",
+    "status": "draft"
+  },
+  "top-down-intent-bottom-up-change.term": {
+    "en": "Top-down intent and bottom-up change",
+    "text": "Intención desde arriba, cambio desde abajo",
+    "src": "33ffaa03",
+    "status": "draft"
+  },
+  "transaction-costs.definition": {
+    "en": "The economic reading of the horizontal axis: the cost of getting work through handoffs, which falls as a unit moves right.",
+    "text": "La lectura económica del eje horizontal: el costo de sacar adelante el trabajo a través de traspasos, que baja a medida que una unidad se mueve hacia la derecha.",
+    "src": "3c7b226f",
+    "status": "draft"
+  },
+  "transaction-costs.term": {
+    "en": "Transaction costs",
+    "text": "Costos de transacción",
+    "src": "e45ed485",
+    "status": "draft"
+  },
+  "transformation-treadmill.definition": {
+    "en": "The cycle of recurring, wasteful reorganizations: reorg after reorg, each as justified, as expensive and as disruptive as the last. Each one treats symptoms while increasing instability and change fatigue.",
+    "text": "El ciclo de reorganizaciones recurrentes y derrochadoras: una reorg tras otra, cada una igual de justificada, de costosa y de disruptiva que la anterior. Cada una trata síntomas mientras aumenta la inestabilidad y la fatiga del cambio.",
+    "src": "8159f0a6",
+    "status": "draft"
+  },
+  "transformation-treadmill.term": {
+    "en": "Transformation treadmill",
+    "text": "Transformation treadmill",
+    "src": "5ed2cc1a",
+    "status": "draft"
+  },
+  "triple-taxation.definition": {
+    "en": "Gene Gendel's picture of how client companies are taxed three times: by consultancies selling big-bang transformations, by frameworks that demand retraining and licensing, and by the tools that lock those frameworks in place.",
+    "text": "La imagen de Gene Gendel de cómo se grava tres veces a las empresas clientes: las consultoras que venden transformaciones big-bang, los frameworks que exigen reentrenamiento y licencias, y las herramientas que los dejan encerrados en su sitio.",
+    "src": "71a1592c",
+    "status": "draft"
+  },
+  "triple-taxation.term": {
+    "en": "Triple taxation",
+    "text": "Triple taxation",
+    "src": "14594536",
+    "status": "draft"
+  },
+  "unit-icons.definition": {
+    "en": "The five unit symbols on every map: human, AI agent, pool, team, team of teams.",
+    "text": "Los cinco símbolos de unidad de cada mapa: persona, agente de IA, pool, equipo, equipo de equipos.",
+    "src": "748dd9eb",
+    "status": "draft"
+  },
+  "unit-icons.term": {
+    "en": "Unit icons",
+    "text": "Iconos de unidad",
+    "src": "320e6303",
+    "status": "draft"
+  },
+  "unpinning.definition": {
+    "en": "Moving units out of narrow lanes (workers in Resource, teams in Delivery) by expanding both mandates up to the level of the whole product.",
+    "text": "Sacar a las unidades de sus carriles estrechos (los trabajadores en Resource, los equipos en Delivery) ampliando ambos mandatos hasta el nivel del producto completo.",
+    "src": "c219492b",
+    "status": "draft"
+  },
+  "unpinning.term": {
+    "en": "Unpinning",
+    "text": "Unpinning",
+    "src": "ce98590b",
+    "status": "draft"
+  },
+  "value-stream.definition": {
+    "en": "In Lean and the Toyota Production System, the flow of value end-to-end from the customer's view, activated by customer pull, from concept to cash.",
+    "text": "En Lean y en el Sistema de Producción de Toyota, el flujo de valor de extremo a extremo desde el punto de vista del cliente, activado por su demanda (pull), desde el concepto hasta el cobro.",
+    "src": "3e0b189e",
+    "status": "draft"
+  },
+  "value-stream.term": {
+    "en": "Value stream",
+    "text": "Flujo de valor",
+    "src": "c8243b7a",
+    "status": "draft"
+  },
+  "versatile-team.definition": {
+    "en": "A team with broad skills that owns a whole product instead of one component. Poster moved from twelve narrow specialist component teams to six versatile whole-product teams; Y Soft runs twenty as a team-of-teams.",
+    "text": "Un equipo con habilidades amplias que es dueño de un producto completo en lugar de un componente. Poster pasó de doce equipos de componentes con especialistas muy acotados a seis equipos versátiles de producto completo; Y Soft opera veinte como un equipo de equipos.",
+    "src": "2e90bb7f",
+    "status": "draft"
+  },
+  "versatile-team.term": {
+    "en": "Versatile team",
+    "text": "Equipo versátil",
+    "src": "e7a21480",
+    "status": "draft"
+  },
+  "vertical-divider.definition": {
+    "en": "The line on the map separating incomplete units (left) from complete units (right).",
+    "text": "La línea del mapa que separa las unidades incompletas (izquierda) de las completas (derecha).",
+    "src": "edd84ffc",
+    "status": "draft"
+  },
+  "vertical-divider.term": {
+    "en": "Vertical divider",
+    "text": "Línea divisoria vertical",
+    "src": "39a2ed83",
+    "status": "draft"
+  },
+  "volunteering-for-change.definition": {
+    "en": "People opting in to shape and lead a change instead of being pushed into it. A core group of volunteers carries the change with energy and credibility, and peers choosing to join gives it legitimacy and momentum.",
+    "text": "Personas que se ofrecen a dar forma a un cambio y a liderarlo, en lugar de que se las empuje a él. Un grupo central de voluntarios lleva el cambio con energía y credibilidad, y que sus pares decidan sumarse le da legitimidad e impulso.",
+    "src": "f752e10c",
+    "status": "draft"
+  },
+  "volunteering-for-change.term": {
+    "en": "Volunteering for change",
+    "text": "Voluntariado para el cambio",
+    "src": "76f00423",
+    "status": "draft"
+  },
+  "waterfall.definition": {
+    "en": "Sequential development, where each team optimizes its part, hands over and waits. Feedback arrives late and iteration collapses into stage gates. The book treats it as a structural outcome of component teams, not a mindset problem.",
+    "text": "Desarrollo secuencial, en el que cada equipo optimiza su parte, la traspasa y espera. El feedback llega tarde y la iteración se reduce a puertas de etapa. El libro lo trata como un resultado estructural de los equipos por componentes, no como un problema de mentalidad.",
+    "src": "1a2bfe38",
+    "status": "draft"
+  },
+  "waterfall.term": {
+    "en": "Waterfall",
+    "text": "Cascada",
+    "src": "6b53bc22",
+    "status": "draft"
+  },
+  "work-mandate-levels.definition": {
+    "en": "The four levels up the 4x4 map: Tasks, Capabilities, Partial Solution and Whole Solution. The 2x2 divider sits between Capabilities and Partial Solution.",
+    "text": "Los cuatro niveles hacia arriba en el mapa 4x4: Tasks, Capabilities, Partial Solution y Whole Solution. La línea divisoria del 2x2 queda entre Capabilities y Partial Solution.",
+    "src": "d4c86a46",
+    "status": "draft"
+  },
+  "work-mandate-levels.term": {
+    "en": "Work-mandate levels",
+    "text": "Niveles del mandato de trabajo",
+    "src": "0135b4cb",
+    "status": "draft"
+  }
+}

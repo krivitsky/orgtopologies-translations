@@ -1,0 +1,1016 @@
+{
+  "adaptive._nav": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.contexts": {
+    "en": "**Typical contexts:** new product development, innovation, platform exploration, consulting, research, emerging services.",
+    "text": "**典型的な場面:**新規プロダクト開発、イノベーション、プラットフォームの探索、コンサルティング、研究、立ち上がり期のサービス。",
+    "src": "80dabdc4",
+    "status": "draft"
+  },
+  "adaptive.dynamics.label": {
+    "en": "Dynamics",
+    "text": "動き方",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "adaptive.dynamics.text": {
+    "en": "Directing, doing and delivering merge into one [team-of-teams](term:team-of-teams) — people and AI agents — with a broad shared mandate. Work is synchronous and coordinated by those doing it; learning runs across skills and across the scope of work.",
+    "text": "Directing、Doing、Deliveringが一つの[チーム・オブ・チームズ](term:team-of-teams)に溶け合います。人とAIエージェントが、広く共有されたマンデートを持って働きます。仕事は同期的に進み、担う人たち自身が調整します。学びは、スキルと仕事の範囲の両方にまたがって進みます。",
+    "src": "beb4d40e",
+    "status": "draft"
+  },
+  "adaptive.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "安定した環境",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "adaptive.environments.0.text": {
+    "en": "Continuous learning and reconfiguration cost efficiency and add variability.",
+    "text": "学びと再構成を続けることで、効率が下がり、ばらつきも増えます。",
+    "src": "662bcd36",
+    "status": "draft"
+  },
+  "adaptive.environments.0.verdict": {
+    "en": "− Overhead",
+    "text": "− 余計な負荷",
+    "src": "cc174b93",
+    "status": "draft"
+  },
+  "adaptive.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "変化の多い環境",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "adaptive.environments.1.text": {
+    "en": "Resilience, sustained relevance, cheap and fast pivots toward customer outcomes.",
+    "text": "回復力があり、関連性を保ち続けられ、顧客のアウトカムに向けて低コストで素早く方向転換できます。",
+    "src": "92d503ad",
+    "status": "draft"
+  },
+  "adaptive.environments.1.verdict": {
+    "en": "+ Fits well",
+    "text": "+ よく合う",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "adaptive.frameworks": {
+    "en": "**Frameworks that build it:** [LeSS](/less), Nexus, [FAST](/fast) and Creating Agile Organizations (CAO). See all [framework mappings](/framework-mapping).",
+    "text": "**このトポロジーをつくるフレームワーク:** [LeSS](/less)、Nexus、[FAST](/fast)、Creating Agile Organizations(CAO)。[フレームワークのマッピング](/framework-mapping)の一覧もご覧ください。",
+    "src": "ce30dcfb",
+    "status": "draft"
+  },
+  "adaptive.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "詳細を閉じる −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "adaptive.glance.label": {
+    "en": "At a glance",
+    "text": "ひと目でわかる特徴",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.detail": {
+    "en": "Fast delivery of uncertain results, to seek, change, discover and adapt",
+    "text": "結果が不確実なものを素早く届け、探り、変え、発見し、適応する",
+    "src": "6d99ca01",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "よくある使い方",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.detail": {
+    "en": "Flexible, holistic and novel",
+    "text": "柔軟で、全体的で、新しい",
+    "src": "6e445867",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "価値の生み出し方",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.detail": {
+    "en": "Low; units work autonomously with minimal dependency on external groups",
+    "text": "少ない。ユニットは自律的に動き、外部のグループにほとんど依存しない",
+    "src": "fd14d78b",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "依存関係",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.detail": {
+    "en": "Multi-skilled and organized for exploratory outcomes and flexibility",
+    "text": "多様なスキルを持ち、探索的なアウトカムと柔軟性のために編成されている",
+    "src": "ce452a44",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "グループの構造",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.detail": {
+    "en": "High; owns entire processes including inter-unit coordination",
+    "text": "高い。ユニット間の調整を含め、プロセス全体を自分たちで担う",
+    "src": "723b1137",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "エンパワーメント",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.detail": {
+    "en": "Collaborate across boundaries to deliver complete customer solutions, with end-to-end ownership",
+    "text": "境界をこえて協力し、顧客への完全なソリューションを、エンドツーエンドのオーナーシップで届ける",
+    "src": "ab86dd7d",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "個々のメンバー",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.detail": {
+    "en": "Drives innovation, predicts customer needs, supports strategic decision-making",
+    "text": "イノベーションを後押しし、顧客のニーズを予測し、戦略的な意思決定を支える",
+    "src": "b61d38f1",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "戦略的AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.detail": {
+    "en": "Units working across the entire solution space (“Uber”) or a partial domain (“Uber Eats”)",
+    "text": "ソリューション空間の全体にまたがって動くユニット(「Uber」)や、一部の領域を担うユニット(「Uber Eats」)",
+    "src": "571aede2",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.term": {
+    "en": "Example",
+    "text": "例",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "adaptive.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "詳細を見る +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "adaptive.goal": {
+    "en": "**Org goal:** minimize the cost of learning and reconfiguration in volatile environments.",
+    "text": "**組織ゴール:**変動の激しい環境で、学びと再構成のコストを最小にすること。",
+    "src": "ef3c20f0",
+    "status": "draft"
+  },
+  "adaptive.heading": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.kicker": {
+    "en": "03 · DRIVING",
+    "text": "03 · DRIVING",
+    "src": "fe223656",
+    "status": "draft"
+  },
+  "adaptive.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "マッピングの例",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "adaptive.quote": {
+    "en": "“THE LIVING ECOSYSTEM” — co-evolving with its environment",
+    "text": "「生きたエコシステム」— 環境とともに進化する",
+    "src": "5a53b3fa",
+    "status": "draft"
+  },
+  "adaptive.withAi": {
+    "en": "**With AI:** AI as teacher and sparring partner lowers the cost of switching domains — and makes this design easier to reach.",
+    "text": "**AIがあると:**先生であり壁打ち相手でもあるAIが、領域を移るコストを下げます。この設計に到達しやすくもなります。",
+    "src": "0317cd61",
+    "status": "draft"
+  },
+  "delivery._nav": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.contexts": {
+    "en": "**Typical contexts:** established products with known demand, SaaS in growth or maturity, managed services, customer support.",
+    "text": "**典型的な場面:**需要が既知の成熟した製品、成長期や成熟期のSaaS、マネージドサービス、カスタマーサポート。",
+    "src": "a55ffc56",
+    "status": "draft"
+  },
+  "delivery.dynamics.label": {
+    "en": "Dynamics",
+    "text": "動き方",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "delivery.dynamics.text": {
+    "en": "Complete [cross-functional](term:cross-functional) teams deliver within fixed, narrow value boundaries. Discovery stays separate, with directing units deciding what to build. Fast and efficient at outputs — sometimes called a “feature factory”.",
+    "text": "完結した[クロスファンクショナル](term:cross-functional)なチームが、固定された狭い価値の範囲の中で提供します。ディスカバリーは切り離されていて、何をつくるかはDirectingのユニットが決めます。アウトプットは速く効率的で、「フィーチャーファクトリー」と呼ばれることもあります。",
+    "src": "98a4cedb",
+    "status": "draft"
+  },
+  "delivery.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "安定した環境",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "delivery.environments.0.text": {
+    "en": "Reliable, predictable delivery with short lead times and operational excellence.",
+    "text": "短いリードタイムで、確実かつ予測どおりに提供でき、オペレーショナル・エクセレンスも実現できます。",
+    "src": "181821ef",
+    "status": "draft"
+  },
+  "delivery.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ よく合う",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "delivery.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "変化の多い環境",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "delivery.environments.1.text": {
+    "en": "Learning gets expensive; strategic response lags; the design filters out weak market signals. More output, not necessarily more outcome.",
+    "text": "学ぶコストが高くなり、戦略面の対応が遅れ、設計が市場の弱いシグナルを遮ってしまいます。アウトプットは増えても、アウトカムが増えるとは限りません。",
+    "src": "06e5336e",
+    "status": "draft"
+  },
+  "delivery.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− 無理が出る",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "delivery.frameworks": {
+    "en": "**Frameworks that build it:** [Team Topologies](/team-topologies), Marty Cagan’s Product Operating Model ([Empowered Product Teams](/empowered)), the [Spotify Model](/spotify) when real teams form, and team-level Scrum.",
+    "text": "**このトポロジーをつくるフレームワーク:** [Team Topologies](/team-topologies)、マーティ・ケイガンのプロダクト・オペレーティング・モデル([Empowered Product Teams](/empowered))、本物のチームが形成される場合の[Spotifyモデル](/spotify)、チーム単位のスクラム。",
+    "src": "3d14595c",
+    "status": "draft"
+  },
+  "delivery.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "詳細を閉じる −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "delivery.glance.label": {
+    "en": "At a glance",
+    "text": "ひと目でわかる特徴",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.detail": {
+    "en": "Fast delivery of proven worth with minimal change or learning",
+    "text": "価値が実証済みのものを、変更や学びを最小限にして素早く提供する",
+    "src": "b72a75fe",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "よくある使い方",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.detail": {
+    "en": "Narrowly focused on specific capabilities",
+    "text": "特定のケイパビリティに狭く絞られている",
+    "src": "babba5e3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "価値の生み出し方",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.detail": {
+    "en": "Moderate; units coordinate across boundaries but less frequently",
+    "text": "中程度。ユニットは境界をまたいで調整するが、頻度は低い",
+    "src": "36e0bd22",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "依存関係",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.detail": {
+    "en": "Cross-functional and aligned with narrow product or service features",
+    "text": "クロスファンクショナルで、製品やサービスの狭い機能に沿っている",
+    "src": "6a88c041",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "グループの構造",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.detail": {
+    "en": "Moderate; empowered within a small home unit but dependent on alignment between units, managed by Directing units",
+    "text": "中程度。小さな所属ユニットの中では権限があるが、ユニット間の整合には依存し、それはDirectingのユニットが管理する",
+    "src": "206fd9b9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "エンパワーメント",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.detail": {
+    "en": "Coordinate to deliver features and components within the team’s scope",
+    "text": "チームの担当範囲で、機能やコンポーネントを提供するために連携する",
+    "src": "fb4f2c30",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "個々のメンバー",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.detail": {
+    "en": "Integrates data, improves collaboration, aligns team outputs through real-time insights and feedback loops",
+    "text": "データを統合し、コラボレーションを改善し、リアルタイムの洞察とフィードバックループでチームのアウトプットをそろえる",
+    "src": "b2ce0ea9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "戦略的AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.detail": {
+    "en": "A diner with short-order cooks: the owner decides the menu, the cooks deliver complete plates",
+    "text": "ファストフードの食堂。オーナーがメニューを決め、料理人が完成した一皿を出す",
+    "src": "63bbca2d",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.term": {
+    "en": "Example",
+    "text": "例",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "delivery.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "詳細を見る +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "delivery.goal": {
+    "en": "**Org goal:** maximize end-to-end flow of predictable work from demand to delivery.",
+    "text": "**組織ゴール:**予測可能な仕事が、需要から提供まで滞りなく流れる状態を最大にすること。",
+    "src": "2ff5c086",
+    "status": "draft"
+  },
+  "delivery.heading": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.kicker": {
+    "en": "02 · DIRECTING + DELIVERING",
+    "text": "02 · DIRECTING + DELIVERING",
+    "src": "914897aa",
+    "status": "draft"
+  },
+  "delivery.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "マッピングの例",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "delivery.quote": {
+    "en": "“THE STRUCTURED NETWORK” — optimized for flow",
+    "text": "「構造化されたネットワーク」— 流れに最適化する",
+    "src": "cbb49173",
+    "status": "draft"
+  },
+  "delivery.withAi": {
+    "en": "**With AI:** AI absorbs execution work faster than teams can adapt their skills and mandates.",
+    "text": "**AIがあると:**AIは実行の仕事を、チームがスキルやマンデートを適応させるより速く吸収していきます。",
+    "src": "902b6443",
+    "status": "draft"
+  },
+  "fit._nav": {
+    "en": "Fit for Purpose",
+    "text": "目的への適合",
+    "src": "3f7c997b",
+    "status": "draft"
+  },
+  "fit.closing": {
+    "en": "Different parts of one company can run different topologies — a legacy service in Delivery, a new venture in Adaptive. What matters is that each part's design serves its goal.",
+    "text": "同じ会社の中でも、部分ごとに違うトポロジーで動いてかまいません。たとえば、既存のサービスは Delivery、新規事業は Adaptiveといった具合です。大切なのは、それぞれの設計がその部分のゴールに合っていることです。",
+    "src": "ec6d6319",
+    "status": "draft"
+  },
+  "fit.heading": {
+    "en": "Fit for purpose",
+    "text": "目的への適合",
+    "src": "ff32bf56",
+    "status": "draft"
+  },
+  "fit.kicker": {
+    "en": "TOPOLOGIES AT A GLANCE",
+    "text": "トポロジー早見",
+    "src": "045c9a7b",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.0": {
+    "en": "Leaders must decide what they are optimizing for. That decision requires accountability, not consensus. It implies consciously accepting what they are *not* optimizing for. Trade-offs are unavoidable: no organization can optimize for everything at once.",
+    "text": "リーダーは、何に最適化するのかを決めなければなりません。この決定に必要なのは合意ではなく、説明責任です。何に最適化*しない*かを、自覚して受け入れることでもあります。トレードオフは避けられません。あらゆることを同時に最適化できる組織はないからです。",
+    "src": "6fa3806d",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.1": {
+    "en": "Choosing among the [topologies](term:org-topology), or deliberately combining them for different goals, is the core practice of organizational design. It determines what kind of performance the organization can reliably produce.",
+    "text": "[トポロジー](term:org-topology)の中から選ぶこと、あるいは目的ごとに意図して組み合わせることが、組織設計の中心となる実践です。これによって、組織が安定して出せる成果の種類が決まります。",
+    "src": "d2d2c05c",
+    "status": "draft"
+  },
+  "fit.principle.source": {
+    "en": "FROM 10X ORG · PRINCIPLE 4",
+    "text": "10X ORG より · 原則4",
+    "src": "ac29e0c3",
+    "status": "draft"
+  },
+  "fit.principle.statement": {
+    "en": "No organizational topology is “better” in and of itself. There is “no one best way” to organize; there is only the way that fits your purpose.",
+    "text": "それ自体で「より優れた」組織トポロジーはありません。「唯一の最善策」もなく、あるのは目的に合う組織のあり方だけです。",
+    "src": "4a3b604a",
+    "status": "draft"
+  },
+  "fit.question.heading": {
+    "en": "Which organizational capabilities will effectively support our strategy?",
+    "text": "どの組織能力が、私たちの戦略を効果的に支えるのか?",
+    "src": "cf620706",
+    "status": "draft"
+  },
+  "fit.question.kicker": {
+    "en": "THE KEY QUESTION",
+    "text": "問うべきこと",
+    "src": "09487e53",
+    "status": "draft"
+  },
+  "fit.question.lead": {
+    "en": "Are you trying to get better at:",
+    "text": "高めたいのは、次のどれでしょう。",
+    "src": "e66c3967",
+    "status": "draft"
+  },
+  "fit.question.options.0.answer": {
+    "en": "→ RESOURCE · “THE MECHANISTIC SYSTEM”",
+    "text": "→ Resource ·「機械的システム」",
+    "src": "dc0318e1",
+    "status": "draft"
+  },
+  "fit.question.options.0.question": {
+    "en": "Reducing the cost per task?",
+    "text": "タスクあたりのコストを下げること?",
+    "src": "06ccacc1",
+    "status": "draft"
+  },
+  "fit.question.options.1.answer": {
+    "en": "→ DELIVERY · “THE STRUCTURED NETWORK”",
+    "text": "→ Delivery ·「構造化されたネットワーク」",
+    "src": "cb3d32ce",
+    "status": "draft"
+  },
+  "fit.question.options.1.question": {
+    "en": "Speeding up known and repeatable workflows?",
+    "text": "既知で繰り返しのワークフローを速めること?",
+    "src": "05b87f5e",
+    "status": "draft"
+  },
+  "fit.question.options.2.answer": {
+    "en": "→ ADAPTIVE · “THE LIVING ECOSYSTEM”",
+    "text": "→ Adaptive ·「生きたエコシステム」",
+    "src": "e3365d22",
+    "status": "draft"
+  },
+  "fit.question.options.2.question": {
+    "en": "Or continuously reshaping yourself to meet evolving needs?",
+    "text": "それとも、変わり続けるニーズに合わせて自らを作り変え続けること?",
+    "src": "fe4ba1b8",
+    "status": "draft"
+  },
+  "fit.rows.0.label": {
+    "en": "Maximizes",
+    "text": "最大化するもの",
+    "src": "7362cd33",
+    "status": "draft"
+  },
+  "fit.rows.0.values.0": {
+    "en": "Resource use, specialization",
+    "text": "リソースの活用、専門化",
+    "src": "d0f84f2a",
+    "status": "draft"
+  },
+  "fit.rows.0.values.1": {
+    "en": "Output, predictability",
+    "text": "アウトプット、予測可能性",
+    "src": "c1ab064b",
+    "status": "draft"
+  },
+  "fit.rows.0.values.2": {
+    "en": "Outcome, innovation",
+    "text": "アウトカム、イノベーション",
+    "src": "329cd125",
+    "status": "draft"
+  },
+  "fit.rows.1.label": {
+    "en": "Dependencies",
+    "text": "依存関係",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "fit.rows.1.values.0": {
+    "en": "High",
+    "text": "多い",
+    "src": "c4ebc6d4",
+    "status": "draft"
+  },
+  "fit.rows.1.values.1": {
+    "en": "Moderate",
+    "text": "中程度",
+    "src": "5c42afc7",
+    "status": "draft"
+  },
+  "fit.rows.1.values.2": {
+    "en": "Low",
+    "text": "少ない",
+    "src": "f793de20",
+    "status": "draft"
+  },
+  "fit.rows.2.label": {
+    "en": "Best environment",
+    "text": "最適な環境",
+    "src": "fd5b1f81",
+    "status": "draft"
+  },
+  "fit.rows.2.values.0": {
+    "en": "Stable, repeatable demand",
+    "text": "需要が安定していて繰り返しがある",
+    "src": "e4ed730b",
+    "status": "draft"
+  },
+  "fit.rows.2.values.1": {
+    "en": "Known demand, stable roadmap",
+    "text": "需要が既知で、ロードマップが安定している",
+    "src": "3cf5b2f9",
+    "status": "draft"
+  },
+  "fit.rows.2.values.2": {
+    "en": "Uncertain, fast-changing markets",
+    "text": "不確実で変化の速い市場",
+    "src": "a9c51da0",
+    "status": "draft"
+  },
+  "fit.topologies.0.name": {
+    "en": "RESOURCE",
+    "text": "Resource",
+    "src": "1e88bb01",
+    "status": "draft"
+  },
+  "fit.topologies.1.name": {
+    "en": "DELIVERY",
+    "text": "Delivery",
+    "src": "9f4029f1",
+    "status": "draft"
+  },
+  "fit.topologies.2.name": {
+    "en": "ADAPTIVE",
+    "text": "Adaptive",
+    "src": "b67399bd",
+    "status": "draft"
+  },
+  "made.goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "ビッグバン型の組織再編をせずに、組織設計を変えていく方法です。今の姿をMapし、何に最適化するかを選び、目標をDesignし、一歩ずつElevateします。1つのサンプル組織で、4つの動きをすべて見られます。",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "made.goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "アプローチを知る →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "made.goDeeper.title": {
+    "en": "The MADE method",
+    "text": "MADEメソッド",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "made.heading": {
+    "en": "Change, MADE systemic",
+    "text": "変革を、MADEでシステムとして",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "made.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "変革をMADEでシステムとして:戦略と成果のあいだにある組織設計を、Study(Map、Assess)とImprove(Design、Elevate)が囲む",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "made.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": "。まず今ある設計を**Study**し、次に必要な設計に向けて**Improve**します。",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "made.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "組織設計は、戦略と成果のあいだにあります。**MADE**は、それを適合した状態に保つためのループで、4つの動きの頭文字から名づけられています。",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "made.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "made.kicker": {
+    "en": "THE APPROACH",
+    "text": "アプローチ",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "made.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "made.phases.0.note": {
+    "en": "the design you have",
+    "text": "今ある設計",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "すべてのユニットを、スキルと仕事のマンデートで位置づける",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "今のトポロジーを見極め、それが合っているかを判断する",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "made.phases.1.note": {
+    "en": "the design you need",
+    "text": "必要な設計",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "今の制約にとらわれず、必要な組織を思い描く",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "[Elevating Katas](term:elevating-kata)で変化を動かし始める",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Resource, Delivery and Adaptive: three recurring org designs, each optimized for a different goal. Compare them and choose the one that fits your purpose.",
+    "text": "Resource、Delivery、Adaptive。目的の異なる3つの組織設計パターンを比べて、自社の目的に合うものを選べます。",
+    "src": "c9b56bb3",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Three topologies: choose your org goal",
+    "text": "3つのトポロジー:組織ゴールを選ぶ",
+    "src": "2d5e0680",
+    "status": "draft"
+  },
+  "resource._nav": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.contexts": {
+    "en": "**Typical contexts:** shared services, payroll, compliance, commodity manufacturing, long-lived platforms.",
+    "text": "**典型的な場面:**シェアードサービス、給与計算、コンプライアンス、汎用品の製造、長く使われるプラットフォーム。",
+    "src": "0008e8ac",
+    "status": "draft"
+  },
+  "resource.dynamics.label": {
+    "en": "Dynamics",
+    "text": "動き方",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "resource.dynamics.text": {
+    "en": "[Directing](term:directing-intelligence) units plan, split and dispatch work. Specialists in functional groups each do one part. Specs, hand-offs and coordination connect the pieces; upfront planning and re-planning keep it moving.",
+    "text": "[Directing](term:directing-intelligence)のユニットが仕事を計画し、分割し、割り振ります。職能別のグループにいる専門家が、それぞれ一部分を担当します。仕様、引き継ぎ、調整で各部分をつなぎ、事前の計画と計画の見直しで前に進めます。",
+    "src": "059d4b03",
+    "status": "draft"
+  },
+  "resource.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "安定した環境",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "resource.environments.0.text": {
+    "en": "Deep expertise, high utilization, consistent standard work.",
+    "text": "深い専門性、高い稼働率、一貫した標準作業。",
+    "src": "2f23dec9",
+    "status": "draft"
+  },
+  "resource.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ よく合う",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "resource.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "変化の多い環境",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "resource.environments.1.text": {
+    "en": "Coordination overhead grows; end-to-end response slows; learning stays inside existing skills.",
+    "text": "調整の負荷が増え、エンドツーエンドの対応が遅くなり、学びも既存のスキルの内側にとどまります。",
+    "src": "1871d6a5",
+    "status": "draft"
+  },
+  "resource.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− 無理が出る",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "resource.frameworks": {
+    "en": "**Frameworks that build it:** PRINCE2, ITIL and others. Also [SAFe](/safe): ideally it can build a Delivery Topology, but the implementations we studied lean heavily toward Resource, because cross-team interdependencies are not eliminated, only managed as they are.",
+    "text": "**このトポロジーをつくるフレームワーク:** PRINCE2、ITILなど。[SAFe](/safe)もその一つです。理想的にはDelivery Topologyをつくれますが、私たちが調べた導入例の多くはResource Topologyに大きく傾いていました。チーム間の相互依存がなくなるわけではなく、あるがままに管理されているだけだからです。",
+    "src": "8e0dff0f",
+    "status": "draft"
+  },
+  "resource.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "詳細を閉じる −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "resource.glance.label": {
+    "en": "At a glance",
+    "text": "ひと目でわかる特徴",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.detail": {
+    "en": "PMO resource management of specialists",
+    "text": "PMOによる専門家のリソース管理",
+    "src": "6e8904fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "よくある使い方",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.detail": {
+    "en": "Fragmented and reliant on multiple handoffs and coordination",
+    "text": "分断されていて、何度もの引き継ぎと調整に頼る",
+    "src": "afb364ee",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "価値の生み出し方",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.detail": {
+    "en": "High; units depend on coordination across functional silos",
+    "text": "多い。ユニットは、職能のサイロをまたぐ調整に依存する",
+    "src": "fc984280",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "依存関係",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.detail": {
+    "en": "Siloed functional groups with specialized roles",
+    "text": "専門的な役割を持つ、サイロ化した職能別グループ",
+    "src": "92aa9db6",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "グループの構造",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.detail": {
+    "en": "Low; constrained to predefined tasks with little autonomy",
+    "text": "低い。あらかじめ決められたタスクに限られ、自律性はほとんどない",
+    "src": "b93376de",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "エンパワーメント",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.detail": {
+    "en": "Complete isolated tasks (defined by coordinators) using specific skills, with minimal ownership",
+    "text": "調整役が定めた個別のタスクを、特定のスキルで完了する。オーナーシップはほとんどない",
+    "src": "f81e852b",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "個々のメンバー",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.detail": {
+    "en": "Automates repetitive tasks, optimizes workflows, enhances resource efficiency",
+    "text": "繰り返しの作業を自動化し、ワークフローを最適化し、リソース効率を高める",
+    "src": "e27812e1",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "戦略的AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.detail": {
+    "en": "A movie producer hiring dancers for a scene",
+    "text": "映画プロデューサーが、ある場面のためにダンサーを雇う",
+    "src": "e6ea66eb",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.term": {
+    "en": "Example",
+    "text": "例",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "resource.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "詳細を見る +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "resource.goal": {
+    "en": "**Org goal:** maximize efficiency of specialized skills under stable demand.",
+    "text": "**組織ゴール:**需要が安定した環境で、専門スキルの効率を最大にすること。",
+    "src": "091004b4",
+    "status": "draft"
+  },
+  "resource.heading": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.kicker": {
+    "en": "01 · DIRECTING + DOING",
+    "text": "01 · DIRECTING + DOING",
+    "src": "64b08171",
+    "status": "draft"
+  },
+  "resource.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "マッピングの例",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "resource.quote": {
+    "en": "“THE MECHANISTIC SYSTEM” — precision through specialization",
+    "text": "「機械的システム」— 専門化で精度を高める",
+    "src": "db890cd5",
+    "status": "draft"
+  },
+  "resource.withAi": {
+    "en": "**With AI:** AI automates specialized tasks fast — narrow specialist roles face displacement unless [mandates](term:mandate) widen.",
+    "text": "**AIがあると:**AIは専門的なタスクを素早く自動化します。[マンデート](term:mandate)が広がらなければ、狭い専門職は居場所を失いかねません。",
+    "src": "4b1adfe5",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 2 · ASSESS",
+    "text": "MADE · ステップ2 · ASSESS",
+    "src": "a9fecccc",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A topology is a recognizable pattern of where an organization's units sit on the map. Each one is optimized for something — and pays for it somewhere else. None is “best”. The question is whether it fits your purpose and your environment.",
+    "text": "トポロジーとは、マップ上で組織のユニットがどこに位置するかを示す、見分けのつくパターンです。どれも何かに最適化されていて、その代わり別のところで代償を払います。「最良」のものはありません。問うべきは、自分たちの目的と環境に合っているかどうかです。",
+    "src": "0efd9661",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Three topologies.\nChoose your org goal.",
+    "text": "3つのトポロジー。\n組織ゴールを選ぶ。",
+    "src": "39eedbd4",
+    "status": "draft"
+  }
+}

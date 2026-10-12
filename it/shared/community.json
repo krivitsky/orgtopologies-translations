@@ -1,0 +1,80 @@
+{
+  "aiden.cta.label": {
+    "en": "Learn with Aiden",
+    "text": "Impara con Aiden",
+    "src": "8dab14c7",
+    "status": "draft"
+  },
+  "aiden.heading": {
+    "en": "“How do I map my org?”",
+    "text": "«Come mappo la mia organizzazione?»",
+    "src": "41262b42",
+    "status": "draft"
+  },
+  "aiden.kicker": {
+    "en": "ASK OUR AI",
+    "text": "CHIEDI ALLA NOSTRA IA",
+    "src": "b4d29b86",
+    "status": "draft"
+  },
+  "newsletter.follow": {
+    "en": "Or follow [Org Topologies on LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
+    "text": "Oppure segui [Org Topologies su LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
+    "src": "542aa9e1",
+    "status": "draft"
+  },
+  "newsletter.label": {
+    "en": "NEWSLETTER",
+    "text": "NEWSLETTER",
+    "src": "67700c27",
+    "status": "draft"
+  },
+  "newsletter.note": {
+    "en": "Unsubscribe anytime. [Privacy →](/privacy)",
+    "text": "Annulla l'iscrizione quando vuoi. [Privacy →](/privacy)",
+    "src": "5ba3f6df",
+    "status": "draft"
+  },
+  "newsletter.placeholder": {
+    "en": "you@company.com",
+    "text": "tu@azienda.com",
+    "src": "652740e1",
+    "status": "draft"
+  },
+  "newsletter.submitLabel": {
+    "en": "Subscribe",
+    "text": "Iscriviti",
+    "src": "cc0e38da",
+    "status": "draft"
+  },
+  "newsletter.text": {
+    "en": "Upcoming classes and events, announcements and new material for your org design practice. Now and then, never spam.",
+    "text": "Prossime classi ed eventi, annunci e nuovo materiale per la tua pratica di design organizzativo. Ogni tanto, mai spam.",
+    "src": "45be597b",
+    "status": "draft"
+  },
+  "slack.cta.label": {
+    "en": "Join Slack",
+    "text": "Unisciti a Slack",
+    "src": "033266fb",
+    "status": "draft"
+  },
+  "slack.heading": {
+    "en": "Learn with community",
+    "text": "Impara con la community",
+    "src": "b76f8374",
+    "status": "draft"
+  },
+  "slack.kicker": {
+    "en": "TALK TO THE AUTHORS LIVE",
+    "text": "PARLA DAL VIVO CON GLI AUTORI",
+    "src": "5f5d49d6",
+    "status": "draft"
+  },
+  "slack.text": {
+    "en": "Practitioners share maps, and the authors join the conversation live in Slack.",
+    "text": "I practitioner condividono mappe e gli autori partecipano alla conversazione dal vivo su Slack.",
+    "src": "ae812c6d",
+    "status": "draft"
+  }
+}

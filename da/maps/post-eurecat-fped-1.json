@@ -1,0 +1,38 @@
+{
+  "Current state": {
+    "en": "Current state",
+    "text": "Nuværende situation",
+    "src": "760732d8",
+    "status": "draft"
+  },
+  "Current state (FPED)": {
+    "en": "Current state (FPED)",
+    "text": "Nuværende situation (FPED)",
+    "src": "4c93f115",
+    "status": "draft"
+  },
+  "Drawn on the 2024.10 version of the grid": {
+    "en": "Drawn on the 2024.10 version of the grid",
+    "text": "Tegnet på 2024.10-versionen af gitteret",
+    "src": "4f99a64f",
+    "status": "draft"
+  },
+  "Initial state": {
+    "en": "Initial state",
+    "text": "Startsituation",
+    "src": "925750e6",
+    "status": "draft"
+  },
+  "Initial state (FPED)": {
+    "en": "Initial state (FPED)",
+    "text": "Startsituation (FPED)",
+    "src": "2ebec62a",
+    "status": "draft"
+  },
+  "Initial state in black, current state in blue": {
+    "en": "Initial state in black, current state in blue",
+    "text": "Start i sort, nuværende i blå",
+    "src": "57da0e2e",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Current state": {
+    "en": "Current state",
+    "text": "Nåtilstand",
+    "src": "760732d8",
+    "status": "draft"
+  },
+  "Current state (FPED)": {
+    "en": "Current state (FPED)",
+    "text": "Nåtilstand (FPED)",
+    "src": "4c93f115",
+    "status": "draft"
+  },
+  "Drawn on the 2024.10 version of the grid": {
+    "en": "Drawn on the 2024.10 version of the grid",
+    "text": "Tegnet på rutenettversjon 2024.10",
+    "src": "4f99a64f",
+    "status": "draft"
+  },
+  "Initial state": {
+    "en": "Initial state",
+    "text": "Utgangstilstand",
+    "src": "925750e6",
+    "status": "draft"
+  },
+  "Initial state (FPED)": {
+    "en": "Initial state (FPED)",
+    "text": "Utgangstilstand (FPED)",
+    "src": "2ebec62a",
+    "status": "draft"
+  },
+  "Initial state in black, current state in blue": {
+    "en": "Initial state in black, current state in blue",
+    "text": "Utgangstilstand i svart, nåtilstand i blått",
+    "src": "57da0e2e",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "大規模な組織再編をせずに、組織設計を変える方法です。今あるものをMapし、何を最適化するかを選び、目指す姿をDesignし、一歩ずつElevateします。ひとつのサンプル組織で、4つの動きをすべて見られます。",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "アプローチを知る →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The MADE method",
+    "text": "MADEメソッド",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Change, MADE systemic",
+    "text": "変革を、MADEで仕組みにする",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "変革を MADE で仕組みにする。戦略とパフォーマンスのあいだにある組織設計を軸に、Study(Map、Assess)と Improve(Design、Elevate)がめぐる",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": "。まず今の設計を**Study**し、次に必要な設計へと**Improve**します。",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "組織設計は、戦略とパフォーマンスのあいだにあります。**MADE** は、その設計を状況に合わせ続けるためのループで、4つの動きの頭文字から名づけました。",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "THE APPROACH",
+    "text": "アプローチ",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "phases.0.note": {
+    "en": "the design you have",
+    "text": "今の設計",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "スキルと仕事のマンデートで、すべてのユニットを置く",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "今のトポロジーを見極め、目的に合っているかを確かめる",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "phases.1.note": {
+    "en": "the design you need",
+    "text": "必要な設計",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "今の制約を外して、必要な組織を描く",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "phases.1.steps.1.text": {
+    "en": "Get the change going with Elevating Katas",
+    "text": "Elevating Katasで変革を動かす",
+    "src": "b716f0f0",
+    "status": "draft"
+  },
+  "phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "adopting-strategic-outcome-based-backlog.name": {
+    "en": "Adopting Strategic, Outcome-Based Backlog",
+    "text": "Adotar um backlog estratégico, baseado em outcomes",
+    "src": "e09e8776",
+    "status": "draft"
+  },
+  "adopting-strategic-outcome-based-backlog.summary": {
+    "en": "Shift backlog items from output commitments to explicit outcome hypotheses, making learning and impact visible in everyday prioritization. In service organizations: adopting service queues framed around client outcomes, not request types.",
+    "text": "Passar os itens do backlog de compromissos de output para hipóteses explícitas de outcome, tornando o aprendizado e o impacto visíveis na priorização do dia a dia. Em organizações de serviços: adotar filas de serviço estruturadas em torno de resultados para o cliente, não de tipos de solicitação.",
+    "src": "7dad21aa",
+    "status": "draft"
+  },
+  "applying-evidence-based-management-ebm-for-capability-building.name": {
+    "en": "Applying Evidence-Based Management (EBM) for Capability-Building",
+    "text": "Aplicar a Evidence-Based Management (EBM) para desenvolver capacidades",
+    "src": "ddc9ca13",
+    "status": "draft"
+  },
+  "applying-evidence-based-management-ebm-for-capability-building.summary": {
+    "en": "Use a small set of meaningful measures in regular reviews to guide learning and improvement, rather than managing by objective.",
+    "text": "Usar um pequeno conjunto de medidas significativas em revisões regulares para orientar o aprendizado e a melhoria, em vez de gerir por objetivos.",
+    "src": "dfac88f4",
+    "status": "draft"
+  },
+  "continuously-integrating-work-across-teams.name": {
+    "en": "Continuously Integrating Work Across Teams",
+    "text": "Integrar o trabalho continuamente entre equipes",
+    "src": "92cf8b98",
+    "status": "draft"
+  },
+  "continuously-integrating-work-across-teams.summary": {
+    "en": "Reduce integration risk and delays by integrating work continuously across all contributing teams and agents, rather than batching and reconciling it late. In software contexts, this is commonly realized through practices such as trunk-based development, monorepos, and continuous integration as a practice (not a tool).",
+    "text": "Reduzir o risco e os atrasos de integração integrando o trabalho continuamente entre todas as equipes e agentes que contribuem, em vez de acumulá-lo e reconciliá-lo tarde. Em contextos de software, isso costuma ser feito com práticas como trunk-based development, monorepos e integração contínua como prática (não como ferramenta).",
+    "src": "b60e32a5",
+    "status": "draft"
+  },
+  "de-emphasizing-individual-performance-incentives.name": {
+    "en": "De-emphasizing Individual Performance Incentives",
+    "text": "Reduzir a ênfase nos incentivos de desempenho individual",
+    "src": "8ae8e015",
+    "status": "draft"
+  },
+  "de-emphasizing-individual-performance-incentives.summary": {
+    "en": "Reduce incentive structures that drive local optimization at the expense of system performance.",
+    "text": "Reduzir as estruturas de incentivo que levam à otimização local em detrimento do desempenho do sistema.",
+    "src": "09e1b11b",
+    "status": "draft"
+  },
+  "decentralizing-cross-cutting-concerns-through-communities.name": {
+    "en": "Decentralizing Cross-Cutting Concerns Through Communities",
+    "text": "Descentralizar preocupações transversais por meio de comunidades",
+    "src": "a8a10585",
+    "status": "draft"
+  },
+  "decentralizing-cross-cutting-concerns-through-communities.summary": {
+    "en": "Decentralize ownership of cross-cutting concerns (such as architectural guidelines, standards, and policies) by enabling self-organizing communities to evolve practices collaboratively, reducing dependency on centralized coordination.",
+    "text": "Descentralizar a responsabilidade por preocupações transversais (como diretrizes de arquitetura, padrões e políticas), permitindo que comunidades autogerenciadas evoluam as práticas de forma colaborativa e reduzindo a dependência de uma coordenação centralizada.",
+    "src": "de6216f2",
+    "status": "draft"
+  },
+  "designing-tailwind-career-paths.name": {
+    "en": "Designing Tailwind Career Paths",
+    "text": "Desenhar carreiras com vento a favor",
+    "src": "3fe72d3f",
+    "status": "draft"
+  },
+  "designing-tailwind-career-paths.summary": {
+    "en": "Create career systems that reward capability growth and multi-learning to support employees' contribution to valuable outcomes.",
+    "text": "Criar sistemas de carreira que recompensem o crescimento de capacidades e o Multi-learning, apoiando a contribuição das pessoas para outcomes valiosos.",
+    "src": "dcc55da3",
+    "status": "draft"
+  },
+  "embedding-ai-assisted-multi-learning-into-daily-work.name": {
+    "en": "Embedding (AI-Assisted) Multi-Learning into Daily Work",
+    "text": "Incorporar o Multi-learning (assistido por IA) ao trabalho diário",
+    "src": "69481585",
+    "status": "draft"
+  },
+  "embedding-ai-assisted-multi-learning-into-daily-work.summary": {
+    "en": "Use AI to lower the cost of learning new skills while delivering, expanding what teams can responsibly take on.",
+    "text": "Usar a IA para reduzir o custo de aprender novas habilidades enquanto se entrega, ampliando o que as equipes podem assumir com responsabilidade.",
+    "src": "caaf0d24",
+    "status": "draft"
+  },
+  "enabling-team-self-design.name": {
+    "en": "Enabling Team Self-Design",
+    "text": "Permitir o autodesign das equipes",
+    "src": "1a4c48af",
+    "status": "draft"
+  },
+  "enabling-team-self-design.summary": {
+    "en": "Enable teams to redesign their own composition and boundaries within clear strategic and mandate constraints, increasing ownership and fitness for purpose.",
+    "text": "Permitir que as equipes redesenhem a própria composição e os próprios limites dentro de restrições claras de estratégia e de mandato, aumentando a responsabilidade e o ajuste ao propósito.",
+    "src": "74dd76a9",
+    "status": "draft"
+  },
+  "expanding-and-sharing-the-definition-of-done-across-teams.name": {
+    "en": "Expanding and Sharing the Definition of Done Across Teams",
+    "text": "Ampliar e compartilhar a Definition of Done entre equipes",
+    "src": "81577f1e",
+    "status": "draft"
+  },
+  "expanding-and-sharing-the-definition-of-done-across-teams.summary": {
+    "en": "Continuously broaden the Definition of Done to include real completeness and quality, reducing hidden work, handoffs, and late surprises.",
+    "text": "Ampliar continuamente a Definition of Done para incluir completude e qualidade reais, reduzindo trabalho oculto, repasses e surpresas tardias.",
+    "src": "89a1cf3a",
+    "status": "draft"
+  },
+  "expanding-the-product-definition.name": {
+    "en": "Expanding the Product Definition",
+    "text": "Ampliar a definição de produto",
+    "src": "159fc19e",
+    "status": "draft"
+  },
+  "expanding-the-product-definition.summary": {
+    "en": "Deliberately broaden what the organization considers \"the product\" so teams orient around real customer outcomes rather than narrow components or tasks.",
+    "text": "Ampliar deliberadamente o que a organização considera \"o produto\", para que as equipes se orientem por resultados reais para o cliente e não por componentes ou tarefas estreitos.",
+    "src": "2e2e1bca",
+    "status": "draft"
+  },
+  "expanding-units-toward-end-to-end-outcome-ownership.name": {
+    "en": "Expanding Units Toward End-to-End Outcome Ownership",
+    "text": "Expandir unidades rumo à responsabilidade ponta a ponta por outcomes",
+    "src": "ac69a26e",
+    "status": "draft"
+  },
+  "expanding-units-toward-end-to-end-outcome-ownership.summary": {
+    "en": "Broaden team mandates so they can complete work from intent to realized value. In practice, this often exposes the need to simplify the organization by eliminating separate units responsible for \"preparing\" or \"finishing\" work, resulting in a more coherent and adaptive org design.",
+    "text": "Ampliar os mandatos das equipes para que possam concluir o trabalho da intenção até o valor realizado. Na prática, isso muitas vezes revela a necessidade de simplificar a organização, eliminando unidades separadas responsáveis por \"preparar\" ou \"finalizar\" o trabalho, o que resulta em um design organizacional mais coerente e adaptativo.",
+    "src": "0bdf40df",
+    "status": "draft"
+  },
+  "forming-a-team-of-teams.name": {
+    "en": "Forming a Team-of-Teams",
+    "text": "Formar uma equipe de equipes",
+    "src": "cfbc5c75",
+    "status": "draft"
+  },
+  "forming-a-team-of-teams.summary": {
+    "en": "Create a lightweight structure where teams align around shared goals while retaining autonomy in execution.",
+    "text": "Criar uma estrutura leve em que as equipes se alinham em torno de objetivos compartilhados e mantêm a autonomia na execução.",
+    "src": "c54b2268",
+    "status": "draft"
+  },
+  "holding-multi-team-product-backlog-refinement.name": {
+    "en": "Holding Multi-Team Product Backlog Refinement",
+    "text": "Realizar o refinamento do backlog do produto com várias equipes",
+    "src": "5ae163e2",
+    "status": "draft"
+  },
+  "holding-multi-team-product-backlog-refinement.summary": {
+    "en": "Bring multiple teams together regularly to build a shared understanding of upcoming work, risks, and coordination before execution.",
+    "text": "Reunir várias equipes regularmente para construir um entendimento compartilhado do trabalho futuro, dos riscos e da coordenação antes da execução.",
+    "src": "3424a054",
+    "status": "draft"
+  },
+  "holding-product-level-reviews.name": {
+    "en": "Holding Product-Level Reviews",
+    "text": "Realizar revisões no nível do produto",
+    "src": "51245d55",
+    "status": "draft"
+  },
+  "holding-product-level-reviews.summary": {
+    "en": "Inspect integrated product outcomes rather than isolated team outputs, keeping learning at the right level. In service organizations: reviewing end-to-end service outcomes, not departmental metrics. This Kata is often realized through formats such as Sprint Review Bazaars, where stakeholders and customers actively explore working solutions and provide direct feedback instead of passively consuming presentations.",
+    "text": "Inspecionar os outcomes integrados do produto em vez dos outputs isolados de cada equipe, mantendo o aprendizado no nível certo. Em organizações de serviços: revisar os resultados do serviço de ponta a ponta, não métricas departamentais. Este kata costuma ser praticado em formatos como os Sprint Review Bazaars, em que stakeholders e clientes exploram ativamente soluções funcionando e dão feedback direto, em vez de apenas assistir a apresentações.",
+    "src": "d667b4c5",
+    "status": "draft"
+  },
+  "implementing-beyond-budgeting.name": {
+    "en": "Implementing Beyond Budgeting",
+    "text": "Implantar o Beyond Budgeting",
+    "src": "49a4b848",
+    "status": "draft"
+  },
+  "implementing-beyond-budgeting.summary": {
+    "en": "Loosen rigid annual planning constraints so resources can move as learning and priorities change.",
+    "text": "Afrouxar as rígidas restrições do planejamento anual para que os recursos se movam conforme o aprendizado e as prioridades mudam.",
+    "src": "09632d1f",
+    "status": "draft"
+  },
+  "merging-product-backlogs.name": {
+    "en": "Merging Product Backlogs",
+    "text": "Unificar backlogs de produto",
+    "src": "1912e800",
+    "status": "draft"
+  },
+  "merging-product-backlogs.summary": {
+    "en": "Reduce fragmentation by consolidating competing backlogs into fewer shared ones, forcing real prioritization at the level where value is created.",
+    "text": "Reduzir a fragmentação consolidando backlogs concorrentes em poucos backlogs compartilhados, forçando uma priorização real no nível em que o valor é criado.",
+    "src": "4758673f",
+    "status": "draft"
+  },
+  "minimizing-distance-to-customers.name": {
+    "en": "Minimizing Distance to Customers",
+    "text": "Reduzir a distância até os clientes",
+    "src": "082f4034",
+    "status": "draft"
+  },
+  "minimizing-distance-to-customers.summary": {
+    "en": "Create regular, direct contact between teams and customers so decisions are informed by reality rather than assumptions or proxies.",
+    "text": "Criar contato regular e direto entre equipes e clientes, para que as decisões se apoiem na realidade e não em suposições ou intermediários.",
+    "src": "d79c5218",
+    "status": "draft"
+  },
+  "moving-toward-multi-team-cross-functional-line-management.name": {
+    "en": "Moving Toward Multi-Team, Cross-Functional Line Management",
+    "text": "Caminhar para uma gestão de linha multiequipe e multifuncional",
+    "src": "a3df5cb8",
+    "status": "draft"
+  },
+  "moving-toward-multi-team-cross-functional-line-management.summary": {
+    "en": "Shift management focus from individual teams to multi-team value areas, enabling coordination and learning across boundaries.",
+    "text": "Deslocar o foco da gestão de equipes individuais para áreas de valor com várias equipes, permitindo coordenação e aprendizado além das fronteiras.",
+    "src": "4b35695e",
+    "status": "draft"
+  },
+  "organizing-around-products-not-projects.name": {
+    "en": "Organizing Around Products, Not Projects",
+    "text": "Organizar-se em torno de produtos, não de projetos",
+    "src": "4b35f6e7",
+    "status": "draft"
+  },
+  "organizing-around-products-not-projects.summary": {
+    "en": "Replace temporary project slices with long-lived ownership of products, preserving learning and accountability over time.",
+    "text": "Trocar fatias temporárias de projeto por uma responsabilidade duradoura sobre produtos, preservando aprendizado e responsabilização ao longo do tempo.",
+    "src": "44a58c18",
+    "status": "draft"
+  },
+  "people.name": {
+    "en": "People",
+    "text": "Pessoas",
+    "src": "7db20897",
+    "status": "draft"
+  },
+  "people.starModel.definition": {
+    "en": "The skills, mindsets, and capacities needed: how the organization recruits, develops, and grows people to match its strategic needs.",
+    "text": "As habilidades, mentalidades e capacidades necessárias: como a organização recruta, desenvolve e faz crescer pessoas para atender às suas necessidades estratégicas.",
+    "src": "483808b2",
+    "status": "draft"
+  },
+  "people.starModel.element": {
+    "en": "People",
+    "text": "Pessoas",
+    "src": "7db20897",
+    "status": "draft"
+  },
+  "people.subtitle": {
+    "en": "Skills, Mindsets, Capabilities",
+    "text": "Habilidades, mentalidades, capacidades",
+    "src": "40fcfbe0",
+    "status": "draft"
+  },
+  "processes.name": {
+    "en": "Processes",
+    "text": "Processos",
+    "src": "4a81a7ba",
+    "status": "draft"
+  },
+  "processes.starModel.definition": {
+    "en": "How work and information flow: governance routines, planning and budgeting cycles, and decision-making processes.",
+    "text": "Como o trabalho e a informação fluem: rotinas de governança, ciclos de planejamento e orçamento e processos de tomada de decisão.",
+    "src": "062511ed",
+    "status": "draft"
+  },
+  "processes.starModel.element": {
+    "en": "Processes",
+    "text": "Processos",
+    "src": "4a81a7ba",
+    "status": "draft"
+  },
+  "processes.subtitle": {
+    "en": "Information and Decision Flows",
+    "text": "Fluxos de informação e de decisão",
+    "src": "d2fd8c0a",
+    "status": "draft"
+  },
+  "re-centering-product-ownership-on-strategy-and-outcomes.name": {
+    "en": "Re-Centering Product Ownership on Strategy and Outcomes",
+    "text": "Recentrar a responsabilidade pelo produto em estratégia e outcomes",
+    "src": "55792e50",
+    "status": "draft"
+  },
+  "re-centering-product-ownership-on-strategy-and-outcomes.summary": {
+    "en": "Position product ownership where strategic intent and value meet, with responsibility for outcomes rather than team-level delivery coordination. This requires avoiding team-level local product ownership and introducing shared or unified product ownership structures.",
+    "text": "Posicionar a responsabilidade pelo produto onde a intenção estratégica e o valor se encontram, com responsabilidade por outcomes e não pela coordenação da entrega no nível da equipe. Isso exige evitar a responsabilidade local pelo produto em cada equipe e introduzir estruturas de responsabilidade compartilhada ou unificada.",
+    "src": "c0ae9f94",
+    "status": "draft"
+  },
+  "redefining-the-manager-role-around-capability-building-and-system-stewardship.name": {
+    "en": "Redefining the Manager Role Around Capability-Building and System Stewardship",
+    "text": "Redefinir o papel de gestor em torno do desenvolvimento de capacidades e do cuidado com o sistema",
+    "src": "7820db42",
+    "status": "draft"
+  },
+  "redefining-the-manager-role-around-capability-building-and-system-stewardship.summary": {
+    "en": "Shift managers away from issuing instructions toward growing people and expanding mandates—developing the capabilities and judgment required for broader, end-to-end ownership while stewarding the system that surrounds the work.",
+    "text": "Afastar os gestores da emissão de instruções e aproximá-los do desenvolvimento de pessoas e da ampliação de mandatos — desenvolvendo as capacidades e o discernimento necessários para uma responsabilidade ponta a ponta mais ampla, enquanto cuidam do sistema que envolve o trabalho.",
+    "src": "4c6ac708",
+    "status": "draft"
+  },
+  "rewards.name": {
+    "en": "Rewards",
+    "text": "Recompensas",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "rewards.starModel.definition": {
+    "en": "How people are motivated and steered: compensation, promotions, recognition, and other formal and informal incentives.",
+    "text": "Como as pessoas são motivadas e conduzidas: remuneração, promoções, reconhecimento e outros incentivos formais e informais.",
+    "src": "3b99a2e6",
+    "status": "draft"
+  },
+  "rewards.starModel.element": {
+    "en": "Rewards",
+    "text": "Recompensas",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "rewards.subtitle": {
+    "en": "Incentives and Motivation",
+    "text": "Incentivos e motivação",
+    "src": "22601fcf",
+    "status": "draft"
+  },
+  "sharing-ownership-across-teams.name": {
+    "en": "Sharing Ownership Across Teams",
+    "text": "Compartilhar a responsabilidade entre equipes",
+    "src": "0301eb9e",
+    "status": "draft"
+  },
+  "sharing-ownership-across-teams.summary": {
+    "en": "Expand technical ownership boundaries so teams can improve and fix issues without waiting on specialists or gatekeepers. In the software development context, this implies allowing the teams to work across the entire codebase. In service organizations: sharing ownership of processes, policies, or case handling.",
+    "text": "Ampliar os limites da responsabilidade técnica para que as equipes possam melhorar e corrigir problemas sem esperar por especialistas ou guardiões. No desenvolvimento de software, isso significa permitir que as equipes trabalhem em todo o código-fonte. Em organizações de serviços: compartilhar a responsabilidade por processos, políticas ou tratamento de casos.",
+    "src": "3f38aef6",
+    "status": "draft"
+  },
+  "sharing-the-same-cadence-across-teams.name": {
+    "en": "Sharing the Same Cadence Across Teams",
+    "text": "Compartilhar a mesma cadência entre equipes",
+    "src": "bd43e017",
+    "status": "draft"
+  },
+  "sharing-the-same-cadence-across-teams.summary": {
+    "en": "Create transparency for doing and inspecting the work in a shared rhythm for planning, review, and learning.",
+    "text": "Criar transparência para executar e inspecionar o trabalho em um ritmo compartilhado de planejamento, revisão e aprendizado.",
+    "src": "d13956de",
+    "status": "draft"
+  },
+  "slicing-work-vertically.name": {
+    "en": "Slicing Work Vertically",
+    "text": "Fatiar o trabalho na vertical",
+    "src": "85417437",
+    "status": "draft"
+  },
+  "slicing-work-vertically.summary": {
+    "en": "Practice breaking work into end-to-end increments that deliver learning and value, not partial progress.",
+    "text": "Praticar a divisão do trabalho em incrementos ponta a ponta que entregam aprendizado e valor, e não progresso parcial.",
+    "src": "f1df0365",
+    "status": "draft"
+  },
+  "strategy.name": {
+    "en": "Strategy",
+    "text": "Estratégia",
+    "src": "6b27710d",
+    "status": "draft"
+  },
+  "strategy.starModel.definition": {
+    "en": "The outcomes the organization is designed to achieve are derived from the strategy and are used as the benchmark for all design choices.",
+    "text": "Os resultados que a organização foi desenhada para alcançar derivam da estratégia e servem de referência para todas as escolhas de design.",
+    "src": "6c0e2eee",
+    "status": "draft"
+  },
+  "strategy.starModel.element": {
+    "en": "Org Design Criteria",
+    "text": "Critérios de design organizacional",
+    "src": "56d81480",
+    "status": "draft"
+  },
+  "strategy.subtitle": {
+    "en": "Direction and Goals",
+    "text": "Direção e objetivos",
+    "src": "aada62ca",
+    "status": "draft"
+  },
+  "structure.name": {
+    "en": "Structure",
+    "text": "Estrutura",
+    "src": "7203c2b3",
+    "status": "draft"
+  },
+  "structure.starModel.definition": {
+    "en": "How power and authority are distributed: roles, units, reporting lines, and the basic architecture of who reports to whom.",
+    "text": "Como o poder e a autoridade são distribuídos: papéis, unidades, linhas de subordinação e a arquitetura básica de quem se reporta a quem.",
+    "src": "0dd642f9",
+    "status": "draft"
+  },
+  "structure.starModel.element": {
+    "en": "Structure",
+    "text": "Estrutura",
+    "src": "7203c2b3",
+    "status": "draft"
+  },
+  "structure.subtitle": {
+    "en": "Power, Authority, Organization",
+    "text": "Poder, autoridade, organização",
+    "src": "e9315357",
+    "status": "draft"
+  },
+  "using-obeya-for-org-topology-evolution.name": {
+    "en": "Using Obeya for Org Topology Evolution",
+    "text": "Usar o Obeya para a evolução da topologia organizacional",
+    "src": "e3cb4c85",
+    "status": "draft"
+  },
+  "using-obeya-for-org-topology-evolution.summary": {
+    "en": "Use a shared decision space to connect strategy, evidence, and organizational design constraints, enabling deliberate topology evolution rather than merely tracking delivery.",
+    "text": "Usar um espaço de decisão compartilhado para conectar estratégia, evidências e restrições de design organizacional, permitindo uma evolução deliberada da topologia e não apenas o acompanhamento da entrega.",
+    "src": "b8ff8090",
+    "status": "draft"
+  },
+  "using-synchronous-team-work-to-expand-capability-and-ownership.name": {
+    "en": "Using Synchronous Team Work to Expand Capability and Ownership",
+    "text": "Usar o trabalho síncrono em equipe para ampliar capacidade e responsabilidade",
+    "src": "b7a2fdbb",
+    "status": "draft"
+  },
+  "using-synchronous-team-work-to-expand-capability-and-ownership.summary": {
+    "en": "Apply pairing, mobbing, and other forms of real synchronous work across role, team and functional boundaries to deliberately grow skills and reduce reliance on specialists or handoffs.",
+    "text": "Aplicar pairing, mobbing e outras formas de trabalho síncrono real entre papéis, equipes e fronteiras funcionais para desenvolver habilidades deliberadamente e reduzir a dependência de especialistas ou repasses.",
+    "src": "b1969ee9",
+    "status": "draft"
+  },
+  "volunteering-for-work.name": {
+    "en": "Volunteering for Work",
+    "text": "Voluntariar-se para o trabalho",
+    "src": "c9d80d7d",
+    "status": "draft"
+  },
+  "volunteering-for-work.summary": {
+    "en": "Enable individuals and teams to pull work where value is highest, rather than relying on predefined assignments. This kata increases organizational flexibility and shared ownership, and can be enacted through deliberate self-selection mechanisms (e.g., Open Space–style sessions).",
+    "text": "Permitir que pessoas e equipes puxem o trabalho para onde o valor é maior, em vez de depender de atribuições predefinidas. Este kata aumenta a flexibilidade organizacional e a responsabilidade compartilhada, e pode ser praticado por mecanismos deliberados de autosseleção (por exemplo, sessões no estilo Open Space).",
+    "src": "64476c61",
+    "status": "draft"
+  }
+}

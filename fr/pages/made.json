@@ -1,0 +1,698 @@
+{
+  "assess._nav": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "assess.goDeeper.body": {
+    "en": "Explore which topology fits your organization: a sample map of each, the [org goal](term:org-goal) it serves, and its trade-offs in stable and changing markets.",
+    "text": "Explorez quelle topologie convient à votre organisation : une carte exemple de chacune, l’[objectif organisationnel](term:org-goal) qu’elle sert et ses compromis sur des marchés stables et changeants.",
+    "src": "5831a35c",
+    "status": "draft"
+  },
+  "assess.goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Distinguer les topologies →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "assess.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "ALLER PLUS LOIN",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
+  "assess.goDeeper.title": {
+    "en": "The three topologies",
+    "text": "Les trois topologies",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "assess.goal.goal": {
+    "en": "Given the current org design and its emerging capabilities, how well does it fit the business ambitions and organizational strategy?",
+    "text": "Compte tenu du design organisationnel actuel et des capacités qui émergent, dans quelle mesure correspond-il aux ambitions business et à la stratégie de l’organisation ?",
+    "src": "b4568034",
+    "status": "draft"
+  },
+  "assess.goal.value": {
+    "en": "HONESTY",
+    "text": "HONNÊTETÉ",
+    "src": "a9d4ea02",
+    "status": "draft"
+  },
+  "assess.lead": {
+    "en": "Compare your map with the three topologies. What is this organization designed for — and does that fit your strategy?",
+    "text": "Comparez votre carte aux trois topologies. Pour quoi cette organisation est-elle conçue, et cela correspond-il à votre stratégie ?",
+    "src": "738f9931",
+    "status": "draft"
+  },
+  "assess.paragraphs.0": {
+    "en": "Directing units decide what to build; complete teams deliver it within narrow, fixed scopes. That pattern is a [Delivery Topology](term:delivery-topology).",
+    "text": "Des unités Directing décident de ce qu’il faut construire ; des équipes complètes le livrent dans des périmètres étroits et fixes. Ce schéma est une [Delivery Topology](term:delivery-topology).",
+    "src": "ca58646c",
+    "status": "draft"
+  },
+  "assess.phaseLabel": {
+    "en": "STUDY · THE DESIGN YOU HAVE",
+    "text": "STUDY · LE DESIGN QUE VOUS AVEZ",
+    "src": "aafb18f2",
+    "status": "draft"
+  },
+  "assess.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "assess.topologies.0.fit": {
+    "en": "Fits stable, repeatable work. Slow to change direction.",
+    "text": "Convient à un travail stable et répétable. Lente à changer de cap.",
+    "src": "0d446c9a",
+    "status": "draft"
+  },
+  "assess.topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "assess.topologies.0.summary": {
+    "en": "Built for utilization of specialized skills.",
+    "text": "Conçue pour l’utilisation maximale des compétences spécialisées.",
+    "src": "e089a72e",
+    "status": "draft"
+  },
+  "assess.topologies.1.badge": {
+    "en": "THIS MAP",
+    "text": "CETTE CARTE",
+    "src": "b11858ec",
+    "status": "draft"
+  },
+  "assess.topologies.1.fit": {
+    "en": "Fits known demand. Teams ship within narrowly defined areas for faster flow.",
+    "text": "Convient à une demande connue. Les équipes livrent dans des domaines étroitement définis pour un flux plus rapide.",
+    "src": "43bce414",
+    "status": "draft"
+  },
+  "assess.topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "assess.topologies.1.summary": {
+    "en": "Built for fast, predictable flow of outputs.",
+    "text": "Conçue pour un flux rapide et prévisible d’outputs.",
+    "src": "a1486965",
+    "status": "draft"
+  },
+  "assess.topologies.2.fit": {
+    "en": "Fits product R&D where user habits and market demands keep changing.",
+    "text": "Convient à la R&D produit, où les habitudes des utilisateurs et les attentes du marché ne cessent de changer.",
+    "src": "7ad22087",
+    "status": "draft"
+  },
+  "assess.topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "assess.topologies.2.summary": {
+    "en": "Built for innovation and adaptability, to create more value.",
+    "text": "Conçue pour l’innovation et l’adaptabilité, afin de créer plus de valeur.",
+    "src": "46ada2f5",
+    "status": "draft"
+  },
+  "book.goDeeper.body": {
+    "en": "Read the method as a business novel: follow Hanna, head of HR, as she looks at her organization through the Org Topologies lens, with principles, maps and real case studies.",
+    "text": "Lisez la méthode comme un roman d’entreprise : suivez Hanna, responsable RH, qui regarde son organisation à travers la lentille Org Topologies, avec des principes, des cartes et de vraies études de cas.",
+    "src": "2060fd37",
+    "status": "draft"
+  },
+  "book.goDeeper.cta.label": {
+    "en": "Get the book →",
+    "text": "Obtenir le livre →",
+    "src": "3b4eb7f8",
+    "status": "draft"
+  },
+  "book.goDeeper.kicker": {
+    "en": "THE BOOK · #1 AMAZON BEST SELLER",
+    "text": "LE LIVRE · N° 1 DES VENTES AMAZON",
+    "src": "9c188034",
+    "status": "draft"
+  },
+  "book.goDeeper.title": {
+    "en": "10X ORG",
+    "text": "10X ORG",
+    "src": "a6f6e5fe",
+    "status": "draft"
+  },
+  "book.media.alt": {
+    "en": "10X ORG book cover",
+    "text": "Couverture du livre 10X ORG",
+    "src": "e5243dbf",
+    "status": "draft"
+  },
+  "design._nav": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "design.goal.goal": {
+    "en": "What should this organization be optimizing for, and which strategic capabilities does it need to develop to better serve its future?",
+    "text": "Que doit optimiser cette organisation, et quelles capacités stratégiques doit-elle développer pour mieux servir son avenir ?",
+    "src": "b16f5a02",
+    "status": "draft"
+  },
+  "design.goal.value": {
+    "en": "COMMITMENT",
+    "text": "ENGAGEMENT",
+    "src": "82b180a1",
+    "status": "draft"
+  },
+  "design.goalTable.columns.0": {
+    "en": "ORG GOAL",
+    "text": "OBJECTIF ORGANISATIONNEL",
+    "src": "bb9bd759",
+    "status": "draft"
+  },
+  "design.goalTable.columns.1": {
+    "en": "WHEN",
+    "text": "QUAND",
+    "src": "cd474e12",
+    "status": "draft"
+  },
+  "design.goalTable.columns.2": {
+    "en": "DESIGN TOWARD",
+    "text": "CONCEVOIR VERS",
+    "src": "b370c24c",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.goal": {
+    "en": "Utilization",
+    "text": "Utilisation",
+    "src": "dee34f53",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.when": {
+    "en": "stable, repeatable demand",
+    "text": "demande stable et répétable",
+    "src": "ef5e3ef3",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.goal": {
+    "en": "Flow",
+    "text": "Flux",
+    "src": "f1273dc7",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.when": {
+    "en": "known demand, fast delivery",
+    "text": "demande connue, livraison rapide",
+    "src": "30cfa6e0",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.badge": {
+    "en": "THIS EXAMPLE",
+    "text": "CET EXEMPLE",
+    "src": "d73bdfdd",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.goal": {
+    "en": "Adaptiveness",
+    "text": "Adaptabilité",
+    "src": "cf63f4bb",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.when": {
+    "en": "uncertain, changing markets",
+    "text": "marchés incertains et changeants",
+    "src": "dd8db5ed",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.goal": {
+    "en": "Both, by part",
+    "text": "Les deux, par partie",
+    "src": "0d72d566",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.name": {
+    "en": "A mix",
+    "text": "Un mélange",
+    "src": "4d4ecb91",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.when": {
+    "en": "a steady core plus a new venture",
+    "text": "un cœur stable et une nouvelle activité",
+    "src": "1a1308d9",
+    "status": "draft"
+  },
+  "design.lead": {
+    "en": "Imagine the organization you need — without today’s limits. Choose the [org goal](term:org-goal), then sketch the target design.",
+    "text": "Imaginez l’organisation dont vous avez besoin, sans les limites d’aujourd’hui. Choisissez l’[objectif organisationnel](term:org-goal), puis esquissez le design cible.",
+    "src": "1cf0aaa7",
+    "status": "draft"
+  },
+  "design.paragraphs.0": {
+    "en": "Don’t start from who sits where today. No topology is best; [fit for purpose](term:fit-for-purpose) is, and different parts of one company can choose different designs. In this example the goal is [adaptiveness](term:adaptiveness): everyone works as one [team of teams](term:team-of-teams) in the Driving quadrant.",
+    "text": "Ne partez pas de qui est assis où aujourd’hui. Aucune topologie n’est la meilleure ; ce qui compte, c’est l’[adéquation à la finalité](term:fit-for-purpose), et différentes parties d’une même entreprise peuvent choisir des designs différents. Dans cet exemple, l’objectif est l’[adaptabilité](term:adaptiveness) : tout le monde travaille comme une seule [équipe d’équipes](term:team-of-teams) dans le quadrant Driving.",
+    "src": "8f02ded3",
+    "status": "draft"
+  },
+  "design.phaseLabel": {
+    "en": "IMPROVE · THE DESIGN YOU NEED",
+    "text": "IMPROVE · LE DESIGN DONT VOUS AVEZ BESOIN",
+    "src": "9e24a8f5",
+    "status": "draft"
+  },
+  "design.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "elevate._nav": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "elevate.goDeeper.body": {
+    "en": "Find your next small, safe step: the full [Katalog](term:katalog) by area (structure, strategy, processes), with what each kata changes.",
+    "text": "Trouvez votre prochain petit pas sûr : le [Katalog](term:katalog) complet par domaine (structure, stratégie, processus), avec ce que chaque kata change.",
+    "src": "dc9eb4e6",
+    "status": "draft"
+  },
+  "elevate.goDeeper.cta.label": {
+    "en": "Browse the Katalog →",
+    "text": "Parcourir le Katalog →",
+    "src": "117e8c99",
+    "status": "draft"
+  },
+  "elevate.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "ALLER PLUS LOIN",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
+  "elevate.goDeeper.title": {
+    "en": "Elevating Katas™",
+    "text": "Elevating Katas™",
+    "src": "e9ea1cea",
+    "status": "draft"
+  },
+  "elevate.goal.goal": {
+    "en": "How do we make this new org design work in practice to build the missing capabilities?",
+    "text": "Comment faire fonctionner ce nouveau design organisationnel en pratique pour développer les capacités qui manquent ?",
+    "src": "20335460",
+    "status": "draft"
+  },
+  "elevate.goal.value": {
+    "en": "OPENNESS",
+    "text": "OUVERTURE",
+    "src": "7ae55fc6",
+    "status": "draft"
+  },
+  "elevate.katas.caption": {
+    "en": "ONE PATH FOR THIS EXAMPLE · 4 KATAS",
+    "text": "UN CHEMIN POUR CET EXEMPLE · 4 KATAS",
+    "src": "ec304709",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.area": {
+    "en": "STRUCTURE",
+    "text": "STRUCTURE",
+    "src": "bd3642a7",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.text": {
+    "en": "The two teams join one product group.",
+    "text": "Les deux équipes rejoignent un même groupe produit.",
+    "src": "fa9204e1",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.title": {
+    "en": "Form a team of teams",
+    "text": "Former une équipe d’équipes",
+    "src": "4cee2184",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.area": {
+    "en": "STRATEGY",
+    "text": "STRATÉGIE",
+    "src": "ee45ffc0",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.text": {
+    "en": "One backlog for the whole product: the work mandate grows ↑",
+    "text": "Un seul backlog pour tout le produit : le mandat de travail s’élargit ↑",
+    "src": "5262fd35",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.title": {
+    "en": "Merge product backlogs",
+    "text": "Fusionner les backlogs produit",
+    "src": "0a00f23a",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.area": {
+    "en": "STRATEGY",
+    "text": "STRATÉGIE",
+    "src": "ee45ffc0",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.text": {
+    "en": "Managers stop directing outputs; teams own the outcome.",
+    "text": "Les managers cessent de diriger les outputs ; les équipes portent l’outcome.",
+    "src": "7668f796",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.title": {
+    "en": "Re-center product ownership on outcomes",
+    "text": "Recentrer la product ownership sur les outcomes",
+    "src": "b06ae93e",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.area": {
+    "en": "PROCESSES",
+    "text": "PROCESSUS",
+    "src": "dae2c8cb",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.text": {
+    "en": "Everyone inspects the whole product together, every cycle.",
+    "text": "Tout le monde inspecte ensemble le produit entier, à chaque cycle.",
+    "src": "d58e22df",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.title": {
+    "en": "Hold product-level reviews",
+    "text": "Tenir des revues au niveau du produit",
+    "src": "ec76f42d",
+    "status": "draft"
+  },
+  "elevate.lead": {
+    "en": "Now get the change going. [Elevating Katas](term:elevating-kata)™ are small, safe experiments that widen skills and work mandates toward the target design.",
+    "text": "Lancez maintenant le changement. Les [Elevating Katas](term:elevating-kata)™ sont de petites expériences sûres qui élargissent les compétences et les mandats de travail vers le design cible.",
+    "src": "5167c1b2",
+    "status": "draft"
+  },
+  "elevate.paragraphs.0": {
+    "en": "The dashed circles show the target design; the arrows show the direction of change. Run the katas, then remap and start the loop again.",
+    "text": "Les cercles en pointillés montrent le design cible ; les flèches indiquent le sens du changement. Pratiquez les katas, puis cartographiez de nouveau et relancez la boucle.",
+    "src": "a0225fe4",
+    "status": "draft"
+  },
+  "elevate.phaseLabel": {
+    "en": "IMPROVE · THE DESIGN YOU NEED",
+    "text": "IMPROVE · LE DESIGN DONT VOUS AVEZ BESOIN",
+    "src": "9e24a8f5",
+    "status": "draft"
+  },
+  "elevate.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "map._nav": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "map.goal.goal": {
+    "en": "Which parts of our organization contribute to creating value, and how do they interact to produce it — from idea to cash?",
+    "text": "Quelles parties de notre organisation contribuent à créer de la valeur, et comment interagissent-elles pour la produire, de l’idée à l’encaissement ?",
+    "src": "fdcc5a1e",
+    "status": "draft"
+  },
+  "map.goal.value": {
+    "en": "CURIOSITY",
+    "text": "CURIOSITÉ",
+    "src": "5fd9bb17",
+    "status": "draft"
+  },
+  "map.lead": {
+    "en": "Place every unit by its two mandates: how broad its skills are (→) and how much of the work it owns (↑).",
+    "text": "Placez chaque unité selon ses deux mandats : l’étendue de ses compétences (→) et la part du travail qu’elle possède (↑).",
+    "src": "968c2174",
+    "status": "draft"
+  },
+  "map.note": {
+    "en": "Why it matters: in a study of nearly 200 org design consultants, more than half said their clients find it hard to trace how people collaborate across units.",
+    "text": "Pourquoi c’est important : dans une étude auprès de près de 200 consultants en design organisationnel, plus de la moitié ont dit que leurs clients ont du mal à retracer comment les gens collaborent d’une unité à l’autre.",
+    "src": "77e58861",
+    "status": "draft"
+  },
+  "map.paragraphs.0": {
+    "en": "People, teams and AI agents all go on the same map. Lines show who depends on whom. Here: a product manager and a project manager direct two complete teams of people and AI agents.",
+    "text": "Les personnes, les équipes et les agents IA figurent tous sur la même carte. Les lignes montrent qui dépend de qui. Ici : un product manager et un chef de projet dirigent deux équipes complètes de personnes et d’agents IA.",
+    "src": "654bb2b9",
+    "status": "draft"
+  },
+  "map.paragraphs.1": {
+    "en": "This is not reproducing the org chart with titles and layers. You study the kinds of work units take on, the inputs they rely on, the outputs they produce, and how work actually flows between them.",
+    "text": "Il ne s’agit pas de reproduire l’organigramme avec ses titres et ses niveaux. Vous étudiez les types de travail que prennent en charge les unités, les entrées dont elles dépendent, les sorties qu’elles produisent et la façon dont le travail circule réellement entre elles.",
+    "src": "4bc28eda",
+    "status": "draft"
+  },
+  "map.phaseLabel": {
+    "en": "STUDY · THE DESIGN YOU HAVE",
+    "text": "STUDY · LE DESIGN QUE VOUS AVEZ",
+    "src": "aafb18f2",
+    "status": "draft"
+  },
+  "map.principles.0.text": {
+    "en": "Map where work actually happens — not how the slides say it happens.",
+    "text": "Cartographiez là où le travail se fait vraiment, pas là où les slides disent qu’il se fait.",
+    "src": "8f3c8068",
+    "status": "draft"
+  },
+  "map.principles.0.title": {
+    "en": "Go to the Gemba",
+    "text": "Allez au Gemba",
+    "src": "70b88635",
+    "status": "draft"
+  },
+  "map.principles.1.text": {
+    "en": "See the system as it really works today, before deciding how to improve it.",
+    "text": "Voyez le système tel qu’il fonctionne vraiment aujourd’hui, avant de décider comment l’améliorer.",
+    "src": "94f019d0",
+    "status": "draft"
+  },
+  "map.principles.1.title": {
+    "en": "Without judgment",
+    "text": "Sans jugement",
+    "src": "509ab16f",
+    "status": "draft"
+  },
+  "map.principles.2.text": {
+    "en": "Without curiosity, mapping quickly degenerates into justification.",
+    "text": "Sans curiosité, la cartographie dégénère vite en justification.",
+    "src": "1b4fabc8",
+    "status": "draft"
+  },
+  "map.principles.2.title": {
+    "en": "With curiosity",
+    "text": "Avec curiosité",
+    "src": "c65d03f2",
+    "status": "draft"
+  },
+  "map.pullQuote.quote": {
+    "en": "“Mapping does not change the organization. But without mapping, change is blind.”",
+    "text": "« La cartographie ne change pas l’organisation. Mais sans cartographie, le changement est aveugle. »",
+    "src": "df324588",
+    "status": "draft"
+  },
+  "map.pullQuote.source": {
+    "en": "10X ORG · STUDY: MAP AND ASSESS",
+    "text": "10X ORG · STUDY : MAP ET ASSESS",
+    "src": "de4ff633",
+    "status": "draft"
+  },
+  "map.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview._nav": {
+    "en": "Change, MADE Systemic",
+    "text": "Le changement, MADE systémique",
+    "src": "03610ffd",
+    "status": "draft"
+  },
+  "overview.before": {
+    "en": "Every organization already has a design, whether purposeful or an ad hoc accretion over the years. Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Toute organisation a déjà un design, qu’il soit voulu ou le fruit d’accumulations ponctuelles au fil des ans. Le design organisationnel se situe entre la stratégie et la performance. **MADE** est la boucle qui le maintient adapté, nommée d’après ses quatre mouvements :",
+    "src": "24bb66ce",
+    "status": "draft"
+  },
+  "overview.heading": {
+    "en": "Change, MADE systemic",
+    "text": "Le changement, MADE systémique",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "overview.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Le changement MADE systémique : Study (Map, Assess) et Improve (Design, Elevate) autour du design organisationnel, entre stratégie et performance",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "overview.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". **Étudiez** d’abord le design que vous avez, puis **améliorez-le** vers le design dont vous avez besoin.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "overview.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Le design organisationnel se situe entre la stratégie et la performance. **MADE** est la boucle qui le maintient adapté, nommée d’après ses quatre mouvements :",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "overview.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "overview.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "overview.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "overview.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "overview.phases.0.note": {
+    "en": "the design you have",
+    "text": "le design que vous avez",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work [mandate](term:mandate)",
+    "text": "Placez chaque unité selon son [mandat](term:mandate) de compétences et de travail",
+    "src": "c27f024b",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.1.text": {
+    "en": "Name the [topology](term:org-topology) you have — and whether it fits",
+    "text": "Nommez la [topologie](term:org-topology) que vous avez, et dites si elle convient",
+    "src": "633803cf",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "overview.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "overview.phases.1.note": {
+    "en": "the design you need",
+    "text": "le design dont vous avez besoin",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Imaginez l’organisation dont vous avez besoin, sans les limites d’aujourd’hui",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "Lancez le changement avec les [Elevating Katas](term:elevating-kata)",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Map, Assess, Design, Elevate: see how your organization really works, then redesign it for the goal you choose, in four moves you can repeat.",
+    "text": "Map, Assess, Design, Elevate : voyez comment votre organisation fonctionne vraiment, puis repensez-la pour l’objectif que vous choisissez, en quatre mouvements répétables.",
+    "src": "c0d0b3f0",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "The MADE method — Map, Assess, Design, Elevate",
+    "text": "La méthode MADE — Map, Assess, Design, Elevate",
+    "src": "14f7ac95",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Map · Assess · Design · Elevate: see how your organization really works, then redesign it for the goal you choose — in four moves you can repeat.",
+    "text": "Map · Assess · Design · Elevate : voyez comment votre organisation fonctionne vraiment, puis repensez-la pour l’objectif que vous choisissez, en quatre mouvements répétables.",
+    "src": "d5584f91",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "The MADE\nmethod.",
+    "text": "La méthode\nMADE.",
+    "src": "da839d0e",
+    "status": "draft"
+  }
+}

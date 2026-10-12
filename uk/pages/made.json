@@ -1,0 +1,698 @@
+{
+  "assess._nav": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "assess.goDeeper.body": {
+    "en": "Explore which topology fits your organization: a sample map of each, the [org goal](term:org-goal) it serves, and its trade-offs in stable and changing markets.",
+    "text": "Дізнайтеся, яка топологія підходить вашій організації: приклад мапи кожної, [ціль організації](term:org-goal), якій вона служить, та її компроміси на стабільних і мінливих ринках.",
+    "src": "5831a35c",
+    "status": "draft"
+  },
+  "assess.goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Розрізнити топології →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "assess.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "ГЛИБШЕ",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
+  "assess.goDeeper.title": {
+    "en": "The three topologies",
+    "text": "Три топології",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "assess.goal.goal": {
+    "en": "Given the current org design and its emerging capabilities, how well does it fit the business ambitions and organizational strategy?",
+    "text": "З огляду на поточний оргдизайн і спроможності, що з'являються, наскільки добре він відповідає бізнес-амбіціям та організаційній стратегії?",
+    "src": "b4568034",
+    "status": "draft"
+  },
+  "assess.goal.value": {
+    "en": "HONESTY",
+    "text": "ЧЕСНІСТЬ",
+    "src": "a9d4ea02",
+    "status": "draft"
+  },
+  "assess.lead": {
+    "en": "Compare your map with the three topologies. What is this organization designed for — and does that fit your strategy?",
+    "text": "Порівняйте свою мапу з трьома топологіями. Для чого спроєктована ця організація — і чи це відповідає вашій стратегії?",
+    "src": "738f9931",
+    "status": "draft"
+  },
+  "assess.paragraphs.0": {
+    "en": "Directing units decide what to build; complete teams deliver it within narrow, fixed scopes. That pattern is a [Delivery Topology](term:delivery-topology).",
+    "text": "Підрозділи Directing вирішують, що будувати; повні команди доставляють це у вузьких, фіксованих межах. Такий патерн — це [Delivery Topology](term:delivery-topology).",
+    "src": "ca58646c",
+    "status": "draft"
+  },
+  "assess.phaseLabel": {
+    "en": "STUDY · THE DESIGN YOU HAVE",
+    "text": "STUDY · ДИЗАЙН, ЯКИЙ ВИ МАЄТЕ",
+    "src": "aafb18f2",
+    "status": "draft"
+  },
+  "assess.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "assess.topologies.0.fit": {
+    "en": "Fits stable, repeatable work. Slow to change direction.",
+    "text": "Підходить для стабільної, повторюваної роботи. Повільно змінює напрям.",
+    "src": "0d446c9a",
+    "status": "draft"
+  },
+  "assess.topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "assess.topologies.0.summary": {
+    "en": "Built for utilization of specialized skills.",
+    "text": "Створена для завантаження спеціалізованих навичок.",
+    "src": "e089a72e",
+    "status": "draft"
+  },
+  "assess.topologies.1.badge": {
+    "en": "THIS MAP",
+    "text": "ЦЯ МАПА",
+    "src": "b11858ec",
+    "status": "draft"
+  },
+  "assess.topologies.1.fit": {
+    "en": "Fits known demand. Teams ship within narrowly defined areas for faster flow.",
+    "text": "Підходить для відомого попиту. Команди доставляють у вузько визначених межах заради швидшого потоку.",
+    "src": "43bce414",
+    "status": "draft"
+  },
+  "assess.topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "assess.topologies.1.summary": {
+    "en": "Built for fast, predictable flow of outputs.",
+    "text": "Створена для швидкого, передбачуваного потоку випуску.",
+    "src": "a1486965",
+    "status": "draft"
+  },
+  "assess.topologies.2.fit": {
+    "en": "Fits product R&D where user habits and market demands keep changing.",
+    "text": "Підходить для продуктових досліджень і розробки, де звички користувачів і вимоги ринку постійно змінюються.",
+    "src": "7ad22087",
+    "status": "draft"
+  },
+  "assess.topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "assess.topologies.2.summary": {
+    "en": "Built for innovation and adaptability, to create more value.",
+    "text": "Створена для інновацій та адаптивності, щоб створювати більше цінності.",
+    "src": "46ada2f5",
+    "status": "draft"
+  },
+  "book.goDeeper.body": {
+    "en": "Read the method as a business novel: follow Hanna, head of HR, as she looks at her organization through the Org Topologies lens, with principles, maps and real case studies.",
+    "text": "Прочитайте метод як бізнес-роман: стежте за Ганною, керівницею HR, яка дивиться на свою організацію крізь призму Org Topologies, — з принципами, мапами та реальними кейсами.",
+    "src": "2060fd37",
+    "status": "draft"
+  },
+  "book.goDeeper.cta.label": {
+    "en": "Get the book →",
+    "text": "Отримати книгу →",
+    "src": "3b4eb7f8",
+    "status": "draft"
+  },
+  "book.goDeeper.kicker": {
+    "en": "THE BOOK · #1 AMAZON BEST SELLER",
+    "text": "КНИГА · БЕСТСЕЛЕР №1 НА AMAZON",
+    "src": "9c188034",
+    "status": "draft"
+  },
+  "book.goDeeper.title": {
+    "en": "10X ORG",
+    "text": "10X ORG",
+    "src": "a6f6e5fe",
+    "status": "draft"
+  },
+  "book.media.alt": {
+    "en": "10X ORG book cover",
+    "text": "Обкладинка книги 10X ORG",
+    "src": "e5243dbf",
+    "status": "draft"
+  },
+  "design._nav": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "design.goal.goal": {
+    "en": "What should this organization be optimizing for, and which strategic capabilities does it need to develop to better serve its future?",
+    "text": "Що ця організація має оптимізувати і які стратегічні спроможності їй потрібно розвинути, щоб краще служити своєму майбутньому?",
+    "src": "b16f5a02",
+    "status": "draft"
+  },
+  "design.goal.value": {
+    "en": "COMMITMENT",
+    "text": "ЗОБОВ'ЯЗАННЯ",
+    "src": "82b180a1",
+    "status": "draft"
+  },
+  "design.goalTable.columns.0": {
+    "en": "ORG GOAL",
+    "text": "ЦІЛЬ ОРГАНІЗАЦІЇ",
+    "src": "bb9bd759",
+    "status": "draft"
+  },
+  "design.goalTable.columns.1": {
+    "en": "WHEN",
+    "text": "КОЛИ",
+    "src": "cd474e12",
+    "status": "draft"
+  },
+  "design.goalTable.columns.2": {
+    "en": "DESIGN TOWARD",
+    "text": "ПРОЄКТУВАТИ ДО",
+    "src": "b370c24c",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.goal": {
+    "en": "Utilization",
+    "text": "Завантаження",
+    "src": "dee34f53",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "design.goalTable.rows.0.when": {
+    "en": "stable, repeatable demand",
+    "text": "стабільний, повторюваний попит",
+    "src": "ef5e3ef3",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.goal": {
+    "en": "Flow",
+    "text": "Потік",
+    "src": "f1273dc7",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "design.goalTable.rows.1.when": {
+    "en": "known demand, fast delivery",
+    "text": "відомий попит, швидка доставка",
+    "src": "30cfa6e0",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.badge": {
+    "en": "THIS EXAMPLE",
+    "text": "ЦЕЙ ПРИКЛАД",
+    "src": "d73bdfdd",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.goal": {
+    "en": "Adaptiveness",
+    "text": "Адаптивність",
+    "src": "cf63f4bb",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "design.goalTable.rows.2.when": {
+    "en": "uncertain, changing markets",
+    "text": "непевні, мінливі ринки",
+    "src": "dd8db5ed",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.goal": {
+    "en": "Both, by part",
+    "text": "Обидві, по частинах",
+    "src": "0d72d566",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.name": {
+    "en": "A mix",
+    "text": "Мікс",
+    "src": "4d4ecb91",
+    "status": "draft"
+  },
+  "design.goalTable.rows.3.when": {
+    "en": "a steady core plus a new venture",
+    "text": "стабільне ядро плюс нове підприємство",
+    "src": "1a1308d9",
+    "status": "draft"
+  },
+  "design.lead": {
+    "en": "Imagine the organization you need — without today’s limits. Choose the [org goal](term:org-goal), then sketch the target design.",
+    "text": "Уявіть організацію, яка вам потрібна, без сьогоднішніх обмежень. Оберіть [ціль організації](term:org-goal), потім накресліть цільовий дизайн.",
+    "src": "1cf0aaa7",
+    "status": "draft"
+  },
+  "design.paragraphs.0": {
+    "en": "Don’t start from who sits where today. No topology is best; [fit for purpose](term:fit-for-purpose) is, and different parts of one company can choose different designs. In this example the goal is [adaptiveness](term:adaptiveness): everyone works as one [team of teams](term:team-of-teams) in the Driving quadrant.",
+    "text": "Не починайте з того, хто де сидить сьогодні. Найкращої топології не існує; є [відповідність меті](term:fit-for-purpose), і різні частини однієї компанії можуть обирати різні дизайни. У цьому прикладі ціль — [адаптивність](term:adaptiveness): усі працюють як одна [команда команд](term:team-of-teams) у квадранті Driving.",
+    "src": "8f02ded3",
+    "status": "draft"
+  },
+  "design.phaseLabel": {
+    "en": "IMPROVE · THE DESIGN YOU NEED",
+    "text": "IMPROVE · ДИЗАЙН, ЯКИЙ ВАМ ПОТРІБЕН",
+    "src": "9e24a8f5",
+    "status": "draft"
+  },
+  "design.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "elevate._nav": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "elevate.goDeeper.body": {
+    "en": "Find your next small, safe step: the full [Katalog](term:katalog) by area (structure, strategy, processes), with what each kata changes.",
+    "text": "Знайдіть свій наступний невеликий безпечний крок: повний [Katalog](term:katalog) за напрямами (структура, стратегія, процеси) з описом того, що змінює кожна ката.",
+    "src": "dc9eb4e6",
+    "status": "draft"
+  },
+  "elevate.goDeeper.cta.label": {
+    "en": "Browse the Katalog →",
+    "text": "Переглянути Katalog →",
+    "src": "117e8c99",
+    "status": "draft"
+  },
+  "elevate.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "ГЛИБШЕ",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
+  "elevate.goDeeper.title": {
+    "en": "Elevating Katas™",
+    "text": "Elevating Katas™",
+    "src": "e9ea1cea",
+    "status": "draft"
+  },
+  "elevate.goal.goal": {
+    "en": "How do we make this new org design work in practice to build the missing capabilities?",
+    "text": "Як зробити так, щоб цей новий оргдизайн запрацював на практиці й виростив спроможності, яких бракує?",
+    "src": "20335460",
+    "status": "draft"
+  },
+  "elevate.goal.value": {
+    "en": "OPENNESS",
+    "text": "ВІДКРИТІСТЬ",
+    "src": "7ae55fc6",
+    "status": "draft"
+  },
+  "elevate.katas.caption": {
+    "en": "ONE PATH FOR THIS EXAMPLE · 4 KATAS",
+    "text": "ОДИН ШЛЯХ ДЛЯ ЦЬОГО ПРИКЛАДУ · 4 КАТА",
+    "src": "ec304709",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.area": {
+    "en": "STRUCTURE",
+    "text": "СТРУКТУРА",
+    "src": "bd3642a7",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.text": {
+    "en": "The two teams join one product group.",
+    "text": "Дві команди об'єднуються в одну продуктову групу.",
+    "src": "fa9204e1",
+    "status": "draft"
+  },
+  "elevate.katas.items.0.title": {
+    "en": "Form a team of teams",
+    "text": "Сформувати команду команд",
+    "src": "4cee2184",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.area": {
+    "en": "STRATEGY",
+    "text": "СТРАТЕГІЯ",
+    "src": "ee45ffc0",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.text": {
+    "en": "One backlog for the whole product: the work mandate grows ↑",
+    "text": "Один бек-лог на весь продукт: мандат на роботу зростає ↑",
+    "src": "5262fd35",
+    "status": "draft"
+  },
+  "elevate.katas.items.1.title": {
+    "en": "Merge product backlogs",
+    "text": "Об'єднати продуктові бек-логи",
+    "src": "0a00f23a",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.area": {
+    "en": "STRATEGY",
+    "text": "СТРАТЕГІЯ",
+    "src": "ee45ffc0",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.text": {
+    "en": "Managers stop directing outputs; teams own the outcome.",
+    "text": "Менеджери перестають спрямовувати випуск; команди відповідають за ефект.",
+    "src": "7668f796",
+    "status": "draft"
+  },
+  "elevate.katas.items.2.title": {
+    "en": "Re-center product ownership on outcomes",
+    "text": "Зосередити продуктове лідерство на ефектах",
+    "src": "b06ae93e",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.area": {
+    "en": "PROCESSES",
+    "text": "ПРОЦЕСИ",
+    "src": "dae2c8cb",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.text": {
+    "en": "Everyone inspects the whole product together, every cycle.",
+    "text": "Усі разом інспектують увесь продукт у кожному циклі.",
+    "src": "d58e22df",
+    "status": "draft"
+  },
+  "elevate.katas.items.3.title": {
+    "en": "Hold product-level reviews",
+    "text": "Проводити огляди на рівні продукту",
+    "src": "ec76f42d",
+    "status": "draft"
+  },
+  "elevate.lead": {
+    "en": "Now get the change going. [Elevating Katas](term:elevating-kata)™ are small, safe experiments that widen skills and work mandates toward the target design.",
+    "text": "Тепер запустіть зміни. [Elevating Katas](term:elevating-kata)™ — це невеликі безпечні експерименти, що розширюють мандати на навички та на роботу до цільового дизайну.",
+    "src": "5167c1b2",
+    "status": "draft"
+  },
+  "elevate.paragraphs.0": {
+    "en": "The dashed circles show the target design; the arrows show the direction of change. Run the katas, then remap and start the loop again.",
+    "text": "Пунктирні кола показують цільовий дизайн; стрілки — напрям змін. Виконайте ката, потім перемапуйте й почніть цикл знову.",
+    "src": "a0225fe4",
+    "status": "draft"
+  },
+  "elevate.phaseLabel": {
+    "en": "IMPROVE · THE DESIGN YOU NEED",
+    "text": "IMPROVE · ДИЗАЙН, ЯКИЙ ВАМ ПОТРІБЕН",
+    "src": "9e24a8f5",
+    "status": "draft"
+  },
+  "elevate.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "map._nav": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "map.goal.goal": {
+    "en": "Which parts of our organization contribute to creating value, and how do they interact to produce it — from idea to cash?",
+    "text": "Які частини нашої організації причетні до створення цінності і як вони взаємодіють, щоб її створити — від ідеї до грошей?",
+    "src": "fdcc5a1e",
+    "status": "draft"
+  },
+  "map.goal.value": {
+    "en": "CURIOSITY",
+    "text": "ЗАЦІКАВЛЕНІСТЬ",
+    "src": "5fd9bb17",
+    "status": "draft"
+  },
+  "map.lead": {
+    "en": "Place every unit by its two mandates: how broad its skills are (→) and how much of the work it owns (↑).",
+    "text": "Розмістіть кожен підрозділ за двома його мандатами: наскільки широкі його навички (→) і яку частину роботи він опікує (↑).",
+    "src": "968c2174",
+    "status": "draft"
+  },
+  "map.note": {
+    "en": "Why it matters: in a study of nearly 200 org design consultants, more than half said their clients find it hard to trace how people collaborate across units.",
+    "text": "Чому це важливо: у дослідженні майже 200 консультантів з оргдизайну більше половини сказали, що їхнім клієнтам важко простежити, як люди співпрацюють між підрозділами.",
+    "src": "77e58861",
+    "status": "draft"
+  },
+  "map.paragraphs.0": {
+    "en": "People, teams and AI agents all go on the same map. Lines show who depends on whom. Here: a product manager and a project manager direct two complete teams of people and AI agents.",
+    "text": "Люди, команди та ШІ-агенти потрапляють на одну мапу. Лінії показують, хто від кого залежить. Тут продакт-менеджер і проєктний менеджер спрямовують дві повні команди з людей і ШІ-агентів.",
+    "src": "654bb2b9",
+    "status": "draft"
+  },
+  "map.paragraphs.1": {
+    "en": "This is not reproducing the org chart with titles and layers. You study the kinds of work units take on, the inputs they rely on, the outputs they produce, and how work actually flows between them.",
+    "text": "Це не копіювання оргструктури з посадами та рівнями. Ви вивчаєте види роботи, яку беруть на себе підрозділи, вхідні дані, на які вони спираються, результати, які вони випускають, і те, як робота насправді тече між ними.",
+    "src": "4bc28eda",
+    "status": "draft"
+  },
+  "map.phaseLabel": {
+    "en": "STUDY · THE DESIGN YOU HAVE",
+    "text": "STUDY · ДИЗАЙН, ЯКИЙ ВИ МАЄТЕ",
+    "src": "aafb18f2",
+    "status": "draft"
+  },
+  "map.principles.0.text": {
+    "en": "Map where work actually happens — not how the slides say it happens.",
+    "text": "Мапуйте там, де робота справді відбувається, а не так, як її показують слайди.",
+    "src": "8f3c8068",
+    "status": "draft"
+  },
+  "map.principles.0.title": {
+    "en": "Go to the Gemba",
+    "text": "Ідіть на Gemba",
+    "src": "70b88635",
+    "status": "draft"
+  },
+  "map.principles.1.text": {
+    "en": "See the system as it really works today, before deciding how to improve it.",
+    "text": "Побачте систему такою, як вона працює сьогодні, перш ніж вирішувати, як її покращувати.",
+    "src": "94f019d0",
+    "status": "draft"
+  },
+  "map.principles.1.title": {
+    "en": "Without judgment",
+    "text": "Без осуду",
+    "src": "509ab16f",
+    "status": "draft"
+  },
+  "map.principles.2.text": {
+    "en": "Without curiosity, mapping quickly degenerates into justification.",
+    "text": "Без цікавості мапування швидко вироджується в самовиправдання.",
+    "src": "1b4fabc8",
+    "status": "draft"
+  },
+  "map.principles.2.title": {
+    "en": "With curiosity",
+    "text": "Із цікавістю",
+    "src": "c65d03f2",
+    "status": "draft"
+  },
+  "map.pullQuote.quote": {
+    "en": "“Mapping does not change the organization. But without mapping, change is blind.”",
+    "text": "“Мапування не змінює організацію. Але без мапування зміни сліпі.”",
+    "src": "df324588",
+    "status": "draft"
+  },
+  "map.pullQuote.source": {
+    "en": "10X ORG · STUDY: MAP AND ASSESS",
+    "text": "10X ORG · STUDY: MAP ТА ASSESS",
+    "src": "de4ff633",
+    "status": "draft"
+  },
+  "map.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview._nav": {
+    "en": "Change, MADE Systemic",
+    "text": "Зміни за MADE — системно",
+    "src": "03610ffd",
+    "status": "draft"
+  },
+  "overview.before": {
+    "en": "Every organization already has a design, whether purposeful or an ad hoc accretion over the years. Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Кожна організація вже має дизайн — свідомий або випадково накопичений за роки. Оргдизайн стоїть між стратегією та продуктивністю. **MADE** — це цикл, що підтримує його відповідність меті; назва походить від чотирьох кроків:",
+    "src": "24bb66ce",
+    "status": "draft"
+  },
+  "overview.heading": {
+    "en": "Change, MADE systemic",
+    "text": "Зміни за MADE — системно",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "overview.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Зміни за MADE — системно: Study (Map, Assess) і Improve (Design, Elevate) навколо оргдизайну, між стратегією та продуктивністю",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "overview.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Спершу **вивчіть** дизайн, який маєте, потім **покращуйте** його до дизайну, який потрібен.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "overview.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Оргдизайн стоїть між стратегією та продуктивністю. **MADE** — це цикл, що підтримує його відповідність меті; назва походить від чотирьох кроків:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "overview.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "overview.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "overview.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "overview.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "overview.phases.0.note": {
+    "en": "the design you have",
+    "text": "дизайн, який ви маєте",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work [mandate](term:mandate)",
+    "text": "Розмістіть кожен підрозділ за [мандатом](term:mandate) на навички та на роботу",
+    "src": "c27f024b",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.1.text": {
+    "en": "Name the [topology](term:org-topology) you have — and whether it fits",
+    "text": "Назвіть [топологію](term:org-topology), яку маєте, і чи вона вам підходить",
+    "src": "633803cf",
+    "status": "draft"
+  },
+  "overview.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "overview.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "overview.phases.1.note": {
+    "en": "the design you need",
+    "text": "дизайн, який вам потрібен",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Уявіть організацію, яка вам потрібна, без сьогоднішніх обмежень",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "Запустіть зміни за допомогою [Elevating Katas](term:elevating-kata)",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "overview.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Map, Assess, Design, Elevate: see how your organization really works, then redesign it for the goal you choose, in four moves you can repeat.",
+    "text": "Map, Assess, Design, Elevate: побачте, як насправді працює ваша організація, і перепроєктуйте її під обрану ціль у чотири повторювані кроки.",
+    "src": "c0d0b3f0",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "The MADE method — Map, Assess, Design, Elevate",
+    "text": "Метод MADE — Map, Assess, Design, Elevate",
+    "src": "14f7ac95",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Map · Assess · Design · Elevate: see how your organization really works, then redesign it for the goal you choose — in four moves you can repeat.",
+    "text": "Map · Assess · Design · Elevate: побачте, як насправді працює ваша організація, і перепроєктуйте її під обрану ціль — у чотири кроки, які можна повторювати.",
+    "src": "d5584f91",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "The MADE\nmethod.",
+    "text": "Метод\nMADE.",
+    "src": "da839d0e",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,1016 @@
+{
+  "adaptive._nav": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.contexts": {
+    "en": "**Typical contexts:** new product development, innovation, platform exploration, consulting, research, emerging services.",
+    "text": "**典型场景：**新产品开发、创新、平台探索、咨询、研究、新兴服务。",
+    "src": "80dabdc4",
+    "status": "draft"
+  },
+  "adaptive.dynamics.label": {
+    "en": "Dynamics",
+    "text": "运作方式",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "adaptive.dynamics.text": {
+    "en": "Directing, doing and delivering merge into one [team-of-teams](term:team-of-teams) — people and AI agents — with a broad shared mandate. Work is synchronous and coordinated by those doing it; learning runs across skills and across the scope of work.",
+    "text": "Directing、Doing 和 Delivering 合并为一个[团队的团队](term:team-of-teams)，由人和 AI 智能体组成，拥有宽泛的共同授权。工作是同步进行的，由执行者自己协调；学习贯穿各项技能和整个工作范围。",
+    "src": "beb4d40e",
+    "status": "draft"
+  },
+  "adaptive.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "稳定环境",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "adaptive.environments.0.text": {
+    "en": "Continuous learning and reconfiguration cost efficiency and add variability.",
+    "text": "持续学习和重新配置会牺牲效率，并增加变数。",
+    "src": "662bcd36",
+    "status": "draft"
+  },
+  "adaptive.environments.0.verdict": {
+    "en": "− Overhead",
+    "text": "− 额外开销",
+    "src": "cc174b93",
+    "status": "draft"
+  },
+  "adaptive.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "变化环境",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "adaptive.environments.1.text": {
+    "en": "Resilience, sustained relevance, cheap and fast pivots toward customer outcomes.",
+    "text": "韧性、持续的相关性，以及朝客户成果廉价而快速地转向。",
+    "src": "92d503ad",
+    "status": "draft"
+  },
+  "adaptive.environments.1.verdict": {
+    "en": "+ Fits well",
+    "text": "+ 很适合",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "adaptive.frameworks": {
+    "en": "**Frameworks that build it:** [LeSS](/less), Nexus, [FAST](/fast) and Creating Agile Organizations (CAO). See all [framework mappings](/framework-mapping).",
+    "text": "**构建它的框架：**[LeSS](/less)、Nexus、[FAST](/fast) 和 Creating Agile Organizations (CAO)。查看全部[框架映射](/framework-mapping)。",
+    "src": "ce30dcfb",
+    "status": "draft"
+  },
+  "adaptive.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "隐藏详情 −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "adaptive.glance.label": {
+    "en": "At a glance",
+    "text": "概览",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.detail": {
+    "en": "Fast delivery of uncertain results, to seek, change, discover and adapt",
+    "text": "快速交付不确定的结果，用于寻找、改变、发现和适应",
+    "src": "6d99ca01",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "常见用例",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.detail": {
+    "en": "Flexible, holistic and novel",
+    "text": "灵活、整体、新颖",
+    "src": "6e445867",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "价值创造",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.detail": {
+    "en": "Low; units work autonomously with minimal dependency on external groups",
+    "text": "低；各单元自主工作，对外部团体依赖极少",
+    "src": "fd14d78b",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "依赖",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.detail": {
+    "en": "Multi-skilled and organized for exploratory outcomes and flexibility",
+    "text": "多技能，围绕探索性成果和灵活性组织",
+    "src": "ce452a44",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "团队结构",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.detail": {
+    "en": "High; owns entire processes including inter-unit coordination",
+    "text": "高；拥有整个流程，包括单元间的协调",
+    "src": "723b1137",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "赋能程度",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.detail": {
+    "en": "Collaborate across boundaries to deliver complete customer solutions, with end-to-end ownership",
+    "text": "跨边界协作，交付完整的客户解决方案，端到端负责",
+    "src": "ab86dd7d",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "个人贡献者",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.detail": {
+    "en": "Drives innovation, predicts customer needs, supports strategic decision-making",
+    "text": "驱动创新，预测客户需求，支持战略决策",
+    "src": "b61d38f1",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "战略性 AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.detail": {
+    "en": "Units working across the entire solution space (“Uber”) or a partial domain (“Uber Eats”)",
+    "text": "跨整个解决方案空间工作的单元（“Uber”）或负责部分领域的单元（“Uber Eats”）",
+    "src": "571aede2",
+    "status": "draft"
+  },
+  "adaptive.glance.rows.7.term": {
+    "en": "Example",
+    "text": "示例",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "adaptive.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "显示详情 +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "adaptive.goal": {
+    "en": "**Org goal:** minimize the cost of learning and reconfiguration in volatile environments.",
+    "text": "**组织目标：**在多变环境中，把学习和重新配置的成本降到最低。",
+    "src": "ef3c20f0",
+    "status": "draft"
+  },
+  "adaptive.heading": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "adaptive.kicker": {
+    "en": "03 · DRIVING",
+    "text": "03 · DRIVING",
+    "src": "fe223656",
+    "status": "draft"
+  },
+  "adaptive.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "示例映射",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "adaptive.quote": {
+    "en": "“THE LIVING ECOSYSTEM” — co-evolving with its environment",
+    "text": "“THE LIVING ECOSYSTEM”：与环境共同演化",
+    "src": "5a53b3fa",
+    "status": "draft"
+  },
+  "adaptive.withAi": {
+    "en": "**With AI:** AI as teacher and sparring partner lowers the cost of switching domains — and makes this design easier to reach.",
+    "text": "**有了 AI：**AI 作为老师和陪练，降低了切换领域的成本，也让这种设计更容易达成。",
+    "src": "0317cd61",
+    "status": "draft"
+  },
+  "delivery._nav": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.contexts": {
+    "en": "**Typical contexts:** established products with known demand, SaaS in growth or maturity, managed services, customer support.",
+    "text": "**典型场景：**需求已知的成熟产品、处于增长或成熟期的 SaaS、托管服务、客户支持。",
+    "src": "a55ffc56",
+    "status": "draft"
+  },
+  "delivery.dynamics.label": {
+    "en": "Dynamics",
+    "text": "运作方式",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "delivery.dynamics.text": {
+    "en": "Complete [cross-functional](term:cross-functional) teams deliver within fixed, narrow value boundaries. Discovery stays separate, with directing units deciding what to build. Fast and efficient at outputs — sometimes called a “feature factory”.",
+    "text": "完整的[跨职能](term:cross-functional)团队在固定、狭窄的价值边界内交付。探索仍然独立，由 Directing 单元决定做什么。产出又快又高效，有时被称为“特性工厂”。",
+    "src": "98a4cedb",
+    "status": "draft"
+  },
+  "delivery.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "稳定环境",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "delivery.environments.0.text": {
+    "en": "Reliable, predictable delivery with short lead times and operational excellence.",
+    "text": "交付可靠、可预测，周期短，运营卓越。",
+    "src": "181821ef",
+    "status": "draft"
+  },
+  "delivery.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ 很适合",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "delivery.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "变化环境",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "delivery.environments.1.text": {
+    "en": "Learning gets expensive; strategic response lags; the design filters out weak market signals. More output, not necessarily more outcome.",
+    "text": "学习成本变高；战略响应滞后；设计会过滤掉微弱的市场信号。产出更多，但成果不一定更多。",
+    "src": "06e5336e",
+    "status": "draft"
+  },
+  "delivery.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− 吃力",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "delivery.frameworks": {
+    "en": "**Frameworks that build it:** [Team Topologies](/team-topologies), Marty Cagan’s Product Operating Model ([Empowered Product Teams](/empowered)), the [Spotify Model](/spotify) when real teams form, and team-level Scrum.",
+    "text": "**构建它的框架：**[Team Topologies](/team-topologies)、Marty Cagan 的 Product Operating Model（[Empowered Product Teams](/empowered)）、真正组成团队时的 [Spotify Model](/spotify)，以及团队层面的 Scrum。",
+    "src": "3d14595c",
+    "status": "draft"
+  },
+  "delivery.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "隐藏详情 −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "delivery.glance.label": {
+    "en": "At a glance",
+    "text": "概览",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.detail": {
+    "en": "Fast delivery of proven worth with minimal change or learning",
+    "text": "快速交付已证实有价值的东西，几乎无需变化或学习",
+    "src": "b72a75fe",
+    "status": "draft"
+  },
+  "delivery.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "常见用例",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.detail": {
+    "en": "Narrowly focused on specific capabilities",
+    "text": "狭窄聚焦于特定能力",
+    "src": "babba5e3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "价值创造",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.detail": {
+    "en": "Moderate; units coordinate across boundaries but less frequently",
+    "text": "中等；各单元跨边界协调，但频率较低",
+    "src": "36e0bd22",
+    "status": "draft"
+  },
+  "delivery.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "依赖",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.detail": {
+    "en": "Cross-functional and aligned with narrow product or service features",
+    "text": "跨职能，与狭窄的产品或服务特性对齐",
+    "src": "6a88c041",
+    "status": "draft"
+  },
+  "delivery.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "团队结构",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.detail": {
+    "en": "Moderate; empowered within a small home unit but dependent on alignment between units, managed by Directing units",
+    "text": "中等；在自己的小范围内被赋能，但依赖由 Directing 单元管理的单元间对齐",
+    "src": "206fd9b9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "赋能程度",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.detail": {
+    "en": "Coordinate to deliver features and components within the team’s scope",
+    "text": "协作交付团队范围内的特性和组件",
+    "src": "fb4f2c30",
+    "status": "draft"
+  },
+  "delivery.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "个人贡献者",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.detail": {
+    "en": "Integrates data, improves collaboration, aligns team outputs through real-time insights and feedback loops",
+    "text": "整合数据，改善协作，通过实时洞察和反馈回路使团队产出保持一致",
+    "src": "b2ce0ea9",
+    "status": "draft"
+  },
+  "delivery.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "战略性 AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.detail": {
+    "en": "A diner with short-order cooks: the owner decides the menu, the cooks deliver complete plates",
+    "text": "有快餐厨师的餐馆：老板决定菜单，厨师交付完整的菜品",
+    "src": "63bbca2d",
+    "status": "draft"
+  },
+  "delivery.glance.rows.7.term": {
+    "en": "Example",
+    "text": "示例",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "delivery.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "显示详情 +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "delivery.goal": {
+    "en": "**Org goal:** maximize end-to-end flow of predictable work from demand to delivery.",
+    "text": "**组织目标：**最大化可预测工作从需求到交付的端到端流动。",
+    "src": "2ff5c086",
+    "status": "draft"
+  },
+  "delivery.heading": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "delivery.kicker": {
+    "en": "02 · DIRECTING + DELIVERING",
+    "text": "02 · DIRECTING + DELIVERING",
+    "src": "914897aa",
+    "status": "draft"
+  },
+  "delivery.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "示例映射",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "delivery.quote": {
+    "en": "“THE STRUCTURED NETWORK” — optimized for flow",
+    "text": "“THE STRUCTURED NETWORK”：为流动而优化",
+    "src": "cbb49173",
+    "status": "draft"
+  },
+  "delivery.withAi": {
+    "en": "**With AI:** AI absorbs execution work faster than teams can adapt their skills and mandates.",
+    "text": "**有了 AI：**AI 吸收执行工作的速度，快于团队调整技能和授权的速度。",
+    "src": "902b6443",
+    "status": "draft"
+  },
+  "fit._nav": {
+    "en": "Fit for Purpose",
+    "text": "适配目的",
+    "src": "3f7c997b",
+    "status": "draft"
+  },
+  "fit.closing": {
+    "en": "Different parts of one company can run different topologies — a legacy service in Delivery, a new venture in Adaptive. What matters is that each part's design serves its goal.",
+    "text": "同一家公司的不同部分可以运行不同的拓扑：传统服务用 Delivery，新业务用 Adaptive。重要的是每个部分的设计都服务于它的目标。",
+    "src": "ec6d6319",
+    "status": "draft"
+  },
+  "fit.heading": {
+    "en": "Fit for purpose",
+    "text": "适配目的",
+    "src": "ff32bf56",
+    "status": "draft"
+  },
+  "fit.kicker": {
+    "en": "TOPOLOGIES AT A GLANCE",
+    "text": "拓扑一览",
+    "src": "045c9a7b",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.0": {
+    "en": "Leaders must decide what they are optimizing for. That decision requires accountability, not consensus. It implies consciously accepting what they are *not* optimizing for. Trade-offs are unavoidable: no organization can optimize for everything at once.",
+    "text": "领导者必须决定自己要优化什么。这个决定需要有人负责，而不是求得共识。它意味着有意识地接受自己*不*优化什么。取舍不可避免：没有哪个组织能同时为所有目标优化。",
+    "src": "6fa3806d",
+    "status": "draft"
+  },
+  "fit.principle.paragraphs.1": {
+    "en": "Choosing among the [topologies](term:org-topology), or deliberately combining them for different goals, is the core practice of organizational design. It determines what kind of performance the organization can reliably produce.",
+    "text": "在这些[拓扑](term:org-topology)之间做选择，或为不同目标有意识地组合它们，是组织设计的核心实践。它决定了组织能够稳定产出何种绩效。",
+    "src": "d2d2c05c",
+    "status": "draft"
+  },
+  "fit.principle.source": {
+    "en": "FROM 10X ORG · PRINCIPLE 4",
+    "text": "摘自 10X ORG · 原则 4",
+    "src": "ac29e0c3",
+    "status": "draft"
+  },
+  "fit.principle.statement": {
+    "en": "No organizational topology is “better” in and of itself. There is “no one best way” to organize; there is only the way that fits your purpose.",
+    "text": "没有哪种组织拓扑本身就“更好”。组织方式没有“唯一最佳”，只有适合您目的的那一种。",
+    "src": "4a3b604a",
+    "status": "draft"
+  },
+  "fit.question.heading": {
+    "en": "Which organizational capabilities will effectively support our strategy?",
+    "text": "哪些组织能力能有效支撑我们的战略？",
+    "src": "cf620706",
+    "status": "draft"
+  },
+  "fit.question.kicker": {
+    "en": "THE KEY QUESTION",
+    "text": "关键问题",
+    "src": "09487e53",
+    "status": "draft"
+  },
+  "fit.question.lead": {
+    "en": "Are you trying to get better at:",
+    "text": "您想在哪方面做得更好：",
+    "src": "e66c3967",
+    "status": "draft"
+  },
+  "fit.question.options.0.answer": {
+    "en": "→ RESOURCE · “THE MECHANISTIC SYSTEM”",
+    "text": "→ RESOURCE · “THE MECHANISTIC SYSTEM”",
+    "src": "dc0318e1",
+    "status": "draft"
+  },
+  "fit.question.options.0.question": {
+    "en": "Reducing the cost per task?",
+    "text": "降低每项任务的成本？",
+    "src": "06ccacc1",
+    "status": "draft"
+  },
+  "fit.question.options.1.answer": {
+    "en": "→ DELIVERY · “THE STRUCTURED NETWORK”",
+    "text": "→ DELIVERY · “THE STRUCTURED NETWORK”",
+    "src": "cb3d32ce",
+    "status": "draft"
+  },
+  "fit.question.options.1.question": {
+    "en": "Speeding up known and repeatable workflows?",
+    "text": "加快已知、可重复的工作流？",
+    "src": "05b87f5e",
+    "status": "draft"
+  },
+  "fit.question.options.2.answer": {
+    "en": "→ ADAPTIVE · “THE LIVING ECOSYSTEM”",
+    "text": "→ ADAPTIVE · “THE LIVING ECOSYSTEM”",
+    "src": "e3365d22",
+    "status": "draft"
+  },
+  "fit.question.options.2.question": {
+    "en": "Or continuously reshaping yourself to meet evolving needs?",
+    "text": "还是不断重塑自己，以满足不断变化的需求？",
+    "src": "fe4ba1b8",
+    "status": "draft"
+  },
+  "fit.rows.0.label": {
+    "en": "Maximizes",
+    "text": "最大化",
+    "src": "7362cd33",
+    "status": "draft"
+  },
+  "fit.rows.0.values.0": {
+    "en": "Resource use, specialization",
+    "text": "资源利用率、专业化",
+    "src": "d0f84f2a",
+    "status": "draft"
+  },
+  "fit.rows.0.values.1": {
+    "en": "Output, predictability",
+    "text": "产出、可预测性",
+    "src": "c1ab064b",
+    "status": "draft"
+  },
+  "fit.rows.0.values.2": {
+    "en": "Outcome, innovation",
+    "text": "成果、创新",
+    "src": "329cd125",
+    "status": "draft"
+  },
+  "fit.rows.1.label": {
+    "en": "Dependencies",
+    "text": "依赖",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "fit.rows.1.values.0": {
+    "en": "High",
+    "text": "高",
+    "src": "c4ebc6d4",
+    "status": "draft"
+  },
+  "fit.rows.1.values.1": {
+    "en": "Moderate",
+    "text": "中等",
+    "src": "5c42afc7",
+    "status": "draft"
+  },
+  "fit.rows.1.values.2": {
+    "en": "Low",
+    "text": "低",
+    "src": "f793de20",
+    "status": "draft"
+  },
+  "fit.rows.2.label": {
+    "en": "Best environment",
+    "text": "最佳环境",
+    "src": "fd5b1f81",
+    "status": "draft"
+  },
+  "fit.rows.2.values.0": {
+    "en": "Stable, repeatable demand",
+    "text": "稳定、可重复的需求",
+    "src": "e4ed730b",
+    "status": "draft"
+  },
+  "fit.rows.2.values.1": {
+    "en": "Known demand, stable roadmap",
+    "text": "需求已知、路线图稳定",
+    "src": "3cf5b2f9",
+    "status": "draft"
+  },
+  "fit.rows.2.values.2": {
+    "en": "Uncertain, fast-changing markets",
+    "text": "不确定、快速变化的市场",
+    "src": "a9c51da0",
+    "status": "draft"
+  },
+  "fit.topologies.0.name": {
+    "en": "RESOURCE",
+    "text": "RESOURCE",
+    "src": "1e88bb01",
+    "status": "draft"
+  },
+  "fit.topologies.1.name": {
+    "en": "DELIVERY",
+    "text": "DELIVERY",
+    "src": "9f4029f1",
+    "status": "draft"
+  },
+  "fit.topologies.2.name": {
+    "en": "ADAPTIVE",
+    "text": "ADAPTIVE",
+    "src": "b67399bd",
+    "status": "draft"
+  },
+  "made.goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "无需大张旗鼓的重组就能改变组织设计：先映射现状，选择要优化的目标，设计目标状态，再逐步提升。在同一个示例组织上查看全部四个动作。",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "made.goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "了解这一方法 →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "made.goDeeper.title": {
+    "en": "The MADE method",
+    "text": "MADE 方法",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "made.heading": {
+    "en": "Change, MADE systemic",
+    "text": "Change, MADE systemic",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "made.image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Change MADE systemic：围绕组织设计的 Study (Map, Assess) 与 Improve (Design, Elevate)，位于战略与绩效之间",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "made.intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": "。先**研究**现有的设计，再朝所需的设计**改进**。",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "made.intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "组织设计位于战略与绩效之间。**MADE** 是让它保持适配的循环，以四个动作命名：",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "made.intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "made.kicker": {
+    "en": "THE APPROACH",
+    "text": "方法",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "made.phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "made.phases.0.note": {
+    "en": "the design you have",
+    "text": "现有的设计",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "按技能授权和工作授权安置每个单元",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "made.phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "说出您现有的拓扑，以及它是否适配",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "made.phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "made.phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "made.phases.1.note": {
+    "en": "the design you need",
+    "text": "所需的设计",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "想象您所需的组织，不受当下限制",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "made.phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.text": {
+    "en": "Get the change going with [Elevating Katas](term:elevating-kata)",
+    "text": "用 [Elevating Katas](term:elevating-kata) 让变革动起来",
+    "src": "53b914da",
+    "status": "draft"
+  },
+  "made.phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Resource, Delivery and Adaptive: three recurring org designs, each optimized for a different goal. Compare them and choose the one that fits your purpose.",
+    "text": "Resource、Delivery 和 Adaptive：三种反复出现的组织设计，各自针对不同目标优化。比较它们，选出适合您目的的那一种。",
+    "src": "c9b56bb3",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Three topologies: choose your org goal",
+    "text": "三种拓扑：选择您的组织目标",
+    "src": "2d5e0680",
+    "status": "draft"
+  },
+  "resource._nav": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.contexts": {
+    "en": "**Typical contexts:** shared services, payroll, compliance, commodity manufacturing, long-lived platforms.",
+    "text": "**典型场景：**共享服务、薪酬、合规、大宗商品制造、长寿命平台。",
+    "src": "0008e8ac",
+    "status": "draft"
+  },
+  "resource.dynamics.label": {
+    "en": "Dynamics",
+    "text": "运作方式",
+    "src": "47937d13",
+    "status": "draft"
+  },
+  "resource.dynamics.text": {
+    "en": "[Directing](term:directing-intelligence) units plan, split and dispatch work. Specialists in functional groups each do one part. Specs, hand-offs and coordination connect the pieces; upfront planning and re-planning keep it moving.",
+    "text": "[Directing](term:directing-intelligence) 单元负责规划、拆分和分派工作。职能小组中的专家各自完成一部分。规格说明、交接和协调把各部分连起来；前期规划和重新规划推动工作前进。",
+    "src": "059d4b03",
+    "status": "draft"
+  },
+  "resource.environments.0.label": {
+    "en": "STABLE ENVIRONMENT",
+    "text": "稳定环境",
+    "src": "a96d83d5",
+    "status": "draft"
+  },
+  "resource.environments.0.text": {
+    "en": "Deep expertise, high utilization, consistent standard work.",
+    "text": "专业深厚、利用率高、标准工作一致。",
+    "src": "2f23dec9",
+    "status": "draft"
+  },
+  "resource.environments.0.verdict": {
+    "en": "+ Fits well",
+    "text": "+ 很适合",
+    "src": "d73e3635",
+    "status": "draft"
+  },
+  "resource.environments.1.label": {
+    "en": "CHANGING ENVIRONMENT",
+    "text": "变化环境",
+    "src": "95b9caac",
+    "status": "draft"
+  },
+  "resource.environments.1.text": {
+    "en": "Coordination overhead grows; end-to-end response slows; learning stays inside existing skills.",
+    "text": "协调开销增加；端到端响应变慢；学习局限在现有技能之内。",
+    "src": "1871d6a5",
+    "status": "draft"
+  },
+  "resource.environments.1.verdict": {
+    "en": "− Strains",
+    "text": "− 吃力",
+    "src": "357b338b",
+    "status": "draft"
+  },
+  "resource.frameworks": {
+    "en": "**Frameworks that build it:** PRINCE2, ITIL and others. Also [SAFe](/safe): ideally it can build a Delivery Topology, but the implementations we studied lean heavily toward Resource, because cross-team interdependencies are not eliminated, only managed as they are.",
+    "text": "**构建它的框架：**PRINCE2、ITIL 等。还有 [SAFe](/safe)：理想情况下它可以构建 Delivery Topology，但我们研究的实施案例严重偏向 Resource，因为跨团队的相互依赖并没有被消除，只是照原样被管理。",
+    "src": "8e0dff0f",
+    "status": "draft"
+  },
+  "resource.glance.hideLabel": {
+    "en": "HIDE DETAILS −",
+    "text": "隐藏详情 −",
+    "src": "353843ba",
+    "status": "draft"
+  },
+  "resource.glance.label": {
+    "en": "At a glance",
+    "text": "概览",
+    "src": "46b396c8",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.detail": {
+    "en": "PMO resource management of specialists",
+    "text": "PMO 对专家的资源管理",
+    "src": "6e8904fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.0.term": {
+    "en": "Common use case",
+    "text": "常见用例",
+    "src": "32b1dbd5",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.detail": {
+    "en": "Fragmented and reliant on multiple handoffs and coordination",
+    "text": "碎片化，依赖多次交接和协调",
+    "src": "afb364ee",
+    "status": "draft"
+  },
+  "resource.glance.rows.1.term": {
+    "en": "Value creation",
+    "text": "价值创造",
+    "src": "016d325e",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.detail": {
+    "en": "High; units depend on coordination across functional silos",
+    "text": "高；各单元依赖跨职能孤岛的协调",
+    "src": "fc984280",
+    "status": "draft"
+  },
+  "resource.glance.rows.2.term": {
+    "en": "Dependencies",
+    "text": "依赖",
+    "src": "2e41b118",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.detail": {
+    "en": "Siloed functional groups with specialized roles",
+    "text": "角色专业化的孤岛式职能小组",
+    "src": "92aa9db6",
+    "status": "draft"
+  },
+  "resource.glance.rows.3.term": {
+    "en": "Group structure",
+    "text": "团队结构",
+    "src": "639629b3",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.detail": {
+    "en": "Low; constrained to predefined tasks with little autonomy",
+    "text": "低；限于预先定义的任务，几乎没有自主权",
+    "src": "b93376de",
+    "status": "draft"
+  },
+  "resource.glance.rows.4.term": {
+    "en": "Empowerment",
+    "text": "赋能程度",
+    "src": "0d8615fb",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.detail": {
+    "en": "Complete isolated tasks (defined by coordinators) using specific skills, with minimal ownership",
+    "text": "用特定技能完成孤立的任务（由协调者定义），几乎没有主人翁意识",
+    "src": "f81e852b",
+    "status": "draft"
+  },
+  "resource.glance.rows.5.term": {
+    "en": "Individual contributors",
+    "text": "个人贡献者",
+    "src": "5eda0193",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.detail": {
+    "en": "Automates repetitive tasks, optimizes workflows, enhances resource efficiency",
+    "text": "自动化重复性任务，优化工作流，提升资源效率",
+    "src": "e27812e1",
+    "status": "draft"
+  },
+  "resource.glance.rows.6.term": {
+    "en": "Strategic AI",
+    "text": "战略性 AI",
+    "src": "c359d30a",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.detail": {
+    "en": "A movie producer hiring dancers for a scene",
+    "text": "电影制片人为一场戏雇用舞者",
+    "src": "e6ea66eb",
+    "status": "draft"
+  },
+  "resource.glance.rows.7.term": {
+    "en": "Example",
+    "text": "示例",
+    "src": "d029f87e",
+    "status": "draft"
+  },
+  "resource.glance.showLabel": {
+    "en": "SHOW DETAILS +",
+    "text": "显示详情 +",
+    "src": "7eece7a9",
+    "status": "draft"
+  },
+  "resource.goal": {
+    "en": "**Org goal:** maximize efficiency of specialized skills under stable demand.",
+    "text": "**组织目标：**在稳定需求下，最大化专业技能的效率。",
+    "src": "091004b4",
+    "status": "draft"
+  },
+  "resource.heading": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "resource.kicker": {
+    "en": "01 · DIRECTING + DOING",
+    "text": "01 · DIRECTING + DOING",
+    "src": "64b08171",
+    "status": "draft"
+  },
+  "resource.mapCaption": {
+    "en": "SAMPLE MAPPING",
+    "text": "示例映射",
+    "src": "c4a0f532",
+    "status": "draft"
+  },
+  "resource.quote": {
+    "en": "“THE MECHANISTIC SYSTEM” — precision through specialization",
+    "text": "“THE MECHANISTIC SYSTEM”：以专业化换取精确",
+    "src": "db890cd5",
+    "status": "draft"
+  },
+  "resource.withAi": {
+    "en": "**With AI:** AI automates specialized tasks fast — narrow specialist roles face displacement unless [mandates](term:mandate) widen.",
+    "text": "**有了 AI：**AI 能快速自动化专业化任务，除非[授权](term:mandate)变宽，否则狭窄的专家角色将面临被取代的风险。",
+    "src": "4b1adfe5",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 2 · ASSESS",
+    "text": "MADE · 第 2 步 · ASSESS",
+    "src": "a9fecccc",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A topology is a recognizable pattern of where an organization's units sit on the map. Each one is optimized for something — and pays for it somewhere else. None is “best”. The question is whether it fits your purpose and your environment.",
+    "text": "拓扑是组织各单元在地图上所处位置的一种可识别模式。每一种都为某件事做了优化，同时在别处付出代价。没有哪一种是“最好”的。关键在于它是否适合您的目的和所处环境。",
+    "src": "0efd9661",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Three topologies.\nChoose your org goal.",
+    "text": "三种拓扑。\n选择您的组织目标。",
+    "src": "39eedbd4",
+    "status": "draft"
+  }
+}

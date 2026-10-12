@@ -1,0 +1,212 @@
+{
+  "compare.note": {
+    "en": "Lead with the 2×2. Reach for a specific [archetype](term:archetype) name when it genuinely sharpens the point — or when someone asks.",
+    "text": "Починайте з 2×2. Беріть назву конкретного [архетипу](term:archetype), коли вона справді загострює думку — або коли хтось питає.",
+    "src": "d7b5ed2c",
+    "status": "draft"
+  },
+  "compare.options.0.label": {
+    "en": "THE 2×2 · THE BOOK'S MAP",
+    "text": "2×2 · МАПА З КНИГИ",
+    "src": "9b5b66e1",
+    "status": "draft"
+  },
+  "compare.options.0.points.0": {
+    "en": "Explaining Org Topologies: the two mandates, the four intelligences and the three topologies.",
+    "text": "Пояснення Org Topologies: два мандати, чотири інтелекти й три топології.",
+    "src": "6983d290",
+    "status": "draft"
+  },
+  "compare.options.0.points.1": {
+    "en": "Conversations with leaders about what the organization is designed for — and whether that fits the strategy.",
+    "text": "Розмови з керівниками про те, для чого спроєктована організація — і чи це відповідає стратегії.",
+    "src": "a2f13e07",
+    "status": "draft"
+  },
+  "compare.options.0.points.2": {
+    "en": "Comparing topologies and choosing an org goal.",
+    "text": "Порівняння топологій і вибір цілі організації.",
+    "src": "b7e70f5d",
+    "status": "draft"
+  },
+  "compare.options.0.title": {
+    "en": "To explain and decide",
+    "text": "Щоб пояснювати й вирішувати",
+    "src": "ce0d3415",
+    "status": "draft"
+  },
+  "compare.options.1.label": {
+    "en": "THE 4×4 · DETAILED MAPPING",
+    "text": "4×4 · ДЕТАЛЬНЕ МАПУВАННЯ",
+    "src": "3efa166b",
+    "status": "draft"
+  },
+  "compare.options.1.points.0": {
+    "en": "Placing every unit precisely — functional, multi-skill, end-to-end or expanding; tasks up to whole solution.",
+    "text": "Точне розміщення кожного підрозділу — функціональний, багатонавичковий, наскрізний чи розширюваний; від завдань до цілого рішення.",
+    "src": "a596a6fe",
+    "status": "draft"
+  },
+  "compare.options.1.points.1": {
+    "en": "Seeing small differences that matter, such as a multi-skill team that is still incomplete (CAPS-2) versus an end-to-end one (CAPS-3).",
+    "text": "Помічати малі відмінності, що мають значення, як-от багатонавичкова команда, яка ще неповна (CAPS-2), проти наскрізної (CAPS-3).",
+    "src": "e388b392",
+    "status": "draft"
+  },
+  "compare.options.1.points.2": {
+    "en": "Naming the current and target ecosystem in a shared, framework-free language.",
+    "text": "Називати поточну й цільову екосистему спільною мовою, вільною від фреймворків.",
+    "src": "4a45321a",
+    "status": "draft"
+  },
+  "compare.options.1.title": {
+    "en": "To map units in detail",
+    "text": "Щоб детально мапувати підрозділи",
+    "src": "357a9cba",
+    "status": "draft"
+  },
+  "compare.title": {
+    "en": "2×2 or 4×4?",
+    "text": "2×2 чи 4×4?",
+    "src": "a7d048f1",
+    "status": "draft"
+  },
+  "example.ecosystems.0.label": {
+    "en": "ECOSYSTEM 1 · TODAY",
+    "text": "ЕКОСИСТЕМА 1 · СЬОГОДНІ",
+    "src": "95d48acd",
+    "status": "draft"
+  },
+  "example.ecosystems.0.text": {
+    "en": "Most of the teams are CAPS-2: multi-skilled, yet incomplete, lacking certain capabilities. Functional TASKS-1 specialists support them. That creates dependencies, which CAPS-1 and PART-1 groups manage.",
+    "text": "Більшість команд — CAPS-2: багатонавичкові, але неповні, їм бракує певних спроможностей. Їх підтримують функціональні фахівці TASKS-1. Це створює залежності, якими керують групи CAPS-1 і PART-1.",
+    "src": "a312c977",
+    "status": "draft"
+  },
+  "example.ecosystems.1.label": {
+    "en": "ECOSYSTEM 2 · IMPROVED",
+    "text": "ЕКОСИСТЕМА 2 · ПОКРАЩЕНА",
+    "src": "c70f636a",
+    "status": "draft"
+  },
+  "example.ecosystems.1.text": {
+    "en": "The specialists join the teams, so most teams become CAPS-3: end-to-end, with every skill needed to deliver a whole capability. One team grows into CAPS-4 and learns new skills when the work asks for them. With far fewer dependencies, the CAPS-1 coordination group is no longer needed; a PART-1 group still sets the direction. Together that is a Delivery Topology.",
+    "text": "Фахівці приєднуються до команд, тож більшість команд стають CAPS-3: наскрізними, з усіма навичками для доставки цілої спроможності. Одна команда виростає в CAPS-4 і вчиться новим навичкам, коли цього вимагає робота. Із набагато меншою кількістю залежностей координаційна група CAPS-1 уже не потрібна; група PART-1 і далі задає напрям. Разом це Delivery Topology.",
+    "src": "0ea2d37d",
+    "status": "draft"
+  },
+  "example.source": {
+    "en": "Mapping Language",
+    "text": "Мова мапування",
+    "src": "27dd0b55",
+    "status": "draft"
+  },
+  "example.title": {
+    "en": "Ecosystem Mapping",
+    "text": "Мапування екосистеми",
+    "src": "65762817",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Sixteen archetypes, one language",
+    "text": "Шістнадцять архетипів, одна мова",
+    "src": "0dd39dbc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "DETAILED MAPPING · THE 4×4",
+    "text": "ДЕТАЛЬНЕ МАПУВАННЯ · 4×4",
+    "src": "caf62f8f",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "The 2×2 shows the four intelligences. For detailed mapping of org units there is a [4×4](term:4x4-map) version: four levels on each axis and **16 archetypes** — common patterns of how a unit is structured and operates, each with a short name.",
+    "text": "Мапа 2×2 показує чотири інтелекти. Для детального мапування організаційних підрозділів є версія [4×4](term:4x4-map): чотири рівні на кожній осі та **16 архетипів** — типових патернів того, як підрозділ влаштований і працює, кожен зі своєю короткою назвою.",
+    "src": "efd78a26",
+    "status": "draft"
+  },
+  "levels.0.items.0": {
+    "en": "**Functional** — specialists in one functional area, e.g. a movie costume department.",
+    "text": "**Функціональний** — фахівці однієї функціональної галузі, наприклад костюмерний цех кіностудії.",
+    "src": "cb89ab6e",
+    "status": "draft"
+  },
+  "levels.0.items.1": {
+    "en": "**Multi-skill** — cross-functional but still incomplete, e.g. a surgical team relying on post-op care.",
+    "text": "**Багатонавичковий** — міжфункціональний, але ще неповний, наприклад хірургічна бригада, що залежить від післяопераційного догляду.",
+    "src": "fa538234",
+    "status": "draft"
+  },
+  "levels.0.items.2": {
+    "en": "**End-to-end** — everything needed to deliver complete value, e.g. a software feature team.",
+    "text": "**Наскрізний** — усе потрібне, щоб доставити повну цінність, наприклад продуктова команда розробки ПЗ.",
+    "src": "93d41d0f",
+    "status": "draft"
+  },
+  "levels.0.items.3": {
+    "en": "**Expanding** — end-to-end, with the mandate to acquire new skills when needed, e.g. a special-forces team.",
+    "text": "**Розширюваний** — наскрізний, з мандатом здобувати нові навички за потреби, наприклад підрозділ спецпризначенців.",
+    "src": "1780d39b",
+    "status": "draft"
+  },
+  "levels.0.title": {
+    "en": "Scope of skills mandate →",
+    "text": "Обсяг мандата на навички →",
+    "src": "a1251831",
+    "status": "draft"
+  },
+  "levels.1.items.0": {
+    "en": "**Tasks** — fine-grained tasks matching one expertise, e.g. a sous-chef preparing ingredients.",
+    "text": "**Завдання** — дрібні завдання під одну експертизу, наприклад су-шеф, що готує інгредієнти.",
+    "src": "3d0696c2",
+    "status": "draft"
+  },
+  "levels.1.items.1": {
+    "en": "**Capabilities** — a full capability (feature, function, service element), e.g. a claims-processing group.",
+    "text": "**Спроможності** — повна спроможність (функція, сервісний елемент), наприклад група обробки страхових випадків.",
+    "src": "c964f695",
+    "status": "draft"
+  },
+  "levels.1.items.2": {
+    "en": "**Partial solution** — one business vertical, e.g. Uber Ride versus Uber Eats.",
+    "text": "**Часткове рішення** — один бізнес-вертикаль, наприклад Uber Ride проти Uber Eats.",
+    "src": "88c7a40f",
+    "status": "draft"
+  },
+  "levels.1.items.3": {
+    "en": "**Whole solution** — holistic problems and customer value, with no permanent separation inside the unit, e.g. a two-person Instagram-like startup.",
+    "text": "**Ціле рішення** — цілісні проблеми й цінність для клієнта, без постійного поділу всередині підрозділу, наприклад стартап на двох людей, схожий на Instagram.",
+    "src": "6d9c4c38",
+    "status": "draft"
+  },
+  "levels.1.title": {
+    "en": "Scope of work mandate ↑",
+    "text": "Обсяг мандата на роботу ↑",
+    "src": "f968973e",
+    "status": "draft"
+  },
+  "naming.text": {
+    "en": "The **prefix** names the work-mandate row (TASKS, CAPS, PART, WHOLE); the **digit** names the skills-mandate column, counting from the left. So CAPS-3 reads “end-to-end @ capability” — a complete unit, output-oriented, in the Delivering group.",
+    "text": "**Префікс** називає рядок мандата на роботу (TASKS, CAPS, PART, WHOLE); **цифра** називає стовпець мандата на навички, рахуючи зліва. Тож CAPS-3 читається як «наскрізно @ спроможність» — повний підрозділ, орієнтований на випуск, у групі Delivering.",
+    "src": "45341f16",
+    "status": "draft"
+  },
+  "naming.title": {
+    "en": "How the names work",
+    "text": "Як працюють назви",
+    "src": "e66cf906",
+    "status": "draft"
+  },
+  "note.text": {
+    "en": "A simple notation and a few sentences describe a whole ecosystem, so it can be grasped as a whole, its challenges recognized, and a conversation about improving it can begin. Not team by team: improvements at the team level rarely stick. The units of an ecosystem depend on each other, so they have to be improved together, as one system.",
+    "text": "Проста нотація й кілька речень описують цілу екосистему, тож її можна осягнути як ціле, розпізнати її виклики й почати розмову про покращення. Не команда за командою: покращення на рівні команди рідко приживаються. Підрозділи екосистеми залежать один від одного, тому їх треба покращувати разом, як єдину систему.",
+    "src": "14b21968",
+    "status": "draft"
+  },
+  "note.title": {
+    "en": "Mapping Benefits",
+    "text": "Користь мапування",
+    "src": "45bc3e8e",
+    "status": "draft"
+  }
+}

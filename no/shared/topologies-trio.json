@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "Utforsk hvilken topologi som passer strategien din: et eksempelkart av hver, de fire intelligensene å klikke seg gjennom, og hvordan du går og ser på din egen organisasjon med et kart.",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Skill topologiene fra hverandre →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The three topologies",
+    "text": "De tre topologiene",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Three topologies, three goals",
+    "text": "Tre topologier, tre mål",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "STUDER VANLIGE TOPOLOGIER",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "Hver vanlige topologi kombinerer ulike intelligenser – spesialisering, flyt, koordinasjon, adaptiv – og «skinner» i ulike omgivelser.",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "Stabile, prosessdrevne omgivelser",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "(spesialiserings- + koordinasjonsintelligens)",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "Utnyttelse og forutsigbarhet",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "Stiv når strategien endres",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "Kjent arbeid som passer teamstrukturen",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "(flyt- + koordinasjonsintelligens)",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "Fart og flyt innenfor rammer",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "Arbeid på tvers krever koordinering",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "Omskiftelige, innovasjonsdrevne sammenhenger",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "(adaptiv intelligens)",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "Tilpasningsevne og læring",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "Utfordrer eksisterende kontrollstrukturer",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

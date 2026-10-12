@@ -1,0 +1,134 @@
+{
+  "heading": {
+    "en": "What practitioners say about Org Topologies",
+    "text": "Cosa dicono i professionisti di Org Topologies",
+    "src": "70e115e3",
+    "status": "draft"
+  },
+  "items.0.name": {
+    "en": "Lucy Karpova",
+    "text": "Lucy Karpova",
+    "src": "c0fa9625",
+    "status": "draft"
+  },
+  "items.0.quote": {
+    "en": "“It was so much easier to describe the FlixBus agile journey using Org Topologies™, which otherwise would need much more explanation and reasoning. Mapping product depth and team skills dimensions bridged the gap between applying frameworks and discovering ways to organize teams.”",
+    "text": "“È stato molto più facile descrivere il percorso agile di FlixBus con Org Topologies™, che altrimenti avrebbe richiesto molte più spiegazioni e ragionamenti. Mappare la profondità di prodotto e le competenze dei team ha colmato il divario tra applicare framework e scoprire modi di organizzare i team.”",
+    "src": "eb68a300",
+    "status": "draft"
+  },
+  "items.0.role": {
+    "en": "Agile and Product Coach at Flix and Sixt",
+    "text": "Agile and Product Coach at Flix and Sixt",
+    "src": "f46322b3",
+    "status": "draft"
+  },
+  "items.1.name": {
+    "en": "Frank Dohmen",
+    "text": "Frank Dohmen",
+    "src": "bd76951a",
+    "status": "draft"
+  },
+  "items.1.quote": {
+    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
+    "text": "“Uso Org Topologies da due anni, per rispondere a domande sull'agilità di un team e del progetto in corso, e per individuare i prossimi passi. Mi ha dato una base per allinearmi con i nostri clienti su dove ci troviamo ora e, se c'è il desiderio di evolvere, su quale sarebbe la direzione e quali le azioni giuste.”",
+    "src": "b23eb7cf",
+    "status": "draft"
+  },
+  "items.1.role": {
+    "en": "Lead Project Management at IBM iX",
+    "text": "Lead Project Management at IBM iX",
+    "src": "ef561465",
+    "status": "draft"
+  },
+  "items.2.link.label": {
+    "en": "Read the Strobbo case →",
+    "text": "Leggi il caso Strobbo →",
+    "src": "e6a27bb4",
+    "status": "draft"
+  },
+  "items.2.name": {
+    "en": "Michael Voorhaen",
+    "text": "Michael Voorhaen",
+    "src": "6f858cef",
+    "status": "draft"
+  },
+  "items.2.quote": {
+    "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
+    "text": "“La settimana scorsa l'abbiamo fatto come esercizio di team, valutando dove sulla mappa i team pensavano di trovarsi. Poi, con Org Topologies, siamo riusciti a condividere la nostra visione su dove vogliamo andare. La cosa bella è che ci ha aiutato a evitare discussioni su cosa sia giusto o sbagliato e a concentrarci su qualcosa di semplice come «siamo qui» e «è qui che vogliamo andare dopo».”",
+    "src": "380048ee",
+    "status": "draft"
+  },
+  "items.2.role": {
+    "en": "Product Manager at Strobbo, Protime",
+    "text": "Product Manager at Strobbo, Protime",
+    "src": "520d6df1",
+    "status": "draft"
+  },
+  "items.3.name": {
+    "en": "Anya Faingersh",
+    "text": "Anya Faingersh",
+    "src": "dfb4e718",
+    "status": "draft"
+  },
+  "items.3.quote": {
+    "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
+    "text": "“Ci sono molti strumenti che promettono la luna alle organizzazioni. Org Topologies™ È l'anello mancante che orchestra il collegamento tra il problema REALE e la soluzione GIUSTA.”",
+    "src": "33a24fe2",
+    "status": "draft"
+  },
+  "items.3.role": {
+    "en": "Scrum Master and Agile Coach",
+    "text": "Scrum Master and Agile Coach",
+    "src": "5afe7708",
+    "status": "draft"
+  },
+  "items.4.name": {
+    "en": "Felix Lagemann",
+    "text": "Felix Lagemann",
+    "src": "a2b6eadd",
+    "status": "draft"
+  },
+  "items.4.quote": {
+    "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
+    "text": "“Questo approccio visivo, indipendente dai framework, offre spunti di riflessione a chiunque voglia plasmare attivamente i prossimi passi del proprio percorso di trasformazione aziendale. Mappare i team con gli archetipi mostra allo stesso tempo dove sei e stimola la discussione su dove vuoi andare.”",
+    "src": "c24bca14",
+    "status": "draft"
+  },
+  "items.4.role": {
+    "en": "Senior Consultant",
+    "text": "Senior Consultant",
+    "src": "cfbb0a0b",
+    "status": "draft"
+  },
+  "items.5.link.label": {
+    "en": "Read his analysis →",
+    "text": "Leggi la sua analisi →",
+    "src": "5a63983c",
+    "status": "draft"
+  },
+  "items.5.name": {
+    "en": "Carlton Nettleton",
+    "text": "Carlton Nettleton",
+    "src": "f42c8ff8",
+    "status": "draft"
+  },
+  "items.5.quote": {
+    "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
+    "text": "“Una delle loro motivazioni principali era pubblicare un modello che desse ai professionisti un linguaggio chiaro e preciso per parlare di design organizzativo.”",
+    "src": "5c29cb27",
+    "status": "draft"
+  },
+  "items.5.role": {
+    "en": "The Scrum Academy",
+    "text": "The Scrum Academy",
+    "src": "4ed8f9f6",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "TESTIMONIALS",
+    "text": "TESTIMONIANZE",
+    "src": "afb2c9a9",
+    "status": "draft"
+  }
+}

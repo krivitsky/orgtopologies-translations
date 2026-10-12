@@ -1,0 +1,80 @@
+{
+  "aiden.cta.label": {
+    "en": "Learn with Aiden",
+    "text": "跟 Aiden 一起学",
+    "src": "8dab14c7",
+    "status": "draft"
+  },
+  "aiden.heading": {
+    "en": "“How do I map my org?”",
+    "text": "“如何绘制我的组织地图？”",
+    "src": "41262b42",
+    "status": "draft"
+  },
+  "aiden.kicker": {
+    "en": "ASK OUR AI",
+    "text": "问问我们的 AI",
+    "src": "b4d29b86",
+    "status": "draft"
+  },
+  "newsletter.follow": {
+    "en": "Or follow [Org Topologies on LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
+    "text": "或者在 LinkedIn 上关注 [Org Topologies](https://www.linkedin.com/company/orgtopologies/)。",
+    "src": "542aa9e1",
+    "status": "draft"
+  },
+  "newsletter.label": {
+    "en": "NEWSLETTER",
+    "text": "通讯",
+    "src": "67700c27",
+    "status": "draft"
+  },
+  "newsletter.note": {
+    "en": "Unsubscribe anytime. [Privacy →](/privacy)",
+    "text": "随时可以退订。[隐私 →](/privacy)",
+    "src": "5ba3f6df",
+    "status": "draft"
+  },
+  "newsletter.placeholder": {
+    "en": "you@company.com",
+    "text": "you@company.com",
+    "src": "652740e1",
+    "status": "draft"
+  },
+  "newsletter.submitLabel": {
+    "en": "Subscribe",
+    "text": "订阅",
+    "src": "cc0e38da",
+    "status": "draft"
+  },
+  "newsletter.text": {
+    "en": "Upcoming classes and events, announcements and new material for your org design practice. Now and then, never spam.",
+    "text": "即将开课和举办的活动、公告，以及助力您组织设计实践的新材料。不定期发送，绝无垃圾邮件。",
+    "src": "45be597b",
+    "status": "draft"
+  },
+  "slack.cta.label": {
+    "en": "Join Slack",
+    "text": "加入 Slack",
+    "src": "033266fb",
+    "status": "draft"
+  },
+  "slack.heading": {
+    "en": "Learn with community",
+    "text": "在社区中学习",
+    "src": "b76f8374",
+    "status": "draft"
+  },
+  "slack.kicker": {
+    "en": "TALK TO THE AUTHORS LIVE",
+    "text": "与作者实时交流",
+    "src": "5f5d49d6",
+    "status": "draft"
+  },
+  "slack.text": {
+    "en": "Practitioners share maps, and the authors join the conversation live in Slack.",
+    "text": "实践者在 Slack 上分享地图，作者也会实时加入讨论。",
+    "src": "ae812c6d",
+    "status": "draft"
+  }
+}

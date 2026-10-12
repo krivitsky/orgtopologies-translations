@@ -1,0 +1,104 @@
+{
+  "bar.body": {
+    "en": "Practitioner (C-OTP) and Consultant (C-OTC) classes, live online and in person.",
+    "text": "プラクティショナー(C-OTP)とコンサルタント(C-OTC)のクラスを、ライブオンラインと対面で開催します。",
+    "src": "7021ffd7",
+    "status": "draft"
+  },
+  "bar.cta.label": {
+    "en": "Visit the Academy →",
+    "text": "アカデミーへ →",
+    "src": "2e415b5d",
+    "status": "draft"
+  },
+  "courses.0.badge.alt": {
+    "en": "Certified Org Topologies Practitioner (C-OTP) badge",
+    "text": "Certified Org Topologies Practitioner (C-OTP) バッジ",
+    "src": "f53ce26c",
+    "status": "draft"
+  },
+  "courses.0.body": {
+    "en": "Live sessions for executives, managers, consultants and change agents who want to redesign their organization for performance — and then let AI accelerate it.",
+    "text": "成果を出せる組織へ設計し直し、そのうえでAIに加速させたい経営層、マネージャー、コンサルタント、チェンジエージェントのためのライブセッションです。",
+    "src": "c84a0f8c",
+    "status": "draft"
+  },
+  "courses.0.kicker": {
+    "en": "LIVE ONLINE · FOR LEADERS AND CHANGE AGENTS",
+    "text": "ライブオンライン · リーダーとチェンジエージェント向け",
+    "src": "774872f6",
+    "status": "draft"
+  },
+  "courses.0.link.label": {
+    "en": "C-OTP dates →",
+    "text": "C-OTPの日程 →",
+    "src": "692c95ca",
+    "status": "draft"
+  },
+  "courses.0.tagline": {
+    "en": "Designing Adaptive Organizations for the Agentic Age.",
+    "text": "エージェント時代に向けて、適応型の組織を設計する。",
+    "src": "dc85ef0b",
+    "status": "draft"
+  },
+  "courses.0.title": {
+    "en": "C-OTP · Practitioner",
+    "text": "C-OTP · プラクティショナー",
+    "src": "69c2f98b",
+    "status": "draft"
+  },
+  "courses.1.badge.alt": {
+    "en": "Certified Org Topologies Consultant (C-OTC) badge",
+    "text": "Certified Org Topologies Consultant (C-OTC) バッジ",
+    "src": "6675cca6",
+    "status": "draft"
+  },
+  "courses.1.body": {
+    "en": "Bring a real case, map it with Org Topologies, and leave with a practical redesign direction and first steps to test it. Includes the path to C-OTC accreditation.",
+    "text": "実際のケースを持ち込み、Org Topologies™ でマッピングして、実践的な再設計の方向性と、それを試す最初の一歩を持ち帰ります。C-OTC認定への道筋も含みます。",
+    "src": "b037f833",
+    "status": "draft"
+  },
+  "courses.1.kicker": {
+    "en": "2-DAY BOOTCAMP · IN PERSON",
+    "text": "2日間のブートキャンプ · 対面",
+    "src": "fab1041e",
+    "status": "draft"
+  },
+  "courses.1.link.label": {
+    "en": "Explore C-OTC →",
+    "text": "C-OTCを見る →",
+    "src": "e08f65f9",
+    "status": "draft"
+  },
+  "courses.1.tagline": {
+    "en": "Org Redesign for the Agentic Age.",
+    "text": "エージェント時代の組織再設計。",
+    "src": "51edd63e",
+    "status": "draft"
+  },
+  "courses.1.title": {
+    "en": "C-OTC · Consultant",
+    "text": "C-OTC · コンサルタント",
+    "src": "62f253ff",
+    "status": "draft"
+  },
+  "eventsCaption": {
+    "en": "All upcoming events",
+    "text": "今後のイベント一覧",
+    "src": "bfb65777",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Org Topologies™ のアプローチを学ぶ",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ACADEMY",
+    "text": "アカデミー",
+    "src": "d34cba0c",
+    "status": "draft"
+  }
+}

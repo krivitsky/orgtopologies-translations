@@ -1,0 +1,56 @@
+{
+  "allCases.label": {
+    "en": "All case studies with katas →",
+    "text": "Все кейсы с ката →",
+    "src": "4cc52884",
+    "status": "draft"
+  },
+  "casesKicker": {
+    "en": "Case studies rich in katas",
+    "text": "Кейсы, богатые ката",
+    "src": "3551d57f",
+    "status": "draft"
+  },
+  "elements": {
+    "en": "The katas are grouped by the five elements of Jay Galbraith’s Star Model™: change one element and the others must follow.",
+    "text": "Ката сгруппированы по пяти элементам Star Model™ Джея Гэлбрейта: меняете один элемент — остальные должны последовать за ним.",
+    "src": "804bf86d",
+    "status": "draft"
+  },
+  "explore.label": {
+    "en": "Explore the Katalog →",
+    "text": "Открыть Katalog →",
+    "src": "0a155c6c",
+    "status": "draft"
+  },
+  "figure.alt": {
+    "en": "Elevating Katas: a big arrow lifts a web of narrow, dependent units in the bottom left of the Org Topologies map toward a team of teams in the top right, labelled Elevate to Adaptive Topology",
+    "text": "Elevating Katas: большая стрелка поднимает сеть узких зависимых подразделений в левом нижнем углу карты Org Topologies к команде команд в правом верхнем углу, подпись: Elevate to Adaptive Topology",
+    "src": "25fe3861",
+    "status": "draft"
+  },
+  "figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ИЛЛЮСТРАЦИЯ · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ELEVATE · STEP 4 OF MADE",
+    "text": "ELEVATE · ШАГ 4 ИЗ MADE",
+    "src": "3bf90c77",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Elevating is a deliberate move right and up on the map. The katas are the moves: small, repeatable routines that change how the organization works. A menu, not a sequence: start with the few that match your most pressing constraint.",
+    "text": "Elevate — это осознанное движение вправо и вверх по карте. Ката — это сами шаги: небольшие повторяемые практики, которые меняют работу организации. Это меню, а не последовательность: начните с нескольких ката, которые отвечают вашему самому острому ограничению.",
+    "src": "cb295cbd",
+    "status": "draft"
+  }
+}

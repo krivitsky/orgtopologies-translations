@@ -1,0 +1,38 @@
+{
+  "badges.0.alt": {
+    "en": "Certified Org Topologies Practitioner (C-OTP) badge",
+    "text": "Badge Certified Org Topologies Practitioner (C-OTP)",
+    "src": "f53ce26c",
+    "status": "draft"
+  },
+  "badges.1.alt": {
+    "en": "Certified Org Topologies Consultant (C-OTC) badge",
+    "text": "Badge Certified Org Topologies Consultant (C-OTC)",
+    "src": "6675cca6",
+    "status": "draft"
+  },
+  "body": {
+    "en": "Practitioner (C-OTP) and Consultant (C-OTC) classes, live online and in person.",
+    "text": "Practitioner- (C-OTP) und Consultant-Kurse (C-OTC), live online und vor Ort.",
+    "src": "7021ffd7",
+    "status": "draft"
+  },
+  "cta.label": {
+    "en": "Visit the Academy →",
+    "text": "Zur Academy →",
+    "src": "2e415b5d",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Den Org-Topologies-Ansatz lernen",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  }
+}

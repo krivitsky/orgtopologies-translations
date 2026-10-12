@@ -1,0 +1,386 @@
+{
+  "aiden.goDeeper.body": {
+    "en": "Aiden, the 10X ORG expert GPT, knows the [Katalog](term:katalog) and the book. Describe the constraint you face and ask which kata to start with, then design it as a safe-to-try experiment. Try: *“It is unclear to me yet what an elevating kata looks like in practice. Give me examples.”* or *“How do I reduce dependencies and increase adaptability in my org?”*",
+    "text": "Aiden, 10X ORG-ekspert-GPT-en, kjenner [Katalog](term:katalog) og boken. Beskriv begrensningen du står overfor og spør hvilken kata du bør starte med, og design den deretter som et trygt eksperiment. Prøv: *«Det er ikke klart for meg ennå hvordan en elevating kata ser ut i praksis. Gi meg eksempler.»* eller *«Hvordan reduserer jeg avhengigheter og øker tilpasningsevnen i organisasjonen min?»*",
+    "src": "4218f082",
+    "status": "draft"
+  },
+  "aiden.goDeeper.cta.label": {
+    "en": "Ask Aiden →",
+    "text": "Spør Aiden →",
+    "src": "6bf39853",
+    "status": "draft"
+  },
+  "aiden.goDeeper.kicker": {
+    "en": "ASK AIDEN",
+    "text": "SPØR AIDEN",
+    "src": "e06d5596",
+    "status": "draft"
+  },
+  "aiden.goDeeper.title": {
+    "en": "Learn how to apply the katas with Aiden",
+    "text": "Lær å bruke katas med Aiden",
+    "src": "9fcd9924",
+    "status": "draft"
+  },
+  "book.cover.alt": {
+    "en": "10X ORG book cover",
+    "text": "Omslaget til boken 10X ORG",
+    "src": "e5243dbf",
+    "status": "draft"
+  },
+  "book.cta.label": {
+    "en": "Get the book →",
+    "text": "Få boken →",
+    "src": "3b4eb7f8",
+    "status": "draft"
+  },
+  "book.heading": {
+    "en": "See the katas at work in 10X ORG",
+    "text": "Se katas i praksis i 10X ORG",
+    "src": "7f37ea99",
+    "status": "draft"
+  },
+  "book.kicker": {
+    "en": "FROM 10X ORG",
+    "text": "FRA 10X ORG",
+    "src": "562aad8f",
+    "status": "draft"
+  },
+  "book.lead": {
+    "en": "*10X ORG* lists every Elevating Kata. The chapters show them at work: the Elevate step of the [MADE](term:made) method, tailwind career paths, multi-team line management and [Obeya](term:obeya).",
+    "text": "*10X ORG* lister alle Elevating Katas. Kapitlene viser dem i bruk: Elevate-steget i [MADE](term:made)-metoden, tailwind-karriereveier, linjeledelse på tvers av team og [Obeya](term:obeya).",
+    "src": "088a6122",
+    "status": "draft"
+  },
+  "case-studies._nav": {
+    "en": "Selected Case Studies",
+    "text": "Utvalgte casestudier",
+    "src": "4c493073",
+    "status": "draft"
+  },
+  "case-studies.heading": {
+    "en": "Selected Case Studies Rich with Katas",
+    "text": "Utvalgte casestudier rike på katas",
+    "src": "74d44969",
+    "status": "draft"
+  },
+  "elevation._nav": {
+    "en": "Elevation",
+    "text": "Elevation",
+    "src": "8a7d4c8e",
+    "status": "draft"
+  },
+  "elevation.figure.alt": {
+    "en": "Elevating Katas: a big arrow lifts a web of narrow, dependent units in the bottom left toward a team of teams in the top right, labelled Elevate to Adaptive Topology",
+    "text": "Elevating Katas: en stor pil løfter et nett av smale, avhengige enheter nede til venstre mot et team av team øverst til høyre, merket Elevate to Adaptive Topology",
+    "src": "6b4a4945",
+    "status": "draft"
+  },
+  "elevation.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILLUSTRASJON · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "elevation.heading": {
+    "en": "Elevate toward the top right of the map",
+    "text": "Elevate mot øvre høyre hjørne av kartet",
+    "src": "e373f31d",
+    "status": "draft"
+  },
+  "elevation.items.0.text": {
+    "en": "The katas are not meant to be applied top-to-bottom. They form a menu of deliberate moves. The right starting point depends on where an organization’s constraints sit on the map.",
+    "text": "Katas er ikke ment å brukes fra topp til bunn. De danner en meny av bevisste grep. Det riktige utgangspunktet avhenger av hvor organisasjonens begrensninger sitter på kartet.",
+    "src": "27f726e6",
+    "status": "draft"
+  },
+  "elevation.items.0.title": {
+    "en": "A menu, not a sequence",
+    "text": "En meny, ikke en rekkefølge",
+    "src": "6a32bd6c",
+    "status": "draft"
+  },
+  "elevation.items.1.text": {
+    "en": "Organizations typically begin with a few katas that match their most pressing design challenges, then expand or shift their use as learning accumulates.",
+    "text": "Organisasjoner begynner gjerne med noen få katas som passer deres mest presserende designutfordringer, og utvider eller skifter bruken etter hvert som læringen vokser.",
+    "src": "2f2d889e",
+    "status": "draft"
+  },
+  "elevation.items.1.title": {
+    "en": "Start small, then expand",
+    "text": "Start smått, utvid så",
+    "src": "6f309ed5",
+    "status": "draft"
+  },
+  "elevation.items.2.text": {
+    "en": "In service organizations, “product” maps to a service offering, customer journey, case type or operational capability. Backlogs become service queues; reviews become service inspections.",
+    "text": "I tjenesteorganisasjoner tilsvarer «produkt» et tjenestetilbud, en kundereise, en saktype eller en operativ egenskap. Backlogger blir tjenestekøer; gjennomganger blir tjenestekontroller.",
+    "src": "b57147c9",
+    "status": "draft"
+  },
+  "elevation.items.2.title": {
+    "en": "Not only for software",
+    "text": "Ikke bare for programvare",
+    "src": "98e6fcd9",
+    "status": "draft"
+  },
+  "elevation.kicker": {
+    "en": "THE ELEVATION JOURNEY",
+    "text": "ELEVATION-REISEN",
+    "src": "8a480ca5",
+    "status": "draft"
+  },
+  "elevation.lead": {
+    "en": "Elevating is a deliberate move right and up on the [Org Topologies map](term:org-topologies-map): broader skills and broader work mandates, from delivering outputs to delivering outcomes.",
+    "text": "Elevate er et bevisst skritt til høyre og opp på [Org Topologies-kartet](term:org-topologies-map): bredere ferdigheter og bredere arbeidsmandater, fra å levere outputs til å levere outcomes.",
+    "src": "2b3c61b1",
+    "status": "draft"
+  },
+  "in-cases._nav": {
+    "en": "Katas in Case Studies",
+    "text": "Katas i casestudier",
+    "src": "e47045cf",
+    "status": "draft"
+  },
+  "in-cases.heading": {
+    "en": "Katas in case studies",
+    "text": "Katas i casestudier",
+    "src": "abea71e7",
+    "status": "draft"
+  },
+  "in-cases.kicker": {
+    "en": "FROM THE COMMUNITY",
+    "text": "FRA FELLESSKAPET",
+    "src": "53ba7088",
+    "status": "draft"
+  },
+  "in-cases.lead": {
+    "en": "Every published case study, read for the katas it describes. A filled dot means the organization applied the kata; a ring means it was proposed or planned. Hover a dot to see how it showed up, or click a code to read the kata.",
+    "text": "Hver publiserte casestudie, lest for katasene den beskriver. En fylt prikk betyr at organisasjonen brukte katan; en ring betyr at den var foreslått eller planlagt. Hold musepekeren over en prikk for å se hvordan den viste seg, eller klikk på en kode for å lese katan.",
+    "src": "5eedceae",
+    "status": "draft"
+  },
+  "katalog._nav": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "katalog.casesLabel": {
+    "en": "{n} cases",
+    "text": "{n} caser",
+    "src": "9b4d29bd",
+    "status": "draft"
+  },
+  "katalog.explanation.paragraphs.0": {
+    "en": "Jay Galbraith’s Star Model™ teaches that an organization is not just its org chart or the sum of its policies, but **a system of interconnected design choices** that must be made deliberately and kept in sync.",
+    "text": "Jay Galbraiths Star Model™ lærer at en organisasjon ikke bare er organisasjonskartet eller summen av retningslinjene, men **et system av sammenhengende designvalg** som må tas bevisst og holdes i takt.",
+    "src": "4d9c4bf1",
+    "status": "draft"
+  },
+  "katalog.explanation.paragraphs.1": {
+    "en": "Five elements make up the star: the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they are aligned and reinforce one another, performance becomes more reliable and less accidental.",
+    "text": "Fem elementer utgjør stjernen: **designkriteriene** utledet fra strategien, **struktur**, **prosesser**, **belønning** og **mennesker**. Når de er på linje og forsterker hverandre, blir ytelsen mer pålitelig og mindre tilfeldig.",
+    "src": "12ff4051",
+    "status": "draft"
+  },
+  "katalog.explanation.paragraphs.2": {
+    "en": "Change only one and the others pull back. A company that adopts Scrum as a process add-on, while hiring, rewards and structure stay as they were, gets the predictable result: “Agile is dead.” The katas work on all five elements, so change becomes systemic.",
+    "text": "Endrer du bare ett, trekker de andre tilbake. Et selskap som innfører Scrum som et prosesstillegg, mens ansettelser, belønning og struktur forblir som før, får det forutsigbare resultatet: «Agile er dødt.» Katas virker på alle fem elementene, så endringen blir systemisk.",
+    "src": "93a9b7c2",
+    "status": "draft"
+  },
+  "katalog.explanation.quote.source": {
+    "en": "Jay R. Galbraith, quoted in 10X ORG",
+    "text": "Jay R. Galbraith, sitert i 10X ORG",
+    "src": "6fcc3ace",
+    "status": "draft"
+  },
+  "katalog.explanation.quote.text": {
+    "en": "People behave according to how they are measured, organized, and rewarded.",
+    "text": "Folk oppfører seg etter hvordan de blir målt, organisert og belønnet.",
+    "src": "92208ac6",
+    "status": "draft"
+  },
+  "katalog.figure.alt": {
+    "en": "Jay Galbraith’s Star Model™: Org Design Criteria at the top, with Structure, Processes, Rewards and People around a five-pointed star",
+    "text": "Jay Galbraiths Star Model™: Org Design Criteria øverst, med Structure, Processes, Rewards og People rundt en femspiss stjerne",
+    "src": "0f01db9d",
+    "status": "draft"
+  },
+  "katalog.figure.credit": {
+    "en": "STAR MODEL™, JAY R. GALBRAITH · PUBLISHED WITH PERMISSION OF SASHA GALBRAITH OF GALBRAITH MANAGEMENT CONSULTANTS, LLC",
+    "text": "STAR MODEL™, JAY R. GALBRAITH · PUBLISERT MED TILLATELSE FRA SASHA GALBRAITH I GALBRAITH MANAGEMENT CONSULTANTS, LLC",
+    "src": "0083ba9a",
+    "status": "draft"
+  },
+  "katalog.heading": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "katalog.kicker": {
+    "en": "Katas on the Star Model",
+    "text": "Katas på Star Model",
+    "src": "9029095f",
+    "status": "draft"
+  },
+  "katalog.lead": {
+    "en": "[Katalog](term:katalog) groups the katas by the five elements of org design in Jay Galbraith’s Star Model™. Change one element and the others must follow. Every kata links to its description and to the case studies that apply it.",
+    "text": "[Katalog](term:katalog) grupperer katas etter de fem elementene i organisasjonsdesign i Jay Galbraiths Star Model™. Endrer du ett element, må de andre følge etter. Hver kata lenker til beskrivelsen sin og til casestudiene som bruker den.",
+    "src": "8c09180c",
+    "status": "draft"
+  },
+  "katalog.source": {
+    "en": "Element definitions are quoted from 10X ORG, which also lists the full Katalog.",
+    "text": "Elementdefinisjonene er sitert fra 10X ORG, som også lister hele Katalog.",
+    "src": "49411f50",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Elevating Katas are repeatable routines that turn org design intent into lived behavior, grouped by the Star Model and shown in real case studies.",
+    "text": "Elevating Katas er repeterbare rutiner som gjør intensjonen bak organisasjonsdesignet til levd atferd, gruppert etter Star Model og vist i virkelige casestudier.",
+    "src": "df3451e7",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "systemic.heading": {
+    "en": "Five ways katas move the whole system",
+    "text": "Fem måter katas flytter hele systemet på",
+    "src": "c5bd54c3",
+    "status": "draft"
+  },
+  "systemic.items.0.label": {
+    "en": "Whole system",
+    "text": "Hele systemet",
+    "src": "ef253ee1",
+    "status": "draft"
+  },
+  "systemic.items.0.lines.0": {
+    "en": "A kata never tweaks one element in isolation: it touches governance, roles, events, practices and artifacts together, as the [Star Model](term:star-model) asks.",
+    "text": "En kata justerer aldri ett element isolert: den berører styring, roller, hendelser, praksiser og artefakter samtidig, slik [Star Model](term:star-model) forutsetter.",
+    "src": "1a75fa40",
+    "status": "draft"
+  },
+  "systemic.items.1.label": {
+    "en": "Strategy",
+    "text": "Strategi",
+    "src": "6b27710d",
+    "status": "draft"
+  },
+  "systemic.items.1.lines.0": {
+    "en": "Routines such as multi-team Product Backlog Refinement or vertical slicing bring the strategic goal into the daily work, so structure and process follow strategy.",
+    "text": "Rutiner som Product Backlog Refinement på tvers av team eller vertikal oppdeling henter det strategiske målet inn i hverdagsarbeidet, slik at struktur og prosess følger strategien.",
+    "src": "f99a2c8a",
+    "status": "draft"
+  },
+  "systemic.items.2.label": {
+    "en": "People and roles",
+    "text": "Mennesker og roller",
+    "src": "7c550b42",
+    "status": "draft"
+  },
+  "systemic.items.2.lines.0": {
+    "en": "Katas like *Elevate Product Ownership* stretch roles beyond their old definitions; repeated practice grows the skills the new design needs.",
+    "text": "Katas som *Elevate Product Ownership* strekker rollene forbi de gamle definisjonene; gjentatt praksis bygger ferdighetene det nye designet trenger.",
+    "src": "b4d56a5a",
+    "status": "draft"
+  },
+  "systemic.items.3.label": {
+    "en": "Behavior and culture",
+    "text": "Atferd og kultur",
+    "src": "74913b2c",
+    "status": "draft"
+  },
+  "systemic.items.3.lines.0": {
+    "en": "Culture programs fail on abstract values. Katas change the working pattern itself, and the desired behavior (collaboration, customer focus, learning) comes with it.",
+    "text": "Kulturprogrammer feiler på abstrakte verdier. Katas endrer selve arbeidsmønsteret, og den ønskede atferden (samarbeid, kundefokus, læring) følger med.",
+    "src": "590a25ce",
+    "status": "draft"
+  },
+  "systemic.items.4.label": {
+    "en": "Rewards",
+    "text": "Belønning",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "systemic.items.4.lines.0": {
+    "en": "Because a kata repeats, it closes its own feedback loop: faster cycle times, better product fit and more engaged teams reward the new habit.",
+    "text": "Fordi en kata gjentas, lukker den sin egen tilbakemeldingssløyfe: raskere syklustider, bedre produkttilpasning og mer engasjerte team belønner den nye vanen.",
+    "src": "8b8d4594",
+    "status": "draft"
+  },
+  "systemic.kicker": {
+    "en": "KEEPING KATAS SYSTEMIC",
+    "text": "HOLDE KATAS SYSTEMISKE",
+    "src": "9e69759d",
+    "status": "draft"
+  },
+  "systemic.lead": {
+    "en": "Leaders don't need another transformation program. Choose a handful of katas and make sure they are practiced faithfully: as the routines become habits, agility and resilience grow, and the culture follows the work.",
+    "text": "Ledere trenger ikke enda et transformasjonsprogram. Velg en håndfull katas og sørg for at de praktiseres trofast: når rutinene blir vaner, vokser smidighet og robusthet, og kulturen følger arbeidet.",
+    "src": "aa448cf0",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "METHOD · FROM 10X ORG",
+    "text": "METODE · FRA 10X ORG",
+    "src": "d430b2ae",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Structured, repeatable improvement routines that turn organizational design intent into lived behavior.",
+    "text": "Strukturerte, repeterbare forbedringsrutiner som gjør intensjonen bak organisasjonsdesignet til levd atferd.",
+    "src": "5008a904",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Elevating\nKatas.",
+    "text": "Elevating\nKatas.",
+    "src": "095d79f9",
+    "status": "draft"
+  },
+  "what.closer": {
+    "en": "[Elevating Katas](term:elevating-kata) are ==problem-driven, not methodology-driven.==",
+    "text": "[Elevating Katas](term:elevating-kata) er ==problemdrevne, ikke metodedrevne.==",
+    "src": "a243bad4",
+    "status": "draft"
+  },
+  "what.heading": {
+    "en": "A practiced sequence, not a one-off transformation",
+    "text": "En innøvd sekvens, ikke en engangstransformasjon",
+    "src": "a92767ba",
+    "status": "draft"
+  },
+  "what.kicker": {
+    "en": "KATAS AS A TERM",
+    "text": "KATA SOM BEGREP",
+    "src": "76bb928f",
+    "status": "draft"
+  },
+  "what.paragraphs.0": {
+    "en": "The term **kata** comes from martial arts, where it describes a practiced sequence used to build skill and judgment through repetition. In management it was popularized through Toyota: a studied, repeatable pattern for disciplined improvement.",
+    "text": "Begrepet **kata** kommer fra kampsport, der det beskriver en innøvd sekvens som bygger ferdighet og dømmekraft gjennom repetisjon. I ledelse ble det gjort kjent gjennom Toyota: et studert, repeterbart mønster for disiplinert forbedring.",
+    "src": "e9070d50",
+    "status": "draft"
+  },
+  "what.paragraphs.1": {
+    "en": "The [10X Org](term:10x-org) principles set direction. The katas make that direction actionable. They are applied in the **Elevate** step of the [MADE](term:made) method, where insights from mapping, assessment and design turn into concrete change.",
+    "text": "Prinsippene i [10X Org](term:10x-org) setter retningen. Katas gjør retningen handlingsrettet. De brukes i **Elevate**-steget i [MADE](term:made)-metoden, der innsikt fra kartlegging, vurdering og design blir til konkret endring.",
+    "src": "bbc5f4c7",
+    "status": "draft"
+  },
+  "what.paragraphs.2": {
+    "en": "Each kata targets a concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance, and tests whether expanding [mandates](term:mandate) or reducing friction moves the system closer to the intended elevated state.",
+    "text": "Hver kata tar for seg en konkret begrensning, som teamgrenser, beslutningsrett, grensesnitt, retningslinjer eller styring, og tester om utvidede [mandater](term:mandate) eller mindre friksjon flytter systemet nærmere den tiltenkte løftede tilstanden.",
+    "src": "38f07d8d",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "bar.body": {
+    "en": "Practitioner (C-OTP) and Consultant (C-OTC) classes, live online and in person.",
+    "text": "Classi Practitioner (C-OTP) e Consultant (C-OTC), online dal vivo e in presenza.",
+    "src": "7021ffd7",
+    "status": "draft"
+  },
+  "bar.cta.label": {
+    "en": "Visit the Academy →",
+    "text": "Visita la Academy →",
+    "src": "2e415b5d",
+    "status": "draft"
+  },
+  "courses.0.badge.alt": {
+    "en": "Certified Org Topologies Practitioner (C-OTP) badge",
+    "text": "Badge Certified Org Topologies Practitioner (C-OTP)",
+    "src": "f53ce26c",
+    "status": "draft"
+  },
+  "courses.0.body": {
+    "en": "Live sessions for executives, managers, consultants and change agents who want to redesign their organization for performance — and then let AI accelerate it.",
+    "text": "Sessioni dal vivo per dirigenti, manager, consulenti e agenti del cambiamento che vogliono riprogettare la propria organizzazione per le prestazioni, e poi lasciare che l'IA la acceleri.",
+    "src": "c84a0f8c",
+    "status": "draft"
+  },
+  "courses.0.kicker": {
+    "en": "LIVE ONLINE · FOR LEADERS AND CHANGE AGENTS",
+    "text": "ONLINE DAL VIVO · PER LEADER E AGENTI DEL CAMBIAMENTO",
+    "src": "774872f6",
+    "status": "draft"
+  },
+  "courses.0.link.label": {
+    "en": "C-OTP dates →",
+    "text": "Date C-OTP →",
+    "src": "692c95ca",
+    "status": "draft"
+  },
+  "courses.0.tagline": {
+    "en": "Designing Adaptive Organizations for the Agentic Age.",
+    "text": "Progettare organizzazioni adattive per l'era agentica.",
+    "src": "dc85ef0b",
+    "status": "draft"
+  },
+  "courses.0.title": {
+    "en": "C-OTP · Practitioner",
+    "text": "C-OTP · Practitioner",
+    "src": "69c2f98b",
+    "status": "draft"
+  },
+  "courses.1.badge.alt": {
+    "en": "Certified Org Topologies Consultant (C-OTC) badge",
+    "text": "Badge Certified Org Topologies Consultant (C-OTC)",
+    "src": "6675cca6",
+    "status": "draft"
+  },
+  "courses.1.body": {
+    "en": "Bring a real case, map it with Org Topologies, and leave with a practical redesign direction and first steps to test it. Includes the path to C-OTC accreditation.",
+    "text": "Porta un caso reale, mappalo con Org Topologies e vai via con una direzione concreta di riprogettazione e i primi passi per metterla alla prova. Include il percorso verso l'accreditamento C-OTC.",
+    "src": "b037f833",
+    "status": "draft"
+  },
+  "courses.1.kicker": {
+    "en": "2-DAY BOOTCAMP · IN PERSON",
+    "text": "BOOTCAMP DI 2 GIORNI · IN PRESENZA",
+    "src": "fab1041e",
+    "status": "draft"
+  },
+  "courses.1.link.label": {
+    "en": "Explore C-OTC →",
+    "text": "Scopri C-OTC →",
+    "src": "e08f65f9",
+    "status": "draft"
+  },
+  "courses.1.tagline": {
+    "en": "Org Redesign for the Agentic Age.",
+    "text": "Riprogettare l'organizzazione per l'era agentica.",
+    "src": "51edd63e",
+    "status": "draft"
+  },
+  "courses.1.title": {
+    "en": "C-OTC · Consultant",
+    "text": "C-OTC · Consultant",
+    "src": "62f253ff",
+    "status": "draft"
+  },
+  "eventsCaption": {
+    "en": "All upcoming events",
+    "text": "Tutti i prossimi eventi",
+    "src": "bfb65777",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "Impara l'approccio Org Topologies",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  }
+}

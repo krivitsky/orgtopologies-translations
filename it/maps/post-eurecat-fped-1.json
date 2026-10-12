@@ -1,0 +1,38 @@
+{
+  "Current state": {
+    "en": "Current state",
+    "text": "Stato attuale",
+    "src": "760732d8",
+    "status": "draft"
+  },
+  "Current state (FPED)": {
+    "en": "Current state (FPED)",
+    "text": "Stato attuale (FPED)",
+    "src": "4c93f115",
+    "status": "draft"
+  },
+  "Drawn on the 2024.10 version of the grid": {
+    "en": "Drawn on the 2024.10 version of the grid",
+    "text": "Disegnato sulla versione 2024.10 della griglia",
+    "src": "4f99a64f",
+    "status": "draft"
+  },
+  "Initial state": {
+    "en": "Initial state",
+    "text": "Stato iniziale",
+    "src": "925750e6",
+    "status": "draft"
+  },
+  "Initial state (FPED)": {
+    "en": "Initial state (FPED)",
+    "text": "Stato iniziale (FPED)",
+    "src": "2ebec62a",
+    "status": "draft"
+  },
+  "Initial state in black, current state in blue": {
+    "en": "Initial state in black, current state in blue",
+    "text": "Stato iniziale in nero, stato attuale in blu",
+    "src": "57da0e2e",
+    "status": "draft"
+  }
+}

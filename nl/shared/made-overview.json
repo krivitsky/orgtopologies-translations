@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "Verander je organisatieontwerp zonder big-bang-reorganisatie: map wat je hebt, kies waarop je optimaliseert, ontwerp het doel en verhef dan stap voor stap. Zie alle vier de stappen op één voorbeeldorganisatie.",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "Lees over de aanpak →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The MADE method",
+    "text": "De MADE-methode",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Change, MADE systemic",
+    "text": "Change, MADE systemic",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Change MADE systemic: Study (Map, Assess) en Improve (Design, Elevate) rond organisatieontwerp, tussen strategie en prestaties",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Eerst **bestudeer** je het ontwerp dat je hebt, daarna **verbeter** je richting het ontwerp dat je nodig hebt.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Organisatieontwerp zit tussen strategie en prestaties. **MADE** is de lus die het fit houdt, vernoemd naar de vier stappen:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "THE APPROACH",
+    "text": "DE AANPAK",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "phases.0.note": {
+    "en": "the design you have",
+    "text": "het ontwerp dat je hebt",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "Plaats elke eenheid op skills- en werkmandaat",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "Benoem de topologie die je hebt — en of die past",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "phases.1.note": {
+    "en": "the design you need",
+    "text": "het ontwerp dat je nodig hebt",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Stel je de organisatie voor die je nodig hebt, zonder de beperkingen van nu",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "phases.1.steps.1.text": {
+    "en": "Get the change going with Elevating Katas",
+    "text": "Zet de verandering in gang met Elevating Katas",
+    "src": "b716f0f0",
+    "status": "draft"
+  },
+  "phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  }
+}

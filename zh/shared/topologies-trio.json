@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "探索哪种拓扑适合您的战略：每种拓扑的示例地图，可逐一点开的四种智能，以及如何用地图去观察您自己的组织。",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "区分这些拓扑 →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The three topologies",
+    "text": "三种拓扑",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Three topologies, three goals",
+    "text": "三种拓扑，三个目标",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "研究常见拓扑",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "每种常见拓扑结合了不同的智能（专业化、流动、协调、适应），并在不同的环境中“大放异彩”。",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "稳定、由流程驱动的环境",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "（专业化智能 + 协调智能）",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "利用率与可预测性",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "战略转向时显得僵化",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "适合团队结构的已知工作",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "（流动智能 + 协调智能）",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "边界内的速度与流动",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "跨领域的工作需要协调",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "多变、由创新驱动的环境",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "（适应智能）",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "适应性与学习",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "挑战现有的控制结构",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

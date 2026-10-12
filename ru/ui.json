@@ -1,0 +1,506 @@
+{
+  "c.academy.allDates": {
+    "en": "All dates →",
+    "text": "Все даты →",
+    "src": "3a104a09",
+    "status": "draft"
+  },
+  "c.consent.accept": {
+    "en": "Accept",
+    "text": "Принять",
+    "src": "89713b9c",
+    "status": "draft"
+  },
+  "c.consent.decline": {
+    "en": "Decline",
+    "text": "Отклонить",
+    "src": "a2d285b3",
+    "status": "draft"
+  },
+  "c.consent.privacy": {
+    "en": "Privacy",
+    "text": "Конфиденциальность",
+    "src": "54a57c31",
+    "status": "draft"
+  },
+  "c.consent.text": {
+    "en": "May we use Google Analytics cookies to learn which pages help? Nothing is sent unless you accept.",
+    "text": "Можно ли использовать cookie Google Analytics, чтобы понять, какие страницы полезны? Пока вы не согласитесь, ничего не отправляется.",
+    "src": "72587b87",
+    "status": "draft"
+  },
+  "c.fourInt.example": {
+    "en": "EXAMPLE",
+    "text": "ПРИМЕР",
+    "src": "f2e8378c",
+    "status": "draft"
+  },
+  "c.fourInt.withAi": {
+    "en": "WITH AI",
+    "text": "С ИИ",
+    "src": "29c55c08",
+    "status": "draft"
+  },
+  "c.glossary.see": {
+    "en": "See in Glossary →",
+    "text": "Смотреть в глоссарии →",
+    "src": "099f7892",
+    "status": "draft"
+  },
+  "c.kata.applied": {
+    "en": "applied",
+    "text": "применено",
+    "src": "b4267ce9",
+    "status": "draft"
+  },
+  "c.kata.count": {
+    "en": "{n} katas",
+    "text": "ката: {n}",
+    "src": "9f9900ea",
+    "status": "draft"
+  },
+  "c.kata.katas": {
+    "en": "Katas",
+    "text": "Ката",
+    "src": "659be732",
+    "status": "draft"
+  },
+  "c.kata.moreKatas": {
+    "en": "+{n} more",
+    "text": "ещё {n}",
+    "src": "405502ba",
+    "status": "draft"
+  },
+  "c.kata.proposed": {
+    "en": "proposed",
+    "text": "предложено",
+    "src": "81e766d8",
+    "status": "draft"
+  },
+  "c.kata.readCase": {
+    "en": "Read the case study →",
+    "text": "Читать кейс →",
+    "src": "3ca149d9",
+    "status": "draft"
+  },
+  "c.kata.readMore": {
+    "en": "Read more in the Katalog →",
+    "text": "Подробнее в Katalog →",
+    "src": "7e41e768",
+    "status": "draft"
+  },
+  "c.kata.showAll": {
+    "en": "Show all {n} case studies",
+    "text": "Показать все кейсы ({n})",
+    "src": "f7e48e2d",
+    "status": "draft"
+  },
+  "c.katalog.applied": {
+    "en": "Applied",
+    "text": "Применено",
+    "src": "0c79a9c2",
+    "status": "draft"
+  },
+  "c.katalog.back": {
+    "en": "← Back to {title}",
+    "text": "← Назад: {title}",
+    "src": "7783b919",
+    "status": "draft"
+  },
+  "c.katalog.noCases": {
+    "en": "No published case study names this kata yet.",
+    "text": "Пока ни один опубликованный кейс не упоминает это ката.",
+    "src": "2080effb",
+    "status": "draft"
+  },
+  "c.katalog.note": {
+    "en": "Note by {name}, {date}:",
+    "text": "Заметка: {name}, {date}:",
+    "src": "378a17e2",
+    "status": "draft"
+  },
+  "c.katalog.proposed": {
+    "en": "Proposed",
+    "text": "Предложено",
+    "src": "9b0c660b",
+    "status": "draft"
+  },
+  "c.map.ai": {
+    "en": "AI agent",
+    "text": "ИИ-агент",
+    "src": "92c7d7f8",
+    "status": "draft"
+  },
+  "c.map.close": {
+    "en": "Close",
+    "text": "Закрыть",
+    "src": "7d9eb7ac",
+    "status": "draft"
+  },
+  "c.map.dark": {
+    "en": "Dark",
+    "text": "Тёмная",
+    "src": "60acc53f",
+    "status": "draft"
+  },
+  "c.map.dots": {
+    "en": "Dots",
+    "text": "Точки",
+    "src": "6de335fa",
+    "status": "draft"
+  },
+  "c.map.figures": {
+    "en": "Figures",
+    "text": "Фигуры",
+    "src": "f2f410e7",
+    "status": "draft"
+  },
+  "c.map.flow": {
+    "en": "Flow (labelled arrow)",
+    "text": "Поток (подписанная стрелка)",
+    "src": "9ff4d655",
+    "status": "draft"
+  },
+  "c.map.fullScreen": {
+    "en": "Full screen",
+    "text": "Во весь экран",
+    "src": "674fe2ac",
+    "status": "draft"
+  },
+  "c.map.human": {
+    "en": "Human",
+    "text": "Человек",
+    "src": "9ffa865f",
+    "status": "draft"
+  },
+  "c.map.light": {
+    "en": "Light",
+    "text": "Светлая",
+    "src": "dbcd5e7b",
+    "status": "draft"
+  },
+  "c.map.line": {
+    "en": "Dependency, information flow",
+    "text": "Зависимость, поток информации",
+    "src": "94c0cf58",
+    "status": "draft"
+  },
+  "c.map.team": {
+    "en": "Team",
+    "text": "Команда",
+    "src": "5985039f",
+    "status": "draft"
+  },
+  "c.suggest.button": {
+    "en": "Suggest a better translation",
+    "text": "Предложить перевод лучше",
+    "src": "04d108ea",
+    "status": "draft"
+  },
+  "c.suggest.cancel": {
+    "en": "Cancel",
+    "text": "Отмена",
+    "src": "19766ed6",
+    "status": "draft"
+  },
+  "c.suggest.close": {
+    "en": "Close",
+    "text": "Закрыть",
+    "src": "7d9eb7ac",
+    "status": "draft"
+  },
+  "c.suggest.current": {
+    "en": "Current text",
+    "text": "Текущий текст",
+    "src": "afb27566",
+    "status": "draft"
+  },
+  "c.suggest.error": {
+    "en": "Sorry, that didn't go through. Please try again later.",
+    "text": "К сожалению, не получилось. Попробуйте позже.",
+    "src": "6a4a2249",
+    "status": "draft"
+  },
+  "c.suggest.note": {
+    "en": "It becomes a public note (issue) for the translators on GitHub: anonymously through us, with a link to follow it, or under your own GitHub account.",
+    "text": "Предложение станет публичной заметкой (issue) для переводчиков на GitHub: анонимно через нас, со ссылкой для отслеживания, или от вашего аккаунта GitHub.",
+    "src": "690fd514",
+    "status": "draft"
+  },
+  "c.suggest.send": {
+    "en": "Send anonymously",
+    "text": "Отправить анонимно",
+    "src": "ef219904",
+    "status": "draft"
+  },
+  "c.suggest.sendGithub": {
+    "en": "With my GitHub account ↗",
+    "text": "Через мой GitHub ↗",
+    "src": "ff9b8999",
+    "status": "draft"
+  },
+  "c.suggest.thanks": {
+    "en": "Thank you! Your suggestion went to the translators.",
+    "text": "Спасибо! Ваше предложение передано переводчикам.",
+    "src": "4b6bc546",
+    "status": "draft"
+  },
+  "c.suggest.title": {
+    "en": "Suggest a better translation",
+    "text": "Предложить перевод лучше",
+    "src": "04d108ea",
+    "status": "draft"
+  },
+  "c.suggest.view": {
+    "en": "See it on GitHub ↗",
+    "text": "Открыть на GitHub ↗",
+    "src": "6bde51a2",
+    "status": "draft"
+  },
+  "c.suggest.yours": {
+    "en": "Your version (edit the text)",
+    "text": "Ваш вариант (отредактируйте текст)",
+    "src": "18f2ebef",
+    "status": "draft"
+  },
+  "c.trio.bestFor": {
+    "en": "BEST FOR",
+    "text": "ЛУЧШЕ ВСЕГО ДЛЯ",
+    "src": "776fc82c",
+    "status": "draft"
+  },
+  "c.trio.optimizesFor": {
+    "en": "OPTIMIZES FOR",
+    "text": "ОПТИМИЗИРУЕТ",
+    "src": "12ba1e56",
+    "status": "draft"
+  },
+  "c.trio.tradeOff": {
+    "en": "TRADE-OFF",
+    "text": "ЦЕНА ВЫБОРА",
+    "src": "2d3821ce",
+    "status": "draft"
+  },
+  "nav.academyCta.label": {
+    "en": "Visit the Academy",
+    "text": "Перейти в Academy",
+    "src": "27263d94",
+    "status": "draft"
+  },
+  "nav.academyCta.short": {
+    "en": "Academy",
+    "text": "Academy",
+    "src": "b2a5911a",
+    "status": "draft"
+  },
+  "nav.brand": {
+    "en": "Org Topologies",
+    "text": "Org Topologies",
+    "src": "b3fa8f5f",
+    "status": "draft"
+  },
+  "nav.closeLabel": {
+    "en": "Close menu",
+    "text": "Закрыть меню",
+    "src": "6ccd5c78",
+    "status": "draft"
+  },
+  "nav.exploreLabel": {
+    "en": "Explore Org Topologies",
+    "text": "Изучите Org Topologies",
+    "src": "6da8f814",
+    "status": "draft"
+  },
+  "nav.menuLabel": {
+    "en": "Menu",
+    "text": "Меню",
+    "src": "99af6606",
+    "status": "draft"
+  },
+  "nav.primary.0.below.label": {
+    "en": "Glossary",
+    "text": "Глоссарий",
+    "src": "4c4e436f",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.0.label": {
+    "en": "Change, MADE Systemic",
+    "text": "Change, MADE Systemic",
+    "src": "03610ffd",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.0.step": {
+    "en": "The MADE method",
+    "text": "Метод MADE",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.1.extra.0.label": {
+    "en": "Framework Mappings",
+    "text": "Картирование фреймворков",
+    "src": "baf15a30",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.1.label": {
+    "en": "Org Topologies Mapping",
+    "text": "Картирование Org Topologies",
+    "src": "533f211e",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.1.step": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.2.label": {
+    "en": "Three Org Topologies",
+    "text": "Три Org Topologies",
+    "src": "9ba98f17",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.2.step": {
+    "en": "Assess & Design",
+    "text": "Assess & Design",
+    "src": "bb9e70bc",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.0.label": {
+    "en": "1. Strategy",
+    "text": "1. Стратегия",
+    "src": "0d944828",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.1.label": {
+    "en": "2. Structure",
+    "text": "2. Структура",
+    "src": "7981d3e6",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.2.label": {
+    "en": "3. Processes",
+    "text": "3. Процессы",
+    "src": "864943ff",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.3.label": {
+    "en": "4. Rewards",
+    "text": "4. Вознаграждение",
+    "src": "dde39d79",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.4.label": {
+    "en": "5. People",
+    "text": "5. Люди",
+    "src": "fb64fb20",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.label": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.step": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "nav.primary.0.label": {
+    "en": "Approach",
+    "text": "Подход",
+    "src": "b6b243ca",
+    "status": "draft"
+  },
+  "nav.primary.1.label": {
+    "en": "Book",
+    "text": "Книга",
+    "src": "909cb811",
+    "status": "draft"
+  },
+  "nav.primary.2.label": {
+    "en": "Case Studies",
+    "text": "Кейсы",
+    "src": "545fab8e",
+    "status": "draft"
+  },
+  "nav.primary.3.extra.0.label": {
+    "en": "Articles",
+    "text": "Статьи",
+    "src": "b14ac78a",
+    "status": "draft"
+  },
+  "nav.primary.3.extra.1.label": {
+    "en": "Videos",
+    "text": "Видео",
+    "src": "c9a96394",
+    "status": "draft"
+  },
+  "nav.primary.3.label": {
+    "en": "Articles & Videos",
+    "text": "Статьи и видео",
+    "src": "7dcefe4e",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.0.label": {
+    "en": "Partners",
+    "text": "Партнёры",
+    "src": "5dab502b",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.1.label": {
+    "en": "Members",
+    "text": "Участники",
+    "src": "1044a4c0",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.2.label": {
+    "en": "Meet Creators",
+    "text": "Познакомиться с авторами",
+    "src": "4edc4aa7",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.3.label": {
+    "en": "Join the Slack",
+    "text": "Войти в Slack",
+    "src": "4e10e355",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.4.label": {
+    "en": "Follow on LinkedIn",
+    "text": "Подписаться в LinkedIn",
+    "src": "50a46ecd",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.5.label": {
+    "en": "Ask Aiden",
+    "text": "Спросить Aiden",
+    "src": "05d15f3f",
+    "status": "draft"
+  },
+  "nav.primary.4.label": {
+    "en": "Community",
+    "text": "Сообщество",
+    "src": "bb501d78",
+    "status": "draft"
+  },
+  "nav.tagline": {
+    "en": "The home of modern org design",
+    "text": "Современный оргдизайн",
+    "src": "08356774",
+    "status": "draft"
+  },
+  "shell.skip": {
+    "en": "Skip to content",
+    "text": "Перейти к содержимому",
+    "src": "ac576a66",
+    "status": "draft"
+  },
+  "shell.suggestHint": {
+    "en": "Help improve this translation: select any text on the page and suggest a better version.",
+    "text": "Помогите улучшить перевод: выделите любой текст на странице и предложите лучший вариант.",
+    "src": "0ff84c34",
+    "status": "draft"
+  }
+}

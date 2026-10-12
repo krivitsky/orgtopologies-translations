@@ -1,0 +1,446 @@
+{
+  "adopting-strategic-outcome-based-backlog.name": {
+    "en": "Adopting Strategic, Outcome-Based Backlog",
+    "text": "Att införa en strategisk, outcomebaserad backlog",
+    "src": "e09e8776",
+    "status": "draft"
+  },
+  "adopting-strategic-outcome-based-backlog.summary": {
+    "en": "Shift backlog items from output commitments to explicit outcome hypotheses, making learning and impact visible in everyday prioritization. In service organizations: adopting service queues framed around client outcomes, not request types.",
+    "text": "Flytta backlogposter från åtaganden om outputs till uttalade outcomehypoteser, så att lärande och effekt syns i den dagliga prioriteringen. I tjänsteorganisationer: att införa servicekköer utformade kring kundens outcomes, inte kring typer av ärenden.",
+    "src": "7dad21aa",
+    "status": "draft"
+  },
+  "applying-evidence-based-management-ebm-for-capability-building.name": {
+    "en": "Applying Evidence-Based Management (EBM) for Capability-Building",
+    "text": "Att tillämpa Evidence-Based Management (EBM) för att bygga förmåga",
+    "src": "ddc9ca13",
+    "status": "draft"
+  },
+  "applying-evidence-based-management-ebm-for-capability-building.summary": {
+    "en": "Use a small set of meaningful measures in regular reviews to guide learning and improvement, rather than managing by objective.",
+    "text": "Använd ett fåtal meningsfulla mått i regelbundna reviews för att styra lärande och förbättring, i stället för att styra med mål.",
+    "src": "dfac88f4",
+    "status": "draft"
+  },
+  "continuously-integrating-work-across-teams.name": {
+    "en": "Continuously Integrating Work Across Teams",
+    "text": "Att integrera arbetet kontinuerligt mellan team",
+    "src": "92cf8b98",
+    "status": "draft"
+  },
+  "continuously-integrating-work-across-teams.summary": {
+    "en": "Reduce integration risk and delays by integrating work continuously across all contributing teams and agents, rather than batching and reconciling it late. In software contexts, this is commonly realized through practices such as trunk-based development, monorepos, and continuous integration as a practice (not a tool).",
+    "text": "Minska integrationsrisker och förseningar genom att integrera arbetet kontinuerligt mellan alla bidragande team och agenter, i stället för att samla och förena det sent. I mjukvaruutveckling sker det vanligen med praktiker som trunk-based development, monorepon och kontinuerlig integration som arbetssätt (inte som verktyg).",
+    "src": "b60e32a5",
+    "status": "draft"
+  },
+  "de-emphasizing-individual-performance-incentives.name": {
+    "en": "De-emphasizing Individual Performance Incentives",
+    "text": "Att tona ner individuella prestationsincitament",
+    "src": "8ae8e015",
+    "status": "draft"
+  },
+  "de-emphasizing-individual-performance-incentives.summary": {
+    "en": "Reduce incentive structures that drive local optimization at the expense of system performance.",
+    "text": "Minska incitamentsstrukturer som driver lokal optimering på bekostnad av systemets prestation.",
+    "src": "09e1b11b",
+    "status": "draft"
+  },
+  "decentralizing-cross-cutting-concerns-through-communities.name": {
+    "en": "Decentralizing Cross-Cutting Concerns Through Communities",
+    "text": "Att decentralisera övergripande frågor genom communities",
+    "src": "a8a10585",
+    "status": "draft"
+  },
+  "decentralizing-cross-cutting-concerns-through-communities.summary": {
+    "en": "Decentralize ownership of cross-cutting concerns (such as architectural guidelines, standards, and policies) by enabling self-organizing communities to evolve practices collaboratively, reducing dependency on centralized coordination.",
+    "text": "Decentralisera ägarskapet för övergripande frågor (som arkitekturriktlinjer, standarder och policyer) genom att låta självorganiserande communities utveckla arbetssätten tillsammans, vilket minskar beroendet av central samordning.",
+    "src": "de6216f2",
+    "status": "draft"
+  },
+  "designing-tailwind-career-paths.name": {
+    "en": "Designing Tailwind Career Paths",
+    "text": "Att utforma karriärvägar med medvind",
+    "src": "3fe72d3f",
+    "status": "draft"
+  },
+  "designing-tailwind-career-paths.summary": {
+    "en": "Create career systems that reward capability growth and multi-learning to support employees' contribution to valuable outcomes.",
+    "text": "Skapa karriärsystem som belönar växande förmåga och multi-learning, så att medarbetarna kan bidra till värdefulla outcomes.",
+    "src": "dcc55da3",
+    "status": "draft"
+  },
+  "embedding-ai-assisted-multi-learning-into-daily-work.name": {
+    "en": "Embedding (AI-Assisted) Multi-Learning into Daily Work",
+    "text": "Att förankra (AI-stödd) multi-learning i det dagliga arbetet",
+    "src": "69481585",
+    "status": "draft"
+  },
+  "embedding-ai-assisted-multi-learning-into-daily-work.summary": {
+    "en": "Use AI to lower the cost of learning new skills while delivering, expanding what teams can responsibly take on.",
+    "text": "Använd AI för att sänka kostnaden för att lära sig nya färdigheter medan man levererar, och vidga det teamen på ett ansvarsfullt sätt kan ta sig an.",
+    "src": "caaf0d24",
+    "status": "draft"
+  },
+  "enabling-team-self-design.name": {
+    "en": "Enabling Team Self-Design",
+    "text": "Att möjliggöra teamens självdesign",
+    "src": "1a4c48af",
+    "status": "draft"
+  },
+  "enabling-team-self-design.summary": {
+    "en": "Enable teams to redesign their own composition and boundaries within clear strategic and mandate constraints, increasing ownership and fitness for purpose.",
+    "text": "Låt teamen designa om sin egen sammansättning och sina gränser inom tydliga strategiska ramar och mandatramar, vilket ökar ägarskapet och anpassningen till syftet.",
+    "src": "74dd76a9",
+    "status": "draft"
+  },
+  "expanding-and-sharing-the-definition-of-done-across-teams.name": {
+    "en": "Expanding and Sharing the Definition of Done Across Teams",
+    "text": "Att vidga och dela Definition of Done mellan team",
+    "src": "81577f1e",
+    "status": "draft"
+  },
+  "expanding-and-sharing-the-definition-of-done-across-teams.summary": {
+    "en": "Continuously broaden the Definition of Done to include real completeness and quality, reducing hidden work, handoffs, and late surprises.",
+    "text": "Vidga kontinuerligt Definition of Done så att den omfattar verklig fullständighet och kvalitet, vilket minskar dolt arbete, överlämningar och sena överraskningar.",
+    "src": "89a1cf3a",
+    "status": "draft"
+  },
+  "expanding-the-product-definition.name": {
+    "en": "Expanding the Product Definition",
+    "text": "Att vidga produktdefinitionen",
+    "src": "159fc19e",
+    "status": "draft"
+  },
+  "expanding-the-product-definition.summary": {
+    "en": "Deliberately broaden what the organization considers \"the product\" so teams orient around real customer outcomes rather than narrow components or tasks.",
+    "text": "Vidga medvetet vad organisationen räknar som ”produkten”, så att teamen utgår från verkliga kundoutcomes i stället för snäva komponenter eller uppgifter.",
+    "src": "2e2e1bca",
+    "status": "draft"
+  },
+  "expanding-units-toward-end-to-end-outcome-ownership.name": {
+    "en": "Expanding Units Toward End-to-End Outcome Ownership",
+    "text": "Att vidga enheter mot end-to-end-ägarskap av outcomes",
+    "src": "ac69a26e",
+    "status": "draft"
+  },
+  "expanding-units-toward-end-to-end-outcome-ownership.summary": {
+    "en": "Broaden team mandates so they can complete work from intent to realized value. In practice, this often exposes the need to simplify the organization by eliminating separate units responsible for \"preparing\" or \"finishing\" work, resulting in a more coherent and adaptive org design.",
+    "text": "Vidga teamens mandat så att de kan slutföra arbetet från avsikt till realiserat värde. I praktiken visar det ofta på ett behov av att förenkla organisationen genom att ta bort separata enheter som ansvarar för att ”förbereda” eller ”avsluta” arbete, vilket ger en mer sammanhängande och adaptiv organisationsdesign.",
+    "src": "0bdf40df",
+    "status": "draft"
+  },
+  "forming-a-team-of-teams.name": {
+    "en": "Forming a Team-of-Teams",
+    "text": "Att bilda ett team av team",
+    "src": "cfbc5c75",
+    "status": "draft"
+  },
+  "forming-a-team-of-teams.summary": {
+    "en": "Create a lightweight structure where teams align around shared goals while retaining autonomy in execution.",
+    "text": "Skapa en lättviktig struktur där teamen riktar in sig på gemensamma mål men behåller sin självständighet i genomförandet.",
+    "src": "c54b2268",
+    "status": "draft"
+  },
+  "holding-multi-team-product-backlog-refinement.name": {
+    "en": "Holding Multi-Team Product Backlog Refinement",
+    "text": "Att hålla backlogrefinement för flera team",
+    "src": "5ae163e2",
+    "status": "draft"
+  },
+  "holding-multi-team-product-backlog-refinement.summary": {
+    "en": "Bring multiple teams together regularly to build a shared understanding of upcoming work, risks, and coordination before execution.",
+    "text": "Samla flera team regelbundet för att bygga en gemensam förståelse av kommande arbete, risker och samordning innan genomförandet.",
+    "src": "3424a054",
+    "status": "draft"
+  },
+  "holding-product-level-reviews.name": {
+    "en": "Holding Product-Level Reviews",
+    "text": "Att hålla reviews på produktnivå",
+    "src": "51245d55",
+    "status": "draft"
+  },
+  "holding-product-level-reviews.summary": {
+    "en": "Inspect integrated product outcomes rather than isolated team outputs, keeping learning at the right level. In service organizations: reviewing end-to-end service outcomes, not departmental metrics. This Kata is often realized through formats such as Sprint Review Bazaars, where stakeholders and customers actively explore working solutions and provide direct feedback instead of passively consuming presentations.",
+    "text": "Granska integrerade produktoutcomes i stället för enskilda teams outputs, så att lärandet sker på rätt nivå. I tjänsteorganisationer: att granska end-to-end-outcomes för tjänsten, inte avdelningarnas mått. Katan genomförs ofta i format som Sprint Review Bazaars, där intressenter och kunder aktivt utforskar fungerande lösningar och ger direkt återkoppling i stället för att passivt ta del av presentationer.",
+    "src": "d667b4c5",
+    "status": "draft"
+  },
+  "implementing-beyond-budgeting.name": {
+    "en": "Implementing Beyond Budgeting",
+    "text": "Att införa Beyond Budgeting",
+    "src": "49a4b848",
+    "status": "draft"
+  },
+  "implementing-beyond-budgeting.summary": {
+    "en": "Loosen rigid annual planning constraints so resources can move as learning and priorities change.",
+    "text": "Lätta på de stela årliga planeringsramarna så att resurser kan flyttas när lärande och prioriteringar ändras.",
+    "src": "09632d1f",
+    "status": "draft"
+  },
+  "merging-product-backlogs.name": {
+    "en": "Merging Product Backlogs",
+    "text": "Att slå ihop produktbacklogar",
+    "src": "1912e800",
+    "status": "draft"
+  },
+  "merging-product-backlogs.summary": {
+    "en": "Reduce fragmentation by consolidating competing backlogs into fewer shared ones, forcing real prioritization at the level where value is created.",
+    "text": "Minska fragmenteringen genom att samla konkurrerande backlogar i färre gemensamma, så att verklig prioritering tvingas fram på den nivå där värdet skapas.",
+    "src": "4758673f",
+    "status": "draft"
+  },
+  "minimizing-distance-to-customers.name": {
+    "en": "Minimizing Distance to Customers",
+    "text": "Att minimera avståndet till kunderna",
+    "src": "082f4034",
+    "status": "draft"
+  },
+  "minimizing-distance-to-customers.summary": {
+    "en": "Create regular, direct contact between teams and customers so decisions are informed by reality rather than assumptions or proxies.",
+    "text": "Skapa regelbunden, direkt kontakt mellan team och kunder, så att besluten bygger på verkligheten i stället för antaganden eller ställföreträdare.",
+    "src": "d79c5218",
+    "status": "draft"
+  },
+  "moving-toward-multi-team-cross-functional-line-management.name": {
+    "en": "Moving Toward Multi-Team, Cross-Functional Line Management",
+    "text": "Att gå mot tvärfunktionell linjeledning över flera team",
+    "src": "a3df5cb8",
+    "status": "draft"
+  },
+  "moving-toward-multi-team-cross-functional-line-management.summary": {
+    "en": "Shift management focus from individual teams to multi-team value areas, enabling coordination and learning across boundaries.",
+    "text": "Flytta chefernas fokus från enskilda team till värdeområden med flera team, så att samordning och lärande kan ske över gränserna.",
+    "src": "4b35695e",
+    "status": "draft"
+  },
+  "organizing-around-products-not-projects.name": {
+    "en": "Organizing Around Products, Not Projects",
+    "text": "Att organisera kring produkter, inte projekt",
+    "src": "4b35f6e7",
+    "status": "draft"
+  },
+  "organizing-around-products-not-projects.summary": {
+    "en": "Replace temporary project slices with long-lived ownership of products, preserving learning and accountability over time.",
+    "text": "Ersätt tillfälliga projektskivor med långvarigt ägarskap av produkter, så att lärande och ansvar bevaras över tid.",
+    "src": "44a58c18",
+    "status": "draft"
+  },
+  "people.name": {
+    "en": "People",
+    "text": "Människor",
+    "src": "7db20897",
+    "status": "draft"
+  },
+  "people.starModel.definition": {
+    "en": "The skills, mindsets, and capacities needed: how the organization recruits, develops, and grows people to match its strategic needs.",
+    "text": "De färdigheter, tänkesätt och förmågor som behövs: hur organisationen rekryterar, utvecklar och låter människor växa för att möta sina strategiska behov.",
+    "src": "483808b2",
+    "status": "draft"
+  },
+  "people.starModel.element": {
+    "en": "People",
+    "text": "Människor",
+    "src": "7db20897",
+    "status": "draft"
+  },
+  "people.subtitle": {
+    "en": "Skills, Mindsets, Capabilities",
+    "text": "Färdigheter, tänkesätt, förmågor",
+    "src": "40fcfbe0",
+    "status": "draft"
+  },
+  "processes.name": {
+    "en": "Processes",
+    "text": "Processer",
+    "src": "4a81a7ba",
+    "status": "draft"
+  },
+  "processes.starModel.definition": {
+    "en": "How work and information flow: governance routines, planning and budgeting cycles, and decision-making processes.",
+    "text": "Hur arbete och information flödar: styrningsrutiner, plannings- och budgetcykler samt beslutsprocesser.",
+    "src": "062511ed",
+    "status": "draft"
+  },
+  "processes.starModel.element": {
+    "en": "Processes",
+    "text": "Processer",
+    "src": "4a81a7ba",
+    "status": "draft"
+  },
+  "processes.subtitle": {
+    "en": "Information and Decision Flows",
+    "text": "Informations- och beslutsflöden",
+    "src": "d2fd8c0a",
+    "status": "draft"
+  },
+  "re-centering-product-ownership-on-strategy-and-outcomes.name": {
+    "en": "Re-Centering Product Ownership on Strategy and Outcomes",
+    "text": "Att flytta produktägarskapet till strategi och outcomes",
+    "src": "55792e50",
+    "status": "draft"
+  },
+  "re-centering-product-ownership-on-strategy-and-outcomes.summary": {
+    "en": "Position product ownership where strategic intent and value meet, with responsibility for outcomes rather than team-level delivery coordination. This requires avoiding team-level local product ownership and introducing shared or unified product ownership structures.",
+    "text": "Placera produktägarskapet där strategisk avsikt och värde möts, med ansvar för outcomes i stället för samordning av leveransen på teamnivå. Det kräver att man undviker lokalt produktägarskap på teamnivå och inför gemensamma eller enhetliga strukturer för produktägarskap.",
+    "src": "c0ae9f94",
+    "status": "draft"
+  },
+  "redefining-the-manager-role-around-capability-building-and-system-stewardship.name": {
+    "en": "Redefining the Manager Role Around Capability-Building and System Stewardship",
+    "text": "Att omdefiniera chefsrollen kring förmågebyggande och systemansvar",
+    "src": "7820db42",
+    "status": "draft"
+  },
+  "redefining-the-manager-role-around-capability-building-and-system-stewardship.summary": {
+    "en": "Shift managers away from issuing instructions toward growing people and expanding mandates—developing the capabilities and judgment required for broader, end-to-end ownership while stewarding the system that surrounds the work.",
+    "text": "Flytta cheferna från att ge instruktioner till att utveckla människor och vidga mandat – bygga den förmåga och det omdöme som krävs för bredare, end-to-end-ägarskap – samtidigt som de förvaltar systemet runt arbetet.",
+    "src": "4c6ac708",
+    "status": "draft"
+  },
+  "rewards.name": {
+    "en": "Rewards",
+    "text": "Belöningar",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "rewards.starModel.definition": {
+    "en": "How people are motivated and steered: compensation, promotions, recognition, and other formal and informal incentives.",
+    "text": "Hur människor motiveras och styrs: ersättning, befordringar, erkännande och andra formella och informella incitament.",
+    "src": "3b99a2e6",
+    "status": "draft"
+  },
+  "rewards.starModel.element": {
+    "en": "Rewards",
+    "text": "Belöningar",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "rewards.subtitle": {
+    "en": "Incentives and Motivation",
+    "text": "Incitament och motivation",
+    "src": "22601fcf",
+    "status": "draft"
+  },
+  "sharing-ownership-across-teams.name": {
+    "en": "Sharing Ownership Across Teams",
+    "text": "Att dela ägarskap mellan team",
+    "src": "0301eb9e",
+    "status": "draft"
+  },
+  "sharing-ownership-across-teams.summary": {
+    "en": "Expand technical ownership boundaries so teams can improve and fix issues without waiting on specialists or gatekeepers. In the software development context, this implies allowing the teams to work across the entire codebase. In service organizations: sharing ownership of processes, policies, or case handling.",
+    "text": "Vidga de tekniska ägarskapsgränserna så att teamen kan förbättra och rätta till problem utan att vänta på specialister eller grindvakter. I mjukvaruutveckling innebär det att teamen får arbeta i hela kodbasen. I tjänsteorganisationer: att dela ägarskapet för processer, policyer eller ärendehantering.",
+    "src": "3f38aef6",
+    "status": "draft"
+  },
+  "sharing-the-same-cadence-across-teams.name": {
+    "en": "Sharing the Same Cadence Across Teams",
+    "text": "Att dela samma kadens mellan team",
+    "src": "bd43e017",
+    "status": "draft"
+  },
+  "sharing-the-same-cadence-across-teams.summary": {
+    "en": "Create transparency for doing and inspecting the work in a shared rhythm for planning, review, and learning.",
+    "text": "Skapa transparens i utförande och granskning av arbetet genom en gemensam rytm för planering, review och lärande.",
+    "src": "d13956de",
+    "status": "draft"
+  },
+  "slicing-work-vertically.name": {
+    "en": "Slicing Work Vertically",
+    "text": "Att skiva arbetet vertikalt",
+    "src": "85417437",
+    "status": "draft"
+  },
+  "slicing-work-vertically.summary": {
+    "en": "Practice breaking work into end-to-end increments that deliver learning and value, not partial progress.",
+    "text": "Öva på att dela upp arbetet i end-to-end-inkrement som ger lärande och värde, inte delvis framsteg.",
+    "src": "f1df0365",
+    "status": "draft"
+  },
+  "strategy.name": {
+    "en": "Strategy",
+    "text": "Strategi",
+    "src": "6b27710d",
+    "status": "draft"
+  },
+  "strategy.starModel.definition": {
+    "en": "The outcomes the organization is designed to achieve are derived from the strategy and are used as the benchmark for all design choices.",
+    "text": "De resultat organisationen är designad för att uppnå härleds ur strategin och används som måttstock för alla designval.",
+    "src": "6c0e2eee",
+    "status": "draft"
+  },
+  "strategy.starModel.element": {
+    "en": "Org Design Criteria",
+    "text": "Designkriterier för organisationen",
+    "src": "56d81480",
+    "status": "draft"
+  },
+  "strategy.subtitle": {
+    "en": "Direction and Goals",
+    "text": "Riktning och mål",
+    "src": "aada62ca",
+    "status": "draft"
+  },
+  "structure.name": {
+    "en": "Structure",
+    "text": "Struktur",
+    "src": "7203c2b3",
+    "status": "draft"
+  },
+  "structure.starModel.definition": {
+    "en": "How power and authority are distributed: roles, units, reporting lines, and the basic architecture of who reports to whom.",
+    "text": "Hur makt och befogenheter fördelas: roller, enheter, rapporteringsvägar och den grundläggande arkitekturen för vem som rapporterar till vem.",
+    "src": "0dd642f9",
+    "status": "draft"
+  },
+  "structure.starModel.element": {
+    "en": "Structure",
+    "text": "Struktur",
+    "src": "7203c2b3",
+    "status": "draft"
+  },
+  "structure.subtitle": {
+    "en": "Power, Authority, Organization",
+    "text": "Makt, befogenheter, organisation",
+    "src": "e9315357",
+    "status": "draft"
+  },
+  "using-obeya-for-org-topology-evolution.name": {
+    "en": "Using Obeya for Org Topology Evolution",
+    "text": "Att använda Obeya för att utveckla organisationstopologin",
+    "src": "e3cb4c85",
+    "status": "draft"
+  },
+  "using-obeya-for-org-topology-evolution.summary": {
+    "en": "Use a shared decision space to connect strategy, evidence, and organizational design constraints, enabling deliberate topology evolution rather than merely tracking delivery.",
+    "text": "Använd ett gemensamt beslutsrum för att koppla ihop strategi, evidens och organisationsdesignens begränsningar, så att topologin utvecklas medvetet i stället för att bara följa leveransen.",
+    "src": "b8ff8090",
+    "status": "draft"
+  },
+  "using-synchronous-team-work-to-expand-capability-and-ownership.name": {
+    "en": "Using Synchronous Team Work to Expand Capability and Ownership",
+    "text": "Att använda synkront teamarbete för att vidga förmåga och ägarskap",
+    "src": "b7a2fdbb",
+    "status": "draft"
+  },
+  "using-synchronous-team-work-to-expand-capability-and-ownership.summary": {
+    "en": "Apply pairing, mobbing, and other forms of real synchronous work across role, team and functional boundaries to deliberately grow skills and reduce reliance on specialists or handoffs.",
+    "text": "Använd parprogrammering, mobbing och andra former av verkligt synkront arbete över roll-, team- och funktionsgränser för att medvetet växa i färdigheter och minska beroendet av specialister eller överlämningar.",
+    "src": "b1969ee9",
+    "status": "draft"
+  },
+  "volunteering-for-work.name": {
+    "en": "Volunteering for Work",
+    "text": "Att anmäla sig frivilligt till arbete",
+    "src": "c9d80d7d",
+    "status": "draft"
+  },
+  "volunteering-for-work.summary": {
+    "en": "Enable individuals and teams to pull work where value is highest, rather than relying on predefined assignments. This kata increases organizational flexibility and shared ownership, and can be enacted through deliberate self-selection mechanisms (e.g., Open Space–style sessions).",
+    "text": "Låt individer och team dra till sig arbete där värdet är störst, i stället för att förlita sig på förutbestämda uppdrag. Katan ökar organisationens flexibilitet och det gemensamma ägarskapet och kan genomföras med medvetna mekanismer för självval (till exempel sessioner i stil med Open Space).",
+    "src": "64476c61",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "badges.0.label": {
+    "en": "Best Seller · Business Management",
+    "text": "ベストセラー · ビジネスマネジメント",
+    "src": "e6adc84f",
+    "status": "draft"
+  },
+  "badges.1.label": {
+    "en": "Best Seller · Management Science",
+    "text": "ベストセラー · マネジメント科学",
+    "src": "d9d45bc7",
+    "status": "draft"
+  },
+  "badges.2.label": {
+    "en": "Best Seller · Strategic Management",
+    "text": "ベストセラー · 戦略マネジメント",
+    "src": "72b86481",
+    "status": "draft"
+  },
+  "body": {
+    "en": "A business novel with a working method inside. The CEO wants fewer hires and more AI. Hanna, head of HR, looks through the Org Topologies lens — and finds an org design [misfit](term:misfit) no tool can fix. Principles, maps and real case studies along the way.",
+    "text": "実用的な手法を内に秘めたビジネス小説です。CEOは採用を減らし、AIを増やしたい。人事責任者のHannaがOrg Topologies™ のレンズで見ると、どんなツールでも直せない組織設計の[ミスフィット](term:misfit)が見えてきます。原則、マップ、実際の事例を、物語の中で学べます。",
+    "src": "22baf480",
+    "status": "draft"
+  },
+  "buy.formats": {
+    "en": "PDF, EPUB and web",
+    "text": "PDF、EPUB、Web版",
+    "src": "90c6906a",
+    "status": "draft"
+  },
+  "buy.links.0.label": {
+    "en": "Amazon.com",
+    "text": "Amazon.com",
+    "src": "4228fa7a",
+    "status": "draft"
+  },
+  "buy.links.1.label": {
+    "en": "Amazon.de",
+    "text": "Amazon.de",
+    "src": "4d69a3a5",
+    "status": "draft"
+  },
+  "buy.links.2.label": {
+    "en": "Amazon.fr",
+    "text": "Amazon.fr",
+    "src": "a601f3fe",
+    "status": "draft"
+  },
+  "buy.links.3.label": {
+    "en": "Amazon.nl",
+    "text": "Amazon.nl",
+    "src": "17e9b19a",
+    "status": "draft"
+  },
+  "buy.otherLinks.0.label": {
+    "en": "Leanpub",
+    "text": "Leanpub",
+    "src": "9c4d6c84",
+    "status": "draft"
+  },
+  "cover.alt": {
+    "en": "10X ORG book cover",
+    "text": "『10X ORG』の表紙",
+    "src": "e5243dbf",
+    "status": "draft"
+  },
+  "cta.label": {
+    "en": "More about the book ↗",
+    "text": "書籍の詳細 ↗",
+    "src": "2d9b6e48",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "10X ORG",
+    "text": "10X ORG",
+    "src": "a6f6e5fe",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "THE BOOK · POWERED BY ORG TOPOLOGIES",
+    "text": "書籍 · ORG TOPOLOGIES™ が支える一冊",
+    "src": "710e5fff",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "10X is not more activity. It is a tenfold increase in the organization's capability to learn, evolve, create value and stay strategically aligned.",
+    "text": "10Xとは、活動量を増やすことではありません。組織が学び、進化し、価値を生み、戦略との整合を保つ力を、10倍にすることです。",
+    "src": "dfba429c",
+    "status": "draft"
+  },
+  "pullQuote": {
+    "en": "“10X is a vote for humanity in an era obsessed with mechanical efficiency.”",
+    "text": "「10Xは、機械的な効率に取り憑かれた時代に、人間性へ一票を投じる本だ。」",
+    "src": "2d5963cc",
+    "status": "draft"
+  },
+  "testimonials.items.0.name": {
+    "en": "Dave West",
+    "text": "Dave West",
+    "src": "eb9b5447",
+    "status": "draft"
+  },
+  "testimonials.items.0.quote": {
+    "en": "“You might be surprised how disconnected your organization’s structure is from what you are trying to achieve with it. In this book, Alexey and Roland describe a practical approach to organizational redesign, offering a blueprint for success.”",
+    "text": "「組織の構造が、実現したいことといかにかみ合っていないか。意外に思う人は多いでしょう。本書でAlexeyとRolandは、組織再設計の実践的なアプローチを示し、成功への設計図を描いています。」",
+    "src": "6e7e9d3b",
+    "status": "draft"
+  },
+  "testimonials.items.0.role": {
+    "en": "CEO at Scrum.org (USA)",
+    "text": "Scrum.org CEO(米国)",
+    "src": "cb8d3079",
+    "status": "draft"
+  },
+  "testimonials.items.1.quote": {
+    "en": "“Most management books add complexity. This one strips it away. And it does so while being genuinely fun to read, which... for a book about organizational design, is practically a miracle.”",
+    "text": "「たいていのマネジメント書は複雑さを足していきます。この本は、それを削ぎ落とします。しかも読んでいて本当に楽しい。組織設計の本としては、ほとんど奇跡です。」",
+    "src": "e2e07066",
+    "status": "draft"
+  },
+  "testimonials.items.1.role": {
+    "en": "Your Chief Simplification Officer (Belgium)",
+    "text": "Your Chief Simplification Officer(ベルギー)",
+    "src": "10472db8",
+    "status": "draft"
+  },
+  "testimonials.items.1.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.10.quote": {
+    "en": "“Packed with practical tips that help me reflect and act in my role as a leader. This is a book you should always have in your back pocket!”",
+    "text": "「リーダーとしての自分を振り返り、行動に移すための実践的なヒントがぎっしり。いつもポケットに入れておきたい一冊です。」",
+    "src": "6fda0454",
+    "status": "draft"
+  },
+  "testimonials.items.10.role": {
+    "en": "Director Anti-Financial Crime Operations, ASN Bank (Netherlands)",
+    "text": "ASN Bank 金融犯罪対策オペレーション責任者(オランダ)",
+    "src": "d976246e",
+    "status": "draft"
+  },
+  "testimonials.items.11.quote": {
+    "en": "“10X Org is one of the few org/design books I've read that genuinely integrates systems thinking, orgl design and AI leverage in a coherent way.”",
+    "text": "「システム思考、組織設計、AIの活用を、ここまで筋よく統合した組織設計の本は、私が読んだ中でも数少ないです。」",
+    "src": "a927641e",
+    "status": "draft"
+  },
+  "testimonials.items.11.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.12.name": {
+    "en": "Zdenek",
+    "text": "Zdenek",
+    "src": "27bfef25",
+    "status": "draft"
+  },
+  "testimonials.items.12.quote": {
+    "en": "“The characters feel so real that I kept thinking: \"Yep, I've worked with this person.\" … For me, the storyline made the ideas stick.”",
+    "text": "「登場人物がとてもリアルで、『いるいる、こういう人と働いたことがある』と何度も思いました。……私には、物語のおかげで考え方が頭に残りました。」",
+    "src": "25fbe4c3",
+    "status": "draft"
+  },
+  "testimonials.items.12.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.13.name": {
+    "en": "Michiel de van der Schueren",
+    "text": "Michiel de van der Schueren",
+    "src": "ca7aab3f",
+    "status": "draft"
+  },
+  "testimonials.items.13.quote": {
+    "en": "“OT gave me the insight that growing companies suffer from a growing need for coordination … The Team-of-Teams, guided by a common vision and goal, requires less top-down coordination.”",
+    "text": "「OTのおかげで、成長する会社ほど調整の必要が増えていくことに気づきました。……共通のビジョンとゴールに導かれるチーム・オブ・チームズなら、トップダウンの調整は少なくて済みます。」",
+    "src": "660d77d5",
+    "status": "draft"
+  },
+  "testimonials.items.13.role": {
+    "en": "Digital transformation lead, public sector, Rapid Circle (Netherlands)",
+    "text": "Rapid Circle 公共部門デジタルトランスフォーメーション・リード(オランダ)",
+    "src": "d7b3110a",
+    "status": "draft"
+  },
+  "testimonials.items.14.name": {
+    "en": "Mike Maikovych",
+    "text": "Mike Maikovych",
+    "src": "778dc477",
+    "status": "draft"
+  },
+  "testimonials.items.14.quote": {
+    "en": "“With all the hype around AI, I was getting anxious about my future as a developer. This book helped me change my perspective and understand how to steer my career to remain productive and valuable in my organization.”",
+    "text": "「AIをめぐる騒ぎで、開発者としての将来が不安になっていました。この本のおかげで見方が変わり、組織の中で生産的で価値ある存在でい続けるために、キャリアをどう舵取りすればよいかがわかりました。」",
+    "src": "bf0bd0ff",
+    "status": "draft"
+  },
+  "testimonials.items.14.source.label": {
+    "en": "★★★★★ on Amazon.com",
+    "text": "Amazon.com ★★★★★",
+    "src": "0379c85b",
+    "status": "draft"
+  },
+  "testimonials.items.15.name": {
+    "en": "Robert Briese",
+    "text": "Robert Briese",
+    "src": "b1c50dea",
+    "status": "draft"
+  },
+  "testimonials.items.15.quote": {
+    "en": "“As someone who has worked for years with organizational design and large-scale agile transformations, I rarely get genuinely excited about a management book. 10x Org is one of those rare exceptions.”",
+    "text": "「長年、組織設計や大規模なアジャイル変革に携わってきましたが、マネジメント書に心から興奮することはめったにありません。『10x Org』はその数少ない例外です。」",
+    "src": "782f9f45",
+    "status": "draft"
+  },
+  "testimonials.items.15.source.label": {
+    "en": "★★★★★ on Amazon.de",
+    "text": "Amazon.de ★★★★★",
+    "src": "b0a6caaa",
+    "status": "draft"
+  },
+  "testimonials.items.16.name": {
+    "en": "Natalia",
+    "text": "Natalia",
+    "src": "10d1e10c",
+    "status": "draft"
+  },
+  "testimonials.items.16.quote": {
+    "en": "“I particularly liked the “Ferrari Effect” metaphor: AI can make individuals faster, but if the organisation still has traffic jams and roadblocks, overall performance will not improve.”",
+    "text": "「特に気に入ったのは『フェラーリ効果』のたとえです。AIで個人は速くなっても、組織に渋滞や通行止めが残っていれば、全体のパフォーマンスは上がりません。」",
+    "src": "69dfce16",
+    "status": "draft"
+  },
+  "testimonials.items.16.source.label": {
+    "en": "★★★★★ on Amazon.com",
+    "text": "Amazon.com ★★★★★",
+    "src": "0379c85b",
+    "status": "draft"
+  },
+  "testimonials.items.17.name": {
+    "en": "Koen Siegers",
+    "text": "Koen Siegers",
+    "src": "900c986a",
+    "status": "draft"
+  },
+  "testimonials.items.17.quote": {
+    "en": "“For me, Org Topologies™ has become the missing piece of the puzzle that connects agility, frameworks, switching costs, transaction costs, learning costs, to organizational design.”",
+    "text": "「私にとってOrg Topologies™ は、アジリティ、フレームワーク、切り替えコスト、取引コスト、学習コストを、組織設計につなぐ、欠けていたピースになりました。」",
+    "src": "45df616d",
+    "status": "draft"
+  },
+  "testimonials.items.17.source.label": {
+    "en": "★★★★★ on Amazon.com",
+    "text": "Amazon.com ★★★★★",
+    "src": "0379c85b",
+    "status": "draft"
+  },
+  "testimonials.items.18.name": {
+    "en": "Pelzl",
+    "text": "Pelzl",
+    "src": "1b697222",
+    "status": "draft"
+  },
+  "testimonials.items.18.quote": {
+    "en": "“This book goes straight to the heart of the issue: the real bottleneck is rarely the technology — it’s the organizational design.”",
+    "text": "「この本は問題の核心を突いています。本当のボトルネックは、技術であることはまれで、たいていは組織設計です。」",
+    "src": "05e6993b",
+    "status": "draft"
+  },
+  "testimonials.items.18.source.label": {
+    "en": "★★★★★ on Amazon.de",
+    "text": "Amazon.de ★★★★★",
+    "src": "b0a6caaa",
+    "status": "draft"
+  },
+  "testimonials.items.19.name": {
+    "en": "Viktor",
+    "text": "Viktor",
+    "src": "f82578ee",
+    "status": "draft"
+  },
+  "testimonials.items.19.quote": {
+    "en": "“Good managers understand the relationship between organisational performance and how work and skills are structured. Great managers apply this in practice.”",
+    "text": "「良いマネージャーは、組織のパフォーマンスと、仕事やスキルの構造との関係を理解しています。優れたマネージャーは、それを実践します。」",
+    "src": "2307afa1",
+    "status": "draft"
+  },
+  "testimonials.items.19.source.label": {
+    "en": "★★★★★ on Amazon.nl",
+    "text": "Amazon.nl ★★★★★",
+    "src": "26204223",
+    "status": "draft"
+  },
+  "testimonials.items.2.name": {
+    "en": "Taru Vasenius",
+    "text": "Taru Vasenius",
+    "src": "c6f9e152",
+    "status": "draft"
+  },
+  "testimonials.items.2.quote": {
+    "en": "“Absolutely one of the best books in recent years—and certainly the best at explaining how to get the maximum possible value out of AI. … We purchased the book for our entire executive team, along with 10 additional copies to circulate among others.”",
+    "text": "「ここ数年で間違いなく指折りの一冊です。AIから最大の価値を引き出す方法の説明では、群を抜いています。……経営陣全員に本書を購入し、ほかの人に回すための10冊も追加で買いました。」",
+    "src": "1b0ceff5",
+    "status": "draft"
+  },
+  "testimonials.items.2.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.20.name": {
+    "en": "Francois",
+    "text": "Francois",
+    "src": "648cd9b9",
+    "status": "draft"
+  },
+  "testimonials.items.20.quote": {
+    "en": "“A dialogue-based book that you finish thinking \"okay, now I see it.\" A really necessary book for managers.”",
+    "text": "「対話形式で進み、読み終えると『なるほど、わかった』と思える本。マネージャーには本当に必要な一冊です。」",
+    "src": "8613d16e",
+    "status": "draft"
+  },
+  "testimonials.items.20.source.label": {
+    "en": "★★★★★ on Amazon.fr",
+    "text": "Amazon.fr ★★★★★",
+    "src": "d1f19de2",
+    "status": "draft"
+  },
+  "testimonials.items.21.name": {
+    "en": "Alexandra",
+    "text": "Alexandra",
+    "src": "9cb20def",
+    "status": "draft"
+  },
+  "testimonials.items.21.quote": {
+    "en": "“A powerful and practical guide for modern leaders. Clear thinking, actionable frameworks, and a compelling vision for combining people and AI to elevate performance. Highly recommended.”",
+    "text": "「現代のリーダーにとって、力強く実践的な指南書です。考え方が明快で、すぐ使えるフレームワークがあり、人とAIを組み合わせてパフォーマンスを高めるという説得力のあるビジョンが示されています。強くおすすめします。」",
+    "src": "3c044901",
+    "status": "draft"
+  },
+  "testimonials.items.21.source.label": {
+    "en": "★★★★★ on Amazon.de",
+    "text": "Amazon.de ★★★★★",
+    "src": "b0a6caaa",
+    "status": "draft"
+  },
+  "testimonials.items.22.name": {
+    "en": "Chiel",
+    "text": "Chiel",
+    "src": "2f9a5e91",
+    "status": "draft"
+  },
+  "testimonials.items.22.quote": {
+    "en": "“The exchange between novel and narrative, and explanation of how they helped organisations based on real life experience and examples, is a refreshing way of storytelling as well as educating. A pleasant yet educative read!”",
+    "text": "「小説の部分と、実体験や実例にもとづいて組織をどう助けたかを説く解説部分が交互に現れる構成は、新鮮な語り口であり学びの形でもあります。心地よく、しかも学びの多い読書でした。」",
+    "src": "c504743f",
+    "status": "draft"
+  },
+  "testimonials.items.22.source.label": {
+    "en": "★★★★★ on Amazon.nl",
+    "text": "Amazon.nl ★★★★★",
+    "src": "26204223",
+    "status": "draft"
+  },
+  "testimonials.items.3.quote": {
+    "en": "“The book’s core insight is clear: true 10X growth requires rethinking organisational structure—not just adding technology to existing silos. If you want real organisational improvement—not just theatre—read it to understand why fluid scaling and self-organisation are the key building blocks for 10X change.”",
+    "text": "「本書の核心は明快です。本当の10Xの成長には、既存のサイロに技術を足すだけでなく、組織構造を考え直すことが要る。見せかけではなく本物の組織改善を望むなら、流動的なスケーリングと自己組織化がなぜ10Xの変革の鍵になるのかを知るために、読んでください。」",
+    "src": "feb6fde6",
+    "status": "draft"
+  },
+  "testimonials.items.3.role": {
+    "en": "Creator of FAST Agile (USA)",
+    "text": "FAST Agile 考案者(米国)",
+    "src": "e342ea34",
+    "status": "draft"
+  },
+  "testimonials.items.4.quote": {
+    "en": "“Despite being written for the context of 2026, the book is a heavyweight packed with timeless organizational wisdom. My highlighter literally ran out of ink trying to mark all the nuggets for future educational use.”",
+    "text": "「2026年の文脈で書かれていますが、時代を超える組織の知恵が詰まった重量級の一冊です。あとで教育に使えそうな箇所に印をつけていたら、蛍光ペンのインクが本当に切れました。」",
+    "src": "67e262fe",
+    "status": "draft"
+  },
+  "testimonials.items.4.role": {
+    "en": "Strategic Executive Partner (Norway)",
+    "text": "Strategic Executive Partner(ノルウェー)",
+    "src": "7215d86c",
+    "status": "draft"
+  },
+  "testimonials.items.4.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.5.name": {
+    "en": "Tomasz Zelezny",
+    "text": "Tomasz Zelezny",
+    "src": "dad7df9c",
+    "status": "draft"
+  },
+  "testimonials.items.5.quote": {
+    "en": "“A rare book that actually changes how you see organizations. … If you've ever sat through a reorg that solved nothing, or watched an 'AI transformation' stall because nobody addressed the underlying structure — this book names what you were feeling and gives you a vocabulary to act on it.”",
+    "text": "「組織の見え方を本当に変えてくれる、めずらしい本です。……何も解決しなかった組織再編に付き合ったことがある人、組織構造に手をつけないまま『AIトランスフォーメーション』が止まるのを見たことがある人なら、あのもやもやに名前をつけ、行動に移すための語彙を与えてくれる本です。」",
+    "src": "b05819be",
+    "status": "draft"
+  },
+  "testimonials.items.5.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.6.quote": {
+    "en": "“As someone who lives in the world of Flow, Kanban Strategy, TameFlow, and Org Design, this is the book I've been waiting for.”",
+    "text": "「フロー、カンバン戦略、TameFlow、組織設計の世界で生きている者として、これはずっと待っていた本です。」",
+    "src": "2e11c951",
+    "status": "draft"
+  },
+  "testimonials.items.6.role": {
+    "en": "ProKanban Trainer (France)",
+    "text": "ProKanban トレーナー(フランス)",
+    "src": "3294102b",
+    "status": "draft"
+  },
+  "testimonials.items.6.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.7.name": {
+    "en": "Jens Thiemann",
+    "text": "Jens Thiemann",
+    "src": "437c132b",
+    "status": "draft"
+  },
+  "testimonials.items.7.quote": {
+    "en": "“The core contribution of the book is simple but powerful: performance is structural. … What I appreciate most in the book is that it treats organizational design not as a consultant deliverable, but as a leadership responsibility!”",
+    "text": "「本書の中心にある主張は、単純ですが力強いものです。パフォーマンスは構造によって決まる。……いちばん良いと思ったのは、組織設計をコンサルタントの成果物としてではなく、リーダーの責任として扱っている点です。」",
+    "src": "b3b1bb48",
+    "status": "draft"
+  },
+  "testimonials.items.7.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.items.8.name": {
+    "en": "Zuzi Šochová",
+    "text": "Zuzi Šochová",
+    "src": "a6a00432",
+    "status": "draft"
+  },
+  "testimonials.items.8.quote": {
+    "en": "“For me, the Org Topologies concept brought new light and joy into scaling conversations, and I would highly recommend it for any organization, no matter how far they are on their agile journey.”",
+    "text": "「私にとってOrg Topologiesの考え方は、スケーリングをめぐる対話に新しい光と喜びをもたらしてくれました。アジャイルの歩みがどこまで進んだ組織でも、おすすめします。」",
+    "src": "10738173",
+    "status": "draft"
+  },
+  "testimonials.items.8.role": {
+    "en": "Certified Scrum Trainer; author of The Great ScrumMaster (Czech Republic)",
+    "text": "認定スクラムトレーナー、『The Great ScrumMaster』著者(チェコ)",
+    "src": "3498a85e",
+    "status": "draft"
+  },
+  "testimonials.items.9.name": {
+    "en": "Ilja Vi",
+    "text": "Ilja Vi",
+    "src": "5c70d8b3",
+    "status": "draft"
+  },
+  "testimonials.items.9.quote": {
+    "en": "“In a way, reading 10xOrg feels like revisiting Peter Senge's The Fifth Discipline in the Age of AI.”",
+    "text": "「ある意味、『10xOrg』を読むのは、Peter Sengeの『学習する組織』をAI時代に読み直すような体験です。」",
+    "src": "0e5ed5d6",
+    "status": "draft"
+  },
+  "testimonials.items.9.source.label": {
+    "en": "★★★★★ on Goodreads",
+    "text": "Goodreads ★★★★★",
+    "src": "f3cca378",
+    "status": "draft"
+  },
+  "testimonials.kicker": {
+    "en": "WHAT REVIEWERS AND READERS SAY",
+    "text": "レビュアーと読者の声",
+    "src": "d877cdbf",
+    "status": "draft"
+  }
+}

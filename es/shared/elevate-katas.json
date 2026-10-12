@@ -1,0 +1,56 @@
+{
+  "allCases.label": {
+    "en": "All case studies with katas →",
+    "text": "Todos los casos de estudio con katas →",
+    "src": "4cc52884",
+    "status": "draft"
+  },
+  "casesKicker": {
+    "en": "Case studies rich in katas",
+    "text": "Casos de estudio ricos en katas",
+    "src": "3551d57f",
+    "status": "draft"
+  },
+  "elements": {
+    "en": "The katas are grouped by the five elements of Jay Galbraith’s Star Model™: change one element and the others must follow.",
+    "text": "Los katas se agrupan según los cinco elementos del Star Model™ de Jay Galbraith: si cambias un elemento, los demás deben seguirlo.",
+    "src": "804bf86d",
+    "status": "draft"
+  },
+  "explore.label": {
+    "en": "Explore the Katalog →",
+    "text": "Explora el Katalog →",
+    "src": "0a155c6c",
+    "status": "draft"
+  },
+  "figure.alt": {
+    "en": "Elevating Katas: a big arrow lifts a web of narrow, dependent units in the bottom left of the Org Topologies map toward a team of teams in the top right, labelled Elevate to Adaptive Topology",
+    "text": "Elevating Katas: una gran flecha eleva una red de unidades estrechas y dependientes, abajo a la izquierda del mapa de Org Topologies, hacia un equipo de equipos arriba a la derecha, con la leyenda Elevate to Adaptive Topology",
+    "src": "25fe3861",
+    "status": "draft"
+  },
+  "figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILUSTRACIÓN · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ELEVATE · STEP 4 OF MADE",
+    "text": "ELEVATE · PASO 4 DE MADE",
+    "src": "3bf90c77",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Elevating is a deliberate move right and up on the map. The katas are the moves: small, repeatable routines that change how the organization works. A menu, not a sequence: start with the few that match your most pressing constraint.",
+    "text": "Elevar es un movimiento deliberado hacia la derecha y hacia arriba en el mapa. Los katas son esos movimientos: rutinas pequeñas y repetibles que cambian cómo funciona la organización. Un menú, no una secuencia: empieza por los pocos que se ajusten a tu restricción más urgente.",
+    "src": "cb295cbd",
+    "status": "draft"
+  }
+}

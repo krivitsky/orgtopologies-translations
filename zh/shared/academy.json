@@ -1,0 +1,104 @@
+{
+  "bar.body": {
+    "en": "Practitioner (C-OTP) and Consultant (C-OTC) classes, live online and in person.",
+    "text": "Practitioner (C-OTP) 和 Consultant (C-OTC) 课程，线上直播与线下面授。",
+    "src": "7021ffd7",
+    "status": "draft"
+  },
+  "bar.cta.label": {
+    "en": "Visit the Academy →",
+    "text": "访问 Academy →",
+    "src": "2e415b5d",
+    "status": "draft"
+  },
+  "courses.0.badge.alt": {
+    "en": "Certified Org Topologies Practitioner (C-OTP) badge",
+    "text": "Certified Org Topologies Practitioner (C-OTP) 徽章",
+    "src": "f53ce26c",
+    "status": "draft"
+  },
+  "courses.0.body": {
+    "en": "Live sessions for executives, managers, consultants and change agents who want to redesign their organization for performance — and then let AI accelerate it.",
+    "text": "面向高管、管理者、顾问和变革推动者的直播课程，帮助您为提升绩效而重新设计组织，再让 AI 加速这一过程。",
+    "src": "c84a0f8c",
+    "status": "draft"
+  },
+  "courses.0.kicker": {
+    "en": "LIVE ONLINE · FOR LEADERS AND CHANGE AGENTS",
+    "text": "线上直播 · 面向领导者和变革推动者",
+    "src": "774872f6",
+    "status": "draft"
+  },
+  "courses.0.link.label": {
+    "en": "C-OTP dates →",
+    "text": "C-OTP 日期 →",
+    "src": "692c95ca",
+    "status": "draft"
+  },
+  "courses.0.tagline": {
+    "en": "Designing Adaptive Organizations for the Agentic Age.",
+    "text": "为智能体时代设计适应型组织。",
+    "src": "dc85ef0b",
+    "status": "draft"
+  },
+  "courses.0.title": {
+    "en": "C-OTP · Practitioner",
+    "text": "C-OTP · Practitioner",
+    "src": "69c2f98b",
+    "status": "draft"
+  },
+  "courses.1.badge.alt": {
+    "en": "Certified Org Topologies Consultant (C-OTC) badge",
+    "text": "Certified Org Topologies Consultant (C-OTC) 徽章",
+    "src": "6675cca6",
+    "status": "draft"
+  },
+  "courses.1.body": {
+    "en": "Bring a real case, map it with Org Topologies, and leave with a practical redesign direction and first steps to test it. Includes the path to C-OTC accreditation.",
+    "text": "带来一个真实案例，用 Org Topologies 绘制地图，带走切实可行的重新设计方向和验证它的第一步。包含通往 C-OTC 认证的路径。",
+    "src": "b037f833",
+    "status": "draft"
+  },
+  "courses.1.kicker": {
+    "en": "2-DAY BOOTCAMP · IN PERSON",
+    "text": "2 天集训营 · 线下",
+    "src": "fab1041e",
+    "status": "draft"
+  },
+  "courses.1.link.label": {
+    "en": "Explore C-OTC →",
+    "text": "了解 C-OTC →",
+    "src": "e08f65f9",
+    "status": "draft"
+  },
+  "courses.1.tagline": {
+    "en": "Org Redesign for the Agentic Age.",
+    "text": "为智能体时代重新设计组织。",
+    "src": "51edd63e",
+    "status": "draft"
+  },
+  "courses.1.title": {
+    "en": "C-OTC · Consultant",
+    "text": "C-OTC · Consultant",
+    "src": "62f253ff",
+    "status": "draft"
+  },
+  "eventsCaption": {
+    "en": "All upcoming events",
+    "text": "所有即将举行的活动",
+    "src": "bfb65777",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "学习 Org Topologies 方法",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  }
+}

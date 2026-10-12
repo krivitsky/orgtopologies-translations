@@ -1,0 +1,38 @@
+{
+  "Adaptive Topology": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "Delivery Topology": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "Org goal: adaptiveness": {
+    "en": "Org goal: adaptiveness",
+    "text": "組織ゴール：適応性",
+    "src": "f071d74e",
+    "status": "draft"
+  },
+  "Org goal: predictable flow": {
+    "en": "Org goal: predictable flow",
+    "text": "組織ゴール：予測可能なフロー",
+    "src": "6933b1be",
+    "status": "draft"
+  },
+  "Org goal: utilization": {
+    "en": "Org goal: utilization",
+    "text": "組織ゴール：稼働率",
+    "src": "0219731f",
+    "status": "draft"
+  },
+  "Resource Topology": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  }
+}

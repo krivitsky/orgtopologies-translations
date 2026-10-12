@@ -1,0 +1,50 @@
+{
+  "page.description": {
+    "en": "Every Org Topologies term in one place: the map, the four intelligences, topologies, MADE, Elevating Katas and AI, defined as in the book 10X ORG.",
+    "text": "Усі терміни Org Topologies в одному місці: мапа, чотири інтелекти, топології, MADE, Elevating Katas та ШІ, визначені так, як у книзі 10X ORG.",
+    "src": "c745b22e",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Glossary: the Org Topologies vocabulary",
+    "text": "Глосарій: словник Org Topologies",
+    "src": "55c6d637",
+    "status": "draft"
+  },
+  "terms.heading": {
+    "en": "Terms",
+    "text": "Терміни",
+    "src": "ede54899",
+    "status": "draft"
+  },
+  "terms.kicker": {
+    "en": "FROM THE BOOK 10X ORG",
+    "text": "З КНИГИ 10X ORG",
+    "src": "5b5e5353",
+    "status": "draft"
+  },
+  "terms.lead": {
+    "en": "Grouped as you meet them: the foundations, the map, the topologies, MADE, the nine principles, the katas and AI. Link to any term with its anchor.",
+    "text": "Згруповано в порядку знайомства: основи, мапа, топології, MADE, дев'ять принципів, ката та ШІ. Посилайтеся на будь-який термін за його якорем.",
+    "src": "618ae822",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "VOCABULARY",
+    "text": "СЛОВНИК",
+    "src": "a0278ccf",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "One shared language is half the work of org design. Every Org Topologies term, defined as in the book *10X ORG*.",
+    "text": "Спільна мова — половина роботи з оргдизайну. Кожен термін Org Topologies, визначений так, як у книзі *10X ORG*.",
+    "src": "6432c87b",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Glossary.",
+    "text": "Глосарій.",
+    "src": "5139d9c6",
+    "status": "draft"
+  }
+}

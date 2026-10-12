@@ -1,0 +1,74 @@
+{
+  "classes.eventsCaption": {
+    "en": "Core certification programs",
+    "text": "核心认证项目",
+    "src": "04cbb1ef",
+    "status": "draft"
+  },
+  "classes.heading": {
+    "en": "Learn the Org Topologies approach",
+    "text": "学习 Org Topologies 方法",
+    "src": "0ec45df8",
+    "status": "draft"
+  },
+  "classes.inHouse.body": {
+    "en": "Every class and program can run in-house, tailored to your needs.",
+    "text": "每门课程和每个项目都可以在企业内部举办，并按您的需求量身定制。",
+    "src": "a8b1bd9d",
+    "status": "draft"
+  },
+  "classes.inHouse.cta.label": {
+    "en": "Email us →",
+    "text": "给我们发邮件 →",
+    "src": "6601537f",
+    "status": "draft"
+  },
+  "classes.inHouse.heading": {
+    "en": "Book any program in-house",
+    "text": "任何项目都可预订内训",
+    "src": "9d118ce8",
+    "status": "draft"
+  },
+  "classes.inHouse.kicker": {
+    "en": "IN-HOUSE",
+    "text": "企业内训",
+    "src": "ca23c49e",
+    "status": "draft"
+  },
+  "classes.kicker": {
+    "en": "CERTIFICATIONS AND DATES",
+    "text": "认证与日期",
+    "src": "b05203b1",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Certification classes in Org Topologies: Practitioner (C-OTP) and Consultant (C-OTC), live online and in person, with all upcoming dates.",
+    "text": "Org Topologies 认证课程：Practitioner (C-OTP) 和 Consultant (C-OTC)，线上直播与线下面授，附所有即将举行的日期。",
+    "src": "85f4325a",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "ACADEMY",
+    "text": "ACADEMY",
+    "src": "d34cba0c",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "Learn to see your organization as a system, map it, and redesign it for performance — with the creators of Org Topologies, live online and in person.",
+    "text": "学会把您的组织看作一个系统，绘制它的地图，并为提升绩效而重新设计它。由 Org Topologies 的创作者亲自授课，线上直播与线下面授。",
+    "src": "7f2bf5cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Org Topologies Academy",
+    "text": "Org Topologies Academy",
+    "src": "8c516fea",
+    "status": "draft"
+  }
+}

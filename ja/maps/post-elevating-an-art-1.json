@@ -1,0 +1,68 @@
+{
+  "BO": {
+    "en": "BO",
+    "text": "BO",
+    "src": "84ed3cf3",
+    "status": "draft"
+  },
+  "Broaden Scope of Work": {
+    "en": "Broaden Scope of Work",
+    "text": "仕事の範囲を広げる",
+    "src": "7e6984b1",
+    "status": "draft"
+  },
+  "Elevating an ART": {
+    "en": "Elevating an ART",
+    "text": "ARTのElevate（向上）",
+    "src": "4cb1f965",
+    "status": "draft"
+  },
+  "Improve Capabilities": {
+    "en": "Improve Capabilities",
+    "text": "能力を高める",
+    "src": "f2fc4ff4",
+    "status": "draft"
+  },
+  "Improve capabilities, broaden the scope of work": {
+    "en": "Improve capabilities, broaden the scope of work",
+    "text": "能力を高め、仕事の範囲を広げる",
+    "src": "ab394136",
+    "status": "draft"
+  },
+  "PM": {
+    "en": "PM",
+    "text": "PM",
+    "src": "6b987654",
+    "status": "draft"
+  },
+  "RTE": {
+    "en": "RTE",
+    "text": "RTE",
+    "src": "3daec95c",
+    "status": "draft"
+  },
+  "SA": {
+    "en": "SA",
+    "text": "SA",
+    "src": "360bf3a8",
+    "status": "draft"
+  },
+  "TARGET STATE": {
+    "en": "TARGET STATE",
+    "text": "目標状態",
+    "src": "ffacda0e",
+    "status": "draft"
+  },
+  "sys team": {
+    "en": "sys team",
+    "text": "システムチーム",
+    "src": "a7dafdbf",
+    "status": "draft"
+  },
+  "team": {
+    "en": "team",
+    "text": "チーム",
+    "src": "ca8b22d0",
+    "status": "draft"
+  }
+}

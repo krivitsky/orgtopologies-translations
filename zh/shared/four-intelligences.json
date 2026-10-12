@@ -1,0 +1,146 @@
+{
+  "figure.alt": {
+    "en": "Four intelligences on the Org Topologies map: Directing, Driving, Doing and Delivering",
+    "text": "Org Topologies 地图上的四种智能：Directing、Driving、Doing 和 Delivering",
+    "src": "dc60b9c9",
+    "status": "draft"
+  },
+  "figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "插图 · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Four intelligences, shaped by mandates",
+    "text": "四种智能，由授权塑造",
+    "src": "46ee43b9",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "What an organization can sense, decide and do does not live in its people or its tools. It emerges from the mandates each unit is given. Narrow mandates constrain intelligence; broad, coherent ones expand it. A position on the map describes organizational power, not human worth.",
+    "text": "一个组织能感知、决定和做到什么，并不存在于它的人员或工具中，而是源自赋予每个单元的授权。狭窄的授权限制智能；宽广而连贯的授权拓展智能。地图上的位置描述的是组织的能力，而不是人的价值。",
+    "src": "c11b0705",
+    "status": "draft"
+  },
+  "quadrants.0.description": {
+    "en": "Oversees the whole solution space with centralized control. Lacks skills to create value directly but adds value by coordinating others’ work through planning and control.",
+    "text": "以集中控制俯瞰整个解决方案空间。缺乏直接创造价值的技能，而是通过计划和控制来协调他人的工作，从中增值。",
+    "src": "49464794",
+    "status": "draft"
+  },
+  "quadrants.0.example": {
+    "en": "A business analyst writing requirements.",
+    "text": "撰写需求的业务分析师。",
+    "src": "aeee70b6",
+    "status": "draft"
+  },
+  "quadrants.0.intelligence": {
+    "en": "Coordination intelligence",
+    "text": "协调智能",
+    "src": "c4180b0d",
+    "status": "draft"
+  },
+  "quadrants.0.name": {
+    "en": "DIRECTING",
+    "text": "DIRECTING",
+    "src": "582d54d6",
+    "status": "draft"
+  },
+  "quadrants.0.withAi": {
+    "en": "risks an illusion of control — unless it brings leaders closer to real work.",
+    "text": "有造成控制幻觉的风险，除非它能让领导者更贴近真实的工作。",
+    "src": "55e626c2",
+    "status": "draft"
+  },
+  "quadrants.1.description": {
+    "en": "Focused on owning outcomes and shaping what gets built next. Blends discovery and delivery, using real customer signals to refine both the problem and the solution.",
+    "text": "专注于对成果负责，并决定接下来构建什么。把探索与交付结合起来，用真实的客户信号同时完善问题和方案。",
+    "src": "3c9637ed",
+    "status": "draft"
+  },
+  "quadrants.1.example": {
+    "en": "A three-person startup, or a team-of-teams.",
+    "text": "一家三人创业公司，或一个团队的团队。",
+    "src": "a742d5f4",
+    "status": "draft"
+  },
+  "quadrants.1.intelligence": {
+    "en": "Adaptive intelligence",
+    "text": "适应智能",
+    "src": "eb939c37",
+    "status": "draft"
+  },
+  "quadrants.1.name": {
+    "en": "DRIVING",
+    "text": "DRIVING",
+    "src": "a96d6726",
+    "status": "draft"
+  },
+  "quadrants.1.withAi": {
+    "en": "a multiplier that eases cognitive load in new domains.",
+    "text": "一个倍增器，能减轻在新领域中的认知负荷。",
+    "src": "e64c5fef",
+    "status": "draft"
+  },
+  "quadrants.2.description": {
+    "en": "Highly skilled in narrow domains. Excel at precision, quality, and efficiency within well-defined boundaries. Act as deep specialists focused on defined tasks rather than outcomes.",
+    "text": "在狭窄领域中技能精湛。在明确界定的边界内追求精确、质量和效率。作为深度专家，专注于既定任务而非成果。",
+    "src": "77a8f038",
+    "status": "draft"
+  },
+  "quadrants.2.example": {
+    "en": "A line cook executing recipes perfectly.",
+    "text": "一丝不苟照着菜谱出菜的厨师。",
+    "src": "0f35b48c",
+    "status": "draft"
+  },
+  "quadrants.2.intelligence": {
+    "en": "Specialization intelligence",
+    "text": "专业化智能",
+    "src": "89784d73",
+    "status": "draft"
+  },
+  "quadrants.2.name": {
+    "en": "DOING",
+    "text": "DOING",
+    "src": "e044c537",
+    "status": "draft"
+  },
+  "quadrants.2.withAi": {
+    "en": "automates tasks — but faster tasks only speed up local output.",
+    "text": "能自动化任务，但更快的任务只会加快局部产出。",
+    "src": "1affeed1",
+    "status": "draft"
+  },
+  "quadrants.3.description": {
+    "en": "Creates value independently within a defined work area. Masters a complete [Definition of Done](term:definition-of-done), shipping results quickly while staying within defined boundaries.",
+    "text": "在界定的工作领域内独立创造价值。掌握完整的 [Definition of Done](term:definition-of-done)，在既定边界内快速交付成果。",
+    "src": "2debe9ee",
+    "status": "draft"
+  },
+  "quadrants.3.example": {
+    "en": "An e-commerce search team.",
+    "text": "电商搜索团队。",
+    "src": "5d0d35af",
+    "status": "draft"
+  },
+  "quadrants.3.intelligence": {
+    "en": "Flow intelligence",
+    "text": "流动智能",
+    "src": "3e238b8e",
+    "status": "draft"
+  },
+  "quadrants.3.name": {
+    "en": "DELIVERING",
+    "text": "DELIVERING",
+    "src": "732ac564",
+    "status": "draft"
+  },
+  "quadrants.3.withAi": {
+    "en": "as a teacher, lowers the cost of learning the wider system.",
+    "text": "作为老师，降低了学习更大系统的成本。",
+    "src": "ac6a7ffc",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "adopting-strategic-outcome-based-backlog.name": {
+    "en": "Adopting Strategic, Outcome-Based Backlog",
+    "text": "采用以成果为基础的战略性 Backlog",
+    "src": "e09e8776",
+    "status": "draft"
+  },
+  "adopting-strategic-outcome-based-backlog.summary": {
+    "en": "Shift backlog items from output commitments to explicit outcome hypotheses, making learning and impact visible in everyday prioritization. In service organizations: adopting service queues framed around client outcomes, not request types.",
+    "text": "把 Backlog 条目从产出承诺转为明确的成果假设，让学习和影响在日常优先级排序中变得可见。在服务型组织中：采用围绕客户成果、而非请求类型来设定的服务队列。",
+    "src": "7dad21aa",
+    "status": "draft"
+  },
+  "applying-evidence-based-management-ebm-for-capability-building.name": {
+    "en": "Applying Evidence-Based Management (EBM) for Capability-Building",
+    "text": "应用循证管理（EBM）建设能力",
+    "src": "ddc9ca13",
+    "status": "draft"
+  },
+  "applying-evidence-based-management-ebm-for-capability-building.summary": {
+    "en": "Use a small set of meaningful measures in regular reviews to guide learning and improvement, rather than managing by objective.",
+    "text": "在定期评审中使用少量有意义的度量来引导学习和改进，而不是目标管理。",
+    "src": "dfac88f4",
+    "status": "draft"
+  },
+  "continuously-integrating-work-across-teams.name": {
+    "en": "Continuously Integrating Work Across Teams",
+    "text": "跨团队持续集成工作",
+    "src": "92cf8b98",
+    "status": "draft"
+  },
+  "continuously-integrating-work-across-teams.summary": {
+    "en": "Reduce integration risk and delays by integrating work continuously across all contributing teams and agents, rather than batching and reconciling it late. In software contexts, this is commonly realized through practices such as trunk-based development, monorepos, and continuous integration as a practice (not a tool).",
+    "text": "在所有参与的团队和智能体之间持续集成工作，而不是攒成一批后期再对齐，以降低集成风险和延迟。在软件场景中，通常通过主干开发、单一代码库（monorepo）和作为一种实践（而非工具）的持续集成来实现。",
+    "src": "b60e32a5",
+    "status": "draft"
+  },
+  "de-emphasizing-individual-performance-incentives.name": {
+    "en": "De-emphasizing Individual Performance Incentives",
+    "text": "弱化个人绩效激励",
+    "src": "8ae8e015",
+    "status": "draft"
+  },
+  "de-emphasizing-individual-performance-incentives.summary": {
+    "en": "Reduce incentive structures that drive local optimization at the expense of system performance.",
+    "text": "减少那些以牺牲系统绩效为代价、助长局部优化的激励结构。",
+    "src": "09e1b11b",
+    "status": "draft"
+  },
+  "decentralizing-cross-cutting-concerns-through-communities.name": {
+    "en": "Decentralizing Cross-Cutting Concerns Through Communities",
+    "text": "通过社群分散跨领域关切",
+    "src": "a8a10585",
+    "status": "draft"
+  },
+  "decentralizing-cross-cutting-concerns-through-communities.summary": {
+    "en": "Decentralize ownership of cross-cutting concerns (such as architectural guidelines, standards, and policies) by enabling self-organizing communities to evolve practices collaboratively, reducing dependency on centralized coordination.",
+    "text": "分散跨领域关切（如架构指南、标准和政策）的负责权，让自组织的社群协作演进实践，减少对集中协调的依赖。",
+    "src": "de6216f2",
+    "status": "draft"
+  },
+  "designing-tailwind-career-paths.name": {
+    "en": "Designing Tailwind Career Paths",
+    "text": "设计顺风式职业路径",
+    "src": "3fe72d3f",
+    "status": "draft"
+  },
+  "designing-tailwind-career-paths.summary": {
+    "en": "Create career systems that reward capability growth and multi-learning to support employees' contribution to valuable outcomes.",
+    "text": "建立奖励能力成长和 Multi-learning 的职业体系，支持员工为有价值的成果做出贡献。",
+    "src": "dcc55da3",
+    "status": "draft"
+  },
+  "embedding-ai-assisted-multi-learning-into-daily-work.name": {
+    "en": "Embedding (AI-Assisted) Multi-Learning into Daily Work",
+    "text": "把（AI 辅助的）Multi-learning 融入日常工作",
+    "src": "69481585",
+    "status": "draft"
+  },
+  "embedding-ai-assisted-multi-learning-into-daily-work.summary": {
+    "en": "Use AI to lower the cost of learning new skills while delivering, expanding what teams can responsibly take on.",
+    "text": "用 AI 降低边交付边学习新技能的成本，扩大团队可以负责任地承担的范围。",
+    "src": "caaf0d24",
+    "status": "draft"
+  },
+  "enabling-team-self-design.name": {
+    "en": "Enabling Team Self-Design",
+    "text": "让团队自我设计",
+    "src": "1a4c48af",
+    "status": "draft"
+  },
+  "enabling-team-self-design.summary": {
+    "en": "Enable teams to redesign their own composition and boundaries within clear strategic and mandate constraints, increasing ownership and fitness for purpose.",
+    "text": "让团队在清晰的战略和授权约束内，重新设计自己的构成与边界，增强主人翁意识和对目的的适配度。",
+    "src": "74dd76a9",
+    "status": "draft"
+  },
+  "expanding-and-sharing-the-definition-of-done-across-teams.name": {
+    "en": "Expanding and Sharing the Definition of Done Across Teams",
+    "text": "跨团队扩展并共享 Definition of Done",
+    "src": "81577f1e",
+    "status": "draft"
+  },
+  "expanding-and-sharing-the-definition-of-done-across-teams.summary": {
+    "en": "Continuously broaden the Definition of Done to include real completeness and quality, reducing hidden work, handoffs, and late surprises.",
+    "text": "不断拓宽 Definition of Done，使其涵盖真正的完整性和质量，减少隐藏的工作、交接和迟到的意外。",
+    "src": "89a1cf3a",
+    "status": "draft"
+  },
+  "expanding-the-product-definition.name": {
+    "en": "Expanding the Product Definition",
+    "text": "拓展产品定义",
+    "src": "159fc19e",
+    "status": "draft"
+  },
+  "expanding-the-product-definition.summary": {
+    "en": "Deliberately broaden what the organization considers \"the product\" so teams orient around real customer outcomes rather than narrow components or tasks.",
+    "text": "有意识地拓宽组织对“产品”的界定，让团队围绕真正的客户成果，而不是狭窄的组件或任务来行动。",
+    "src": "2e2e1bca",
+    "status": "draft"
+  },
+  "expanding-units-toward-end-to-end-outcome-ownership.name": {
+    "en": "Expanding Units Toward End-to-End Outcome Ownership",
+    "text": "扩展单元，走向端到端的成果负责",
+    "src": "ac69a26e",
+    "status": "draft"
+  },
+  "expanding-units-toward-end-to-end-outcome-ownership.summary": {
+    "en": "Broaden team mandates so they can complete work from intent to realized value. In practice, this often exposes the need to simplify the organization by eliminating separate units responsible for \"preparing\" or \"finishing\" work, resulting in a more coherent and adaptive org design.",
+    "text": "拓宽团队的授权，使其能完成从意图到实现价值的全部工作。实践中，这往往会暴露出简化组织的必要：取消专门负责“准备”或“收尾”工作的独立单元，从而得到更连贯、更具适应力的组织设计。",
+    "src": "0bdf40df",
+    "status": "draft"
+  },
+  "forming-a-team-of-teams.name": {
+    "en": "Forming a Team-of-Teams",
+    "text": "组建团队的团队",
+    "src": "cfbc5c75",
+    "status": "draft"
+  },
+  "forming-a-team-of-teams.summary": {
+    "en": "Create a lightweight structure where teams align around shared goals while retaining autonomy in execution.",
+    "text": "建立一种轻量的结构，让团队围绕共同目标保持一致，同时在执行上保持自主。",
+    "src": "c54b2268",
+    "status": "draft"
+  },
+  "holding-multi-team-product-backlog-refinement.name": {
+    "en": "Holding Multi-Team Product Backlog Refinement",
+    "text": "举行多团队产品 Backlog 梳理",
+    "src": "5ae163e2",
+    "status": "draft"
+  },
+  "holding-multi-team-product-backlog-refinement.summary": {
+    "en": "Bring multiple teams together regularly to build a shared understanding of upcoming work, risks, and coordination before execution.",
+    "text": "定期让多个团队聚在一起，在执行之前对即将到来的工作、风险和协调形成共同理解。",
+    "src": "3424a054",
+    "status": "draft"
+  },
+  "holding-product-level-reviews.name": {
+    "en": "Holding Product-Level Reviews",
+    "text": "举行产品层面的评审",
+    "src": "51245d55",
+    "status": "draft"
+  },
+  "holding-product-level-reviews.summary": {
+    "en": "Inspect integrated product outcomes rather than isolated team outputs, keeping learning at the right level. In service organizations: reviewing end-to-end service outcomes, not departmental metrics. This Kata is often realized through formats such as Sprint Review Bazaars, where stakeholders and customers actively explore working solutions and provide direct feedback instead of passively consuming presentations.",
+    "text": "检视整合后的产品成果，而不是孤立的团队产出，让学习发生在正确的层面。在服务型组织中：评审端到端的服务成果，而不是部门指标。这个 Kata 常通过 Sprint Review Bazaar 等形式来实现，利益相关者和客户在其中主动探索可运行的方案并给出直接反馈，而不是被动地听演示。",
+    "src": "d667b4c5",
+    "status": "draft"
+  },
+  "implementing-beyond-budgeting.name": {
+    "en": "Implementing Beyond Budgeting",
+    "text": "实施超越预算",
+    "src": "49a4b848",
+    "status": "draft"
+  },
+  "implementing-beyond-budgeting.summary": {
+    "en": "Loosen rigid annual planning constraints so resources can move as learning and priorities change.",
+    "text": "放松僵化的年度计划约束，让资源能随着学习和优先级的变化而流动。",
+    "src": "09632d1f",
+    "status": "draft"
+  },
+  "merging-product-backlogs.name": {
+    "en": "Merging Product Backlogs",
+    "text": "合并产品 Backlog",
+    "src": "1912e800",
+    "status": "draft"
+  },
+  "merging-product-backlogs.summary": {
+    "en": "Reduce fragmentation by consolidating competing backlogs into fewer shared ones, forcing real prioritization at the level where value is created.",
+    "text": "把相互竞争的 Backlog 合并为更少的共享 Backlog，以减少碎片化，迫使在创造价值的层面做真正的优先级排序。",
+    "src": "4758673f",
+    "status": "draft"
+  },
+  "minimizing-distance-to-customers.name": {
+    "en": "Minimizing Distance to Customers",
+    "text": "缩短与客户的距离",
+    "src": "082f4034",
+    "status": "draft"
+  },
+  "minimizing-distance-to-customers.summary": {
+    "en": "Create regular, direct contact between teams and customers so decisions are informed by reality rather than assumptions or proxies.",
+    "text": "让团队与客户之间保持定期、直接的接触，使决策基于现实，而不是假设或替代指标。",
+    "src": "d79c5218",
+    "status": "draft"
+  },
+  "moving-toward-multi-team-cross-functional-line-management.name": {
+    "en": "Moving Toward Multi-Team, Cross-Functional Line Management",
+    "text": "走向多团队、跨职能的直线管理",
+    "src": "a3df5cb8",
+    "status": "draft"
+  },
+  "moving-toward-multi-team-cross-functional-line-management.summary": {
+    "en": "Shift management focus from individual teams to multi-team value areas, enabling coordination and learning across boundaries.",
+    "text": "把管理的重心从单个团队转向多团队的价值领域，促进跨边界的协调与学习。",
+    "src": "4b35695e",
+    "status": "draft"
+  },
+  "organizing-around-products-not-projects.name": {
+    "en": "Organizing Around Products, Not Projects",
+    "text": "围绕产品而非项目来组织",
+    "src": "4b35f6e7",
+    "status": "draft"
+  },
+  "organizing-around-products-not-projects.summary": {
+    "en": "Replace temporary project slices with long-lived ownership of products, preserving learning and accountability over time.",
+    "text": "用对产品的长期负责取代临时的项目切片，让学习和问责得以长期保留。",
+    "src": "44a58c18",
+    "status": "draft"
+  },
+  "people.name": {
+    "en": "People",
+    "text": "人员",
+    "src": "7db20897",
+    "status": "draft"
+  },
+  "people.starModel.definition": {
+    "en": "The skills, mindsets, and capacities needed: how the organization recruits, develops, and grows people to match its strategic needs.",
+    "text": "所需的技能、心态和能力：组织如何招募、培养和发展人员，以匹配其战略需要。",
+    "src": "483808b2",
+    "status": "draft"
+  },
+  "people.starModel.element": {
+    "en": "People",
+    "text": "人员",
+    "src": "7db20897",
+    "status": "draft"
+  },
+  "people.subtitle": {
+    "en": "Skills, Mindsets, Capabilities",
+    "text": "技能、心态、能力",
+    "src": "40fcfbe0",
+    "status": "draft"
+  },
+  "processes.name": {
+    "en": "Processes",
+    "text": "流程",
+    "src": "4a81a7ba",
+    "status": "draft"
+  },
+  "processes.starModel.definition": {
+    "en": "How work and information flow: governance routines, planning and budgeting cycles, and decision-making processes.",
+    "text": "工作和信息如何流动：治理例行事务、规划和预算周期，以及决策流程。",
+    "src": "062511ed",
+    "status": "draft"
+  },
+  "processes.starModel.element": {
+    "en": "Processes",
+    "text": "流程",
+    "src": "4a81a7ba",
+    "status": "draft"
+  },
+  "processes.subtitle": {
+    "en": "Information and Decision Flows",
+    "text": "信息流与决策流",
+    "src": "d2fd8c0a",
+    "status": "draft"
+  },
+  "re-centering-product-ownership-on-strategy-and-outcomes.name": {
+    "en": "Re-Centering Product Ownership on Strategy and Outcomes",
+    "text": "让产品负责制回归战略与成果",
+    "src": "55792e50",
+    "status": "draft"
+  },
+  "re-centering-product-ownership-on-strategy-and-outcomes.summary": {
+    "en": "Position product ownership where strategic intent and value meet, with responsibility for outcomes rather than team-level delivery coordination. This requires avoiding team-level local product ownership and introducing shared or unified product ownership structures.",
+    "text": "把产品负责制放在战略意图与价值交汇之处，对成果负责，而不是协调团队层面的交付。这要求避免团队层面的局部产品负责制，转而引入共享或统一的产品负责结构。",
+    "src": "c0ae9f94",
+    "status": "draft"
+  },
+  "redefining-the-manager-role-around-capability-building-and-system-stewardship.name": {
+    "en": "Redefining the Manager Role Around Capability-Building and System Stewardship",
+    "text": "围绕能力建设和系统守护重新定义管理者角色",
+    "src": "7820db42",
+    "status": "draft"
+  },
+  "redefining-the-manager-role-around-capability-building-and-system-stewardship.summary": {
+    "en": "Shift managers away from issuing instructions toward growing people and expanding mandates—developing the capabilities and judgment required for broader, end-to-end ownership while stewarding the system that surrounds the work.",
+    "text": "让管理者从下达指令转向培养人、扩大授权：培养更广泛的端到端负责所需的能力与判断力，同时守护围绕工作的整个系统。",
+    "src": "4c6ac708",
+    "status": "draft"
+  },
+  "rewards.name": {
+    "en": "Rewards",
+    "text": "奖酬",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "rewards.starModel.definition": {
+    "en": "How people are motivated and steered: compensation, promotions, recognition, and other formal and informal incentives.",
+    "text": "人如何被激励和引导：薪酬、晋升、认可，以及其他正式和非正式的激励。",
+    "src": "3b99a2e6",
+    "status": "draft"
+  },
+  "rewards.starModel.element": {
+    "en": "Rewards",
+    "text": "奖酬",
+    "src": "59afe47d",
+    "status": "draft"
+  },
+  "rewards.subtitle": {
+    "en": "Incentives and Motivation",
+    "text": "激励与动机",
+    "src": "22601fcf",
+    "status": "draft"
+  },
+  "sharing-ownership-across-teams.name": {
+    "en": "Sharing Ownership Across Teams",
+    "text": "跨团队共享所有权",
+    "src": "0301eb9e",
+    "status": "draft"
+  },
+  "sharing-ownership-across-teams.summary": {
+    "en": "Expand technical ownership boundaries so teams can improve and fix issues without waiting on specialists or gatekeepers. In the software development context, this implies allowing the teams to work across the entire codebase. In service organizations: sharing ownership of processes, policies, or case handling.",
+    "text": "扩大技术所有权的边界，使团队无需等待专家或把关者就能改进和修复问题。在软件开发中，这意味着允许团队在整个代码库中工作。在服务型组织中：共享流程、政策或个案处理的所有权。",
+    "src": "3f38aef6",
+    "status": "draft"
+  },
+  "sharing-the-same-cadence-across-teams.name": {
+    "en": "Sharing the Same Cadence Across Teams",
+    "text": "跨团队共享同一节奏",
+    "src": "bd43e017",
+    "status": "draft"
+  },
+  "sharing-the-same-cadence-across-teams.summary": {
+    "en": "Create transparency for doing and inspecting the work in a shared rhythm for planning, review, and learning.",
+    "text": "在共同的规划、评审和学习节奏中做事、检视工作，从而建立透明度。",
+    "src": "d13956de",
+    "status": "draft"
+  },
+  "slicing-work-vertically.name": {
+    "en": "Slicing Work Vertically",
+    "text": "纵向切分工作",
+    "src": "85417437",
+    "status": "draft"
+  },
+  "slicing-work-vertically.summary": {
+    "en": "Practice breaking work into end-to-end increments that deliver learning and value, not partial progress.",
+    "text": "练习把工作拆成端到端的增量，带来学习和价值，而不是局部的进展。",
+    "src": "f1df0365",
+    "status": "draft"
+  },
+  "strategy.name": {
+    "en": "Strategy",
+    "text": "战略",
+    "src": "6b27710d",
+    "status": "draft"
+  },
+  "strategy.starModel.definition": {
+    "en": "The outcomes the organization is designed to achieve are derived from the strategy and are used as the benchmark for all design choices.",
+    "text": "组织设计所要达成的成果源自战略，并作为一切设计选择的基准。",
+    "src": "6c0e2eee",
+    "status": "draft"
+  },
+  "strategy.starModel.element": {
+    "en": "Org Design Criteria",
+    "text": "组织设计标准",
+    "src": "56d81480",
+    "status": "draft"
+  },
+  "strategy.subtitle": {
+    "en": "Direction and Goals",
+    "text": "方向与目标",
+    "src": "aada62ca",
+    "status": "draft"
+  },
+  "structure.name": {
+    "en": "Structure",
+    "text": "结构",
+    "src": "7203c2b3",
+    "status": "draft"
+  },
+  "structure.starModel.definition": {
+    "en": "How power and authority are distributed: roles, units, reporting lines, and the basic architecture of who reports to whom.",
+    "text": "权力和权威如何分配：角色、单元、汇报线，以及谁向谁汇报的基本架构。",
+    "src": "0dd642f9",
+    "status": "draft"
+  },
+  "structure.starModel.element": {
+    "en": "Structure",
+    "text": "结构",
+    "src": "7203c2b3",
+    "status": "draft"
+  },
+  "structure.subtitle": {
+    "en": "Power, Authority, Organization",
+    "text": "权力、权威、组织",
+    "src": "e9315357",
+    "status": "draft"
+  },
+  "using-obeya-for-org-topology-evolution.name": {
+    "en": "Using Obeya for Org Topology Evolution",
+    "text": "用 Obeya 推动组织拓扑演进",
+    "src": "e3cb4c85",
+    "status": "draft"
+  },
+  "using-obeya-for-org-topology-evolution.summary": {
+    "en": "Use a shared decision space to connect strategy, evidence, and organizational design constraints, enabling deliberate topology evolution rather than merely tracking delivery.",
+    "text": "用一个共享的决策空间把战略、证据和组织设计的约束连接起来，从而有意识地推动拓扑演进，而不只是跟踪交付。",
+    "src": "b8ff8090",
+    "status": "draft"
+  },
+  "using-synchronous-team-work-to-expand-capability-and-ownership.name": {
+    "en": "Using Synchronous Team Work to Expand Capability and Ownership",
+    "text": "用同步的团队协作扩展能力与所有权",
+    "src": "b7a2fdbb",
+    "status": "draft"
+  },
+  "using-synchronous-team-work-to-expand-capability-and-ownership.summary": {
+    "en": "Apply pairing, mobbing, and other forms of real synchronous work across role, team and functional boundaries to deliberately grow skills and reduce reliance on specialists or handoffs.",
+    "text": "跨角色、团队和职能边界开展结对、群体编程（mobbing）及其他真正同步的工作，有意识地提升技能，减少对专家或交接的依赖。",
+    "src": "b1969ee9",
+    "status": "draft"
+  },
+  "volunteering-for-work.name": {
+    "en": "Volunteering for Work",
+    "text": "自愿认领工作",
+    "src": "c9d80d7d",
+    "status": "draft"
+  },
+  "volunteering-for-work.summary": {
+    "en": "Enable individuals and teams to pull work where value is highest, rather than relying on predefined assignments. This kata increases organizational flexibility and shared ownership, and can be enacted through deliberate self-selection mechanisms (e.g., Open Space–style sessions).",
+    "text": "让个人和团队在价值最高之处拉取工作，而不是依赖预先分配。这个 Kata 增强组织的灵活性和共同所有权，可以通过有意的自我选择机制来实施（例如开放空间式的会议）。",
+    "src": "64476c61",
+    "status": "draft"
+  }
+}

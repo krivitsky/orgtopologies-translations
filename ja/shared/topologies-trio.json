@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "自社の戦略に合うトポロジーを探ります。トポロジーごとのサンプルマップ、クリックして見られる4つのインテリジェンス、そしてマップを手に自分の組織を見に行く方法をご紹介します。",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "トポロジーを見分ける →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The three topologies",
+    "text": "3つのトポロジー",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Three topologies, three goals",
+    "text": "3つのトポロジー、3つのゴール",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "代表的なトポロジーを調べる",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "代表的なトポロジーはそれぞれ、専門特化、フロー、調整、適応といった異なるインテリジェンスを組み合わせ、得意な環境も異なります。",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "安定した、プロセス主導の環境",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "(専門特化 + 調整のインテリジェンス)",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "稼働率と予測可能性",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "戦略が変わると硬直する",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "チームの構造に収まる、既知の仕事",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "(フロー + 調整のインテリジェンス)",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "範囲内でのスピードとフロー",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "横断的な仕事には調整が要る",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "変動が激しく、イノベーションが求められる状況",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "(適応のインテリジェンス)",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "適応力と学び",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "既存の統制の仕組みと衝突する",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

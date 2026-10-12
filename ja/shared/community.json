@@ -1,0 +1,80 @@
+{
+  "aiden.cta.label": {
+    "en": "Learn with Aiden",
+    "text": "Aidenと学ぶ",
+    "src": "8dab14c7",
+    "status": "draft"
+  },
+  "aiden.heading": {
+    "en": "“How do I map my org?”",
+    "text": "「自分の組織はどうマッピングする?」",
+    "src": "41262b42",
+    "status": "draft"
+  },
+  "aiden.kicker": {
+    "en": "ASK OUR AI",
+    "text": "AIに聞く",
+    "src": "b4d29b86",
+    "status": "draft"
+  },
+  "newsletter.follow": {
+    "en": "Or follow [Org Topologies on LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
+    "text": "または[LinkedInのOrg Topologies](https://www.linkedin.com/company/orgtopologies/)をフォローしてください。",
+    "src": "542aa9e1",
+    "status": "draft"
+  },
+  "newsletter.label": {
+    "en": "NEWSLETTER",
+    "text": "ニュースレター",
+    "src": "67700c27",
+    "status": "draft"
+  },
+  "newsletter.note": {
+    "en": "Unsubscribe anytime. [Privacy →](/privacy)",
+    "text": "いつでも配信停止できます。[プライバシー →](/privacy)",
+    "src": "5ba3f6df",
+    "status": "draft"
+  },
+  "newsletter.placeholder": {
+    "en": "you@company.com",
+    "text": "you@company.com",
+    "src": "652740e1",
+    "status": "draft"
+  },
+  "newsletter.submitLabel": {
+    "en": "Subscribe",
+    "text": "登録する",
+    "src": "cc0e38da",
+    "status": "draft"
+  },
+  "newsletter.text": {
+    "en": "Upcoming classes and events, announcements and new material for your org design practice. Now and then, never spam.",
+    "text": "今後のクラスやイベント、お知らせ、組織設計の実践に役立つ新しい資料をお届けします。配信は折にふれて、スパムは送りません。",
+    "src": "45be597b",
+    "status": "draft"
+  },
+  "slack.cta.label": {
+    "en": "Join Slack",
+    "text": "Slackに参加",
+    "src": "033266fb",
+    "status": "draft"
+  },
+  "slack.heading": {
+    "en": "Learn with community",
+    "text": "コミュニティで学ぶ",
+    "src": "b76f8374",
+    "status": "draft"
+  },
+  "slack.kicker": {
+    "en": "TALK TO THE AUTHORS LIVE",
+    "text": "著者とライブで話す",
+    "src": "5f5d49d6",
+    "status": "draft"
+  },
+  "slack.text": {
+    "en": "Practitioners share maps, and the authors join the conversation live in Slack.",
+    "text": "実践者がマップを共有し、著者もSlackでの会話にリアルタイムで加わります。",
+    "src": "ae812c6d",
+    "status": "draft"
+  }
+}

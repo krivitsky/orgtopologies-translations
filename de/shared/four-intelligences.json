@@ -1,0 +1,146 @@
+{
+  "figure.alt": {
+    "en": "Four intelligences on the Org Topologies map: Directing, Driving, Doing and Delivering",
+    "text": "Vier Intelligenzen auf der Org-Topologies-Karte: Directing, Driving, Doing und Delivering",
+    "src": "dc60b9c9",
+    "status": "draft"
+  },
+  "figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Four intelligences, shaped by mandates",
+    "text": "Vier Intelligenzen, geformt durch Mandate",
+    "src": "46ee43b9",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "What an organization can sense, decide and do does not live in its people or its tools. It emerges from the mandates each unit is given. Narrow mandates constrain intelligence; broad, coherent ones expand it. A position on the map describes organizational power, not human worth.",
+    "text": "Was eine Organisation wahrnehmen, entscheiden und tun kann, steckt weder in ihren Menschen noch in ihren Werkzeugen. Es entsteht aus den Mandaten, die jede Einheit erhält. Enge Mandate schränken Intelligenz ein, breite, stimmige erweitern sie. Eine Position auf der Karte beschreibt organisationale Stärke, nicht den Wert eines Menschen.",
+    "src": "c11b0705",
+    "status": "draft"
+  },
+  "quadrants.0.description": {
+    "en": "Oversees the whole solution space with centralized control. Lacks skills to create value directly but adds value by coordinating others’ work through planning and control.",
+    "text": "Überblickt den gesamten Lösungsraum mit zentraler Steuerung. Es fehlen die Fähigkeiten, direkt Wert zu schaffen; Wert entsteht, indem die Arbeit anderer durch Planung und Kontrolle koordiniert wird.",
+    "src": "49464794",
+    "status": "draft"
+  },
+  "quadrants.0.example": {
+    "en": "A business analyst writing requirements.",
+    "text": "Eine Business-Analystin, die Anforderungen schreibt.",
+    "src": "aeee70b6",
+    "status": "draft"
+  },
+  "quadrants.0.intelligence": {
+    "en": "Coordination intelligence",
+    "text": "Koordinationsintelligenz",
+    "src": "c4180b0d",
+    "status": "draft"
+  },
+  "quadrants.0.name": {
+    "en": "DIRECTING",
+    "text": "DIRECTING",
+    "src": "582d54d6",
+    "status": "draft"
+  },
+  "quadrants.0.withAi": {
+    "en": "risks an illusion of control — unless it brings leaders closer to real work.",
+    "text": "riskiert die Illusion von Kontrolle – es sei denn, sie bringt Führungskräfte näher an die echte Arbeit.",
+    "src": "55e626c2",
+    "status": "draft"
+  },
+  "quadrants.1.description": {
+    "en": "Focused on owning outcomes and shaping what gets built next. Blends discovery and delivery, using real customer signals to refine both the problem and the solution.",
+    "text": "Fokussiert darauf, Outcomes zu verantworten und zu gestalten, was als Nächstes gebaut wird. Verbindet Discovery und Delivery und nutzt echte Kundensignale, um Problem und Lösung zu schärfen.",
+    "src": "3c9637ed",
+    "status": "draft"
+  },
+  "quadrants.1.example": {
+    "en": "A three-person startup, or a team-of-teams.",
+    "text": "Ein Startup mit drei Leuten oder ein Team of Teams.",
+    "src": "a742d5f4",
+    "status": "draft"
+  },
+  "quadrants.1.intelligence": {
+    "en": "Adaptive intelligence",
+    "text": "Adaptive Intelligenz",
+    "src": "eb939c37",
+    "status": "draft"
+  },
+  "quadrants.1.name": {
+    "en": "DRIVING",
+    "text": "DRIVING",
+    "src": "a96d6726",
+    "status": "draft"
+  },
+  "quadrants.1.withAi": {
+    "en": "a multiplier that eases cognitive load in new domains.",
+    "text": "ein Multiplikator, der die kognitive Last in neuen Domänen senkt.",
+    "src": "e64c5fef",
+    "status": "draft"
+  },
+  "quadrants.2.description": {
+    "en": "Highly skilled in narrow domains. Excel at precision, quality, and efficiency within well-defined boundaries. Act as deep specialists focused on defined tasks rather than outcomes.",
+    "text": "Hoch qualifiziert in engen Fachgebieten. Überzeugt durch Präzision, Qualität und Effizienz innerhalb klar definierter Grenzen. Tiefe Spezialisten, die auf definierte Aufgaben statt auf Outcomes ausgerichtet sind.",
+    "src": "77a8f038",
+    "status": "draft"
+  },
+  "quadrants.2.example": {
+    "en": "A line cook executing recipes perfectly.",
+    "text": "Ein Koch an der Linie, der Rezepte perfekt umsetzt.",
+    "src": "0f35b48c",
+    "status": "draft"
+  },
+  "quadrants.2.intelligence": {
+    "en": "Specialization intelligence",
+    "text": "Spezialisierungsintelligenz",
+    "src": "89784d73",
+    "status": "draft"
+  },
+  "quadrants.2.name": {
+    "en": "DOING",
+    "text": "DOING",
+    "src": "e044c537",
+    "status": "draft"
+  },
+  "quadrants.2.withAi": {
+    "en": "automates tasks — but faster tasks only speed up local output.",
+    "text": "automatisiert Aufgaben – aber schnellere Aufgaben beschleunigen nur den lokalen Output.",
+    "src": "1affeed1",
+    "status": "draft"
+  },
+  "quadrants.3.description": {
+    "en": "Creates value independently within a defined work area. Masters a complete [Definition of Done](term:definition-of-done), shipping results quickly while staying within defined boundaries.",
+    "text": "Schafft Wert selbstständig innerhalb eines definierten Arbeitsbereichs. Beherrscht eine vollständige [Definition of Done](term:definition-of-done) und liefert Ergebnisse schnell, ohne die definierten Grenzen zu verlassen.",
+    "src": "2debe9ee",
+    "status": "draft"
+  },
+  "quadrants.3.example": {
+    "en": "An e-commerce search team.",
+    "text": "Ein Team für die Suche in einem Onlineshop.",
+    "src": "5d0d35af",
+    "status": "draft"
+  },
+  "quadrants.3.intelligence": {
+    "en": "Flow intelligence",
+    "text": "Flussintelligenz",
+    "src": "3e238b8e",
+    "status": "draft"
+  },
+  "quadrants.3.name": {
+    "en": "DELIVERING",
+    "text": "DELIVERING",
+    "src": "732ac564",
+    "status": "draft"
+  },
+  "quadrants.3.withAi": {
+    "en": "as a teacher, lowers the cost of learning the wider system.",
+    "text": "senkt als Lehrerin die Kosten, das größere System zu verstehen.",
+    "src": "ac6a7ffc",
+    "status": "draft"
+  }
+}

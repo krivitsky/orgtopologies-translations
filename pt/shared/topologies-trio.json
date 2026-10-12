@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "Descubra qual topologia combina com a sua estratégia: um mapa de exemplo de cada uma, as quatro inteligências para explorar com cliques e como ir ver a sua própria organização com um mapa.",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "Distinga as topologias →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The three topologies",
+    "text": "As três topologias",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Three topologies, three goals",
+    "text": "Três topologias, três objetivos",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "ESTUDE AS TOPOLOGIAS COMUNS",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "Cada topologia comum combina inteligências diferentes — especialização, fluxo, coordenação, adaptativa — e “brilha” em um ambiente diferente.",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "Ambientes estáveis, guiados por processos",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "(inteligências de especialização + coordenação)",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "Utilização e previsibilidade",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "Rígida quando a estratégia muda",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "Trabalho conhecido que cabe na estrutura das equipes",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "(inteligências de fluxo + coordenação)",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "Velocidade e fluxo dentro de limites",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "O trabalho transversal exige coordenação",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "Contextos voláteis, movidos por inovação",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "(inteligência adaptativa)",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "Adaptabilidade e aprendizado",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "Desafia as estruturas de controle existentes",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "four-by-four._nav": {
+    "en": "The 4×4 Map",
+    "text": "4×4 地图",
+    "src": "7e650bde",
+    "status": "draft"
+  },
+  "frameworks.goDeeper.body": {
+    "en": "See what a framework really optimizes for. “We are doing SAFe” says little about your design; mapping frameworks with Org Topologies shows their goals and their limits, so you can choose what fits.",
+    "text": "看看一个框架真正优化的是什么。“我们在做 SAFe”并不能说明您的设计；用 Org Topologies 绘制框架，可以显示它们的目标和局限，让您选择适合的。",
+    "src": "2db793a2",
+    "status": "draft"
+  },
+  "frameworks.goDeeper.cta.label": {
+    "en": "To framework mappings →",
+    "text": "前往框架地图 →",
+    "src": "bec57e5d",
+    "status": "draft"
+  },
+  "frameworks.heading": {
+    "en": "Mapping Your Framework?",
+    "text": "绘制您的框架？",
+    "src": "26589f7f",
+    "status": "draft"
+  },
+  "frameworks.kicker": {
+    "en": "FRAMEWORK MAPPINGS",
+    "text": "框架地图",
+    "src": "b1e5dbc8",
+    "status": "draft"
+  },
+  "go-see._nav": {
+    "en": "Go See, with a Map",
+    "text": "带着地图 Go See",
+    "src": "12efc89a",
+    "status": "draft"
+  },
+  "go-see.heading": {
+    "en": "Go see, with a map",
+    "text": "带着地图 Go See",
+    "src": "4d7e996e",
+    "status": "draft"
+  },
+  "go-see.kicker": {
+    "en": "HOW TO MAP · GO SEE",
+    "text": "如何绘制 · GO SEE",
+    "src": "ee61471c",
+    "status": "draft"
+  },
+  "go-see.lead": {
+    "en": "A topology is never assessed from a desk. Mapping and the Gemba, the place where the work actually happens, make each other better. Map without judgment, with curiosity, and together.",
+    "text": "拓扑从来不是坐在办公桌前评估出来的。绘制地图与 Gemba，也就是工作真正发生的地方，会彼此促进。不评判、带着好奇心、一起绘制。",
+    "src": "d78bd185",
+    "status": "draft"
+  },
+  "go-see.points.0.text": {
+    "en": "You can’t place a unit from an org chart. Watch the work — what comes in, what goes out, who waits for whom — then draw it, not the titles and layers.",
+    "text": "您无法凭组织架构图来定位一个单元。观察工作：什么进来、什么出去、谁在等谁，然后画下来，而不是画头衔和层级。",
+    "src": "1ee501fd",
+    "status": "draft"
+  },
+  "go-see.points.0.title": {
+    "en": "Go See feeds the map",
+    "text": "Go See 为地图提供素材",
+    "src": "11c6c5bf",
+    "status": "draft"
+  },
+  "go-see.points.1.text": {
+    "en": "Once drawn, it shows where to look next: heavy dependency lines, hand-offs between incomplete units, the gap to the topology you need.",
+    "text": "地图画好后，它会显示接下来该看哪里：密集的依赖线、不完整单元之间的交接、与所需拓扑之间的差距。",
+    "src": "f8bcd91b",
+    "status": "draft"
+  },
+  "go-see.points.1.title": {
+    "en": "The map guides the walk",
+    "text": "地图指引行走",
+    "src": "aedb1ad9",
+    "status": "draft"
+  },
+  "go-see.points.2.text": {
+    "en": "The map can be reviewed, challenged and improved together, so leaders and workers co-own the discoveries that matter most.",
+    "text": "地图可以一起评审、质疑和改进，让领导者和一线工作者共同拥有最重要的发现。",
+    "src": "a681b133",
+    "status": "draft"
+  },
+  "go-see.points.2.title": {
+    "en": "A shared artifact",
+    "text": "共享的工件",
+    "src": "3bf9d418",
+    "status": "draft"
+  },
+  "go-see.questions.0.question": {
+    "en": "Which business outcome are we mapping, and who has to work on it?",
+    "text": "我们在绘制哪个业务成果，谁要为它工作？",
+    "src": "c48e30ac",
+    "status": "draft"
+  },
+  "go-see.questions.0.title": {
+    "en": "The outcome",
+    "text": "成果",
+    "src": "d068666f",
+    "status": "draft"
+  },
+  "go-see.questions.1.question": {
+    "en": "What does the unit take on toward that outcome?",
+    "text": "为了这个成果，这个单元承担什么？",
+    "src": "4d647569",
+    "status": "draft"
+  },
+  "go-see.questions.1.title": {
+    "en": "The kind of work",
+    "text": "工作的类型",
+    "src": "a6fd05ef",
+    "status": "draft"
+  },
+  "go-see.questions.2.question": {
+    "en": "What does it rely on, and from where?",
+    "text": "它依赖什么，来自哪里？",
+    "src": "f8ec1241",
+    "status": "draft"
+  },
+  "go-see.questions.2.title": {
+    "en": "Its inputs",
+    "text": "它的输入",
+    "src": "b4b85068",
+    "status": "draft"
+  },
+  "go-see.questions.3.question": {
+    "en": "What does it produce, and for whom?",
+    "text": "它产出什么，为谁而做？",
+    "src": "7fd02c35",
+    "status": "draft"
+  },
+  "go-see.questions.3.title": {
+    "en": "Its outputs",
+    "text": "它的输出",
+    "src": "fad7c1d2",
+    "status": "draft"
+  },
+  "go-see.questions.4.question": {
+    "en": "How does work move — idea to cash?",
+    "text": "工作如何流动，从想法到现金？",
+    "src": "0ff95ec9",
+    "status": "draft"
+  },
+  "go-see.questions.4.title": {
+    "en": "The flow",
+    "text": "流动",
+    "src": "c70103ce",
+    "status": "draft"
+  },
+  "go-see.quote.paragraphs.0": {
+    "en": "Such a map doesn’t replace visiting the Gemba: mapping and Go See reinforce each other. … Once mapped, the value-creation terrain appears as a living structure—not a static org chart frozen in time—highlighting exactly where the improvement is most needed.",
+    "text": "这样的地图并不取代走访 Gemba：绘制地图与 Go See 相辅相成。……一旦绘制完成，价值创造的地形就呈现为一个活的结构，而不是定格在某一时刻的静态组织架构图，并准确地标出最需要改进的地方。",
+    "src": "4ee3a7e7",
+    "status": "draft"
+  },
+  "go-see.quote.source": {
+    "en": "FROM THE BOOK · 10X ORG, “GO SEE WITH A MAP”",
+    "text": "摘自本书 · 10X ORG，“带着地图 GO SEE”",
+    "src": "ead34e3c",
+    "status": "draft"
+  },
+  "go-see.stepGoal.goal": {
+    "en": "Which parts of our organization contribute to creating value, and how do they interact to produce it — from idea to cash?",
+    "text": "我们组织的哪些部分在为创造价值作贡献，它们如何互动来产生价值，从想法到现金？",
+    "src": "fdcc5a1e",
+    "status": "draft"
+  },
+  "go-see.stepGoal.value": {
+    "en": "Curiosity",
+    "text": "好奇心",
+    "src": "c0a70c18",
+    "status": "draft"
+  },
+  "intelligences._nav": {
+    "en": "Four Intelligences",
+    "text": "四种智能",
+    "src": "06447a42",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.0": {
+    "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
+    "text": "正如人可以“语言聪明”“逻辑聪明”“音乐聪明”等等，组织也通过赋予组织单元的结构化授权，表现出不同的聪明之处，即*智能*。",
+    "src": "a78780f8",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.1": {
+    "en": "[Organizational intelligence](term:organizational-intelligence) is not a fixed trait and does not reside in individuals. These qualities emerge from the system itself—specifically from the mandates that define who is allowed to decide, act, learn, and shape outcomes. When mandates are narrow, intelligence is constrained. When mandates are broad and coherent, intelligence expands.",
+    "text": "[组织智能](term:organizational-intelligence)不是固定不变的特质，也不存在于个人身上。这些品质来自系统本身，具体来说，来自界定谁被允许决策、行动、学习和塑造成果的授权。授权狭窄时，智能受到限制。授权宽广而连贯时，智能得以扩展。",
+    "src": "b013a554",
+    "status": "draft"
+  },
+  "intelligences.quote.paragraphs.2": {
+    "en": "The question is no longer which intelligence is “better,” but which combination best supports the current strategic challenge—and how that mix must evolve as strategy changes. … Organizations are not locked into a single intelligence; they can intentionally develop neglected ones and combine them to support performance.",
+    "text": "问题不再是哪种智能“更好”，而是哪种组合最能支持当前的战略挑战，以及这种组合如何随战略变化而演进。……组织不会被锁定在单一智能上；它们可以有意识地发展被忽视的智能，并将它们组合起来支持绩效。",
+    "src": "0d6beaa0",
+    "status": "draft"
+  },
+  "intelligences.quote.source": {
+    "en": "FROM THE BOOK · 10X ORG, PRINCIPLE 3: SHAPE INTELLIGENCE WITH MANDATES",
+    "text": "摘自本书 · 10X ORG，原则 3：用授权塑造智能",
+    "src": "fa14ac35",
+    "status": "draft"
+  },
+  "page.description": {
+    "en": "Map your organization with a simple language and one map of two mandates, then see how it really works. Learn the four intelligences and start with free tools.",
+    "text": "用一套简单的语言和一张包含两项授权的地图绘制您的组织，看清它真正如何运作。了解四种智能，从免费工具开始。",
+    "src": "6ad2fef4",
+    "status": "draft"
+  },
+  "page.title": {
+    "en": "Map your organization",
+    "text": "绘制您的组织地图",
+    "src": "f0fb5bb8",
+    "status": "draft"
+  },
+  "poster._nav": {
+    "en": "Mapping Examples",
+    "text": "绘制示例",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "poster.byline.kicker": {
+    "en": "MAPPING A REAL ORG CHANGE · CASE BY ALEXEY KRIVITSKY",
+    "text": "绘制一次真实的组织变革 · ALEXEY KRIVITSKY 的案例",
+    "src": "1a8864e3",
+    "status": "draft"
+  },
+  "poster.cta.label": {
+    "en": "Read Alexey’s full case study →",
+    "text": "阅读 Alexey 的完整案例 →",
+    "src": "e8524f64",
+    "status": "draft"
+  },
+  "poster.figure.alt": {
+    "en": "Poster, mapping the change: component teams and team-level managers in Doing elevate to a team of teams with product and engineering managers in Driving",
+    "text": "Poster 海报，绘制变革：Doing 中的组件团队和团队级管理者，提升为 Driving 中由产品经理和工程经理支持的团队的团队",
+    "src": "fa818256",
+    "status": "draft"
+  },
+  "poster.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "插图 · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "poster.footer.text": {
+    "en": "Mapping does not change the organization. But without mapping, change is blind.",
+    "text": "绘制地图不会改变组织。但没有地图，变革就是盲目的。",
+    "src": "3d1e9ccb",
+    "status": "draft"
+  },
+  "poster.heading": {
+    "en": "Mapping Examples",
+    "text": "绘制示例",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "poster.intro": {
+    "en": "In 2021, Alexey Krivitsky helped Poster, a Ukraine-based SaaS company, rethink its organizational design. It reshaped its R&D from 12 narrow, component-oriented specialist teams into 6 versatile whole-product teams.",
+    "text": "2021 年，Alexey Krivitsky 帮助总部在乌克兰的 SaaS 公司 Poster 重新思考其组织设计。公司把研发部门从 12 个狭窄的、面向组件的专家团队，重塑为 6 个多面手的整体产品团队。",
+    "src": "c1ad25ab",
+    "status": "draft"
+  },
+  "poster.points.0.text": {
+    "en": "Component teams with team-level managers, each with its own list of work, tied together by dependencies.",
+    "text": "组件团队配有团队级管理者，各有各的工作清单，靠依赖关系串联在一起。",
+    "src": "c96e9c1f",
+    "status": "draft"
+  },
+  "poster.points.0.title": {
+    "en": "Before: Doing",
+    "text": "之前：Doing",
+    "src": "c10935e5",
+    "status": "draft"
+  },
+  "poster.points.1.text": {
+    "en": "One [team of teams](term:team-of-teams) on a shared product backlog, with a product owner, product managers and engineering managers around it.",
+    "text": "一个[团队的团队](term:team-of-teams)共用一个产品 Backlog，周围是产品负责人、产品经理和工程经理。",
+    "src": "cb69f6f6",
+    "status": "draft"
+  },
+  "poster.points.1.title": {
+    "en": "After: Driving",
+    "text": "之后：Driving",
+    "src": "45079c72",
+    "status": "draft"
+  },
+  "poster.points.2.text": {
+    "en": "Teams took ownership of feature adoption: a feature is done once a selected client actively uses it.",
+    "text": "团队对功能的采用负责：只有当选定的客户积极使用，功能才算完成。",
+    "src": "466067a5",
+    "status": "draft"
+  },
+  "poster.points.2.title": {
+    "en": "Done means adopted",
+    "text": "完成意味着被采用",
+    "src": "9ba86a0e",
+    "status": "draft"
+  },
+  "poster.points.3.text": {
+    "en": "When COVID-19 and later the full-scale invasion hit, Poster did not need to redesign under pressure.",
+    "text": "当 COVID-19 以及后来的全面入侵来袭时，Poster 无需在压力下重新设计。",
+    "src": "424e780d",
+    "status": "draft"
+  },
+  "poster.points.3.title": {
+    "en": "Resilient by design",
+    "text": "设计上的韧性",
+    "src": "94ae5f04",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.context": {
+    "en": "DIM.RIA is one of Ukraine’s leading real estate marketplaces. When the full-scale invasion hit the market in 2022, it redesigned its structure, entirely remotely, around LeSS principles. The map shows where it started: a [Resource Topology](term:resource-topology) (Directing + Doing), with product managers handing work down to many small teams. The case study tells how it moved toward an adaptive organization.",
+    "text": "DIM.RIA 是乌克兰领先的房地产平台之一。2022 年全面入侵冲击市场时，它完全远程地围绕 LeSS 原则重新设计了结构。地图显示了它的起点：一个 [Resource Topology](term:resource-topology)（Directing + Doing），产品经理把工作下发给许多小团队。案例讲述了它如何朝适应型组织迈进。",
+    "src": "866751b6",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.meta": {
+    "en": "PropTech · Ukraine · LeSS",
+    "text": "房产科技 · 乌克兰 · LeSS",
+    "src": "144536cc",
+    "status": "draft"
+  },
+  "sample-mappings.cases.0.title": {
+    "en": "DIM.RIA: adapting in wartime",
+    "text": "DIM.RIA：在战时适应",
+    "src": "9f05cc28",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.context": {
+    "en": "Flo Health, Europe’s first femtech unicorn, runs 20+ [cross-functional](term:cross-functional) product teams across mobile, AI, content, medical and commercial. Instead of dissolving its domain teams, Flo added a General Manager layer as an overlay, so each initiative has one owner while the domain teams keep their expertise.",
+    "text": "Flo Health 是欧洲第一家女性健康科技独角兽，拥有 20 多个覆盖移动端、AI、内容、医疗和商业的[跨职能](term:cross-functional)产品团队。Flo 没有解散领域团队，而是叠加了一层 General Manager，使每项举措都有一位负责人，同时领域团队保留自己的专长。",
+    "src": "0a80c193",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.meta": {
+    "en": "Femtech · 350 people in product and engineering",
+    "text": "女性健康科技 · 产品与工程 350 人",
+    "src": "fe386ce5",
+    "status": "draft"
+  },
+  "sample-mappings.cases.1.title": {
+    "en": "Flo Health: from domain silos to strategic ownership",
+    "text": "Flo Health：从领域孤岛到战略性负责制",
+    "src": "13568252",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.context": {
+    "en": "FPED is a research unit at Eurecat, the Technology Centre of Catalonia, developing new manufacturing processes for plastic and composite materials. Heads of R&D lines moved from managing every detail towards Product Owner-like roles and delegated more to their teams. The map shows both states: the initial one in black, the current one in blue.",
+    "text": "FPED 是加泰罗尼亚技术中心 Eurecat 的一个研究单位，开发塑料和复合材料的新制造工艺。研发线负责人从管理每个细节，转向类似 Product Owner 的角色，并向团队授权更多。地图显示了两种状态：初始状态为黑色，当前状态为蓝色。",
+    "src": "32748c23",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.meta": {
+    "en": "Industrial R&D · Spain",
+    "text": "工业研发 · 西班牙",
+    "src": "16b846a7",
+    "status": "draft"
+  },
+  "sample-mappings.cases.2.title": {
+    "en": "Eurecat FPED: agility in a research unit",
+    "text": "Eurecat FPED：研究单位中的敏捷",
+    "src": "03782790",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.context": {
+    "en": "An Agile Release Train in the planning domain of one of Europe’s largest technology companies, with trains organized around business capabilities. A next-generation planning solution, Paradigm, became the occasion to redesign. The map shows the optimal design: a [team of teams](term:team-of-teams) at PART-3.",
+    "text": "欧洲最大的技术公司之一，其规划领域的一列 Agile Release Train，各列火车围绕业务能力组织。新一代规划解决方案 Paradigm 成为重新设计的契机。地图显示了最优设计：处于 PART-3 的[团队的团队](term:team-of-teams)。",
+    "src": "72ca40da",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.meta": {
+    "en": "High-tech manufacturing · IT · SAFe",
+    "text": "高科技制造 · IT · SAFe",
+    "src": "d38f13d7",
+    "status": "draft"
+  },
+  "sample-mappings.cases.3.title": {
+    "en": "Paradigm: bringing business and IT together",
+    "text": "Paradigm：让业务与 IT 走到一起",
+    "src": "c85a8df0",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.context": {
+    "en": "A product manager in a government organization leads three product owners and four teams. On paper they are agile; in practice everyone works on their own backlog, and when one team is blocked the others watch. The map shows the future design: teams aligned to whole product domains that build, validate and run the product end to end.",
+    "text": "一家政府机构的产品经理领导三位产品负责人和四个团队。纸面上他们是敏捷的；实际上每个人都在做自己的 Backlog，一个团队受阻时，其他团队只能旁观。地图显示了未来的设计：团队对齐整个产品领域，端到端地构建、验证和运行产品。",
+    "src": "08179b95",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.meta": {
+    "en": "Government · digital services",
+    "text": "政府 · 数字服务",
+    "src": "aea809dc",
+    "status": "draft"
+  },
+  "sample-mappings.cases.4.title": {
+    "en": "It started over dinner",
+    "text": "一切始于一顿晚餐",
+    "src": "fec7c412",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.context": {
+    "en": "Business Banking at de Volksbank moved from developers working on tasks to feature teams paired with the operations teams they serve. By 2023 most of its four dev teams were CAPS-2, incomplete teams working on customer journeys, and one reached CAPS-3, working end-to-end. The map shows that reality, with the vendor and IT still around the teams.",
+    "text": "de Volksbank 的企业银行业务，从开发人员做任务，转向与所服务的运营团队结对的特性团队。到 2023 年，四个开发团队大多处于 CAPS-2，即围绕客户旅程工作的不完整团队，其中一个达到 CAPS-3，端到端工作。地图显示了这一现实，供应商和 IT 仍然围绕在团队周围。",
+    "src": "7a8dc104",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.meta": {
+    "en": "Banking · the Netherlands",
+    "text": "银行 · 荷兰",
+    "src": "6975640c",
+    "status": "draft"
+  },
+  "sample-mappings.cases.5.title": {
+    "en": "de Volksbank: dev teams beside operations",
+    "text": "de Volksbank：开发团队与运营并肩",
+    "src": "3fbb1aa9",
+    "status": "draft"
+  },
+  "sample-mappings.heading": {
+    "en": "From the Community",
+    "text": "来自社区",
+    "src": "fb4606a9",
+    "status": "draft"
+  },
+  "sample-mappings.lead": {
+    "en": "Real organizations, mapped by the people who worked with them. Each map comes with the context you need to read it and a link to the full case study.",
+    "text": "真实的组织，由与之合作的人绘制。每张地图都附有读懂它所需的背景，以及完整案例的链接。",
+    "src": "da3d1180",
+    "status": "draft"
+  },
+  "the-map._nav": {
+    "en": "The 2×2 Map",
+    "text": "2×2 地图",
+    "src": "09dd8c74",
+    "status": "draft"
+  },
+  "the-map.figure.alt": {
+    "en": "The blank Org Topologies map: scope of skills mandate across, scope of work mandate up",
+    "text": "空白的 Org Topologies 地图：横轴为技能授权范围，纵轴为工作授权范围",
+    "src": "9f3cfc56",
+    "status": "draft"
+  },
+  "the-map.figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "插图 · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "the-map.heading": {
+    "en": "Two mandates, one map",
+    "text": "两项授权，一张地图",
+    "src": "5cbe0bd0",
+    "status": "draft"
+  },
+  "the-map.intro.kicker": {
+    "en": "AI-READY MAPPING",
+    "text": "面向 AI 的地图绘制",
+    "src": "4c07a578",
+    "status": "draft"
+  },
+  "the-map.intro.text": {
+    "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of [mandates](term:mandate) applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
+    "text": "工作由**智能主体**完成，即组织单元：个人、群体和 AI。同一张[授权](term:mandate)地图适用于所有这些主体，无论是人、智能体还是机器人。按它被允许学习和从事的内容来定位，而不是按头衔。",
+    "src": "ddaaea6a",
+    "status": "draft"
+  },
+  "the-map.items.0.text": {
+    "en": "Name the business outcome first — a product, a customer problem, a value stream — and who has to work on it. Then judge each unit’s mandates against it: a team can be complete for one outcome and incomplete for another.",
+    "text": "先说出业务成果，可以是一个产品、一个客户问题或一条价值流，以及谁要为它工作。然后对照它来判断每个单元的授权：一个团队对某个成果可以是完整的，对另一个成果则可能不完整。",
+    "src": "dafff1b5",
+    "status": "draft"
+  },
+  "the-map.items.0.title": {
+    "en": "Start from one outcome",
+    "text": "从一个成果出发",
+    "src": "3dc2efbe",
+    "status": "draft"
+  },
+  "the-map.items.1.text": {
+    "en": "The skills a unit is given and allowed to apply. The further right, the more it can deliver quickly without dependencies. Left of the divider units are **incomplete** — they need others to deliver customer value; right of it they are **complete**.",
+    "text": "单元被赋予并被允许运用的技能。越靠右，越能在没有依赖的情况下快速交付。分界线左侧的单元是**不完整**的，需要他人配合才能交付客户价值；右侧则是**完整**的。",
+    "src": "55a57aed",
+    "status": "draft"
+  },
+  "the-map.items.1.title": {
+    "en": "Scope of skills mandate",
+    "text": "技能授权范围",
+    "src": "97658681",
+    "status": "draft"
+  },
+  "the-map.items.2.text": {
+    "en": "How much of the work a unit owns: from tasks and capabilities (**outputs**) up to partial and whole solutions (**outcomes**). More output does not mean more outcomes.",
+    "text": "单元拥有多少工作：从任务和能力（**outputs**）到部分解决方案和整体解决方案（**outcomes**）。更多的 output 并不意味着更多的 outcome。",
+    "src": "ffb790eb",
+    "status": "draft"
+  },
+  "the-map.items.2.title": {
+    "en": "Scope of work mandate",
+    "text": "工作授权范围",
+    "src": "41bef20e",
+    "status": "draft"
+  },
+  "the-map.items.3.text": {
+    "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
+    "text": "两条分界线把地图切成四个象限：[Directing](term:directing-intelligence)、[Driving](term:driving-intelligence)、[Doing](term:doing-intelligence) 和 [Delivering](term:delivering-intelligence)，即四种智能。",
+    "src": "b2bf261a",
+    "status": "draft"
+  },
+  "the-map.items.3.title": {
+    "en": "Four quadrants",
+    "text": "四个象限",
+    "src": "82a3726d",
+    "status": "draft"
+  },
+  "the-map.kicker": {
+    "en": "THE MAP",
+    "text": "地图",
+    "src": "330a58d9",
+    "status": "draft"
+  },
+  "the-map.lead": {
+    "en": "Every unit — a person, a team, an [AI agent](term:ai-agent) — is placed by the two mandates it is given, not by its title. Always map against **one business outcome**: mandates are only broad or narrow, complete or incomplete, relative to the outcome someone has to deliver.",
+    "text": "每个单元，无论是一个人、一个团队还是一个 [AI 智能体](term:ai-agent)，都按它被赋予的两项授权来定位，而不是按头衔。始终围绕**一个业务成果**来绘制：授权只有相对于某人必须交付的成果，才谈得上宽或窄、完整或不完整。",
+    "src": "a562bc54",
+    "status": "draft"
+  },
+  "tools._nav": {
+    "en": "Free Tools",
+    "text": "免费工具",
+    "src": "60dad1bd",
+    "status": "draft"
+  },
+  "tools.cards.0.body": {
+    "en": "Essentials and empty maps to start mapping with your team, online.",
+    "text": "基础地图和空白地图，用来与团队在线开始绘制。",
+    "src": "c3f8545c",
+    "status": "draft"
+  },
+  "tools.cards.0.label": {
+    "en": "Open in Miroverse →",
+    "text": "在 Miroverse 中打开 →",
+    "src": "1130126d",
+    "status": "draft"
+  },
+  "tools.cards.0.title": {
+    "en": "Miro template",
+    "text": "Miro 模板",
+    "src": "4e457459",
+    "status": "draft"
+  },
+  "tools.cards.1.body": {
+    "en": "“We are doing SAFe” says little about your design. See SAFe, LeSS, Team Topologies and more on the map.",
+    "text": "“我们在做 SAFe”并不能说明您的设计。在地图上看看 SAFe、LeSS、Team Topologies 等。",
+    "src": "b4f7ab7f",
+    "status": "draft"
+  },
+  "tools.cards.1.label": {
+    "en": "Study framework mapping →",
+    "text": "研究框架地图 →",
+    "src": "35df44bf",
+    "status": "draft"
+  },
+  "tools.cards.1.title": {
+    "en": "Framework mapping",
+    "text": "框架地图",
+    "src": "e3fd7258",
+    "status": "draft"
+  },
+  "tools.heading": {
+    "en": "Free tools & more mapping ideas",
+    "text": "免费工具与更多绘制思路",
+    "src": "d3cfba98",
+    "status": "draft"
+  },
+  "tools.kicker": {
+    "en": "START MAPPING",
+    "text": "开始绘制",
+    "src": "9b8daf1f",
+    "status": "draft"
+  },
+  "top._nav": {
+    "en": "Org Topologies Mapping",
+    "text": "Org Topologies 地图绘制",
+    "src": "533f211e",
+    "status": "draft"
+  },
+  "top.kicker": {
+    "en": "MADE · STEP 1 · MAP",
+    "text": "MADE · 第 1 步 · MAP",
+    "src": "4348a04d",
+    "status": "draft"
+  },
+  "top.lead": {
+    "en": "A simple language and one map to see how your organization really works — without “agile” or framework jargon. You can’t figure out where to go next until you know where you are.",
+    "text": "一套简单的语言和一张地图，看清组织真正如何运作，无需“敏捷”或框架的行话。不知道自己在哪里，就无法弄清下一步去哪里。",
+    "src": "26f889cd",
+    "status": "draft"
+  },
+  "top.title": {
+    "en": "Map your\norganization.",
+    "text": "绘制您的\n组织地图。",
+    "src": "60a7c3e9",
+    "status": "draft"
+  },
+  "topologies.goDeeper.body": {
+    "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
+    "text": "探索哪种拓扑适合您的战略：每种拓扑的示例地图、可逐一点击的四种智能，以及如何带着地图去走访您自己的组织。",
+    "src": "218dca13",
+    "status": "draft"
+  },
+  "topologies.goDeeper.cta.label": {
+    "en": "Distinguish the topologies →",
+    "text": "区分三种拓扑 →",
+    "src": "13b56d6c",
+    "status": "draft"
+  },
+  "topologies.goDeeper.title": {
+    "en": "The three topologies",
+    "text": "三种拓扑",
+    "src": "942f5853",
+    "status": "draft"
+  },
+  "topologies.heading": {
+    "en": "Three topologies, three goals",
+    "text": "三种拓扑，三个目标",
+    "src": "4addefe8",
+    "status": "draft"
+  },
+  "topologies.kicker": {
+    "en": "STUDY COMMON TOPOLOGIES",
+    "text": "研究常见拓扑",
+    "src": "41482376",
+    "status": "draft"
+  },
+  "topologies.lead": {
+    "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
+    "text": "每种常见拓扑组合了不同的智能（专业化、流动、协调、适应），并在不同的环境中“大放异彩”。",
+    "src": "82abc347",
+    "status": "draft"
+  },
+  "topologies.topologies.0.bestFor": {
+    "en": "Stable, process-driven environments",
+    "text": "稳定、流程驱动的环境",
+    "src": "cb4dc2e2",
+    "status": "draft"
+  },
+  "topologies.topologies.0.combination": {
+    "en": "Doing + Directing",
+    "text": "Doing + Directing",
+    "src": "974ea26e",
+    "status": "draft"
+  },
+  "topologies.topologies.0.intelligences": {
+    "en": "(specialization + coordination intelligences)",
+    "text": "（专业化智能 + 协调智能）",
+    "src": "79a864bb",
+    "status": "draft"
+  },
+  "topologies.topologies.0.name": {
+    "en": "Resource",
+    "text": "Resource",
+    "src": "eb7a842f",
+    "status": "draft"
+  },
+  "topologies.topologies.0.optimizesFor": {
+    "en": "Utilization & predictability",
+    "text": "利用率与可预测性",
+    "src": "78834df6",
+    "status": "draft"
+  },
+  "topologies.topologies.0.tradeOff": {
+    "en": "Rigid when strategy shifts",
+    "text": "战略转向时僵化",
+    "src": "5e9dd73b",
+    "status": "draft"
+  },
+  "topologies.topologies.1.bestFor": {
+    "en": "Known work that fits the team structure",
+    "text": "适合团队结构的已知工作",
+    "src": "a38d64d2",
+    "status": "draft"
+  },
+  "topologies.topologies.1.combination": {
+    "en": "Delivering + Directing",
+    "text": "Delivering + Directing",
+    "src": "f3651004",
+    "status": "draft"
+  },
+  "topologies.topologies.1.intelligences": {
+    "en": "(flow + coordination intelligences)",
+    "text": "（流动智能 + 协调智能）",
+    "src": "551b9936",
+    "status": "draft"
+  },
+  "topologies.topologies.1.name": {
+    "en": "Delivery",
+    "text": "Delivery",
+    "src": "52bfe584",
+    "status": "draft"
+  },
+  "topologies.topologies.1.optimizesFor": {
+    "en": "Speed & flow within boundaries",
+    "text": "边界内的速度与流动",
+    "src": "d98fd14a",
+    "status": "draft"
+  },
+  "topologies.topologies.1.tradeOff": {
+    "en": "Cross-cutting work needs coordination",
+    "text": "跨领域的工作需要协调",
+    "src": "867970d5",
+    "status": "draft"
+  },
+  "topologies.topologies.2.bestFor": {
+    "en": "Volatile, innovation-driven contexts",
+    "text": "多变的、创新驱动的环境",
+    "src": "e511eaa4",
+    "status": "draft"
+  },
+  "topologies.topologies.2.combination": {
+    "en": "Driving",
+    "text": "Driving",
+    "src": "d61f3033",
+    "status": "draft"
+  },
+  "topologies.topologies.2.intelligences": {
+    "en": "(adaptive intelligence)",
+    "text": "（适应智能）",
+    "src": "90bb9851",
+    "status": "draft"
+  },
+  "topologies.topologies.2.name": {
+    "en": "Adaptive",
+    "text": "Adaptive",
+    "src": "ceb6931e",
+    "status": "draft"
+  },
+  "topologies.topologies.2.optimizesFor": {
+    "en": "Adaptability & learning",
+    "text": "适应性与学习",
+    "src": "29d84f4e",
+    "status": "draft"
+  },
+  "topologies.topologies.2.tradeOff": {
+    "en": "Challenges existing control structures",
+    "text": "挑战现有的控制结构",
+    "src": "e1e75bce",
+    "status": "draft"
+  }
+}

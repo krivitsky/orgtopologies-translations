@@ -1,0 +1,134 @@
+{
+  "heading": {
+    "en": "What practitioners say about Org Topologies",
+    "text": "Vad praktiker säger om Org Topologies",
+    "src": "70e115e3",
+    "status": "draft"
+  },
+  "items.0.name": {
+    "en": "Lucy Karpova",
+    "text": "Lucy Karpova",
+    "src": "c0fa9625",
+    "status": "draft"
+  },
+  "items.0.quote": {
+    "en": "“It was so much easier to describe the FlixBus agile journey using Org Topologies™, which otherwise would need much more explanation and reasoning. Mapping product depth and team skills dimensions bridged the gap between applying frameworks and discovering ways to organize teams.”",
+    "text": "”Det blev så mycket enklare att beskriva FlixBus agila resa med Org Topologies™, som annars hade krävt mycket mer förklaring och resonemang. Genom att kartlägga produktdjup och teamens kompetensdimensioner kunde vi överbrygga klyftan mellan att tillämpa ramverk och att hitta sätt att organisera team.”",
+    "src": "eb68a300",
+    "status": "draft"
+  },
+  "items.0.role": {
+    "en": "Agile and Product Coach at Flix and Sixt",
+    "text": "Agile and Product Coach at Flix and Sixt",
+    "src": "f46322b3",
+    "status": "draft"
+  },
+  "items.1.name": {
+    "en": "Frank Dohmen",
+    "text": "Frank Dohmen",
+    "src": "bd76951a",
+    "status": "draft"
+  },
+  "items.1.quote": {
+    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
+    "text": "”Jag har själv använt Org Topologies de senaste två åren, för att besvara frågor om ett teams agilitet och det pågående projektet och för att identifiera nästa steg. Det har varit en grund för samsyn med våra kunder om var vi står just nu och, om man vill utvecklas, vilken riktning och vilka åtgärder som är rätt.”",
+    "src": "b23eb7cf",
+    "status": "draft"
+  },
+  "items.1.role": {
+    "en": "Lead Project Management at IBM iX",
+    "text": "Lead Project Management at IBM iX",
+    "src": "ef561465",
+    "status": "draft"
+  },
+  "items.2.link.label": {
+    "en": "Read the Strobbo case →",
+    "text": "Läs fallstudien om Strobbo →",
+    "src": "e6a27bb4",
+    "status": "draft"
+  },
+  "items.2.name": {
+    "en": "Michael Voorhaen",
+    "text": "Michael Voorhaen",
+    "src": "6f858cef",
+    "status": "draft"
+  },
+  "items.2.quote": {
+    "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
+    "text": "”Vi gjorde det här som teamövning förra veckan och bedömde var på kartan teamen tyckte att de befann sig. Sedan kunde vi med Org Topologies dela vår vision om vart vi vill gå härnäst. Det fina är att det hjälpte oss att slippa diskussioner om bra och dåligt och i stället fokusera på något så enkelt som ’vi är här’ och ’dit vill vi gå härnäst’.”",
+    "src": "380048ee",
+    "status": "draft"
+  },
+  "items.2.role": {
+    "en": "Product Manager at Strobbo, Protime",
+    "text": "Product Manager at Strobbo, Protime",
+    "src": "520d6df1",
+    "status": "draft"
+  },
+  "items.3.name": {
+    "en": "Anya Faingersh",
+    "text": "Anya Faingersh",
+    "src": "dfb4e718",
+    "status": "draft"
+  },
+  "items.3.quote": {
+    "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
+    "text": "”Det finns många verktyg som lovar organisationer guld och gröna skogar. Org Topologies™ ÄR den saknade länken som kopplar ihop det VERKLIGA problemet med den RÄTTA lösningen.”",
+    "src": "33a24fe2",
+    "status": "draft"
+  },
+  "items.3.role": {
+    "en": "Scrum Master and Agile Coach",
+    "text": "Scrum Master and Agile Coach",
+    "src": "5afe7708",
+    "status": "draft"
+  },
+  "items.4.name": {
+    "en": "Felix Lagemann",
+    "text": "Felix Lagemann",
+    "src": "a2b6eadd",
+    "status": "draft"
+  },
+  "items.4.quote": {
+    "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
+    "text": "”Det här ramverksoberoende visuella angreppssättet ger näring åt alla som aktivt vill forma nästa steg i sin affärstransformation. Att kartlägga dina team med arketyper visar både var du står och väcker diskussionen om vart du vill.”",
+    "src": "c24bca14",
+    "status": "draft"
+  },
+  "items.4.role": {
+    "en": "Senior Consultant",
+    "text": "Senior Consultant",
+    "src": "cfbb0a0b",
+    "status": "draft"
+  },
+  "items.5.link.label": {
+    "en": "Read his analysis →",
+    "text": "Läs hans analys →",
+    "src": "5a63983c",
+    "status": "draft"
+  },
+  "items.5.name": {
+    "en": "Carlton Nettleton",
+    "text": "Carlton Nettleton",
+    "src": "f42c8ff8",
+    "status": "draft"
+  },
+  "items.5.quote": {
+    "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
+    "text": "”En av deras främsta drivkrafter var att publicera en modell som gav praktiker ett tydligt och specifikt språk för att prata om organisationsdesign.”",
+    "src": "5c29cb27",
+    "status": "draft"
+  },
+  "items.5.role": {
+    "en": "The Scrum Academy",
+    "text": "The Scrum Academy",
+    "src": "4ed8f9f6",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "TESTIMONIALS",
+    "text": "OMDÖMEN",
+    "src": "afb2c9a9",
+    "status": "draft"
+  }
+}

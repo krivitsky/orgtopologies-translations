@@ -1,0 +1,68 @@
+{
+  "BO": {
+    "en": "BO",
+    "text": "BO",
+    "src": "84ed3cf3",
+    "status": "draft"
+  },
+  "Broaden Scope of Work": {
+    "en": "Broaden Scope of Work",
+    "text": "拓宽工作范围",
+    "src": "7e6984b1",
+    "status": "draft"
+  },
+  "Elevating an ART": {
+    "en": "Elevating an ART",
+    "text": "Elevate（提升）一个 ART",
+    "src": "4cb1f965",
+    "status": "draft"
+  },
+  "Improve Capabilities": {
+    "en": "Improve Capabilities",
+    "text": "提升能力",
+    "src": "f2fc4ff4",
+    "status": "draft"
+  },
+  "Improve capabilities, broaden the scope of work": {
+    "en": "Improve capabilities, broaden the scope of work",
+    "text": "提升能力，拓宽工作范围",
+    "src": "ab394136",
+    "status": "draft"
+  },
+  "PM": {
+    "en": "PM",
+    "text": "PM",
+    "src": "6b987654",
+    "status": "draft"
+  },
+  "RTE": {
+    "en": "RTE",
+    "text": "RTE",
+    "src": "3daec95c",
+    "status": "draft"
+  },
+  "SA": {
+    "en": "SA",
+    "text": "SA",
+    "src": "360bf3a8",
+    "status": "draft"
+  },
+  "TARGET STATE": {
+    "en": "TARGET STATE",
+    "text": "目标状态",
+    "src": "ffacda0e",
+    "status": "draft"
+  },
+  "sys team": {
+    "en": "sys team",
+    "text": "系统团队",
+    "src": "a7dafdbf",
+    "status": "draft"
+  },
+  "team": {
+    "en": "team",
+    "text": "团队",
+    "src": "ca8b22d0",
+    "status": "draft"
+  }
+}

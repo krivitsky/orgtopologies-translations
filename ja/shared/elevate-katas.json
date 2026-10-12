@@ -1,0 +1,56 @@
+{
+  "allCases.label": {
+    "en": "All case studies with katas →",
+    "text": "カタを使った全ケーススタディ →",
+    "src": "4cc52884",
+    "status": "draft"
+  },
+  "casesKicker": {
+    "en": "Case studies rich in katas",
+    "text": "カタが豊富なケーススタディ",
+    "src": "3551d57f",
+    "status": "draft"
+  },
+  "elements": {
+    "en": "The katas are grouped by the five elements of Jay Galbraith’s Star Model™: change one element and the others must follow.",
+    "text": "カタは、Jay Galbraith のスターモデル(Star Model™)の5つの要素で分類しています。ひとつの要素を変えれば、ほかの要素も合わせて変える必要があります。",
+    "src": "804bf86d",
+    "status": "draft"
+  },
+  "explore.label": {
+    "en": "Explore the Katalog →",
+    "text": "Katalogを見る →",
+    "src": "0a155c6c",
+    "status": "draft"
+  },
+  "figure.alt": {
+    "en": "Elevating Katas: a big arrow lifts a web of narrow, dependent units in the bottom left of the Org Topologies map toward a team of teams in the top right, labelled Elevate to Adaptive Topology",
+    "text": "Elevating Katas。大きな矢印が、Org Topologies マップ左下の、狭く依存し合うユニットの網を、右上のチーム・オブ・チームズへ持ち上げている。ラベルは「Elevate to Adaptive Topology」",
+    "src": "25fe3861",
+    "status": "draft"
+  },
+  "figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "イラスト · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ELEVATE · STEP 4 OF MADE",
+    "text": "ELEVATE · MADE のステップ4",
+    "src": "3bf90c77",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Elevating is a deliberate move right and up on the map. The katas are the moves: small, repeatable routines that change how the organization works. A menu, not a sequence: start with the few that match your most pressing constraint.",
+    "text": "Elevatingとは、マップの上で右上へ意図して動くことです。その動きがカタです。組織の働き方を変える、小さく繰り返せる型。順番に並んだ手順ではなく、メニューです。いちばん切実な制約に合うものを、いくつか選んで始めましょう。",
+    "src": "cb295cbd",
+    "status": "draft"
+  }
+}

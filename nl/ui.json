@@ -1,0 +1,506 @@
+{
+  "c.academy.allDates": {
+    "en": "All dates →",
+    "text": "Alle data →",
+    "src": "3a104a09",
+    "status": "draft"
+  },
+  "c.consent.accept": {
+    "en": "Accept",
+    "text": "Accepteren",
+    "src": "89713b9c",
+    "status": "draft"
+  },
+  "c.consent.decline": {
+    "en": "Decline",
+    "text": "Weigeren",
+    "src": "a2d285b3",
+    "status": "draft"
+  },
+  "c.consent.privacy": {
+    "en": "Privacy",
+    "text": "Privacy",
+    "src": "54a57c31",
+    "status": "draft"
+  },
+  "c.consent.text": {
+    "en": "May we use Google Analytics cookies to learn which pages help? Nothing is sent unless you accept.",
+    "text": "Mogen we Google Analytics-cookies gebruiken om te zien welke pagina’s helpen? Er wordt niets verstuurd tenzij je akkoord gaat.",
+    "src": "72587b87",
+    "status": "draft"
+  },
+  "c.fourInt.example": {
+    "en": "EXAMPLE",
+    "text": "VOORBEELD",
+    "src": "f2e8378c",
+    "status": "draft"
+  },
+  "c.fourInt.withAi": {
+    "en": "WITH AI",
+    "text": "MET AI",
+    "src": "29c55c08",
+    "status": "draft"
+  },
+  "c.glossary.see": {
+    "en": "See in Glossary →",
+    "text": "Zie Woordenlijst →",
+    "src": "099f7892",
+    "status": "draft"
+  },
+  "c.kata.applied": {
+    "en": "applied",
+    "text": "toegepast",
+    "src": "b4267ce9",
+    "status": "draft"
+  },
+  "c.kata.count": {
+    "en": "{n} katas",
+    "text": "{n} katas",
+    "src": "9f9900ea",
+    "status": "draft"
+  },
+  "c.kata.katas": {
+    "en": "Katas",
+    "text": "Katas",
+    "src": "659be732",
+    "status": "draft"
+  },
+  "c.kata.moreKatas": {
+    "en": "+{n} more",
+    "text": "+{n} meer",
+    "src": "405502ba",
+    "status": "draft"
+  },
+  "c.kata.proposed": {
+    "en": "proposed",
+    "text": "voorgesteld",
+    "src": "81e766d8",
+    "status": "draft"
+  },
+  "c.kata.readCase": {
+    "en": "Read the case study →",
+    "text": "Lees de case →",
+    "src": "3ca149d9",
+    "status": "draft"
+  },
+  "c.kata.readMore": {
+    "en": "Read more in the Katalog →",
+    "text": "Lees meer in de Katalog →",
+    "src": "7e41e768",
+    "status": "draft"
+  },
+  "c.kata.showAll": {
+    "en": "Show all {n} case studies",
+    "text": "Toon alle {n} cases",
+    "src": "f7e48e2d",
+    "status": "draft"
+  },
+  "c.katalog.applied": {
+    "en": "Applied",
+    "text": "Toegepast",
+    "src": "0c79a9c2",
+    "status": "draft"
+  },
+  "c.katalog.back": {
+    "en": "← Back to {title}",
+    "text": "← Terug naar {title}",
+    "src": "7783b919",
+    "status": "draft"
+  },
+  "c.katalog.noCases": {
+    "en": "No published case study names this kata yet.",
+    "text": "Nog geen gepubliceerde case noemt deze kata.",
+    "src": "2080effb",
+    "status": "draft"
+  },
+  "c.katalog.note": {
+    "en": "Note by {name}, {date}:",
+    "text": "Notitie van {name}, {date}:",
+    "src": "378a17e2",
+    "status": "draft"
+  },
+  "c.katalog.proposed": {
+    "en": "Proposed",
+    "text": "Voorgesteld",
+    "src": "9b0c660b",
+    "status": "draft"
+  },
+  "c.map.ai": {
+    "en": "AI agent",
+    "text": "AI-agent",
+    "src": "92c7d7f8",
+    "status": "draft"
+  },
+  "c.map.close": {
+    "en": "Close",
+    "text": "Sluiten",
+    "src": "7d9eb7ac",
+    "status": "draft"
+  },
+  "c.map.dark": {
+    "en": "Dark",
+    "text": "Donker",
+    "src": "60acc53f",
+    "status": "draft"
+  },
+  "c.map.dots": {
+    "en": "Dots",
+    "text": "Stippen",
+    "src": "6de335fa",
+    "status": "draft"
+  },
+  "c.map.figures": {
+    "en": "Figures",
+    "text": "Figuren",
+    "src": "f2f410e7",
+    "status": "draft"
+  },
+  "c.map.flow": {
+    "en": "Flow (labelled arrow)",
+    "text": "Flow (pijl met label)",
+    "src": "9ff4d655",
+    "status": "draft"
+  },
+  "c.map.fullScreen": {
+    "en": "Full screen",
+    "text": "Volledig scherm",
+    "src": "674fe2ac",
+    "status": "draft"
+  },
+  "c.map.human": {
+    "en": "Human",
+    "text": "Mens",
+    "src": "9ffa865f",
+    "status": "draft"
+  },
+  "c.map.light": {
+    "en": "Light",
+    "text": "Licht",
+    "src": "dbcd5e7b",
+    "status": "draft"
+  },
+  "c.map.line": {
+    "en": "Dependency, information flow",
+    "text": "Afhankelijkheid, informatiestroom",
+    "src": "94c0cf58",
+    "status": "draft"
+  },
+  "c.map.team": {
+    "en": "Team",
+    "text": "Team",
+    "src": "5985039f",
+    "status": "draft"
+  },
+  "c.suggest.button": {
+    "en": "Suggest a better translation",
+    "text": "Betere vertaling voorstellen",
+    "src": "04d108ea",
+    "status": "draft"
+  },
+  "c.suggest.cancel": {
+    "en": "Cancel",
+    "text": "Annuleren",
+    "src": "19766ed6",
+    "status": "draft"
+  },
+  "c.suggest.close": {
+    "en": "Close",
+    "text": "Sluiten",
+    "src": "7d9eb7ac",
+    "status": "draft"
+  },
+  "c.suggest.current": {
+    "en": "Current text",
+    "text": "Huidige tekst",
+    "src": "afb27566",
+    "status": "draft"
+  },
+  "c.suggest.error": {
+    "en": "Sorry, that didn't go through. Please try again later.",
+    "text": "Dat lukte helaas niet. Probeer het later opnieuw.",
+    "src": "6a4a2249",
+    "status": "draft"
+  },
+  "c.suggest.note": {
+    "en": "It becomes a public note (issue) for the translators on GitHub: anonymously through us, with a link to follow it, or under your own GitHub account.",
+    "text": "Het wordt een openbare notitie (issue) voor de vertalers op GitHub: anoniem via ons, met een link om het te volgen, of onder je eigen GitHub-account.",
+    "src": "690fd514",
+    "status": "draft"
+  },
+  "c.suggest.send": {
+    "en": "Send anonymously",
+    "text": "Anoniem versturen",
+    "src": "ef219904",
+    "status": "draft"
+  },
+  "c.suggest.sendGithub": {
+    "en": "With my GitHub account ↗",
+    "text": "Met mijn GitHub-account ↗",
+    "src": "ff9b8999",
+    "status": "draft"
+  },
+  "c.suggest.thanks": {
+    "en": "Thank you! Your suggestion went to the translators.",
+    "text": "Dank je! Je voorstel is bij de vertalers.",
+    "src": "4b6bc546",
+    "status": "draft"
+  },
+  "c.suggest.title": {
+    "en": "Suggest a better translation",
+    "text": "Betere vertaling voorstellen",
+    "src": "04d108ea",
+    "status": "draft"
+  },
+  "c.suggest.view": {
+    "en": "See it on GitHub ↗",
+    "text": "Bekijk op GitHub ↗",
+    "src": "6bde51a2",
+    "status": "draft"
+  },
+  "c.suggest.yours": {
+    "en": "Your version (edit the text)",
+    "text": "Jouw versie (pas de tekst aan)",
+    "src": "18f2ebef",
+    "status": "draft"
+  },
+  "c.trio.bestFor": {
+    "en": "BEST FOR",
+    "text": "HET BESTE VOOR",
+    "src": "776fc82c",
+    "status": "draft"
+  },
+  "c.trio.optimizesFor": {
+    "en": "OPTIMIZES FOR",
+    "text": "OPTIMALISEERT VOOR",
+    "src": "12ba1e56",
+    "status": "draft"
+  },
+  "c.trio.tradeOff": {
+    "en": "TRADE-OFF",
+    "text": "AFWEGING",
+    "src": "2d3821ce",
+    "status": "draft"
+  },
+  "nav.academyCta.label": {
+    "en": "Visit the Academy",
+    "text": "Bezoek de Academy",
+    "src": "27263d94",
+    "status": "draft"
+  },
+  "nav.academyCta.short": {
+    "en": "Academy",
+    "text": "Academy",
+    "src": "b2a5911a",
+    "status": "draft"
+  },
+  "nav.brand": {
+    "en": "Org Topologies",
+    "text": "Org Topologies",
+    "src": "b3fa8f5f",
+    "status": "draft"
+  },
+  "nav.closeLabel": {
+    "en": "Close menu",
+    "text": "Menu sluiten",
+    "src": "6ccd5c78",
+    "status": "draft"
+  },
+  "nav.exploreLabel": {
+    "en": "Explore Org Topologies",
+    "text": "Ontdek Org Topologies",
+    "src": "6da8f814",
+    "status": "draft"
+  },
+  "nav.menuLabel": {
+    "en": "Menu",
+    "text": "Menu",
+    "src": "99af6606",
+    "status": "draft"
+  },
+  "nav.primary.0.below.label": {
+    "en": "Glossary",
+    "text": "Woordenlijst",
+    "src": "4c4e436f",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.0.label": {
+    "en": "Change, MADE Systemic",
+    "text": "Verandering, MADE Systemic",
+    "src": "03610ffd",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.0.step": {
+    "en": "The MADE method",
+    "text": "De MADE-methode",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.1.extra.0.label": {
+    "en": "Framework Mappings",
+    "text": "Framework Mappings",
+    "src": "baf15a30",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.1.label": {
+    "en": "Org Topologies Mapping",
+    "text": "Org Topologies Mapping",
+    "src": "533f211e",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.1.step": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.2.label": {
+    "en": "Three Org Topologies",
+    "text": "Drie Org Topologies",
+    "src": "9ba98f17",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.2.step": {
+    "en": "Assess & Design",
+    "text": "Assess & Design",
+    "src": "bb9e70bc",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.0.label": {
+    "en": "1. Strategy",
+    "text": "1. Strategie",
+    "src": "0d944828",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.1.label": {
+    "en": "2. Structure",
+    "text": "2. Structuur",
+    "src": "7981d3e6",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.2.label": {
+    "en": "3. Processes",
+    "text": "3. Processen",
+    "src": "864943ff",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.3.label": {
+    "en": "4. Rewards",
+    "text": "4. Beloning",
+    "src": "dde39d79",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.extra.4.label": {
+    "en": "5. People",
+    "text": "5. Mensen",
+    "src": "fb64fb20",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.label": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "nav.primary.0.columns.3.step": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "nav.primary.0.label": {
+    "en": "Approach",
+    "text": "Aanpak",
+    "src": "b6b243ca",
+    "status": "draft"
+  },
+  "nav.primary.1.label": {
+    "en": "Book",
+    "text": "Boek",
+    "src": "909cb811",
+    "status": "draft"
+  },
+  "nav.primary.2.label": {
+    "en": "Case Studies",
+    "text": "Cases",
+    "src": "545fab8e",
+    "status": "draft"
+  },
+  "nav.primary.3.extra.0.label": {
+    "en": "Articles",
+    "text": "Artikelen",
+    "src": "b14ac78a",
+    "status": "draft"
+  },
+  "nav.primary.3.extra.1.label": {
+    "en": "Videos",
+    "text": "Video's",
+    "src": "c9a96394",
+    "status": "draft"
+  },
+  "nav.primary.3.label": {
+    "en": "Articles & Videos",
+    "text": "Artikelen & video's",
+    "src": "7dcefe4e",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.0.label": {
+    "en": "Partners",
+    "text": "Partners",
+    "src": "5dab502b",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.1.label": {
+    "en": "Members",
+    "text": "Leden",
+    "src": "1044a4c0",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.2.label": {
+    "en": "Meet Creators",
+    "text": "Ontmoet de makers",
+    "src": "4edc4aa7",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.3.label": {
+    "en": "Join the Slack",
+    "text": "Join de Slack",
+    "src": "4e10e355",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.4.label": {
+    "en": "Follow on LinkedIn",
+    "text": "Volg op LinkedIn",
+    "src": "50a46ecd",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.5.label": {
+    "en": "Ask Aiden",
+    "text": "Vraag Aiden",
+    "src": "05d15f3f",
+    "status": "draft"
+  },
+  "nav.primary.4.label": {
+    "en": "Community",
+    "text": "Community",
+    "src": "bb501d78",
+    "status": "draft"
+  },
+  "nav.tagline": {
+    "en": "The home of modern org design",
+    "text": "Thuis van modern org-ontwerp",
+    "src": "08356774",
+    "status": "draft"
+  },
+  "shell.skip": {
+    "en": "Skip to content",
+    "text": "Naar de inhoud",
+    "src": "ac576a66",
+    "status": "draft"
+  },
+  "shell.suggestHint": {
+    "en": "Help improve this translation: select any text on the page and suggest a better version.",
+    "text": "Help de vertaling te verbeteren: selecteer tekst op de pagina en stel een betere versie voor.",
+    "src": "0ff84c34",
+    "status": "draft"
+  }
+}
