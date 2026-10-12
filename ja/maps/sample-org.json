@@ -1,7 +1,7 @@
 {
   "Assessed: Delivery Topology": {
     "en": "Assessed: Delivery Topology",
-    "text": "Assessed: Delivery Topology",
+    "text": "評価結果：Delivery Topology",
     "src": "ad2d74c1",
     "status": "draft"
   },
@@ -43,7 +43,7 @@
   },
   "Mapping status quo": {
     "en": "Mapping status quo",
-    "text": "現状のMapping",
+    "text": "現状のマッピング",
     "src": "049a2673",
     "status": "draft"
   },

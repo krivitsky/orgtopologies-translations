@@ -504,9 +504,9 @@
     "status": "draft"
   },
   "shell.suggestHint": {
-    "en": "Help improve this translation: select any text on the page and suggest a better version.",
-    "text": "帮助改进这个译文：选中页面上的任意文字，提出更好的版本。",
-    "src": "0ff84c34",
+    "en": "We know some translated texts are not perfect. You can help improve them: select any text on the page and suggest a better version.",
+    "text": "我们知道部分译文还不够完美。欢迎帮助改进：选中页面上的任意文字，提出更好的版本。",
+    "src": "e58e030d",
     "status": "draft"
   }
 }

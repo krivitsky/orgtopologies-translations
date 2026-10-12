@@ -1,7 +1,7 @@
 {
   "Assessed: Delivery Topology": {
     "en": "Assessed: Delivery Topology",
-    "text": "Assessed: Delivery Topology",
+    "text": "评估结果：Delivery Topology",
     "src": "ad2d74c1",
     "status": "draft"
   },
@@ -43,7 +43,7 @@
   },
   "Mapping status quo": {
     "en": "Mapping status quo",
-    "text": "Mapping 现状",
+    "text": "现状地图",
     "src": "049a2673",
     "status": "draft"
   },
@@ -79,7 +79,7 @@
   },
   "Sample OT Mapping": {
     "en": "Sample OT Mapping",
-    "text": "OT 映射示例",
+    "text": "OT 地图示例",
     "src": "720a9b15",
     "status": "draft"
   },

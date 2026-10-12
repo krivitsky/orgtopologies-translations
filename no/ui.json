@@ -504,9 +504,9 @@
     "status": "draft"
   },
   "shell.suggestHint": {
-    "en": "Help improve this translation: select any text on the page and suggest a better version.",
-    "text": "Hjelp oss å forbedre oversettelsen: marker en tekst på siden og foreslå en bedre versjon.",
-    "src": "0ff84c34",
+    "en": "We know some translated texts are not perfect. You can help improve them: select any text on the page and suggest a better version.",
+    "text": "Vi vet at noen oversatte tekster ikke er perfekte. Du kan hjelpe oss å forbedre dem: marker en tekst på siden og foreslå en bedre versjon.",
+    "src": "e58e030d",
     "status": "draft"
   }
 }

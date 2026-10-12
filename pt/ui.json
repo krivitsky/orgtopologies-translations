@@ -504,9 +504,9 @@
     "status": "draft"
   },
   "shell.suggestHint": {
-    "en": "Help improve this translation: select any text on the page and suggest a better version.",
-    "text": "Ajude a melhorar esta tradução: selecione qualquer texto da página e sugira uma versão melhor.",
-    "src": "0ff84c34",
+    "en": "We know some translated texts are not perfect. You can help improve them: select any text on the page and suggest a better version.",
+    "text": "Sabemos que alguns textos traduzidos não estão perfeitos. Você pode ajudar a melhorá-los: selecione qualquer texto da página e sugira uma versão melhor.",
+    "src": "e58e030d",
     "status": "draft"
   }
 }

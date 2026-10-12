@@ -1,7 +1,7 @@
 {
   "Assessed: Delivery Topology": {
     "en": "Assessed: Delivery Topology",
-    "text": "Assessed: Delivery Topology",
+    "text": "Beoordeeld: Delivery Topology",
     "src": "ad2d74c1",
     "status": "draft"
   },
@@ -43,7 +43,7 @@
   },
   "Mapping status quo": {
     "en": "Mapping status quo",
-    "text": "Mapping status quo",
+    "text": "De huidige situatie in kaart",
     "src": "049a2673",
     "status": "draft"
   },
@@ -79,7 +79,7 @@
   },
   "Sample OT Mapping": {
     "en": "Sample OT Mapping",
-    "text": "Voorbeeld OT Mapping",
+    "text": "Voorbeeld van een OT-kaart",
     "src": "720a9b15",
     "status": "draft"
   },
