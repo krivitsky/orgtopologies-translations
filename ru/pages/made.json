@@ -463,7 +463,7 @@
   },
   "map.note": {
     "en": "Why it matters: in a study of nearly 200 org design consultants, more than half said their clients find it hard to trace how people collaborate across units.",
-    "text": "Почему это важно: в исследовании почти 200 консультантов по проектированию организаций больше половины сказали, что их клиентам трудно проследить, как люди взаимодействуют между подразделениями.",
+    "text": "Почему это важно: в исследовании почти 200 консультантов по организационному дизайну больше половины сказали, что их клиентам трудно проследить, как люди взаимодействуют между подразделениями.",
     "src": "77e58861",
     "status": "draft"
   },
@@ -541,7 +541,7 @@
   },
   "overview._nav": {
     "en": "Change, MADE Systemic",
-    "text": "Change, MADE Systemic",
+    "text": "Изменения, сделанные системными (MADE)",
     "src": "03610ffd",
     "status": "draft"
   },

@@ -19,7 +19,7 @@
   },
   "adaptive.dynamics.text": {
     "en": "Directing, doing and delivering merge into one [team-of-teams](term:team-of-teams) — people and AI agents — with a broad shared mandate. Work is synchronous and coordinated by those doing it; learning runs across skills and across the scope of work.",
-    "text": "Directing、Doing 和 Delivering 合并为一个[团队的团队](term:team-of-teams)，由人和 AI 智能体组成，拥有宽泛的共同授权。工作是同步进行的，由执行者自己协调；学习贯穿各项技能和整个工作范围。",
+    "text": "Directing、Doing 和 Delivering 合并为一个[团队的团队](term:team-of-teams)，由人和 AI 智能体组成，拥有宽泛的共同权责。工作是同步进行的，由执行者自己协调；学习贯穿各项技能和整个工作范围。",
     "src": "beb4d40e",
     "status": "draft"
   },
@@ -427,7 +427,7 @@
   },
   "delivery.withAi": {
     "en": "**With AI:** AI absorbs execution work faster than teams can adapt their skills and mandates.",
-    "text": "**有了 AI：**AI 吸收执行工作的速度，快于团队调整技能和授权的速度。",
+    "text": "**有了 AI：**AI 吸收执行工作的速度，快于团队调整技能和权责的速度。",
     "src": "902b6443",
     "status": "draft"
   },
@@ -709,7 +709,7 @@
   },
   "made.phases.0.steps.0.text": {
     "en": "Place every unit by skills and work mandate",
-    "text": "按技能授权和工作授权安置每个单元",
+    "text": "按技能权责和工作权责安置每个单元",
     "src": "147b353e",
     "status": "draft"
   },
@@ -991,7 +991,7 @@
   },
   "resource.withAi": {
     "en": "**With AI:** AI automates specialized tasks fast — narrow specialist roles face displacement unless [mandates](term:mandate) widen.",
-    "text": "**有了 AI：**AI 能快速自动化专业化任务，除非[授权](term:mandate)变宽，否则狭窄的专家角色将面临被取代的风险。",
+    "text": "**有了 AI：**AI 能快速自动化专业化任务，除非[权责](term:mandate)变宽，否则狭窄的专家角色将面临被取代的风险。",
     "src": "4b1adfe5",
     "status": "draft"
   },

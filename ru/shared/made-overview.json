@@ -19,13 +19,13 @@
   },
   "heading": {
     "en": "Change, MADE systemic",
-    "text": "Change, MADE Systemic",
+    "text": "Изменения, сделанные системными (MADE)",
     "src": "59a35118",
     "status": "draft"
   },
   "image.alt": {
     "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
-    "text": "Change MADE systemic: Study (Map, Assess) и Improve (Design, Elevate) вокруг проектирования организации, между стратегией и результативностью",
+    "text": "Change MADE systemic: Study (Map, Assess) и Improve (Design, Elevate) вокруг организационного дизайна, между стратегией и результативностью",
     "src": "d37f75ea",
     "status": "draft"
   },
@@ -37,7 +37,7 @@
   },
   "intro.before": {
     "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
-    "text": "Проектирование организации стоит между стратегией и результативностью. **MADE** — цикл, который поддерживает его соответствие задаче; он назван по своим четырём шагам:",
+    "text": "Организационный дизайн стоит между стратегией и результативностью. **MADE** — цикл, который поддерживает его соответствие задаче; он назван по своим четырём шагам:",
     "src": "d90d5de1",
     "status": "draft"
   },

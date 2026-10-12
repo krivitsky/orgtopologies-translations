@@ -91,7 +91,7 @@
   },
   "enabling-team-self-design.summary": {
     "en": "Enable teams to redesign their own composition and boundaries within clear strategic and mandate constraints, increasing ownership and fitness for purpose.",
-    "text": "让团队在清晰的战略和授权约束内，重新设计自己的构成与边界，增强主人翁意识和对目的的适配度。",
+    "text": "让团队在清晰的战略和权责约束内，重新设计自己的构成与边界，增强主人翁意识和对目的的适配度。",
     "src": "74dd76a9",
     "status": "draft"
   },
@@ -127,7 +127,7 @@
   },
   "expanding-units-toward-end-to-end-outcome-ownership.summary": {
     "en": "Broaden team mandates so they can complete work from intent to realized value. In practice, this often exposes the need to simplify the organization by eliminating separate units responsible for \"preparing\" or \"finishing\" work, resulting in a more coherent and adaptive org design.",
-    "text": "拓宽团队的授权，使其能完成从意图到实现价值的全部工作。实践中，这往往会暴露出简化组织的必要：取消专门负责“准备”或“收尾”工作的独立单元，从而得到更连贯、更具适应力的组织设计。",
+    "text": "拓宽团队的权责，使其能完成从意图到实现价值的全部工作。实践中，这往往会暴露出简化组织的必要：取消专门负责“准备”或“收尾”工作的独立单元，从而得到更连贯、更具适应力的组织设计。",
     "src": "0bdf40df",
     "status": "draft"
   },
@@ -295,7 +295,7 @@
   },
   "redefining-the-manager-role-around-capability-building-and-system-stewardship.summary": {
     "en": "Shift managers away from issuing instructions toward growing people and expanding mandates—developing the capabilities and judgment required for broader, end-to-end ownership while stewarding the system that surrounds the work.",
-    "text": "让管理者从下达指令转向培养人、扩大授权：培养更广泛的端到端负责所需的能力与判断力，同时守护围绕工作的整个系统。",
+    "text": "让管理者从下达指令转向培养人、扩大权责：培养更广泛的端到端负责所需的能力与判断力，同时守护围绕工作的整个系统。",
     "src": "4c6ac708",
     "status": "draft"
   },

@@ -13,7 +13,7 @@
   },
   "compare.options.0.points.0": {
     "en": "Explaining Org Topologies: the two mandates, the four intelligences and the three topologies.",
-    "text": "Förklara Org Topologies: de två mandaten, de fyra intelligenserna och de tre topologierna.",
+    "text": "Förklara Org Topologies: de två mandaten, de fyra typerna av intelligens och de tre topologierna.",
     "src": "6983d290",
     "status": "draft"
   },
@@ -121,7 +121,7 @@
   },
   "lead": {
     "en": "The 2×2 shows the four intelligences. For detailed mapping of org units there is a [4×4](term:4x4-map) version: four levels on each axis and **16 archetypes** — common patterns of how a unit is structured and operates, each with a short name.",
-    "text": "2×2 visar de fyra intelligenserna. För detaljerad kartläggning av organisationsenheter finns en [4×4](term:4x4-map)-version: fyra nivåer på varje axel och **16 arketyper** – vanliga mönster för hur en enhet är uppbyggd och arbetar, var och en med ett kort namn.",
+    "text": "2×2 visar de fyra typerna av intelligens. För detaljerad kartläggning av organisationsenheter finns en [4×4](term:4x4-map)-version: fyra nivåer på varje axel och **16 arketyper** – vanliga mönster för hur en enhet är uppbyggd och arbetar, var och en med ett kort namn.",
     "src": "efd78a26",
     "status": "draft"
   },

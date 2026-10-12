@@ -187,13 +187,13 @@
   },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
-    "text": "正如人可以“语言聪明”“逻辑聪明”“音乐聪明”等等，组织也通过赋予组织单元的结构化授权，表现出不同的聪明之处，即*智能*。",
+    "text": "正如人可以“语言聪明”“逻辑聪明”“音乐聪明”等等，组织也通过赋予组织单元的结构化权责，表现出不同的聪明之处，即*智能*。",
     "src": "a78780f8",
     "status": "draft"
   },
   "intelligences.quote.paragraphs.1": {
     "en": "[Organizational intelligence](term:organizational-intelligence) is not a fixed trait and does not reside in individuals. These qualities emerge from the system itself—specifically from the mandates that define who is allowed to decide, act, learn, and shape outcomes. When mandates are narrow, intelligence is constrained. When mandates are broad and coherent, intelligence expands.",
-    "text": "[组织智能](term:organizational-intelligence)不是固定不变的特质，也不存在于个人身上。这些品质来自系统本身，具体来说，来自界定谁被允许决策、行动、学习和塑造成果的授权。授权狭窄时，智能受到限制。授权宽广而连贯时，智能得以扩展。",
+    "text": "[组织智能](term:organizational-intelligence)不是固定不变的特质，也不存在于个人身上。这些品质来自系统本身，具体来说，来自界定谁被允许决策、行动、学习和塑造成果的权责。权责狭窄时，智能受到限制。权责宽广而连贯时，智能得以扩展。",
     "src": "b013a554",
     "status": "draft"
   },
@@ -205,13 +205,13 @@
   },
   "intelligences.quote.source": {
     "en": "FROM THE BOOK · 10X ORG, PRINCIPLE 3: SHAPE INTELLIGENCE WITH MANDATES",
-    "text": "摘自本书 · 10X ORG，原则 3：用授权塑造智能",
+    "text": "摘自本书 · 10X ORG，原则 3：用权责塑造智能",
     "src": "fa14ac35",
     "status": "draft"
   },
   "page.description": {
     "en": "Map your organization with a simple language and one map of two mandates, then see how it really works. Learn the four intelligences and start with free tools.",
-    "text": "用一套简单的语言和一张包含两项授权的地图绘制您的组织，看清它真正如何运作。了解四种智能，从免费工具开始。",
+    "text": "用一套简单的语言和一张包含两项权责的地图绘制您的组织，看清它真正如何运作。了解四种智能，从免费工具开始。",
     "src": "6ad2fef4",
     "status": "draft"
   },
@@ -445,7 +445,7 @@
   },
   "the-map.figure.alt": {
     "en": "The blank Org Topologies map: scope of skills mandate across, scope of work mandate up",
-    "text": "空白的 Org Topologies 地图：横轴为技能授权范围，纵轴为工作授权范围",
+    "text": "空白的 Org Topologies 地图：横轴为技能权责范围，纵轴为工作权责范围",
     "src": "9f3cfc56",
     "status": "draft"
   },
@@ -457,7 +457,7 @@
   },
   "the-map.heading": {
     "en": "Two mandates, one map",
-    "text": "两项授权，一张地图",
+    "text": "两项权责，一张地图",
     "src": "5cbe0bd0",
     "status": "draft"
   },
@@ -469,7 +469,7 @@
   },
   "the-map.items.0.title": {
     "en": "Scope of skills mandate",
-    "text": "技能授权范围",
+    "text": "技能权责范围",
     "src": "97658681",
     "status": "draft"
   },
@@ -481,7 +481,7 @@
   },
   "the-map.items.1.title": {
     "en": "Scope of work mandate",
-    "text": "工作授权范围",
+    "text": "工作权责范围",
     "src": "41bef20e",
     "status": "draft"
   },
@@ -493,7 +493,7 @@
   },
   "the-map.lead": {
     "en": "Place every unit — a person, a team or an [AI agent](term:ai-agent) — by the two [mandates](term:mandate) it is given, not by its title.",
-    "text": "按每个单元被赋予的两项[授权](term:mandate)来定位它，无论是一个人、一个团队还是一个 [AI 智能体](term:ai-agent)，而不是按头衔。",
+    "text": "按每个单元被赋予的两项[权责](term:mandate)来定位它，无论是一个人、一个团队还是一个 [AI 智能体](term:ai-agent)，而不是按头衔。",
     "src": "8d76c459",
     "status": "draft"
   },

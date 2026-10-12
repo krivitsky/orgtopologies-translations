@@ -91,7 +91,7 @@
   },
   "agentic-org-design.term": {
     "en": "Agentic org design",
-    "text": "Проектирование организаций с ИИ-агентами",
+    "text": "Организационный дизайн с ИИ-агентами",
     "src": "6e1f9d9f",
     "status": "draft"
   },
@@ -181,7 +181,7 @@
   },
   "business-objective.definition": {
     "en": "The external result a strategy aims at, such as profit or market share. It is uncertain; org design, by contrast, is internal and largely in your control.",
-    "text": "Внешний результат, к которому стремится стратегия, например прибыль или доля рынка. Он неопределен; проектирование организации, напротив, внутреннее и в основном в вашей власти.",
+    "text": "Внешний результат, к которому стремится стратегия, например прибыль или доля рынка. Он неопределен; организационный дизайн, напротив, внутреннее и в основном в вашей власти.",
     "src": "f1899706",
     "status": "draft"
   },
@@ -361,7 +361,7 @@
   },
   "default-to-human-strengths.definition": {
     "en": "Challenge the limits that organizational design puts on people, and build environments that elevate natural human strengths, such as learning, combining and recombining skills, instead of competing with AI on narrow tasks.",
-    "text": "Оспаривайте ограничения, которые проектирование организации накладывает на людей, и создавайте среду, развивающую естественные сильные стороны человека, такие как обучение, сочетание и пересочетание навыков, вместо соревнования с ИИ в узких задачах.",
+    "text": "Оспаривайте ограничения, которые организационный дизайн накладывает на людей, и создавайте среду, развивающую естественные сильные стороны человека, такие как обучение, сочетание и пересочетание навыков, вместо соревнования с ИИ в узких задачах.",
     "src": "2bbcc5a3",
     "status": "draft"
   },
@@ -517,7 +517,7 @@
   },
   "elevating-kata.definition": {
     "en": "A structured, repeatable improvement routine that turns org design intent into lived behavior, applied mainly in the Elevate step.",
-    "text": "Структурированная повторяемая практика улучшения, превращающая замысел проектирования организации в живое поведение; применяется главным образом на шаге Elevate.",
+    "text": "Структурированная повторяемая практика улучшения, превращающая замысел организационного дизайна в живое поведение; применяется главным образом на шаге Elevate.",
     "src": "453dbecf",
     "status": "draft"
   },
@@ -613,7 +613,7 @@
   },
   "fit-for-purpose.definition": {
     "en": "An org design whose structure and mandates support what the organization is optimizing for. No topology is better in itself; the question is which one fits.",
-    "text": "Проектирование организации, при котором структура и мандаты поддерживают то, под что организация оптимизируется. Ни одна топология не лучше сама по себе; вопрос в том, какая подходит.",
+    "text": "Организационный дизайн, при котором структура и мандаты поддерживают то, под что организация оптимизируется. Ни одна топология не лучше сама по себе; вопрос в том, какая подходит.",
     "src": "cfa6e905",
     "status": "draft"
   },
@@ -811,7 +811,7 @@
   },
   "intentional-org-design.term": {
     "en": "Intentional org design",
-    "text": "Осознанное проектирование организации",
+    "text": "Осознанный организационный дизайн",
     "src": "1346a115",
     "status": "draft"
   },
@@ -901,7 +901,7 @@
   },
   "made-assess.definition": {
     "en": "Second step: judge, not people but the system, whether the current org design fits the business ambitions and strategy.",
-    "text": "Второй шаг: оценить не людей, а систему — соответствует ли текущее проектирование организации бизнес-амбициям и стратегии.",
+    "text": "Второй шаг: оценить не людей, а систему — соответствует ли текущий организационный дизайн бизнес-амбициям и стратегии.",
     "src": "098a6fe0",
     "status": "draft"
   },
@@ -1057,13 +1057,13 @@
   },
   "org-design-system.definition": {
     "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopt only its events and leave structure, people and rewards untouched, and it fails for lack of systemic alignment, not for lack of merit.",
-    "text": "Целостный набор элементов проектирования организации, усиливающих друг друга ради цели. Scrum — один из них: внедрите только его события, не тронув структуру, людей и вознаграждения, и он не сработает из-за отсутствия системной согласованности, а не из-за собственных недостатков.",
+    "text": "Целостный набор элементов организационного дизайна, усиливающих друг друга ради цели. Scrum — один из них: внедрите только его события, не тронув структуру, людей и вознаграждения, и он не сработает из-за отсутствия системной согласованности, а не из-за собственных недостатков.",
     "src": "e436dc82",
     "status": "draft"
   },
   "org-design-system.term": {
     "en": "Org design system",
-    "text": "Система проектирования организации",
+    "text": "Система организационного дизайна",
     "src": "352cc803",
     "status": "draft"
   },
@@ -1135,7 +1135,7 @@
   },
   "organization-design.term": {
     "en": "Organization design",
-    "text": "Проектирование организации",
+    "text": "Организационный дизайн",
     "src": "1ce10f6f",
     "status": "draft"
   },
@@ -1225,13 +1225,13 @@
   },
   "principle-2-drive-performance-with-org-design.definition": {
     "en": "Organization design turns intent into a system and drives performance more reliably than standalone culture programs.",
-    "text": "Проектирование организации превращает замысел в систему и повышает результативность надежнее, чем отдельные культурные программы.",
+    "text": "Организационный дизайн превращает замысел в систему и повышает результативность надежнее, чем отдельные культурные программы.",
     "src": "a956ec5b",
     "status": "draft"
   },
   "principle-2-drive-performance-with-org-design.term": {
     "en": "Principle 2: Drive Performance with Org Design",
-    "text": "Принцип 2: повышайте результативность через проектирование организации",
+    "text": "Принцип 2: повышайте результативность через организационный дизайн",
     "src": "3b054b50",
     "status": "draft"
   },
@@ -1309,7 +1309,7 @@
   },
   "principle-9-accelerate-with-strategic-ai.definition": {
     "en": "Use AI to accelerate the chosen org design direction, after design, not instead of it.",
-    "text": "Используйте ИИ, чтобы ускорить выбранное направление проектирования организации — после проектирования, а не вместо него.",
+    "text": "Используйте ИИ, чтобы ускорить выбранное направление организационного дизайна — после проектирования, а не вместо него.",
     "src": "a2b7b303",
     "status": "draft"
   },
@@ -1357,7 +1357,7 @@
   },
   "redesigning-from-a-messy-state.definition": {
     "en": "Real org design starts from inherited structures, people, habits, commitments and budgets while the business keeps running. It is refactoring on the move, not drawing an ideal diagram on a blank whiteboard.",
-    "text": "Настоящее проектирование организации начинается с унаследованных структур, людей, привычек, обязательств и бюджетов, пока бизнес продолжает работать. Это рефакторинг на ходу, а не рисование идеальной схемы на чистой доске.",
+    "text": "Настоящий организационный дизайн начинается с унаследованных структур, людей, привычек, обязательств и бюджетов, пока бизнес продолжает работать. Это рефакторинг на ходу, а не рисование идеальной схемы на чистой доске.",
     "src": "0b6cc7c1",
     "status": "draft"
   },
@@ -1525,7 +1525,7 @@
   },
   "strategic-ai.definition": {
     "en": "Purposeful adoption of AI paired with deliberate organizational design: first find the missing capabilities and structural constraints, then use AI to build and accelerate them.",
-    "text": "Целенаправленное внедрение ИИ в паре с осознанным проектированием организации: сначала найти недостающие способности и структурные ограничения, затем с помощью ИИ их выстроить и ускорить.",
+    "text": "Целенаправленное внедрение ИИ в паре с осознанным организационным дизайном: сначала найти недостающие способности и структурные ограничения, затем с помощью ИИ их выстроить и ускорить.",
     "src": "1a8389bb",
     "status": "draft"
   },
@@ -1537,7 +1537,7 @@
   },
   "strategic-alignment.definition": {
     "en": "How well the organization delivers what its strategy requires; achieved when org design elements are kept in sync with the strategy.",
-    "text": "Насколько хорошо организация делает то, что требует ее стратегия; достигается, когда элементы проектирования организации синхронизированы со стратегией.",
+    "text": "Насколько хорошо организация делает то, что требует ее стратегия; достигается, когда элементы организационного дизайна синхронизированы со стратегией.",
     "src": "9f7d46f8",
     "status": "draft"
   },
@@ -1567,7 +1567,7 @@
   },
   "strategic-org-design.term": {
     "en": "Strategic org design",
-    "text": "Стратегическое проектирование организации",
+    "text": "Стратегический организационный дизайн",
     "src": "d0e7b7af",
     "status": "draft"
   },

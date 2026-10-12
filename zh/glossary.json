@@ -61,7 +61,7 @@
   },
   "adaptive-topology.definition": {
     "en": "Driving units: broad skills and work mandates, units that swarm around outcomes. Org goal: minimize the cost of learning and reconfiguration in volatile environments.",
-    "text": "Driving 单元：技能授权和工作授权都很宽，围绕成果 Swarming 的单元。组织目标：在多变环境中把学习和重新配置的成本降到最低。",
+    "text": "Driving 单元：技能权责和工作权责都很宽，围绕成果 Swarming 的单元。组织目标：在多变环境中把学习和重新配置的成本降到最低。",
     "src": "a49c7775",
     "status": "draft"
   },
@@ -85,7 +85,7 @@
   },
   "agentic-org-design.definition": {
     "en": "Designing the mandates of organizations where AI agents work across digital workflows, so they do not recreate a Taylorist split between thinking and doing.",
-    "text": "为 AI 智能体在数字化工作流中工作的组织设计授权，避免重现思考与执行分离的泰勒主义。",
+    "text": "为 AI 智能体在数字化工作流中工作的组织设计权责，避免重现思考与执行分离的泰勒主义。",
     "src": "8d3c079f",
     "status": "draft"
   },
@@ -157,7 +157,7 @@
   },
   "archetype-codes.definition": {
     "en": "Short names for the sixteen 4x4 cells: the row of the work mandate (TASKS, CAPS, PART, WHOLE) plus the skills column from 1 to 4. CAPS-3 reads end-to-end skills at the capabilities level.",
-    "text": "十六个 4×4 格子的简称：工作授权所在的行（TASKS、CAPS、PART、WHOLE）加上 1 到 4 的技能列。CAPS-3 表示能力层面上的端到端技能。",
+    "text": "十六个 4×4 格子的简称：工作权责所在的行（TASKS、CAPS、PART、WHOLE）加上 1 到 4 的技能列。CAPS-3 表示能力层面上的端到端技能。",
     "src": "59c2c2a2",
     "status": "draft"
   },
@@ -445,7 +445,7 @@
   },
   "divide-and-conquer.definition": {
     "en": "The common practice of slicing an organization into bounded parts, such as squads, tribes or stream-aligned teams, each with a narrow mandate. It fits locally until work shifts, then falls between the cracks and another reorganization follows.",
-    "text": "把组织切分成有边界的部分的常见做法，如小队（squad）、部落（tribe）或 stream-aligned 团队，每个部分的授权都很窄。工作不变时局部适配，工作一变就会掉进缝隙，接着又是一轮重组。",
+    "text": "把组织切分成有边界的部分的常见做法，如小队（squad）、部落（tribe）或 stream-aligned 团队，每个部分的权责都很窄。工作不变时局部适配，工作一变就会掉进缝隙，接着又是一轮重组。",
     "src": "f11e208a",
     "status": "draft"
   },
@@ -493,7 +493,7 @@
   },
   "elevate-not-eliminate.definition": {
     "en": "The book's closing stance on AI: elevate people to higher mandates instead of eliminating them.",
-    "text": "书中对 AI 的收尾立场：把人提升到更高的授权，而不是淘汰他们。",
+    "text": "书中对 AI 的收尾立场：把人提升到更高的权责，而不是淘汰他们。",
     "src": "b7b1ab8c",
     "status": "draft"
   },
@@ -613,7 +613,7 @@
   },
   "fit-for-purpose.definition": {
     "en": "An org design whose structure and mandates support what the organization is optimizing for. No topology is better in itself; the question is which one fits.",
-    "text": "结构和授权能够支撑组织所优化目标的组织设计。没有哪种拓扑本身更好；关键在于哪一种更适配。",
+    "text": "结构和权责能够支撑组织所优化目标的组织设计。没有哪种拓扑本身更好；关键在于哪一种更适配。",
     "src": "cfa6e905",
     "status": "draft"
   },
@@ -769,7 +769,7 @@
   },
   "incomplete-unit.definition": {
     "en": "A unit that lacks the skills, or the mandate to use them, to deliver customer value end-to-end, so it depends on others and creates handoffs. Sits left of the vertical divider.",
-    "text": "缺少端到端交付客户价值所需的技能，或缺少运用这些技能的授权，因此依赖他人并产生交接的单元。位于垂直分界线的左侧。",
+    "text": "缺少端到端交付客户价值所需的技能，或缺少运用这些技能的权责，因此依赖他人并产生交接的单元。位于垂直分界线的左侧。",
     "src": "1a335200",
     "status": "draft"
   },
@@ -805,7 +805,7 @@
   },
   "intentional-org-design.definition": {
     "en": "Choosing structure, mandates, processes, rewards and people on purpose, around one primary org goal. The alternative is design that accretes through ad hoc reactions to internal political pressures, which sends mixed signals to everyone.",
-    "text": "围绕一个首要组织目标，有意识地选择结构、授权、流程、奖励和人员。与之相对的是，设计在应对内部政治压力的临时反应中不断堆积，向所有人传递混乱的信号。",
+    "text": "围绕一个首要组织目标，有意识地选择结构、权责、流程、奖励和人员。与之相对的是，设计在应对内部政治压力的临时反应中不断堆积，向所有人传递混乱的信号。",
     "src": "6af558a7",
     "status": "draft"
   },
@@ -985,13 +985,13 @@
   },
   "mandate.definition": {
     "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle. Org Topologies recognizes two essential mandates: the Scope of Skills Mandate (the horizontal axis of the map) and the Scope of Work Mandate (the vertical axis).",
-    "text": "在既定范围内进行决策、探索、行动并交付成果的权力与责任的组合。授权决定了一个单元所能处理的最大复杂度。Org Topologies 识别出两种基本授权：技能授权范围（地图的横轴）和工作授权范围（纵轴）。",
+    "text": "在既定范围内进行决策、探索、行动并交付成果的权力与责任的组合。权责决定了一个单元所能处理的最大复杂度。Org Topologies 识别出两种基本权责：技能权责范围（地图的横轴）和工作权责范围（纵轴）。",
     "src": "a3712989",
     "status": "draft"
   },
   "mandate.term": {
     "en": "Mandate",
-    "text": "授权",
+    "text": "权责",
     "src": "d9232514",
     "status": "draft"
   },
@@ -1009,7 +1009,7 @@
   },
   "multi-learning.definition": {
     "en": "People or teams growing beyond their primary craft, building skills across domains and applying them in real work. It is the mechanism that expands the skills mandate and, with outcome ownership, moves units diagonally.",
-    "text": "人或团队在本职技艺之外成长，跨领域积累技能并运用到真实工作中。这是扩大技能授权的机制，与对成果的负责相结合，可使单元沿对角线移动。",
+    "text": "人或团队在本职技艺之外成长，跨领域积累技能并运用到真实工作中。这是扩大技能权责的机制，与对成果的负责相结合，可使单元沿对角线移动。",
     "src": "bd4c9dca",
     "status": "draft"
   },
@@ -1081,7 +1081,7 @@
   },
   "org-topologies-map.definition": {
     "en": "The two-dimensional visual language that places organizational units by skills mandate (horizontal) and work mandate (vertical), so structure, dependencies and misfit become visible and shareable.",
-    "text": "一种二维可视化语言，按技能授权（横轴）和工作授权（纵轴）来安放组织单元，让结构、依赖和错配变得可见、可分享。",
+    "text": "一种二维可视化语言，按技能权责（横轴）和工作权责（纵轴）来安放组织单元，让结构、依赖和错配变得可见、可分享。",
     "src": "fc6684d2",
     "status": "draft"
   },
@@ -1129,7 +1129,7 @@
   },
   "organization-design.definition": {
     "en": "The process of developing and selecting an organization's structure (roles, reporting lines, units, interfaces, coordination) to meet its strategy and mandates; also the field that studies how structure improves effectiveness.",
-    "text": "为实现战略和授权而制定、选择组织结构（角色、汇报线、单元、接口、协调方式）的过程；也指研究结构如何提升效能的领域。",
+    "text": "为实现战略和权责而制定、选择组织结构（角色、汇报线、单元、接口、协调方式）的过程；也指研究结构如何提升效能的领域。",
     "src": "ef3ea224",
     "status": "draft"
   },
@@ -1141,7 +1141,7 @@
   },
   "organizational-intelligence.definition": {
     "en": "What an organization can collectively see, learn and solve. It emerges from the mandates assigned to units, not from individuals, and mandates set its ceiling.",
-    "text": "组织能够集体看到、学习和解决的事物。它来自赋予各单元的授权，而不是来自个人，授权决定了它的上限。",
+    "text": "组织能够集体看到、学习和解决的事物。它来自赋予各单元的权责，而不是来自个人，权责决定了它的上限。",
     "src": "549221eb",
     "status": "draft"
   },
@@ -1237,13 +1237,13 @@
   },
   "principle-3-shape-intelligence-with-mandates.definition": {
     "en": "Reshape the skills and work mandates to change what the organization can see, learn and act on.",
-    "text": "重塑技能授权和工作授权，改变组织能够看到、学习和行动的范围。",
+    "text": "重塑技能权责和工作权责，改变组织能够看到、学习和行动的范围。",
     "src": "1e48bde1",
     "status": "draft"
   },
   "principle-3-shape-intelligence-with-mandates.term": {
     "en": "Principle 3: Shape Intelligence with Mandates",
-    "text": "原则 3：用授权塑造智能",
+    "text": "原则 3：用权责塑造智能",
     "src": "ac8f74e8",
     "status": "draft"
   },
@@ -1273,7 +1273,7 @@
   },
   "principle-6-follow-the-value-learn-and-deliver.definition": {
     "en": "Broaden mandates so people and teams follow value, learn and deliver, instead of re-slicing the organization every time work shifts.",
-    "text": "拓宽授权，让人和团队追随价值、学习并交付，而不是每当工作转移就重新切分组织。",
+    "text": "拓宽权责，让人和团队追随价值、学习并交付，而不是每当工作转移就重新切分组织。",
     "src": "ca95e083",
     "status": "draft"
   },
@@ -1285,7 +1285,7 @@
   },
   "principle-7-make-the-org-goal-win.definition": {
     "en": "Choose one primary org goal, accept its trade-offs and embed it into structure, mandates, incentives and decisions.",
-    "text": "选定一个首要组织目标，接受它的取舍，并把它嵌入结构、授权、激励和决策之中。",
+    "text": "选定一个首要组织目标，接受它的取舍，并把它嵌入结构、权责、激励和决策之中。",
     "src": "51cac552",
     "status": "draft"
   },
@@ -1321,7 +1321,7 @@
   },
   "product-definition.definition": {
     "en": "How broadly an organization defines its product, from one component to the whole; a broader definition widens the work mandate.",
-    "text": "组织对产品的定义有多宽，从单个组件到整体；定义越宽，工作授权越大。",
+    "text": "组织对产品的定义有多宽，从单个组件到整体；定义越宽，工作权责越大。",
     "src": "667c8927",
     "status": "draft"
   },
@@ -1459,7 +1459,7 @@
   },
   "scope-of-skills-mandate.term": {
     "en": "Scope of Skills Mandate",
-    "text": "技能授权范围",
+    "text": "技能权责范围",
     "src": "0007322b",
     "status": "draft"
   },
@@ -1471,7 +1471,7 @@
   },
   "scope-of-work-mandate.term": {
     "en": "Scope of Work Mandate",
-    "text": "工作授权范围",
+    "text": "工作权责范围",
     "src": "be1598cf",
     "status": "draft"
   },
@@ -1507,7 +1507,7 @@
   },
   "skills-mandate-levels.term": {
     "en": "Skills-mandate levels",
-    "text": "技能授权层级",
+    "text": "技能权责层级",
     "src": "e14e1de2",
     "status": "draft"
   },
@@ -1753,7 +1753,7 @@
   },
   "unpinning.definition": {
     "en": "Moving units out of narrow lanes (workers in Resource, teams in Delivery) by expanding both mandates up to the level of the whole product.",
-    "text": "让单元走出狭窄的通道（Resource 中的工人、Delivery 中的团队），把两种授权都扩大到整个产品的层面。",
+    "text": "让单元走出狭窄的通道（Resource 中的工人、Delivery 中的团队），把两种权责都扩大到整个产品的层面。",
     "src": "c219492b",
     "status": "draft"
   },
@@ -1831,7 +1831,7 @@
   },
   "work-mandate-levels.term": {
     "en": "Work-mandate levels",
-    "text": "工作授权层级",
+    "text": "工作权责层级",
     "src": "0135b4cb",
     "status": "draft"
   }

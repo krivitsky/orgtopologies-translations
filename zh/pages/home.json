@@ -55,7 +55,7 @@
   },
   "intelligences.intro.text": {
     "en": "Work is done by **agents of intelligence** — org units: people, groups and AI. The same map of mandates applies to all of them — human, agent or robot. Place each by what it is allowed to learn and work on, not by its title.",
-    "text": "工作由**智能主体**完成，即组织单元：个人、群体和 AI。同一张授权地图适用于所有这些主体，无论是人、智能体还是机器人。按它被允许学习和从事的内容来定位，而不是按头衔。",
+    "text": "工作由**智能主体**完成，即组织单元：个人、群体和 AI。同一张权责地图适用于所有这些主体，无论是人、智能体还是机器人。按它被允许学习和从事的内容来定位，而不是按头衔。",
     "src": "4bf9d83d",
     "status": "draft"
   },
@@ -217,7 +217,7 @@
   },
   "why.paragraphs.0": {
     "en": "Inside narrow [mandates](term:mandate), **AI speeds up each individual and team** while the system stays stuck — more motion, more output, same performance.",
-    "text": "在狭窄的[授权](term:mandate)之内，**AI 让每个人和每个团队都更快**，而系统依然卡住：动作更多，产出更多，绩效不变。",
+    "text": "在狭窄的[权责](term:mandate)之内，**AI 让每个人和每个团队都更快**，而系统依然卡住：动作更多，产出更多，绩效不变。",
     "src": "892b0b13",
     "status": "draft"
   },

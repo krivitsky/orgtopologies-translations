@@ -151,7 +151,7 @@
   },
   "adaptive.glance.rows.6.detail": {
     "en": "Drives innovation, predicts customer needs, supports strategic decision-making",
-    "text": "Двигает инновации, предсказывает потребности клиентов, поддерживает стратегические решения",
+    "text": "Драйвит инновации, предсказывает потребности клиентов, поддерживает стратегические решения",
     "src": "b61d38f1",
     "status": "draft"
   },
@@ -463,7 +463,7 @@
   },
   "fit.principle.paragraphs.1": {
     "en": "Choosing among the [topologies](term:org-topology), or deliberately combining them for different goals, is the core practice of organizational design. It determines what kind of performance the organization can reliably produce.",
-    "text": "Выбор между [топологиями](term:org-topology) или их осознанное сочетание под разные цели — суть проектирования организации. От него зависит, какую результативность организация способна стабильно обеспечивать.",
+    "text": "Выбор между [топологиями](term:org-topology) или их осознанное сочетание под разные цели — суть организационного дизайна. От него зависит, какую результативность организация способна стабильно обеспечивать.",
     "src": "d2d2c05c",
     "status": "draft"
   },
@@ -649,7 +649,7 @@
   },
   "made.image.alt": {
     "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
-    "text": "Change MADE systemic: Study (Map, Assess) и Improve (Design, Elevate) вокруг проектирования организации, между стратегией и результативностью",
+    "text": "Change MADE systemic: Study (Map, Assess) и Improve (Design, Elevate) вокруг организационного дизайна, между стратегией и результативностью",
     "src": "d37f75ea",
     "status": "draft"
   },
@@ -661,7 +661,7 @@
   },
   "made.intro.before": {
     "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
-    "text": "Проектирование организации стоит между стратегией и результативностью. **MADE** — цикл, который поддерживает его в форме; назван по четырём ходам:",
+    "text": "Организационный дизайн стоит между стратегией и результативностью. **MADE** — цикл, который поддерживает его в форме; назван по четырём ходам:",
     "src": "d90d5de1",
     "status": "draft"
   },

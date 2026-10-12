@@ -367,7 +367,7 @@
   },
   "elevate.katas.items.1.text": {
     "en": "One backlog for the whole product: the work mandate grows ↑",
-    "text": "整个产品只有一个 Backlog：工作授权扩大 ↑",
+    "text": "整个产品只有一个 Backlog：工作权责扩大 ↑",
     "src": "5262fd35",
     "status": "draft"
   },
@@ -415,7 +415,7 @@
   },
   "elevate.lead": {
     "en": "Now get the change going. [Elevating Katas](term:elevating-kata)™ are small, safe experiments that widen skills and work mandates toward the target design.",
-    "text": "现在让变革起步。[Elevating Kata](term:elevating-kata)™ 是小而安全的实验，朝着目标设计拓宽技能授权和工作授权。",
+    "text": "现在让变革起步。[Elevating Kata](term:elevating-kata)™ 是小而安全的实验，朝着目标设计拓宽技能权责和工作权责。",
     "src": "5167c1b2",
     "status": "draft"
   },
@@ -457,7 +457,7 @@
   },
   "map.lead": {
     "en": "Place every unit by its two mandates: how broad its skills are (→) and how much of the work it owns (↑).",
-    "text": "按两项授权定位每个单元：技能有多宽（→），以及它拥有多少工作（↑）。",
+    "text": "按两项权责定位每个单元：技能有多宽（→），以及它拥有多少工作（↑）。",
     "src": "968c2174",
     "status": "draft"
   },
@@ -613,7 +613,7 @@
   },
   "overview.phases.0.steps.0.text": {
     "en": "Place every unit by skills and work [mandate](term:mandate)",
-    "text": "按技能和工作[授权](term:mandate)定位每个单元",
+    "text": "按技能和工作[权责](term:mandate)定位每个单元",
     "src": "c27f024b",
     "status": "draft"
   },

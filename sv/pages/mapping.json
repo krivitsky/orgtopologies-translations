@@ -175,13 +175,13 @@
   },
   "intelligences._nav": {
     "en": "Four Intelligences",
-    "text": "Fyra intelligenser",
+    "text": "Fyra typer av intelligens",
     "src": "06447a42",
     "status": "draft"
   },
   "intelligences.cardsLead": {
     "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "De två skiljelinjerna delar kartan i fyra kvadranter: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) och [Delivering](term:delivering-intelligence) — de fyra intelligenserna.",
+    "text": "De två skiljelinjerna delar kartan i fyra kvadranter: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) och [Delivering](term:delivering-intelligence) — de fyra typerna av intelligens.",
     "src": "b2bf261a",
     "status": "draft"
   },
@@ -211,7 +211,7 @@
   },
   "page.description": {
     "en": "Map your organization with a simple language and one map of two mandates, then see how it really works. Learn the four intelligences and start with free tools.",
-    "text": "Kartlägg din organisation med ett enkelt språk och en karta över två mandat, och se hur den egentligen fungerar. Lär dig de fyra intelligenserna och börja med gratisverktyg.",
+    "text": "Kartlägg din organisation med ett enkelt språk och en karta över två mandat, och se hur den egentligen fungerar. Lär dig de fyra typerna av intelligens och börja med gratisverktyg.",
     "src": "6ad2fef4",
     "status": "draft"
   },
@@ -577,7 +577,7 @@
   },
   "topologies.goDeeper.body": {
     "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
-    "text": "Utforska vilken topologi som passar din strategi: en exempelkarta för varje, de fyra intelligenserna att klicka igenom och hur du går och tittar på din egen organisation med en karta.",
+    "text": "Utforska vilken topologi som passar din strategi: en exempelkarta för varje, de fyra typerna av intelligens att klicka igenom och hur du går och tittar på din egen organisation med en karta.",
     "src": "218dca13",
     "status": "draft"
   },
@@ -607,7 +607,7 @@
   },
   "topologies.lead": {
     "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
-    "text": "Varje vanlig topologi kombinerar olika intelligenser — specialisering, flöde, samordning, adaptiv — och ”glänser” i olika miljöer.",
+    "text": "Varje vanlig topologi kombinerar olika typer av intelligens — specialisering, flöde, samordning, adaptiv — och ”glänser” i olika miljöer.",
     "src": "82abc347",
     "status": "draft"
   },

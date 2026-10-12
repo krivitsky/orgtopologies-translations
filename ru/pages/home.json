@@ -31,7 +31,7 @@
   },
   "intelligences.goDeeper.body": {
     "en": "Learn the language of org design and map your own organization: see where each unit sits, what it optimizes for and where work gets stuck. The 16 archetypes and free tools get you started today.",
-    "text": "Освойте язык проектирования организаций и нанесите на карту свою: где находится каждое подразделение, под что оно оптимизировано и где застревает работа. 16 архетипов и бесплатные инструменты помогут начать уже сегодня.",
+    "text": "Освойте язык организационного дизайна и нанесите на карту свою: где находится каждое подразделение, под что оно оптимизировано и где застревает работа. 16 архетипов и бесплатные инструменты помогут начать уже сегодня.",
     "src": "7d69dff8",
     "status": "draft"
   },
@@ -157,13 +157,13 @@
   },
   "page.description": {
     "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
-    "text": "Org Topologies — дом современного проектирования организаций: общая карта, общий язык и цикл обучения, чтобы организации соответствовали задаче — с людьми и ИИ.",
+    "text": "Org Topologies — дом современного организационного дизайна: общая карта, общий язык и цикл обучения, чтобы организации соответствовали задаче — с людьми и ИИ.",
     "src": "3324126d",
     "status": "draft"
   },
   "page.title": {
     "en": "Org Topologies — the home of modern org design",
-    "text": "Org Topologies — дом современного проектирования организаций",
+    "text": "Org Topologies — дом современного организационного дизайна",
     "src": "a6a83b24",
     "status": "draft"
   },
@@ -175,19 +175,19 @@
   },
   "top.kicker": {
     "en": "STRATEGIC ORG DESIGN WITH PEOPLE AND AI",
-    "text": "СТРАТЕГИЧЕСКОЕ ПРОЕКТИРОВАНИЕ ОРГАНИЗАЦИЙ С ЛЮДЬМИ И ИИ",
+    "text": "СТРАТЕГИЧЕСКИЙ ОРГАНИЗАЦИОННЫЙ ДИЗАЙН С ЛЮДЬМИ И ИИ",
     "src": "8cb1f3f1",
     "status": "draft"
   },
   "top.lead": {
     "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
-    "text": "Org Topologies — система стратегического проектирования организаций: общая карта, общий язык и [цикл обучения для перепроектирования организации](term:made), которые помогают руководителям добиваться [соответствия задаче](term:fit-for-purpose) и повышать результативность с людьми и ИИ.",
+    "text": "Org Topologies — система стратегического организационного дизайна: общая карта, общий язык и [цикл обучения для перепроектирования организации](term:made), которые помогают руководителям добиваться [соответствия задаче](term:fit-for-purpose) и повышать результативность с людьми и ИИ.",
     "src": "89e05667",
     "status": "draft"
   },
   "top.title": {
     "en": "Org design\ndrives performance.",
-    "text": "Дизайн организации\nдвигает результат.",
+    "text": "Дизайн организации\nдрайвит результат.",
     "src": "5ced6dd5",
     "status": "draft"
   },

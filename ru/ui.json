@@ -47,6 +47,12 @@
     "src": "099f7892",
     "status": "draft"
   },
+  "c.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "ГЛУБЖЕ",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
   "c.kata.applied": {
     "en": "applied",
     "text": "применено",
@@ -331,7 +337,7 @@
   },
   "nav.primary.0.columns.0.label": {
     "en": "Change, MADE Systemic",
-    "text": "Change, MADE Systemic",
+    "text": "Изменения, сделанные системными (MADE)",
     "src": "03610ffd",
     "status": "draft"
   },

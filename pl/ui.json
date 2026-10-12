@@ -47,6 +47,12 @@
     "src": "099f7892",
     "status": "draft"
   },
+  "c.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "GŁĘBIEJ",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
   "c.kata.applied": {
     "en": "applied",
     "text": "zastosowane",
@@ -331,7 +337,7 @@
   },
   "nav.primary.0.columns.0.label": {
     "en": "Change, MADE Systemic",
-    "text": "Zmiana, MADE Systemic",
+    "text": "Zmiana, która staje się systemowa (MADE)",
     "src": "03610ffd",
     "status": "draft"
   },

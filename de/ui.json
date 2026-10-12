@@ -47,6 +47,12 @@
     "src": "099f7892",
     "status": "draft"
   },
+  "c.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "VERTIEFEN",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
   "c.kata.applied": {
     "en": "applied",
     "text": "angewendet",
@@ -331,7 +337,7 @@
   },
   "nav.primary.0.columns.0.label": {
     "en": "Change, MADE Systemic",
-    "text": "Veränderung, MADE systemisch",
+    "text": "Veränderung, systemisch gemacht (MADE)",
     "src": "03610ffd",
     "status": "draft"
   },

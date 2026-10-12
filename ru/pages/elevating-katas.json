@@ -181,7 +181,7 @@
   },
   "katalog.explanation.paragraphs.1": {
     "en": "Five elements make up the star: the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they are aligned and reinforce one another, performance becomes more reliable and less accidental.",
-    "text": "Звезда состоит из пяти элементов: **критериев проектирования организации**, вытекающих из стратегии, **структуры**, **процессов**, **вознаграждения** и **людей**. Когда они согласованы и усиливают друг друга, результативность становится надёжнее и перестаёт быть случайной.",
+    "text": "Звезда состоит из пяти элементов: **критериев организационного дизайна**, вытекающих из стратегии, **структуры**, **процессов**, **вознаграждения** и **людей**. Когда они согласованы и усиливают друг друга, результативность становится надёжнее и перестаёт быть случайной.",
     "src": "12ff4051",
     "status": "draft"
   },
@@ -205,7 +205,7 @@
   },
   "katalog.figure.alt": {
     "en": "Jay Galbraith’s Star Model™: Org Design Criteria at the top, with Structure, Processes, Rewards and People around a five-pointed star",
-    "text": "Star Model™ Джея Гэлбрейта: критерии проектирования организации вверху, вокруг пятиконечной звезды Structure, Processes, Rewards и People",
+    "text": "Star Model™ Джея Гэлбрейта: критерии организационного дизайна вверху, вокруг пятиконечной звезды Structure, Processes, Rewards и People",
     "src": "0f01db9d",
     "status": "draft"
   },
@@ -229,7 +229,7 @@
   },
   "katalog.lead": {
     "en": "[Katalog](term:katalog) groups the katas by the five elements of org design in Jay Galbraith’s Star Model™. Change one element and the others must follow. Every kata links to its description and to the case studies that apply it.",
-    "text": "[Katalog](term:katalog) группирует каты по пяти элементам проектирования организации из Star Model™ Джея Гэлбрейта. Измените один элемент — и остальные должны последовать. Каждая ката ведёт к своему описанию и к кейсам, где её применяли.",
+    "text": "[Katalog](term:katalog) группирует каты по пяти элементам организационного дизайна из Star Model™ Джея Гэлбрейта. Измените один элемент — и остальные должны последовать. Каждая ката ведёт к своему описанию и к кейсам, где её применяли.",
     "src": "8c09180c",
     "status": "draft"
   },
@@ -241,7 +241,7 @@
   },
   "page.description": {
     "en": "Elevating Katas are repeatable routines that turn org design intent into lived behavior, grouped by the Star Model and shown in real case studies.",
-    "text": "Elevating Katas — повторяемые практики, которые превращают замысел проектирования организации в живое поведение; сгруппированы по Star Model и показаны на реальных кейсах.",
+    "text": "Elevating Katas — повторяемые практики, которые превращают замысел организационного дизайна в живое поведение; сгруппированы по Star Model и показаны на реальных кейсах.",
     "src": "df3451e7",
     "status": "draft"
   },
@@ -337,7 +337,7 @@
   },
   "top.lead": {
     "en": "Structured, repeatable improvement routines that turn organizational design intent into lived behavior.",
-    "text": "Структурированные, повторяемые практики улучшения, которые превращают замысел проектирования организации в живое поведение.",
+    "text": "Структурированные, повторяемые практики улучшения, которые превращают замысел организационного дизайна в живое поведение.",
     "src": "5008a904",
     "status": "draft"
   },

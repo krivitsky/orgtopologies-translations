@@ -13,7 +13,7 @@
   },
   "compare.options.0.points.0": {
     "en": "Explaining Org Topologies: the two mandates, the four intelligences and the three topologies.",
-    "text": "At forklare Org Topologies: de to mandater, de fire intelligenser og de tre topologier.",
+    "text": "At forklare Org Topologies: de to mandater, de fire typer intelligens og de tre topologier.",
     "src": "6983d290",
     "status": "draft"
   },
@@ -121,7 +121,7 @@
   },
   "lead": {
     "en": "The 2×2 shows the four intelligences. For detailed mapping of org units there is a [4×4](term:4x4-map) version: four levels on each axis and **16 archetypes** — common patterns of how a unit is structured and operates, each with a short name.",
-    "text": "2×2 viser de fire intelligenser. Til detaljeret mapping af organisationens enheder findes en [4×4](term:4x4-map)-version: fire niveauer på hver akse og **16 arketyper** — almindelige mønstre for, hvordan en enhed er opbygget og arbejder, hver med et kort navn.",
+    "text": "2×2 viser de fire typer intelligens. Til detaljeret mapping af organisationens enheder findes en [4×4](term:4x4-map)-version: fire niveauer på hver akse og **16 arketyper** — almindelige mønstre for, hvordan en enhed er opbygget og arbejder, hver med et kort navn.",
     "src": "efd78a26",
     "status": "draft"
   },

@@ -1,7 +1,7 @@
 {
   "goDeeper.body": {
     "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
-    "text": "Find ud af, hvilken topologi der passer til din strategi: et eksempelkort af hver, de fire intelligenser at klikke igennem, og hvordan du går ud og ser din egen organisation med et kort.",
+    "text": "Find ud af, hvilken topologi der passer til din strategi: et eksempelkort af hver, de fire typer intelligens at klikke igennem, og hvordan du går ud og ser din egen organisation med et kort.",
     "src": "218dca13",
     "status": "draft"
   },
@@ -31,7 +31,7 @@
   },
   "lead": {
     "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
-    "text": "Hver almindelig topologi kombinerer forskellige intelligenser — specialisering, flow, koordination, adaptiv — og »brillerer« i et forskelligt miljø.",
+    "text": "Hver almindelig topologi kombinerer forskellige typer intelligens — specialisering, flow, koordination, adaptiv — og »brillerer« i et forskelligt miljø.",
     "src": "82abc347",
     "status": "draft"
   },

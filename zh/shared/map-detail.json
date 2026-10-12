@@ -13,7 +13,7 @@
   },
   "compare.options.0.points.0": {
     "en": "Explaining Org Topologies: the two mandates, the four intelligences and the three topologies.",
-    "text": "讲解 Org Topologies：两种授权、四种智能和三种拓扑。",
+    "text": "讲解 Org Topologies：两种权责、四种智能和三种拓扑。",
     "src": "6983d290",
     "status": "draft"
   },
@@ -151,7 +151,7 @@
   },
   "levels.0.title": {
     "en": "Scope of skills mandate →",
-    "text": "技能授权范围 →",
+    "text": "技能权责范围 →",
     "src": "a1251831",
     "status": "draft"
   },
@@ -181,13 +181,13 @@
   },
   "levels.1.title": {
     "en": "Scope of work mandate ↑",
-    "text": "工作授权范围 ↑",
+    "text": "工作权责范围 ↑",
     "src": "f968973e",
     "status": "draft"
   },
   "naming.text": {
     "en": "The **prefix** names the work-mandate row (TASKS, CAPS, PART, WHOLE); the **digit** names the skills-mandate column, counting from the left. So CAPS-3 reads “end-to-end @ capability” — a complete unit, output-oriented, in the Delivering group.",
-    "text": "**前缀**表示工作授权所在的行（TASKS、CAPS、PART、WHOLE）；**数字**表示技能授权所在的列，从左数起。因此 CAPS-3 读作“端到端 @ 能力”：一个完整单元，面向产出，属于 Delivering 一组。",
+    "text": "**前缀**表示工作权责所在的行（TASKS、CAPS、PART、WHOLE）；**数字**表示技能权责所在的列，从左数起。因此 CAPS-3 读作“端到端 @ 能力”：一个完整单元，面向产出，属于 Delivering 一组。",
     "src": "45341f16",
     "status": "draft"
   },

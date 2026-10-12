@@ -175,19 +175,19 @@
   },
   "intelligences._nav": {
     "en": "Four Intelligences",
-    "text": "Vier intelligences",
+    "text": "Vier soorten intelligentie",
     "src": "06447a42",
     "status": "draft"
   },
   "intelligences.cardsLead": {
     "en": "The two dividers cut the map into four quadrants: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) and [Delivering](term:delivering-intelligence) — the four intelligences.",
-    "text": "De twee scheidslijnen verdelen de kaart in vier kwadranten: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) en [Delivering](term:delivering-intelligence), de vier intelligences.",
+    "text": "De twee scheidslijnen verdelen de kaart in vier kwadranten: [Directing](term:directing-intelligence), [Driving](term:driving-intelligence), [Doing](term:doing-intelligence) en [Delivering](term:delivering-intelligence), de vier soorten intelligentie.",
     "src": "b2bf261a",
     "status": "draft"
   },
   "intelligences.quote.paragraphs.0": {
     "en": "Just as people can be “word smart,” “logic smart,” “music smart,” and so on, organizations express different smarts—*intelligences*—through their structured mandates given to org units.",
-    "text": "Zoals mensen ‘woordslim’, ‘logisch slim’, ‘muzikaal slim’ kunnen zijn, zo uiten organisaties verschillende vormen van slimheid, *intelligences*, via de gestructureerde mandaten die aan organisatie-eenheden worden gegeven.",
+    "text": "Zoals mensen ‘woordslim’, ‘logisch slim’, ‘muzikaal slim’ kunnen zijn, zo uiten organisaties verschillende vormen van slimheid, *intelligenties*, via de gestructureerde mandaten die aan organisatie-eenheden worden gegeven.",
     "src": "a78780f8",
     "status": "draft"
   },
@@ -199,7 +199,7 @@
   },
   "intelligences.quote.paragraphs.2": {
     "en": "The question is no longer which intelligence is “better,” but which combination best supports the current strategic challenge—and how that mix must evolve as strategy changes. … Organizations are not locked into a single intelligence; they can intentionally develop neglected ones and combine them to support performance.",
-    "text": "De vraag is niet langer welke intelligence ‘beter’ is, maar welke combinatie de huidige strategische uitdaging het best ondersteunt, en hoe die mix moet meebewegen als de strategie verandert. … Organisaties zijn niet vastgelegd op één intelligence; ze kunnen bewust verwaarloosde intelligences ontwikkelen en combineren om prestaties te ondersteunen.",
+    "text": "De vraag is niet langer welke intelligence ‘beter’ is, maar welke combinatie de huidige strategische uitdaging het best ondersteunt, en hoe die mix moet meebewegen als de strategie verandert. … Organisaties zijn niet vastgelegd op één intelligence; ze kunnen bewust verwaarloosde intelligenties ontwikkelen en combineren om prestaties te ondersteunen.",
     "src": "0d6beaa0",
     "status": "draft"
   },
@@ -211,7 +211,7 @@
   },
   "page.description": {
     "en": "Map your organization with a simple language and one map of two mandates, then see how it really works. Learn the four intelligences and start with free tools.",
-    "text": "Map je organisatie met een eenvoudige taal en één kaart met twee mandaten, en zie hoe ze echt werkt. Leer de vier intelligences kennen en begin met gratis tools.",
+    "text": "Map je organisatie met een eenvoudige taal en één kaart met twee mandaten, en zie hoe ze echt werkt. Leer de vier soorten intelligentie kennen en begin met gratis tools.",
     "src": "6ad2fef4",
     "status": "draft"
   },
@@ -577,7 +577,7 @@
   },
   "topologies.goDeeper.body": {
     "en": "Explore which topology fits your strategy: a sample map of each, the four intelligences to click through, and how to go see your own organization with a map.",
-    "text": "Ontdek welke topologie bij jouw strategie past: een voorbeeldkaart van elk, de vier intelligences om doorheen te klikken, en hoe je je eigen organisatie met een kaart gaat bekijken.",
+    "text": "Ontdek welke topologie bij jouw strategie past: een voorbeeldkaart van elk, de vier soorten intelligentie om doorheen te klikken, en hoe je je eigen organisatie met een kaart gaat bekijken.",
     "src": "218dca13",
     "status": "draft"
   },
@@ -607,7 +607,7 @@
   },
   "topologies.lead": {
     "en": "Each common topology combines different intelligences — specialization, flow, coordination, adaptive — and “shines” in a different environment.",
-    "text": "Elke gebruikelijke topologie combineert andere intelligences (specialisatie, flow, coördinatie, adaptief) en ‘schittert’ in een andere omgeving.",
+    "text": "Elke gebruikelijke topologie combineert andere soorten intelligentie (specialisatie, flow, coördinatie, adaptief) en ‘schittert’ in een andere omgeving.",
     "src": "82abc347",
     "status": "draft"
   },
@@ -625,7 +625,7 @@
   },
   "topologies.topologies.0.intelligences": {
     "en": "(specialization + coordination intelligences)",
-    "text": "(specialisatie- en coördinatie-intelligences)",
+    "text": "(specialisatie- en coördinatie-intelligentie)",
     "src": "79a864bb",
     "status": "draft"
   },
@@ -661,7 +661,7 @@
   },
   "topologies.topologies.1.intelligences": {
     "en": "(flow + coordination intelligences)",
-    "text": "(flow- en coördinatie-intelligences)",
+    "text": "(flow- en coördinatie-intelligentie)",
     "src": "551b9936",
     "status": "draft"
   },

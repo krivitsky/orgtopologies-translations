@@ -133,7 +133,7 @@
   },
   "elevation.lead": {
     "en": "Elevating is a deliberate move right and up on the [Org Topologies map](term:org-topologies-map): broader skills and broader work mandates, from delivering outputs to delivering outcomes.",
-    "text": "提升是在 [Org Topologies 地图](term:org-topologies-map)上刻意地向右、向上移动：更宽的技能和更宽的工作授权，从交付产出走向交付成果。",
+    "text": "提升是在 [Org Topologies 地图](term:org-topologies-map)上刻意地向右、向上移动：更宽的技能和更宽的工作权责，从交付产出走向交付成果。",
     "src": "2b3c61b1",
     "status": "draft"
   },
@@ -379,7 +379,7 @@
   },
   "what.paragraphs.2": {
     "en": "Each kata targets a concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance, and tests whether expanding [mandates](term:mandate) or reducing friction moves the system closer to the intended elevated state.",
-    "text": "每个 kata 针对一个具体的约束，如团队边界、决策权、接口、政策或治理，并检验扩大[授权](term:mandate)或减少摩擦，是否让系统更接近预期的提升状态。",
+    "text": "每个 kata 针对一个具体的约束，如团队边界、决策权、接口、政策或治理，并检验扩大[权责](term:mandate)或减少摩擦，是否让系统更接近预期的提升状态。",
     "src": "38f07d8d",
     "status": "draft"
   }

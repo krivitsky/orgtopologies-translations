@@ -47,6 +47,12 @@
     "src": "099f7892",
     "status": "draft"
   },
+  "c.goDeeper.kicker": {
+    "en": "GO DEEPER",
+    "text": "ALLER PLUS LOIN",
+    "src": "3b5a5253",
+    "status": "draft"
+  },
   "c.kata.applied": {
     "en": "applied",
     "text": "appliqués",
