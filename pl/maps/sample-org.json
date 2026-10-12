@@ -1,0 +1,92 @@
+{
+  "Assessed: Delivery Topology": {
+    "en": "Assessed: Delivery Topology",
+    "text": "Assessed: Delivery Topology",
+    "src": "ad2d74c1",
+    "status": "draft"
+  },
+  "ERP Team-of-Teams": {
+    "en": "ERP Team-of-Teams",
+    "text": "ERP Zespół zespołów",
+    "src": "7f737aa9",
+    "status": "draft"
+  },
+  "Elevate: Delivery → Adaptive": {
+    "en": "Elevate: Delivery → Adaptive",
+    "text": "Elevate: Delivery → Adaptive",
+    "src": "91411c46",
+    "status": "draft"
+  },
+  "Finance team": {
+    "en": "Finance team",
+    "text": "Zespół finansów",
+    "src": "d36b690a",
+    "status": "draft"
+  },
+  "Get the change going with Elevating Katas": {
+    "en": "Get the change going with Elevating Katas",
+    "text": "Wprowadź zmianę w ruch z Elevating Katas",
+    "src": "b716f0f0",
+    "status": "draft"
+  },
+  "Invoicing domain agent": {
+    "en": "Invoicing domain agent",
+    "text": "Agent AI domeny fakturowania",
+    "src": "65d71adb",
+    "status": "draft"
+  },
+  "Invoicing team": {
+    "en": "Invoicing team",
+    "text": "Zespół fakturowania",
+    "src": "fdf1fa14",
+    "status": "draft"
+  },
+  "Mapping status quo": {
+    "en": "Mapping status quo",
+    "text": "Mapowanie status quo",
+    "src": "049a2673",
+    "status": "draft"
+  },
+  "Metering team": {
+    "en": "Metering team",
+    "text": "Zespół pomiarów",
+    "src": "ceb60b21",
+    "status": "draft"
+  },
+  "Org goal: adaptiveness": {
+    "en": "Org goal: adaptiveness",
+    "text": "Cel organizacji: zdolność adaptacji",
+    "src": "f071d74e",
+    "status": "draft"
+  },
+  "Org goal: predictable flow": {
+    "en": "Org goal: predictable flow",
+    "text": "Cel organizacji: przewidywalny przepływ",
+    "src": "6933b1be",
+    "status": "draft"
+  },
+  "Product manager": {
+    "en": "Product manager",
+    "text": "Product manager",
+    "src": "6d86dbd1",
+    "status": "draft"
+  },
+  "Sales ops": {
+    "en": "Sales ops",
+    "text": "Sales ops",
+    "src": "4001da75",
+    "status": "draft"
+  },
+  "Sample OT Mapping": {
+    "en": "Sample OT Mapping",
+    "text": "Przykładowe mapowanie OT",
+    "src": "720a9b15",
+    "status": "draft"
+  },
+  "Target: Adaptive Topology": {
+    "en": "Target: Adaptive Topology",
+    "text": "Cel: Adaptive Topology",
+    "src": "8a7c4b31",
+    "status": "draft"
+  }
+}

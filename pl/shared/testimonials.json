@@ -1,0 +1,134 @@
+{
+  "heading": {
+    "en": "What practitioners say about Org Topologies",
+    "text": "Co praktycy mówią o Org Topologies",
+    "src": "70e115e3",
+    "status": "draft"
+  },
+  "items.0.name": {
+    "en": "Lucy Karpova",
+    "text": "Lucy Karpova",
+    "src": "c0fa9625",
+    "status": "draft"
+  },
+  "items.0.quote": {
+    "en": "“It was so much easier to describe the FlixBus agile journey using Org Topologies™, which otherwise would need much more explanation and reasoning. Mapping product depth and team skills dimensions bridged the gap between applying frameworks and discovering ways to organize teams.”",
+    "text": "„Dużo łatwiej było opisać agile’ową drogę FlixBus za pomocą Org Topologies™, co inaczej wymagałoby znacznie więcej wyjaśnień i uzasadnień. Mapowanie głębokości produktu i wymiarów umiejętności zespołu zasypało przepaść między stosowaniem frameworków a odkrywaniem sposobów organizowania zespołów.”",
+    "src": "eb68a300",
+    "status": "draft"
+  },
+  "items.0.role": {
+    "en": "Agile and Product Coach at Flix and Sixt",
+    "text": "Agile and Product Coach w Flix i Sixt",
+    "src": "f46322b3",
+    "status": "draft"
+  },
+  "items.1.name": {
+    "en": "Frank Dohmen",
+    "text": "Frank Dohmen",
+    "src": "bd76951a",
+    "status": "draft"
+  },
+  "items.1.quote": {
+    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
+    "text": "„Sam używam Org Topologies od dwóch lat, by odpowiadać na pytania o zwinność zespołu i bieżącego projektu oraz by określać kolejne kroki. Było dla mnie podstawą do ustalenia z naszymi klientami, gdzie dziś jesteśmy i — jeśli chcemy się rozwijać — jaki byłby właściwy kierunek i jakie działania.”",
+    "src": "b23eb7cf",
+    "status": "draft"
+  },
+  "items.1.role": {
+    "en": "Lead Project Management at IBM iX",
+    "text": "Lead Project Management w IBM iX",
+    "src": "ef561465",
+    "status": "draft"
+  },
+  "items.2.link.label": {
+    "en": "Read the Strobbo case →",
+    "text": "Przeczytaj o Strobbo →",
+    "src": "e6a27bb4",
+    "status": "draft"
+  },
+  "items.2.name": {
+    "en": "Michael Voorhaen",
+    "text": "Michael Voorhaen",
+    "src": "6f858cef",
+    "status": "draft"
+  },
+  "items.2.quote": {
+    "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
+    "text": "„Zrobiliśmy to w zeszłym tygodniu jako ćwiczenie zespołowe, sprawdzając, gdzie na mapie zespoły same się widziały. A potem z Org Topologies mogliśmy podzielić się wizją, dokąd chcemy iść dalej. Świetne jest to, że uchroniło nas to przed dyskusjami „dobre/złe” i pozwoliło skupić się na czymś tak prostym jak „jesteśmy tu” i „tam chcemy iść dalej”.”",
+    "src": "380048ee",
+    "status": "draft"
+  },
+  "items.2.role": {
+    "en": "Product Manager at Strobbo, Protime",
+    "text": "Product Manager w Strobbo, Protime",
+    "src": "520d6df1",
+    "status": "draft"
+  },
+  "items.3.name": {
+    "en": "Anya Faingersh",
+    "text": "Anya Faingersh",
+    "src": "dfb4e718",
+    "status": "draft"
+  },
+  "items.3.quote": {
+    "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
+    "text": "„Jest wiele narzędzi, które obiecują organizacjom gwiazdkę z nieba. Org Topologies™ TO brakujące ogniwo, które łączy PRAWDZIWY problem z WŁAŚCIWYM rozwiązaniem.”",
+    "src": "33a24fe2",
+    "status": "draft"
+  },
+  "items.3.role": {
+    "en": "Scrum Master and Agile Coach",
+    "text": "Scrum Master i Agile Coach",
+    "src": "5afe7708",
+    "status": "draft"
+  },
+  "items.4.name": {
+    "en": "Felix Lagemann",
+    "text": "Felix Lagemann",
+    "src": "a2b6eadd",
+    "status": "draft"
+  },
+  "items.4.quote": {
+    "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
+    "text": "„To niezależne od frameworków podejście wizualne daje do myślenia każdemu, kto chce aktywnie kształtować kolejne kroki transformacji swojego biznesu. Mapowanie zespołów archetypami jednocześnie pokazuje, gdzie jesteś, i pobudza dyskusję o tym, dokąd chcesz dojść.”",
+    "src": "c24bca14",
+    "status": "draft"
+  },
+  "items.4.role": {
+    "en": "Senior Consultant",
+    "text": "Senior Consultant",
+    "src": "cfbb0a0b",
+    "status": "draft"
+  },
+  "items.5.link.label": {
+    "en": "Read his analysis →",
+    "text": "Przeczytaj jego analizę →",
+    "src": "5a63983c",
+    "status": "draft"
+  },
+  "items.5.name": {
+    "en": "Carlton Nettleton",
+    "text": "Carlton Nettleton",
+    "src": "f42c8ff8",
+    "status": "draft"
+  },
+  "items.5.quote": {
+    "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
+    "text": "„Jedną z ich głównych motywacji było opublikowanie modelu, który daje praktykom jasny i konkretny język do rozmowy o projektowaniu organizacji.”",
+    "src": "5c29cb27",
+    "status": "draft"
+  },
+  "items.5.role": {
+    "en": "The Scrum Academy",
+    "text": "The Scrum Academy",
+    "src": "4ed8f9f6",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "TESTIMONIALS",
+    "text": "OPINIE",
+    "src": "afb2c9a9",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Detailed map: 4×4": {
+    "en": "Detailed map: 4×4",
+    "text": "Szczegółowa mapa: 4×4",
+    "src": "e900d5d7",
+    "status": "draft"
+  },
+  "Ecosystem 1": {
+    "en": "Ecosystem 1",
+    "text": "Ekosystem 1",
+    "src": "ae360808",
+    "status": "draft"
+  },
+  "Ecosystem 2": {
+    "en": "Ecosystem 2",
+    "text": "Ekosystem 2",
+    "src": "afc184bc",
+    "status": "draft"
+  },
+  "Two ecosystems: today and improved": {
+    "en": "Two ecosystems: today and improved",
+    "text": "Dwa ekosystemy: dziś i po poprawie",
+    "src": "794335d0",
+    "status": "draft"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "goDeeper.body": {
+    "en": "Change your org design without a big-bang reorg: map what you have, choose what to optimize for, design the target, then elevate step by step. See all four moves on one sample org.",
+    "text": "Zmień projekt organizacji bez wielkiej reorganizacji: zmapuj to, co masz, wybierz, pod co optymalizować, zaprojektuj cel, a potem wznoś się krok po kroku. Zobacz wszystkie cztery ruchy na jednej przykładowej organizacji.",
+    "src": "782a388c",
+    "status": "draft"
+  },
+  "goDeeper.cta.label": {
+    "en": "Learn about the approach →",
+    "text": "Poznaj podejście →",
+    "src": "41166a9c",
+    "status": "draft"
+  },
+  "goDeeper.title": {
+    "en": "The MADE method",
+    "text": "Metoda MADE",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Change, MADE systemic",
+    "text": "Zmiana, MADE Systemic",
+    "src": "59a35118",
+    "status": "draft"
+  },
+  "image.alt": {
+    "en": "Change MADE systemic: Study (Map, Assess) and Improve (Design, Elevate) around org design, between strategy and performance",
+    "text": "Zmiana MADE Systemic: Study (Map, Assess) i Improve (Design, Elevate) wokół projektu organizacji, między strategią a wydajnością",
+    "src": "d37f75ea",
+    "status": "draft"
+  },
+  "intro.after": {
+    "en": ". First **study** the design you have, then **improve** toward the design you need.",
+    "text": ". Najpierw **zbadaj** projekt, który masz, potem **popraw** go w stronę projektu, którego potrzebujesz.",
+    "src": "82c1bcfa",
+    "status": "draft"
+  },
+  "intro.before": {
+    "en": "Org design sits between strategy and performance. **MADE** is the loop that keeps it fit, named after its four moves:",
+    "text": "Projekt organizacji leży między strategią a wydajnością. **MADE** to pętla, która utrzymuje go w dopasowaniu, nazwana od czterech ruchów:",
+    "src": "d90d5de1",
+    "status": "draft"
+  },
+  "intro.moves.0.name": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "intro.moves.1.name": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "intro.moves.2.name": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "intro.moves.3.name": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "THE APPROACH",
+    "text": "PODEJŚCIE",
+    "src": "6edf0511",
+    "status": "draft"
+  },
+  "phases.0.label": {
+    "en": "Study",
+    "text": "Study",
+    "src": "3ff5620b",
+    "status": "draft"
+  },
+  "phases.0.note": {
+    "en": "the design you have",
+    "text": "projekt, który masz",
+    "src": "7841c169",
+    "status": "draft"
+  },
+  "phases.0.steps.0.text": {
+    "en": "Place every unit by skills and work mandate",
+    "text": "Umieść każdą jednostkę według mandatu umiejętności i pracy",
+    "src": "147b353e",
+    "status": "draft"
+  },
+  "phases.0.steps.0.title": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "phases.0.steps.1.text": {
+    "en": "Name the topology you have — and whether it fits",
+    "text": "Nazwij topologię, którą masz, i sprawdź, czy pasuje",
+    "src": "93d8c28f",
+    "status": "draft"
+  },
+  "phases.0.steps.1.title": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "phases.1.label": {
+    "en": "Improve",
+    "text": "Improve",
+    "src": "d217751e",
+    "status": "draft"
+  },
+  "phases.1.note": {
+    "en": "the design you need",
+    "text": "projekt, którego potrzebujesz",
+    "src": "c1348673",
+    "status": "draft"
+  },
+  "phases.1.steps.0.text": {
+    "en": "Imagine the organization you need, without today’s limits",
+    "text": "Wyobraź sobie organizację, której potrzebujesz, bez dzisiejszych ograniczeń",
+    "src": "5494e330",
+    "status": "draft"
+  },
+  "phases.1.steps.0.title": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "phases.1.steps.1.text": {
+    "en": "Get the change going with Elevating Katas",
+    "text": "Uruchom zmianę za pomocą Elevating Katas",
+    "src": "b716f0f0",
+    "status": "draft"
+  },
+  "phases.1.steps.1.title": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  }
+}

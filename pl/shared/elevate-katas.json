@@ -1,0 +1,56 @@
+{
+  "allCases.label": {
+    "en": "All case studies with katas →",
+    "text": "Wszystkie studia przypadków z katas →",
+    "src": "4cc52884",
+    "status": "draft"
+  },
+  "casesKicker": {
+    "en": "Case studies rich in katas",
+    "text": "Studia przypadków bogate w katas",
+    "src": "3551d57f",
+    "status": "draft"
+  },
+  "elements": {
+    "en": "The katas are grouped by the five elements of Jay Galbraith’s Star Model™: change one element and the others must follow.",
+    "text": "Katas są pogrupowane według pięciu elementów Star Model™ Jaya Galbraitha: zmień jeden element, a pozostałe muszą pójść za nim.",
+    "src": "804bf86d",
+    "status": "draft"
+  },
+  "explore.label": {
+    "en": "Explore the Katalog →",
+    "text": "Poznaj Katalog →",
+    "src": "0a155c6c",
+    "status": "draft"
+  },
+  "figure.alt": {
+    "en": "Elevating Katas: a big arrow lifts a web of narrow, dependent units in the bottom left of the Org Topologies map toward a team of teams in the top right, labelled Elevate to Adaptive Topology",
+    "text": "Elevating Katas: wielka strzałka unosi sieć wąskich, zależnych jednostek w lewym dolnym rogu mapy Org Topologies ku zespołowi zespołów w prawym górnym rogu, z podpisem Elevate to Adaptive Topology",
+    "src": "25fe3861",
+    "status": "draft"
+  },
+  "figure.credit": {
+    "en": "ILLUSTRATION · 10X ORG · CC BY-ND",
+    "text": "ILUSTRACJA · 10X ORG · CC BY-ND",
+    "src": "cab22210",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "ELEVATE · STEP 4 OF MADE",
+    "text": "ELEVATE · KROK 4 W MADE",
+    "src": "3bf90c77",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "Elevating is a deliberate move right and up on the map. The katas are the moves: small, repeatable routines that change how the organization works. A menu, not a sequence: start with the few that match your most pressing constraint.",
+    "text": "Elevate to świadomy ruch w prawo i w górę na mapie. Katas to te ruchy: małe, powtarzalne rutyny, które zmieniają sposób działania organizacji. To menu, nie sekwencja: zacznij od kilku, które pasują do Twojego najpilniejszego ograniczenia.",
+    "src": "cb295cbd",
+    "status": "draft"
+  }
+}

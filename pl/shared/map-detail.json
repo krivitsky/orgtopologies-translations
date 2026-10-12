@@ -1,0 +1,212 @@
+{
+  "compare.note": {
+    "en": "Lead with the 2×2. Reach for a specific [archetype](term:archetype) name when it genuinely sharpens the point — or when someone asks.",
+    "text": "Zaczynaj od 2×2. Sięgaj po konkretną nazwę [archetypu](term:archetype), gdy naprawdę wyostrza myśl, albo gdy ktoś o to zapyta.",
+    "src": "d7b5ed2c",
+    "status": "draft"
+  },
+  "compare.options.0.label": {
+    "en": "THE 2×2 · THE BOOK'S MAP",
+    "text": "2×2 · MAPA Z KSIĄŻKI",
+    "src": "9b5b66e1",
+    "status": "draft"
+  },
+  "compare.options.0.points.0": {
+    "en": "Explaining Org Topologies: the two mandates, the four intelligences and the three topologies.",
+    "text": "Wyjaśnianie Org Topologies: dwa mandaty, cztery inteligencje i trzy topologie.",
+    "src": "6983d290",
+    "status": "draft"
+  },
+  "compare.options.0.points.1": {
+    "en": "Conversations with leaders about what the organization is designed for — and whether that fits the strategy.",
+    "text": "Rozmowy z liderami o tym, do czego zaprojektowana jest organizacja, i czy to pasuje do strategii.",
+    "src": "a2f13e07",
+    "status": "draft"
+  },
+  "compare.options.0.points.2": {
+    "en": "Comparing topologies and choosing an org goal.",
+    "text": "Porównywanie topologii i wybór celu organizacji.",
+    "src": "b7e70f5d",
+    "status": "draft"
+  },
+  "compare.options.0.title": {
+    "en": "To explain and decide",
+    "text": "Aby wyjaśniać i decydować",
+    "src": "ce0d3415",
+    "status": "draft"
+  },
+  "compare.options.1.label": {
+    "en": "THE 4×4 · DETAILED MAPPING",
+    "text": "4×4 · SZCZEGÓŁOWE MAPOWANIE",
+    "src": "3efa166b",
+    "status": "draft"
+  },
+  "compare.options.1.points.0": {
+    "en": "Placing every unit precisely — functional, multi-skill, end-to-end or expanding; tasks up to whole solution.",
+    "text": "Dokładne umieszczenie każdej jednostki: functional, multi-skill, end-to-end lub expanding; od tasks po whole solution.",
+    "src": "a596a6fe",
+    "status": "draft"
+  },
+  "compare.options.1.points.1": {
+    "en": "Seeing small differences that matter, such as a multi-skill team that is still incomplete (CAPS-2) versus an end-to-end one (CAPS-3).",
+    "text": "Dostrzeganie małych, ale ważnych różnic, np. zespół multi-skill, który wciąż jest niekompletny (CAPS-2), kontra end-to-end (CAPS-3).",
+    "src": "e388b392",
+    "status": "draft"
+  },
+  "compare.options.1.points.2": {
+    "en": "Naming the current and target ecosystem in a shared, framework-free language.",
+    "text": "Nazywanie obecnego i docelowego ekosystemu we wspólnym języku wolnym od frameworków.",
+    "src": "4a45321a",
+    "status": "draft"
+  },
+  "compare.options.1.title": {
+    "en": "To map units in detail",
+    "text": "Aby mapować jednostki szczegółowo",
+    "src": "357a9cba",
+    "status": "draft"
+  },
+  "compare.title": {
+    "en": "2×2 or 4×4?",
+    "text": "2×2 czy 4×4?",
+    "src": "a7d048f1",
+    "status": "draft"
+  },
+  "example.ecosystems.0.label": {
+    "en": "ECOSYSTEM 1 · TODAY",
+    "text": "EKOSYSTEM 1 · DZISIAJ",
+    "src": "95d48acd",
+    "status": "draft"
+  },
+  "example.ecosystems.0.text": {
+    "en": "Most of the teams are CAPS-2: multi-skilled, yet incomplete, lacking certain capabilities. Functional TASKS-1 specialists support them. That creates dependencies, which CAPS-1 and PART-1 groups manage.",
+    "text": "Większość zespołów to CAPS-2: wielofunkcyjne, ale niekompletne, bez pewnych zdolności. Wspierają je funkcjonalni specjaliści TASKS-1. To tworzy zależności, którymi zarządzają grupy CAPS-1 i PART-1.",
+    "src": "a312c977",
+    "status": "draft"
+  },
+  "example.ecosystems.1.label": {
+    "en": "ECOSYSTEM 2 · IMPROVED",
+    "text": "EKOSYSTEM 2 · POPRAWIONY",
+    "src": "c70f636a",
+    "status": "draft"
+  },
+  "example.ecosystems.1.text": {
+    "en": "The specialists join the teams, so most teams become CAPS-3: end-to-end, with every skill needed to deliver a whole capability. One team grows into CAPS-4 and learns new skills when the work asks for them. With far fewer dependencies, the CAPS-1 coordination group is no longer needed; a PART-1 group still sets the direction. Together that is a Delivery Topology.",
+    "text": "Specjaliści dołączają do zespołów, więc większość zespołów staje się CAPS-3: end-to-end, z każdą umiejętnością potrzebną do dostarczenia całej zdolności. Jeden zespół rośnie do CAPS-4 i uczy się nowych umiejętności, gdy wymaga tego praca. Przy znacznie mniejszej liczbie zależności grupa koordynacyjna CAPS-1 przestaje być potrzebna, a grupa PART-1 nadal wyznacza kierunek. Razem to Delivery Topology.",
+    "src": "0ea2d37d",
+    "status": "draft"
+  },
+  "example.source": {
+    "en": "Mapping Language",
+    "text": "Język mapowania",
+    "src": "27dd0b55",
+    "status": "draft"
+  },
+  "example.title": {
+    "en": "Ecosystem Mapping",
+    "text": "Mapowanie ekosystemu",
+    "src": "65762817",
+    "status": "draft"
+  },
+  "heading": {
+    "en": "Sixteen archetypes, one language",
+    "text": "Szesnaście archetypów, jeden język",
+    "src": "0dd39dbc",
+    "status": "draft"
+  },
+  "kicker": {
+    "en": "DETAILED MAPPING · THE 4×4",
+    "text": "SZCZEGÓŁOWE MAPOWANIE · 4×4",
+    "src": "caf62f8f",
+    "status": "draft"
+  },
+  "lead": {
+    "en": "The 2×2 shows the four intelligences. For detailed mapping of org units there is a [4×4](term:4x4-map) version: four levels on each axis and **16 archetypes** — common patterns of how a unit is structured and operates, each with a short name.",
+    "text": "Mapa 2×2 pokazuje cztery inteligencje. Do szczegółowego mapowania jednostek organizacji służy wersja [4×4](term:4x4-map): cztery poziomy na każdej osi i **16 archetypów**, czyli typowych wzorców tego, jak jednostka jest zbudowana i działa, każdy z krótką nazwą.",
+    "src": "efd78a26",
+    "status": "draft"
+  },
+  "levels.0.items.0": {
+    "en": "**Functional** — specialists in one functional area, e.g. a movie costume department.",
+    "text": "**Functional**: specjaliści z jednego obszaru funkcjonalnego, np. dział kostiumów filmowych.",
+    "src": "cb89ab6e",
+    "status": "draft"
+  },
+  "levels.0.items.1": {
+    "en": "**Multi-skill** — cross-functional but still incomplete, e.g. a surgical team relying on post-op care.",
+    "text": "**Multi-skill**: wielofunkcyjny, ale wciąż niekompletny, np. zespół chirurgiczny zależny od opieki pooperacyjnej.",
+    "src": "fa538234",
+    "status": "draft"
+  },
+  "levels.0.items.2": {
+    "en": "**End-to-end** — everything needed to deliver complete value, e.g. a software feature team.",
+    "text": "**End-to-end**: wszystko, czego trzeba, by dostarczyć pełną wartość, np. feature team w oprogramowaniu.",
+    "src": "93d41d0f",
+    "status": "draft"
+  },
+  "levels.0.items.3": {
+    "en": "**Expanding** — end-to-end, with the mandate to acquire new skills when needed, e.g. a special-forces team.",
+    "text": "**Expanding**: end-to-end, z mandatem zdobywania nowych umiejętności, gdy trzeba, np. zespół sił specjalnych.",
+    "src": "1780d39b",
+    "status": "draft"
+  },
+  "levels.0.title": {
+    "en": "Scope of skills mandate →",
+    "text": "Zakres mandatu umiejętności →",
+    "src": "a1251831",
+    "status": "draft"
+  },
+  "levels.1.items.0": {
+    "en": "**Tasks** — fine-grained tasks matching one expertise, e.g. a sous-chef preparing ingredients.",
+    "text": "**Tasks**: drobne zadania dopasowane do jednej specjalizacji, np. pomocnik szefa kuchni przygotowujący składniki.",
+    "src": "3d0696c2",
+    "status": "draft"
+  },
+  "levels.1.items.1": {
+    "en": "**Capabilities** — a full capability (feature, function, service element), e.g. a claims-processing group.",
+    "text": "**Capabilities**: pełna zdolność (funkcja, usługa lub jej element), np. grupa obsługująca roszczenia.",
+    "src": "c964f695",
+    "status": "draft"
+  },
+  "levels.1.items.2": {
+    "en": "**Partial solution** — one business vertical, e.g. Uber Ride versus Uber Eats.",
+    "text": "**Partial solution**: jeden pion biznesowy, np. Uber Ride kontra Uber Eats.",
+    "src": "88c7a40f",
+    "status": "draft"
+  },
+  "levels.1.items.3": {
+    "en": "**Whole solution** — holistic problems and customer value, with no permanent separation inside the unit, e.g. a two-person Instagram-like startup.",
+    "text": "**Whole solution**: całościowe problemy i wartość dla klienta, bez stałego podziału wewnątrz jednostki, np. dwuosobowy startup w stylu Instagrama.",
+    "src": "6d9c4c38",
+    "status": "draft"
+  },
+  "levels.1.title": {
+    "en": "Scope of work mandate ↑",
+    "text": "Zakres mandatu pracy ↑",
+    "src": "f968973e",
+    "status": "draft"
+  },
+  "naming.text": {
+    "en": "The **prefix** names the work-mandate row (TASKS, CAPS, PART, WHOLE); the **digit** names the skills-mandate column, counting from the left. So CAPS-3 reads “end-to-end @ capability” — a complete unit, output-oriented, in the Delivering group.",
+    "text": "**Przedrostek** wskazuje wiersz mandatu pracy (TASKS, CAPS, PART, WHOLE), a **cyfra** kolumnę mandatu umiejętności, licząc od lewej. Zatem CAPS-3 czytamy jako „end-to-end @ capability”: jednostka kompletna, zorientowana na output, w grupie Delivering.",
+    "src": "45341f16",
+    "status": "draft"
+  },
+  "naming.title": {
+    "en": "How the names work",
+    "text": "Jak działają nazwy",
+    "src": "e66cf906",
+    "status": "draft"
+  },
+  "note.text": {
+    "en": "A simple notation and a few sentences describe a whole ecosystem, so it can be grasped as a whole, its challenges recognized, and a conversation about improving it can begin. Not team by team: improvements at the team level rarely stick. The units of an ecosystem depend on each other, so they have to be improved together, as one system.",
+    "text": "Prosta notacja i kilka zdań opisują cały ekosystem, dzięki czemu można ogarnąć go jako całość, rozpoznać jego wyzwania i zacząć rozmowę o jego poprawie. Nie zespół po zespole: usprawnienia na poziomie zespołu rzadko się utrzymują. Jednostki ekosystemu zależą od siebie, więc trzeba je poprawiać razem, jako jeden system.",
+    "src": "14b21968",
+    "status": "draft"
+  },
+  "note.title": {
+    "en": "Mapping Benefits",
+    "text": "Korzyści z mapowania",
+    "src": "45bc3e8e",
+    "status": "draft"
+  }
+}

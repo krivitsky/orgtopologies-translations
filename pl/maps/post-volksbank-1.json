@@ -1,0 +1,98 @@
+{
+  "Before: 2021": {
+    "en": "Before: 2021",
+    "text": "Przed: 2021",
+    "src": "1f45ec9a",
+    "status": "draft"
+  },
+  "Dev teams up to CAPS-2; bloxx at CAPS-3": {
+    "en": "Dev teams up to CAPS-2; bloxx at CAPS-3",
+    "text": "Zespoły dev do CAPS-2; bloxx w CAPS-3",
+    "src": "1d7c35fa",
+    "status": "draft"
+  },
+  "Dev work at TASKS-1; one R&D team at CAPS-1": {
+    "en": "Dev work at TASKS-1; one R&D team at CAPS-1",
+    "text": "Dev w TASKS-1; jeden zespół R&D w CAPS-1",
+    "src": "aa552937",
+    "status": "draft"
+  },
+  "Feature teams at CAPS-1, each paired with operations": {
+    "en": "Feature teams at CAPS-1, each paired with operations",
+    "text": "Feature teams w CAPS-1, każdy w parze z operacjami",
+    "src": "795d6fd0",
+    "status": "draft"
+  },
+  "IT ×10": {
+    "en": "IT ×10",
+    "text": "IT ×10",
+    "src": "3fc70878",
+    "status": "draft"
+  },
+  "Pilot with feature teams: 2021": {
+    "en": "Pilot with feature teams: 2021",
+    "text": "Pilot z feature teams: 2021",
+    "src": "f55034bc",
+    "status": "draft"
+  },
+  "R&D devs": {
+    "en": "R&D devs",
+    "text": "devowie R&D",
+    "src": "e94243c9",
+    "status": "draft"
+  },
+  "R&D team": {
+    "en": "R&D team",
+    "text": "zespół R&D",
+    "src": "74034550",
+    "status": "draft"
+  },
+  "Reality: 2023": {
+    "en": "Reality: 2023",
+    "text": "Rzeczywistość: 2023",
+    "src": "0bd96f26",
+    "status": "draft"
+  },
+  "bloxx": {
+    "en": "bloxx",
+    "text": "bloxx",
+    "src": "f914be78",
+    "status": "draft"
+  },
+  "business lending maintenance": {
+    "en": "business lending maintenance",
+    "text": "obsługa kredytów dla firm",
+    "src": "de0e9a9a",
+    "status": "draft"
+  },
+  "customer onboarding": {
+    "en": "customer onboarding",
+    "text": "onboarding klientów",
+    "src": "8b73ecc2",
+    "status": "draft"
+  },
+  "new business lending": {
+    "en": "new business lending",
+    "text": "nowe kredyty dla firm",
+    "src": "14626275",
+    "status": "draft"
+  },
+  "vendor": {
+    "en": "vendor",
+    "text": "vendor",
+    "src": "630ba094",
+    "status": "draft"
+  },
+  "vendor ×2": {
+    "en": "vendor ×2",
+    "text": "vendor ×2",
+    "src": "7a53a17f",
+    "status": "draft"
+  },
+  "vendor ×8": {
+    "en": "vendor ×8",
+    "text": "vendor ×8",
+    "src": "38486cf6",
+    "status": "draft"
+  }
+}
