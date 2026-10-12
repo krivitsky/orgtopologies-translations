@@ -13,6 +13,7 @@ The text of [orgtopologies.com](https://www.orgtopologies.com) in every language
 | [`fr/`](fr/) | Français · French | [/fr](https://www.orgtopologies.com/fr) |
 | [`es/`](es/) | Español · Spanish | [/es](https://www.orgtopologies.com/es) |
 | [`it/`](it/) | Italiano · Italian | [/it](https://www.orgtopologies.com/it) |
+| [`pl/`](pl/) | Polski · Polish | [/pl](https://www.orgtopologies.com/pl) |
 | [`pt/`](pt/) | Português · Portuguese (Brazil) | [/pt](https://www.orgtopologies.com/pt) |
 | [`no/`](no/) | Norsk · Norwegian (Bokmål) | [/no](https://www.orgtopologies.com/no) |
 | [`sv/`](sv/) | Svenska · Swedish | [/sv](https://www.orgtopologies.com/sv) |
