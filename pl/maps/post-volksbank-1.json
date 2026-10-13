@@ -79,19 +79,19 @@
   },
   "vendor": {
     "en": "vendor",
-    "text": "vendor",
+    "text": "dostawca",
     "src": "630ba094",
     "status": "draft"
   },
   "vendor ×2": {
     "en": "vendor ×2",
-    "text": "vendor ×2",
+    "text": "dostawca ×2",
     "src": "7a53a17f",
     "status": "draft"
   },
   "vendor ×8": {
     "en": "vendor ×8",
-    "text": "vendor ×8",
+    "text": "dostawca ×8",
     "src": "38486cf6",
     "status": "draft"
   }

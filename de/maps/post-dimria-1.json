@@ -115,19 +115,19 @@
   },
   "[buyers] android team": {
     "en": "[buyers] android team",
-    "text": "[buyers] Android-Team",
+    "text": "[Käufer] Android-Team",
     "src": "ac561c81",
     "status": "draft"
   },
   "[buyers] ios team": {
     "en": "[buyers] ios team",
-    "text": "[buyers] iOS-Team",
+    "text": "[Käufer] iOS-Team",
     "src": "2a9d6d7d",
     "status": "draft"
   },
   "[buyers] web team": {
     "en": "[buyers] web team",
-    "text": "[buyers] Web-Team",
+    "text": "[Käufer] Web-Team",
     "src": "c5f21365",
     "status": "draft"
   },
@@ -139,25 +139,25 @@
   },
   "[sellers] android team": {
     "en": "[sellers] android team",
-    "text": "[sellers] Android-Team",
+    "text": "[Verkäufer] Android-Team",
     "src": "50cf620e",
     "status": "draft"
   },
   "[sellers] ios team": {
     "en": "[sellers] ios team",
-    "text": "[sellers] iOS-Team",
+    "text": "[Verkäufer] iOS-Team",
     "src": "ccc1f79c",
     "status": "draft"
   },
   "[sellers] web team": {
     "en": "[sellers] web team",
-    "text": "[sellers] Web-Team",
+    "text": "[Verkäufer] Web-Team",
     "src": "23ac94b4",
     "status": "draft"
   },
   "analytics": {
     "en": "analytics",
-    "text": "Analytics",
+    "text": "Analyse",
     "src": "65f98121",
     "status": "draft"
   },

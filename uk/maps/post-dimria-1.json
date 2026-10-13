@@ -115,19 +115,19 @@
   },
   "[buyers] android team": {
     "en": "[buyers] android team",
-    "text": "[buyers] android-команда",
+    "text": "[покупці] android-команда",
     "src": "ac561c81",
     "status": "draft"
   },
   "[buyers] ios team": {
     "en": "[buyers] ios team",
-    "text": "[buyers] ios-команда",
+    "text": "[покупці] ios-команда",
     "src": "2a9d6d7d",
     "status": "draft"
   },
   "[buyers] web team": {
     "en": "[buyers] web team",
-    "text": "[buyers] веб-команда",
+    "text": "[покупці] веб-команда",
     "src": "c5f21365",
     "status": "draft"
   },
@@ -139,19 +139,19 @@
   },
   "[sellers] android team": {
     "en": "[sellers] android team",
-    "text": "[sellers] android-команда",
+    "text": "[продавці] android-команда",
     "src": "50cf620e",
     "status": "draft"
   },
   "[sellers] ios team": {
     "en": "[sellers] ios team",
-    "text": "[sellers] ios-команда",
+    "text": "[продавці] ios-команда",
     "src": "ccc1f79c",
     "status": "draft"
   },
   "[sellers] web team": {
     "en": "[sellers] web team",
-    "text": "[sellers] веб-команда",
+    "text": "[продавці] веб-команда",
     "src": "23ac94b4",
     "status": "draft"
   },

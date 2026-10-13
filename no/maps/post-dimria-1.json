@@ -115,19 +115,19 @@
   },
   "[buyers] android team": {
     "en": "[buyers] android team",
-    "text": "[buyers] androidteam",
+    "text": "[kjøpere] androidteam",
     "src": "ac561c81",
     "status": "draft"
   },
   "[buyers] ios team": {
     "en": "[buyers] ios team",
-    "text": "[buyers] iosteam",
+    "text": "[kjøpere] iosteam",
     "src": "2a9d6d7d",
     "status": "draft"
   },
   "[buyers] web team": {
     "en": "[buyers] web team",
-    "text": "[buyers] webteam",
+    "text": "[kjøpere] webteam",
     "src": "c5f21365",
     "status": "draft"
   },
@@ -139,19 +139,19 @@
   },
   "[sellers] android team": {
     "en": "[sellers] android team",
-    "text": "[sellers] androidteam",
+    "text": "[selgere] androidteam",
     "src": "50cf620e",
     "status": "draft"
   },
   "[sellers] ios team": {
     "en": "[sellers] ios team",
-    "text": "[sellers] iosteam",
+    "text": "[selgere] iosteam",
     "src": "ccc1f79c",
     "status": "draft"
   },
   "[sellers] web team": {
     "en": "[sellers] web team",
-    "text": "[sellers] webteam",
+    "text": "[selgere] webteam",
     "src": "23ac94b4",
     "status": "draft"
   },

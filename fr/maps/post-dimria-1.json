@@ -109,25 +109,25 @@
   },
   "Work flows down from the product managers": {
     "en": "Work flows down from the product managers",
-    "text": "Le travail descend des product managers",
+    "text": "Le travail descend des chefs de produit",
     "src": "76ef38e0",
     "status": "draft"
   },
   "[buyers] android team": {
     "en": "[buyers] android team",
-    "text": "équipe Android [buyers]",
+    "text": "équipe Android [acheteurs]",
     "src": "ac561c81",
     "status": "draft"
   },
   "[buyers] ios team": {
     "en": "[buyers] ios team",
-    "text": "équipe iOS [buyers]",
+    "text": "équipe iOS [acheteurs]",
     "src": "2a9d6d7d",
     "status": "draft"
   },
   "[buyers] web team": {
     "en": "[buyers] web team",
-    "text": "équipe web [buyers]",
+    "text": "équipe web [acheteurs]",
     "src": "c5f21365",
     "status": "draft"
   },
@@ -139,19 +139,19 @@
   },
   "[sellers] android team": {
     "en": "[sellers] android team",
-    "text": "équipe Android [sellers]",
+    "text": "équipe Android [vendeurs]",
     "src": "50cf620e",
     "status": "draft"
   },
   "[sellers] ios team": {
     "en": "[sellers] ios team",
-    "text": "équipe iOS [sellers]",
+    "text": "équipe iOS [vendeurs]",
     "src": "ccc1f79c",
     "status": "draft"
   },
   "[sellers] web team": {
     "en": "[sellers] web team",
-    "text": "équipe web [sellers]",
+    "text": "équipe web [vendeurs]",
     "src": "23ac94b4",
     "status": "draft"
   },

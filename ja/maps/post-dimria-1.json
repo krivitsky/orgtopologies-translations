@@ -115,19 +115,19 @@
   },
   "[buyers] android team": {
     "en": "[buyers] android team",
-    "text": "[buyers] Androidチーム",
+    "text": "[買い手] Androidチーム",
     "src": "ac561c81",
     "status": "draft"
   },
   "[buyers] ios team": {
     "en": "[buyers] ios team",
-    "text": "[buyers] iOSチーム",
+    "text": "[買い手] iOSチーム",
     "src": "2a9d6d7d",
     "status": "draft"
   },
   "[buyers] web team": {
     "en": "[buyers] web team",
-    "text": "[buyers] Webチーム",
+    "text": "[買い手] Webチーム",
     "src": "c5f21365",
     "status": "draft"
   },
@@ -139,19 +139,19 @@
   },
   "[sellers] android team": {
     "en": "[sellers] android team",
-    "text": "[sellers] Androidチーム",
+    "text": "[売り手] Androidチーム",
     "src": "50cf620e",
     "status": "draft"
   },
   "[sellers] ios team": {
     "en": "[sellers] ios team",
-    "text": "[sellers] iOSチーム",
+    "text": "[売り手] iOSチーム",
     "src": "ccc1f79c",
     "status": "draft"
   },
   "[sellers] web team": {
     "en": "[sellers] web team",
-    "text": "[sellers] Webチーム",
+    "text": "[売り手] Webチーム",
     "src": "23ac94b4",
     "status": "draft"
   },

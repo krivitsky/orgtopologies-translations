@@ -37,7 +37,7 @@
   },
   "Head of Product": {
     "en": "Head of Product",
-    "text": "Head of Product",
+    "text": "Produktový ředitel",
     "src": "57ab65da",
     "status": "draft"
   },
@@ -115,19 +115,19 @@
   },
   "[buyers] android team": {
     "en": "[buyers] android team",
-    "text": "[buyers] android tým",
+    "text": "[kupující] android tým",
     "src": "ac561c81",
     "status": "draft"
   },
   "[buyers] ios team": {
     "en": "[buyers] ios team",
-    "text": "[buyers] ios tým",
+    "text": "[kupující] ios tým",
     "src": "2a9d6d7d",
     "status": "draft"
   },
   "[buyers] web team": {
     "en": "[buyers] web team",
-    "text": "[buyers] web tým",
+    "text": "[kupující] web tým",
     "src": "c5f21365",
     "status": "draft"
   },
@@ -139,19 +139,19 @@
   },
   "[sellers] android team": {
     "en": "[sellers] android team",
-    "text": "[sellers] android tým",
+    "text": "[prodávající] android tým",
     "src": "50cf620e",
     "status": "draft"
   },
   "[sellers] ios team": {
     "en": "[sellers] ios team",
-    "text": "[sellers] ios tým",
+    "text": "[prodávající] ios tým",
     "src": "ccc1f79c",
     "status": "draft"
   },
   "[sellers] web team": {
     "en": "[sellers] web team",
-    "text": "[sellers] web tým",
+    "text": "[prodávající] web tým",
     "src": "23ac94b4",
     "status": "draft"
   },
