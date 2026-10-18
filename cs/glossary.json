@@ -300,9 +300,9 @@
     "status": "draft"
   },
   "component-development.definition": {
-    "en": "Organizing teams around architectural components so each delivers only its part of a feature; this structure makes development sequential, a structural outcome rather than a mindset problem.",
-    "text": "Organizování týmů kolem architektonických komponent tak, že každý dodá jen svou část funkce; tato struktura činí vývoj sekvenčním, což je strukturální důsledek, ne problém myšlení.",
-    "src": "223ece43",
+    "en": "Organizing teams around architectural components, so each team delivers only its part of a customer feature. A single feature then needs many teams and many iterations to finish.",
+    "text": "Organizování týmů kolem architektonických komponent, takže každý tým dodá jen svou část zákaznické funkce. Jediná funkce pak potřebuje mnoho týmů a mnoho iterací, než je hotová.",
+    "src": "41e27e66",
     "status": "draft"
   },
   "component-development.term": {
@@ -468,9 +468,9 @@
     "status": "draft"
   },
   "driving-intelligence.definition": {
-    "en": "Upper-right quadrant: complete units owning outcomes and shaping what is built next, blending dreaming, thinking and doing; the Adaptive Topology.",
-    "text": "Pravý horní kvadrant: úplné jednotky, které vlastní outcomes a určují, co se bude stavět dál, a spojují snění, přemýšlení a konání; Adaptive Topology.",
-    "src": "995ee6a9",
+    "en": "Upper-right quadrant: complete units that own outcomes and shape what is built next, blending dreaming, thinking and doing. Units here form the Adaptive Topology.",
+    "text": "Pravý horní kvadrant: úplné jednotky, které vlastní outcomes a určují, co se bude stavět dál, a spojují snění, přemýšlení a konání. Jednotky zde tvoří Adaptive Topology.",
+    "src": "5fa1ea61",
     "status": "draft"
   },
   "driving-intelligence.term": {
@@ -516,9 +516,9 @@
     "status": "draft"
   },
   "elevating-kata.definition": {
-    "en": "A structured, repeatable improvement routine that turns org design intent into lived behavior, applied mainly in the Elevate step.",
-    "text": "Strukturovaná, opakovatelná rutina zlepšování, která mění záměr designu organizace v prožité chování; používá se hlavně v kroku Elevate.",
-    "src": "453dbecf",
+    "en": "A safe, repeatable routine that reshapes structure, mandates, roles, processes or incentives while learning from real work. Each kata targets one organizational constraint and is applied mainly in the Elevate step.",
+    "text": "Bezpečná, opakovatelná rutina, která přetváří strukturu, mandáty, role, procesy nebo pobídky a přitom se učí ze skutečné práce. Každá kata míří na jedno organizační omezení a používá se hlavně v kroku Elevate.",
+    "src": "8f0d8a3d",
     "status": "draft"
   },
   "elevating-kata.term": {
@@ -600,9 +600,9 @@
     "status": "draft"
   },
   "first-design-then-ai.definition": {
-    "en": "The line that sums Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
-    "text": "Věta, která shrnuje Princip 9: nejdřív AI odložte stranou, pochopte strukturu a teprve pak použijte AI jako páku.",
-    "src": "46dd096c",
+    "en": "The short rule behind Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
+    "text": "Krátké pravidlo za Principem 9: nejdřív AI odložte stranou, pochopte strukturu a teprve pak použijte AI jako páku.",
+    "src": "f8d10e16",
     "status": "draft"
   },
   "first-design-then-ai.term": {
@@ -816,9 +816,9 @@
     "status": "draft"
   },
   "kata-naming-convention.definition": {
-    "en": "Each kata name starts with \"Elevate by\" followed by a gerund phrase, e.g. Elevate by Expanding the Product Definition.",
-    "text": "Název každé kata začíná „Elevate by“ a pokračuje slovesným podstatným jménem, např. Elevate by Expanding the Product Definition.",
-    "src": "185804fa",
+    "en": "A kata name is a gerund phrase, such as Expanding the Product Definition. The book lists the names under \"Elevate by…\" and cites them in full, such as Elevate by Expanding the Product Definition.",
+    "text": "Název kata je slovesná fráze s gerundiem, například Expanding the Product Definition. Kniha uvádí názvy pod „Elevate by…“ a cituje je celé, například Elevate by Expanding the Product Definition.",
+    "src": "7fe553e7",
     "status": "draft"
   },
   "kata-naming-convention.term": {
@@ -900,9 +900,9 @@
     "status": "draft"
   },
   "made-assess.definition": {
-    "en": "Second step: judge, not people but the system, whether the current org design fits the business ambitions and strategy.",
-    "text": "Druhý krok: posoudit, ne lidi, ale systém, zda současný design organizace odpovídá obchodním ambicím a strategii.",
-    "src": "098a6fe0",
+    "en": "Second MADE step: judge whether the current org design fits the business ambitions and strategy. It assesses the system, not people.",
+    "text": "Druhý krok MADE: posoudit, zda současný design organizace odpovídá obchodním ambicím a strategii. Posuzuje systém, ne lidi.",
+    "src": "6481e665",
     "status": "draft"
   },
   "made-assess.term": {
@@ -984,9 +984,9 @@
     "status": "draft"
   },
   "mandate.definition": {
-    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle. Org Topologies recognizes two essential mandates: the Scope of Skills Mandate (the horizontal axis of the map) and the Scope of Work Mandate (the vertical axis).",
-    "text": "Balík pravomoci a odpovědnosti rozhodovat, zkoumat, jednat a dosahovat výsledků v definovaném rozsahu. Mandáty určují maximální složitost, kterou jednotka zvládne. Org Topologies rozlišuje dva základní mandáty: Scope of Skills Mandate (vodorovná osa mapy) a Scope of Work Mandate (svislá osa).",
-    "src": "a3712989",
+    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle; the map shows two of them, the skills mandate and the work mandate.",
+    "text": "Balík pravomoci a odpovědnosti rozhodovat, zkoumat, jednat a dosahovat výsledků v definovaném rozsahu. Mandáty určují maximální složitost, kterou jednotka zvládne; mapa ukazuje dva z nich, mandát dovedností a mandát práce.",
+    "src": "d0790f1b",
     "status": "draft"
   },
   "mandate.term": {
@@ -1056,9 +1056,9 @@
     "status": "draft"
   },
   "org-design-system.definition": {
-    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopt only its events and leave structure, people and rewards untouched, and it fails for lack of systemic alignment, not for lack of merit.",
-    "text": "Soudržná sada prvků designu organizace, které se navzájem posilují směrem k cíli. Scrum je jedním z nich: převezmete jen jeho události a strukturu, lidi i odměňování necháte být, a selže, ne pro nedostatek kvalit, ale pro chybějící systémové sladění.",
-    "src": "e436dc82",
+    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopting only its events while structure, people and rewards stay as they were makes it fail for lack of alignment, not lack of merit.",
+    "text": "Soudržná sada prvků designu organizace, které se navzájem posilují směrem k cíli. Scrum je jedním z nich: převezmete-li jen jeho události, zatímco struktura, lidé a odměny zůstanou, jak byly, selže pro chybějící sladění, ne pro nedostatek kvalit.",
+    "src": "dc7973cc",
     "status": "draft"
   },
   "org-design-system.term": {
@@ -1260,9 +1260,9 @@
     "status": "draft"
   },
   "principle-5-change-through-a-learning-loop.definition": {
-    "en": "Change as a continuous evolution of fitness using MADE.",
-    "text": "Změna jako průběžný vývoj způsobilosti pomocí MADE.",
-    "src": "1e8ae545",
+    "en": "Turn organizational change into a continuous evolution of fitness, run as a learning loop with MADE.",
+    "text": "Organizační změna jako průběžný vývoj způsobilosti, vedená jako smyčka učení s MADE.",
+    "src": "252d1d43",
     "status": "draft"
   },
   "principle-5-change-through-a-learning-loop.term": {
@@ -1332,9 +1332,9 @@
     "status": "draft"
   },
   "product-developer.definition": {
-    "en": "A broader role name that replaces rigid titles such as Junior Java Developer in an Adaptive Topology, with clear progression levels.",
-    "text": "Širší název role, který v Adaptive Topology nahrazuje strnulé tituly jako Junior Java Developer, s jasnými úrovněmi postupu.",
-    "src": "7e14dad9",
+    "en": "A broad role name with clear progression levels. In an Adaptive Topology it replaces rigid titles such as Junior Java Developer.",
+    "text": "Široký název role s jasnými úrovněmi postupu. V Adaptive Topology nahrazuje strnulé tituly jako Junior Java Developer.",
+    "src": "4ab7235f",
     "status": "draft"
   },
   "product-developer.term": {

@@ -1,8 +1,8 @@
 {
   "aiden.goDeeper.body": {
-    "en": "Aiden, the 10X ORG expert GPT, knows the [Katalog](term:katalog) and the book. Describe the constraint you face and ask which kata to start with, then design it as a safe-to-try experiment. Try: *“It is unclear to me yet what an elevating kata looks like in practice. Give me examples.”* or *“How do I reduce dependencies and increase adaptability in my org?”*",
-    "text": "Aiden, der GPT-Experte für 10X ORG, kennt den [Katalog](term:katalog) und das Buch. Beschreiben Sie die Einschränkung, vor der Sie stehen, fragen Sie, mit welcher Kata Sie beginnen sollten, und gestalten Sie sie dann als Experiment, das sich gefahrlos ausprobieren lässt. Probieren Sie: *„Mir ist noch unklar, wie eine Elevating Kata in der Praxis aussieht. Gib mir Beispiele.“* oder *„Wie reduziere ich Abhängigkeiten und erhöhe die Anpassungsfähigkeit in meiner Organisation?“*",
-    "src": "4218f082",
+    "en": "Aiden, the 10X ORG expert GPT, knows the [Katalog](term:katalog) and the book. Describe your constraint, ask which kata to start with, and shape it into a safe-to-try experiment. Try: *“It is unclear to me yet what an elevating kata looks like in practice. Give me examples.”* or *“How do I reduce dependencies and increase adaptability in my org?”*",
+    "text": "Aiden, der GPT-Experte für 10X ORG, kennt den [Katalog](term:katalog) und das Buch. Beschreiben Sie Ihre Einschränkung, fragen Sie, mit welcher Kata Sie beginnen sollten, und gestalten Sie sie als Experiment, das sich gefahrlos ausprobieren lässt. Probieren Sie: *„Mir ist noch unklar, wie eine Elevating Kata in der Praxis aussieht. Gib mir Beispiele.“* oder *„Wie reduziere ich Abhängigkeiten und erhöhe die Anpassungsfähigkeit in meiner Organisation?“*",
+    "src": "949e2493",
     "status": "draft"
   },
   "aiden.goDeeper.cta.label": {
@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "elevation.items.0.text": {
-    "en": "The katas are not meant to be applied top-to-bottom. They form a menu of deliberate moves. The right starting point depends on where an organization’s constraints sit on the map.",
-    "text": "Die Katas sind nicht dafür gedacht, von oben nach unten angewendet zu werden. Sie bilden ein Menü bewusster Bewegungen. Der richtige Startpunkt hängt davon ab, wo die Einschränkungen einer Organisation auf der Karte liegen.",
-    "src": "27f726e6",
+    "en": "The katas are a menu of moves, not a sequence. Where you start depends on where your constraints sit on the map.",
+    "text": "Die Katas sind ein Menü möglicher Schritte, keine Reihenfolge. Wo Sie beginnen, hängt davon ab, wo Ihre Einschränkungen auf der Karte liegen.",
+    "src": "825040dd",
     "status": "draft"
   },
   "elevation.items.0.title": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "elevation.items.1.text": {
-    "en": "Organizations typically begin with a few katas that match their most pressing design challenges, then expand or shift their use as learning accumulates.",
-    "text": "Organisationen beginnen meist mit wenigen Katas, die zu ihren drängendsten Design-Herausforderungen passen, und weiten oder verlagern deren Einsatz, wenn das Gelernte wächst.",
-    "src": "2f2d889e",
+    "en": "Begin with a few katas that match your most pressing problems. Add or change katas as you learn.",
+    "text": "Beginnen Sie mit wenigen Katas, die zu Ihren drängendsten Problemen passen. Ergänzen oder wechseln Sie Katas, während Sie lernen.",
+    "src": "0d7eb684",
     "status": "draft"
   },
   "elevation.items.1.title": {
@@ -132,9 +132,9 @@
     "status": "draft"
   },
   "elevation.lead": {
-    "en": "Elevating is a deliberate move right and up on the [Org Topologies map](term:org-topologies-map): broader skills and broader work mandates, from delivering outputs to delivering outcomes.",
-    "text": "Elevating ist eine bewusste Bewegung nach rechts und oben auf der [Org-Topologies-Karte](term:org-topologies-map): breitere Fähigkeiten und breitere Arbeitsmandate, vom Liefern von Outputs zum Liefern von Outcomes.",
-    "src": "2b3c61b1",
+    "en": "Elevating means moving right and up on the [Org Topologies map](term:org-topologies-map): from narrow, specialized teams in the bottom left to versatile teams of teams in the top right. Skills and work mandates grow broader, and teams shift from delivering outputs to delivering outcomes.",
+    "text": "Elevating heißt, sich auf der [Org-Topologies-Karte](term:org-topologies-map) nach rechts und oben zu bewegen: von schmalen, spezialisierten Teams unten links zu vielseitigen Teams of Teams oben rechts. Fähigkeits- und Arbeitsmandate werden breiter, und Teams liefern statt Outputs zunehmend Outcomes.",
+    "src": "dd093630",
     "status": "draft"
   },
   "in-cases._nav": {
@@ -156,9 +156,9 @@
     "status": "draft"
   },
   "in-cases.lead": {
-    "en": "Every published case study, read for the katas it describes. A filled dot means the organization applied the kata; a ring means it was proposed or planned. Hover a dot to see how it showed up, or click a code to read the kata.",
-    "text": "Jede veröffentlichte Fallstudie, gelesen auf die Katas hin, die sie beschreibt. Ein gefüllter Punkt heißt: Die Organisation hat die Kata angewendet; ein Ring heißt: Sie wurde vorgeschlagen oder geplant. Fahren Sie über einen Punkt, um zu sehen, wie sie sich zeigte, oder klicken Sie auf einen Code, um die Kata zu lesen.",
-    "src": "5eedceae",
+    "en": "Every published case study, read for the katas it describes. A filled dot means the organization applied the kata; a ring means it was proposed or planned. Hover a dot to see how, or click a code to read the kata.",
+    "text": "Jede veröffentlichte Fallstudie, gelesen auf die Katas hin, die sie beschreibt. Ein gefüllter Punkt heißt: Die Organisation hat die Kata angewendet; ein Ring heißt: Sie wurde vorgeschlagen oder geplant. Fahren Sie über einen Punkt, um zu sehen, wie, oder klicken Sie auf einen Code, um die Kata zu lesen.",
+    "src": "f7de5828",
     "status": "draft"
   },
   "katalog._nav": {
@@ -174,21 +174,21 @@
     "status": "draft"
   },
   "katalog.explanation.paragraphs.0": {
-    "en": "Jay Galbraith’s Star Model™ teaches that an organization is not just its org chart or the sum of its policies, but **a system of interconnected design choices** that must be made deliberately and kept in sync.",
-    "text": "Jay Galbraiths Star Model™ lehrt, dass eine Organisation nicht nur ihr Organigramm oder die Summe ihrer Regeln ist, sondern **ein System miteinander verbundener Gestaltungsentscheidungen**, die bewusst getroffen und aufeinander abgestimmt werden müssen.",
-    "src": "4d9c4bf1",
+    "en": "Jay Galbraith’s Star Model™ shows that an organization is more than its org chart or its policies. It is **a system of interconnected design choices** that must be made deliberately and kept in sync.",
+    "text": "Jay Galbraiths Star Model™ zeigt, dass eine Organisation mehr ist als ihr Organigramm oder ihre Regeln. Sie ist **ein System miteinander verbundener Gestaltungsentscheidungen**, die bewusst getroffen und aufeinander abgestimmt werden müssen.",
+    "src": "b1659fae",
     "status": "draft"
   },
   "katalog.explanation.paragraphs.1": {
-    "en": "Five elements make up the star: the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they are aligned and reinforce one another, performance becomes more reliable and less accidental.",
-    "text": "Fünf Elemente bilden den Stern: die aus der Strategie abgeleiteten **Org-Design-Kriterien**, **Struktur**, **Prozesse**, **Belohnungen** und **Menschen**. Sind sie aufeinander abgestimmt und stärken einander, wird Leistung verlässlicher und weniger zufällig.",
-    "src": "12ff4051",
+    "en": "The five elements are the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they reinforce one another, performance becomes reliable instead of accidental.",
+    "text": "Die fünf Elemente sind die aus der Strategie abgeleiteten **Org-Design-Kriterien**, **Struktur**, **Prozesse**, **Belohnungen** und **Menschen**. Wenn sie einander stärken, wird Leistung verlässlich statt zufällig.",
+    "src": "2f7649ee",
     "status": "draft"
   },
   "katalog.explanation.paragraphs.2": {
-    "en": "Change only one and the others pull back. A company that adopts Scrum as a process add-on, while hiring, rewards and structure stay as they were, gets the predictable result: “Agile is dead.” The katas work on all five elements, so change becomes systemic.",
-    "text": "Ändern Sie nur eines, ziehen die anderen zurück. Ein Unternehmen, das Scrum als Prozess-Add-on einführt, während Einstellung, Belohnung und Struktur bleiben, wie sie waren, erlebt das absehbare Ergebnis: „Agile ist tot.“ Die Katas wirken auf alle fünf Elemente, damit die Veränderung systemisch wird.",
-    "src": "93a9b7c2",
+    "en": "Change only one, and the others pull it back. A company that adds Scrum as a process while hiring, rewards and structure stay the same gets a predictable result: “Agile is dead.” The katas work on all five elements, so the change holds.",
+    "text": "Ändern Sie nur eines, ziehen die anderen es zurück. Ein Unternehmen, das Scrum als Prozess einführt, während Einstellung, Belohnung und Struktur gleich bleiben, erlebt ein absehbares Ergebnis: „Agile ist tot.“ Die Katas wirken auf alle fünf Elemente, damit die Veränderung hält.",
+    "src": "e2f9ca05",
     "status": "draft"
   },
   "katalog.explanation.quote.source": {
@@ -228,9 +228,9 @@
     "status": "draft"
   },
   "katalog.lead": {
-    "en": "[Katalog](term:katalog) groups the katas by the five elements of org design in Jay Galbraith’s Star Model™. Change one element and the others must follow. Every kata links to its description and to the case studies that apply it.",
-    "text": "Der [Katalog](term:katalog) gruppiert die Katas nach den fünf Elementen des Org-Designs in Jay Galbraiths Star Model™. Ändern Sie ein Element, müssen die anderen folgen. Jede Kata verweist auf ihre Beschreibung und auf die Fallstudien, die sie anwenden.",
-    "src": "8c09180c",
+    "en": "The [Katalog](term:katalog) groups the katas by the five elements of Jay Galbraith’s Star Model™. Each kata links to its description and to the case studies that apply it.",
+    "text": "Der [Katalog](term:katalog) gruppiert die Katas nach den fünf Elementen von Jay Galbraiths Star Model™. Jede Kata verweist auf ihre Beschreibung und auf die Fallstudien, die sie anwenden.",
+    "src": "dd4a4821",
     "status": "draft"
   },
   "katalog.source": {
@@ -264,9 +264,9 @@
     "status": "draft"
   },
   "systemic.items.0.lines.0": {
-    "en": "A kata never tweaks one element in isolation: it touches governance, roles, events, practices and artifacts together, as the [Star Model](term:star-model) asks.",
-    "text": "Eine Kata stellt nie ein einzelnes Element isoliert um: Sie berührt Governance, Rollen, Events, Praktiken und Artefakte zugleich, wie es das [Star Model](term:star-model) verlangt.",
-    "src": "1a75fa40",
+    "en": "A kata never changes one thing in isolation. It touches governance, roles, events, practices and artifacts together, as the [Star Model](term:star-model) asks.",
+    "text": "Eine Kata verändert nie nur eine Sache isoliert. Sie berührt Governance, Rollen, Events, Praktiken und Artefakte zugleich, wie es das [Star Model](term:star-model) verlangt.",
+    "src": "d08f0704",
     "status": "draft"
   },
   "systemic.items.1.label": {
@@ -276,9 +276,9 @@
     "status": "draft"
   },
   "systemic.items.1.lines.0": {
-    "en": "Routines such as multi-team Product Backlog Refinement or vertical slicing bring the strategic goal into the daily work, so structure and process follow strategy.",
-    "text": "Routinen wie teamübergreifendes Product Backlog Refinement oder vertikales Slicing bringen das strategische Ziel in die tägliche Arbeit, sodass Struktur und Prozesse der Strategie folgen.",
-    "src": "f99a2c8a",
+    "en": "Routines such as multi-team Product Backlog Refinement or vertical slicing bring the strategic goal into daily work.",
+    "text": "Routinen wie teamübergreifendes Product Backlog Refinement oder vertikales Slicing bringen das strategische Ziel in die tägliche Arbeit.",
+    "src": "c769f4bb",
     "status": "draft"
   },
   "systemic.items.2.label": {
@@ -288,9 +288,9 @@
     "status": "draft"
   },
   "systemic.items.2.lines.0": {
-    "en": "Katas like *Elevate Product Ownership* stretch roles beyond their old definitions; repeated practice grows the skills the new design needs.",
-    "text": "Katas wie *Elevate Product Ownership* dehnen Rollen über ihre alten Definitionen hinaus; wiederholte Praxis baut die Fähigkeiten auf, die das neue Design braucht.",
-    "src": "b4d56a5a",
+    "en": "Katas like *Re-Centering Product Ownership on Strategy and Outcomes* stretch roles beyond their old definitions. Practice builds the skills the new design needs.",
+    "text": "Katas wie *Product Ownership auf Strategie und Outcomes ausrichten* dehnen Rollen über ihre alten Definitionen hinaus. Übung baut die Fähigkeiten auf, die das neue Design braucht.",
+    "src": "9107b36f",
     "status": "draft"
   },
   "systemic.items.3.label": {
@@ -300,9 +300,9 @@
     "status": "draft"
   },
   "systemic.items.3.lines.0": {
-    "en": "Culture programs fail on abstract values. Katas change the working pattern itself, and the desired behavior (collaboration, customer focus, learning) comes with it.",
-    "text": "Kulturprogramme scheitern an abstrakten Werten. Katas verändern das Arbeitsmuster selbst, und das gewünschte Verhalten (Zusammenarbeit, Kundenfokus, Lernen) kommt mit.",
-    "src": "590a25ce",
+    "en": "Culture programs fail on abstract values. Katas change how people work, and the behavior you want (collaboration, customer focus, learning) comes with it.",
+    "text": "Kulturprogramme scheitern an abstrakten Werten. Katas verändern, wie Menschen arbeiten, und das gewünschte Verhalten (Zusammenarbeit, Kundenfokus, Lernen) kommt mit.",
+    "src": "eb936fbd",
     "status": "draft"
   },
   "systemic.items.4.label": {
@@ -312,9 +312,9 @@
     "status": "draft"
   },
   "systemic.items.4.lines.0": {
-    "en": "Because a kata repeats, it closes its own feedback loop: faster cycle times, better product fit and more engaged teams reward the new habit.",
-    "text": "Weil sich eine Kata wiederholt, schließt sie ihre eigene Feedbackschleife: kürzere Durchlaufzeiten, bessere Produktpassung und engagiertere Teams belohnen die neue Gewohnheit.",
-    "src": "8b8d4594",
+    "en": "A kata repeats, so it closes its own feedback loop: faster cycle times, better product fit and more engaged teams reward the new habit.",
+    "text": "Eine Kata wiederholt sich und schließt so ihre eigene Feedbackschleife: Kürzere Durchlaufzeiten, bessere Produktpassung und engagiertere Teams belohnen die neue Gewohnheit.",
+    "src": "120462b0",
     "status": "draft"
   },
   "systemic.kicker": {
@@ -324,9 +324,9 @@
     "status": "draft"
   },
   "systemic.lead": {
-    "en": "Leaders don't need another transformation program. Choose a handful of katas and make sure they are practiced faithfully: as the routines become habits, agility and resilience grow, and the culture follows the work.",
-    "text": "Führungskräfte brauchen kein weiteres Transformationsprogramm. Wählen Sie eine Handvoll Katas und sorgen Sie dafür, dass sie konsequent geübt werden: Wenn die Routinen zu Gewohnheiten werden, wachsen Agilität und Resilienz, und die Kultur folgt der Arbeit.",
-    "src": "aa448cf0",
+    "en": "Pick a handful of katas and practice them faithfully. As the routines become habits, agility and resilience grow, and culture follows the work.",
+    "text": "Wählen Sie eine Handvoll Katas und üben Sie sie konsequent. Wenn die Routinen zu Gewohnheiten werden, wachsen Agilität und Resilienz, und die Kultur folgt der Arbeit.",
+    "src": "590da3a6",
     "status": "draft"
   },
   "top.kicker": {
@@ -336,9 +336,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Structured, repeatable improvement routines that turn organizational design intent into lived behavior.",
-    "text": "Strukturierte, wiederholbare Verbesserungsroutinen, die Org-Design-Absichten in gelebtes Verhalten übersetzen.",
-    "src": "5008a904",
+    "en": "Small, repeatable routines that turn org design intent into everyday behavior.",
+    "text": "Kleine, wiederholbare Routinen, die Org-Design-Absichten in alltägliches Verhalten übersetzen.",
+    "src": "b5b3e215",
     "status": "draft"
   },
   "top.title": {
@@ -366,21 +366,21 @@
     "status": "draft"
   },
   "what.paragraphs.0": {
-    "en": "The term **kata** comes from martial arts, where it describes a practiced sequence used to build skill and judgment through repetition. In management it was popularized through Toyota: a studied, repeatable pattern for disciplined improvement.",
-    "text": "Der Begriff **Kata** stammt aus den Kampfkünsten, wo er eine geübte Abfolge beschreibt, mit der man durch Wiederholung Können und Urteilsvermögen aufbaut. Im Management wurde er durch Toyota bekannt: ein erprobtes, wiederholbares Muster für diszipliniertes Verbessern.",
-    "src": "e9070d50",
+    "en": "The term **kata** comes from martial arts: a sequence practiced again and again to build skill and judgment. Toyota brought it into management as a routine for disciplined improvement. Elevating Katas do the same for an organization. They change it step by step, without big reorganizations.",
+    "text": "Der Begriff **Kata** stammt aus den Kampfkünsten: eine Abfolge, die man immer wieder übt, um Können und Urteilsvermögen aufzubauen. Toyota brachte ihn als Routine für diszipliniertes Verbessern ins Management. Elevating Katas tun dasselbe für eine Organisation. Sie verändern sie Schritt für Schritt, ohne große Reorganisationen.",
+    "src": "55571890",
     "status": "draft"
   },
   "what.paragraphs.1": {
-    "en": "The [10X Org](term:10x-org) principles set direction. The katas make that direction actionable. They are applied in the **Elevate** step of the [MADE](term:made) method, where insights from mapping, assessment and design turn into concrete change.",
-    "text": "Die Prinzipien von [10X Org](term:10x-org) geben die Richtung vor. Die Katas machen diese Richtung umsetzbar. Sie kommen im Schritt **Elevate** der [MADE](term:made)-Methode zum Einsatz, wo Erkenntnisse aus Mapping, Assessment und Design zu konkreter Veränderung werden.",
-    "src": "bbc5f4c7",
+    "en": "The [10X Org](term:10x-org) principles set the direction. The katas turn that direction into action. You apply them in the **Elevate** step of the [MADE](term:made) method, after you have mapped, assessed and designed.",
+    "text": "Die Prinzipien von [10X Org](term:10x-org) geben die Richtung vor. Die Katas setzen diese Richtung in Handeln um. Sie wenden sie im Schritt **Elevate** der [MADE](term:made)-Methode an, nach Mapping, Assessment und Design.",
+    "src": "3345beef",
     "status": "draft"
   },
   "what.paragraphs.2": {
-    "en": "Each kata targets a concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance, and tests whether expanding [mandates](term:mandate) or reducing friction moves the system closer to the intended elevated state.",
-    "text": "Jede Kata zielt auf eine konkrete Einschränkung, etwa Teamgrenzen, Entscheidungsrechte, Schnittstellen, Regeln oder Governance, und prüft, ob erweiterte [Mandate](term:mandate) oder weniger Reibung das System dem angestrebten aufgewerteten Zustand näherbringen.",
-    "src": "38f07d8d",
+    "en": "Katas don’t prescribe best practices. Each kata targets one concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance. It then tests whether broader [mandates](term:mandate) or less friction move the organization closer to the target state. You learn from real work, and capability grows with each round.",
+    "text": "Katas schreiben keine Best Practices vor. Jede Kata zielt auf eine konkrete Einschränkung, etwa Teamgrenzen, Entscheidungsrechte, Schnittstellen, Regeln oder Governance. Dann prüft sie, ob breitere [Mandate](term:mandate) oder weniger Reibung die Organisation dem Zielzustand näherbringen. Sie lernen aus echter Arbeit, und mit jeder Runde wächst die Fähigkeit.",
+    "src": "c7204c48",
     "status": "draft"
   }
 }

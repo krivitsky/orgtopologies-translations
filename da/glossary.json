@@ -300,9 +300,9 @@
     "status": "draft"
   },
   "component-development.definition": {
-    "en": "Organizing teams around architectural components so each delivers only its part of a feature; this structure makes development sequential, a structural outcome rather than a mindset problem.",
-    "text": "At organisere teams omkring arkitektoniske komponenter, så hvert team kun leverer sin del af en feature; denne struktur gør udviklingen sekventiel, et strukturelt udfald og ikke et mindsetproblem.",
-    "src": "223ece43",
+    "en": "Organizing teams around architectural components, so each team delivers only its part of a customer feature. A single feature then needs many teams and many iterations to finish.",
+    "text": "At organisere teams omkring arkitektoniske komponenter, så hvert team kun leverer sin del af en kundefeature. En enkelt feature kræver så mange teams og mange iterationer for at blive færdig.",
+    "src": "41e27e66",
     "status": "draft"
   },
   "component-development.term": {
@@ -468,9 +468,9 @@
     "status": "draft"
   },
   "driving-intelligence.definition": {
-    "en": "Upper-right quadrant: complete units owning outcomes and shaping what is built next, blending dreaming, thinking and doing; the Adaptive Topology.",
-    "text": "Øverste højre kvadrant: fuldstændige enheder, der ejer outcomes og former, hvad der bygges næste gang, og blander at drømme, tænke og gøre; Adaptive Topology.",
-    "src": "995ee6a9",
+    "en": "Upper-right quadrant: complete units that own outcomes and shape what is built next, blending dreaming, thinking and doing. Units here form the Adaptive Topology.",
+    "text": "Øverste højre kvadrant: fuldstændige enheder, der ejer outcomes og former, hvad der bygges næste gang, og blander at drømme, tænke og gøre. Enheder her udgør Adaptive Topology.",
+    "src": "5fa1ea61",
     "status": "draft"
   },
   "driving-intelligence.term": {
@@ -516,9 +516,9 @@
     "status": "draft"
   },
   "elevating-kata.definition": {
-    "en": "A structured, repeatable improvement routine that turns org design intent into lived behavior, applied mainly in the Elevate step.",
-    "text": "En struktureret, gentagelig forbedringsrutine, der omsætter intentionen bag organisationsdesignet til levet adfærd, anvendt primært i Elevate-trinnet.",
-    "src": "453dbecf",
+    "en": "A safe, repeatable routine that reshapes structure, mandates, roles, processes or incentives while learning from real work. Each kata targets one organizational constraint and is applied mainly in the Elevate step.",
+    "text": "En sikker, gentagelig rutine, der omformer struktur, mandater, roller, processer eller incitamenter og samtidig lærer af rigtigt arbejde. Hver kata tager fat på én organisatorisk begrænsning og bruges primært i Elevate-trinnet.",
+    "src": "8f0d8a3d",
     "status": "draft"
   },
   "elevating-kata.term": {
@@ -600,9 +600,9 @@
     "status": "draft"
   },
   "first-design-then-ai.definition": {
-    "en": "The line that sums Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
-    "text": "Sætningen, der opsummerer princip 9: læg først AI til side, forstå strukturen, og brug derefter AI som løftestang.",
-    "src": "46dd096c",
+    "en": "The short rule behind Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
+    "text": "Den korte regel bag princip 9: læg først AI til side, forstå strukturen, og brug derefter AI som løftestang.",
+    "src": "f8d10e16",
     "status": "draft"
   },
   "first-design-then-ai.term": {
@@ -816,9 +816,9 @@
     "status": "draft"
   },
   "kata-naming-convention.definition": {
-    "en": "Each kata name starts with \"Elevate by\" followed by a gerund phrase, e.g. Elevate by Expanding the Product Definition.",
-    "text": "Hvert katanavn begynder med »Elevate by« efterfulgt af en gerundiumfrase, f.eks. Elevate by Expanding the Product Definition.",
-    "src": "185804fa",
+    "en": "A kata name is a gerund phrase, such as Expanding the Product Definition. The book lists the names under \"Elevate by…\" and cites them in full, such as Elevate by Expanding the Product Definition.",
+    "text": "Et katanavn er en gerundiumfrase, f.eks. Expanding the Product Definition. Bogen opstiller navnene under »Elevate by…« og citerer dem fuldt ud, f.eks. Elevate by Expanding the Product Definition.",
+    "src": "7fe553e7",
     "status": "draft"
   },
   "kata-naming-convention.term": {
@@ -900,9 +900,9 @@
     "status": "draft"
   },
   "made-assess.definition": {
-    "en": "Second step: judge, not people but the system, whether the current org design fits the business ambitions and strategy.",
-    "text": "Andet trin: vurdér, ikke mennesker men systemet, om det nuværende organisationsdesign passer til forretningens ambitioner og strategi.",
-    "src": "098a6fe0",
+    "en": "Second MADE step: judge whether the current org design fits the business ambitions and strategy. It assesses the system, not people.",
+    "text": "Andet trin i MADE: vurdér, om det nuværende organisationsdesign passer til forretningens ambitioner og strategi. Det vurderer systemet, ikke mennesker.",
+    "src": "6481e665",
     "status": "draft"
   },
   "made-assess.term": {
@@ -984,9 +984,9 @@
     "status": "draft"
   },
   "mandate.definition": {
-    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle. Org Topologies recognizes two essential mandates: the Scope of Skills Mandate (the horizontal axis of the map) and the Scope of Work Mandate (the vertical axis).",
-    "text": "En samling af autoritet og ansvar til at beslutte, udforske, handle og levere resultater inden for et defineret omfang. Mandater sætter den maksimale kompleksitet, en enhed kan håndtere. Org Topologies kender to væsentlige mandater: kompetencemandatets omfang (kortets vandrette akse) og arbejdsmandatets omfang (den lodrette akse).",
-    "src": "a3712989",
+    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle; the map shows two of them, the skills mandate and the work mandate.",
+    "text": "En samling af autoritet og ansvar til at beslutte, udforske, handle og levere resultater inden for et defineret omfang. Mandater sætter den maksimale kompleksitet, en enhed kan håndtere; kortet viser to af dem, kompetencemandatet og arbejdsmandatet.",
+    "src": "d0790f1b",
     "status": "draft"
   },
   "mandate.term": {
@@ -1056,9 +1056,9 @@
     "status": "draft"
   },
   "org-design-system.definition": {
-    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopt only its events and leave structure, people and rewards untouched, and it fails for lack of systemic alignment, not for lack of merit.",
-    "text": "Et sammenhængende sæt af designelementer i organisationen, der forstærker hinanden mod et mål. Scrum er et: tager man kun dets events i brug og lader struktur, mennesker og belønninger være uændrede, fejler det på grund af manglende systemisk alignment, ikke manglende kvalitet.",
-    "src": "e436dc82",
+    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopting only its events while structure, people and rewards stay as they were makes it fail for lack of alignment, not lack of merit.",
+    "text": "Et sammenhængende sæt af designelementer i organisationen, der forstærker hinanden mod et mål. Scrum er et: tager man kun dets events i brug, mens struktur, mennesker og belønninger forbliver, som de var, fejler det på grund af manglende alignment, ikke manglende kvalitet.",
+    "src": "dc7973cc",
     "status": "draft"
   },
   "org-design-system.term": {
@@ -1260,9 +1260,9 @@
     "status": "draft"
   },
   "principle-5-change-through-a-learning-loop.definition": {
-    "en": "Change as a continuous evolution of fitness using MADE.",
-    "text": "Forandring som en kontinuerlig udvikling af fitness med MADE.",
-    "src": "1e8ae545",
+    "en": "Turn organizational change into a continuous evolution of fitness, run as a learning loop with MADE.",
+    "text": "Gør organisatorisk forandring til en kontinuerlig udvikling af fitness, drevet som en læringsløkke med MADE.",
+    "src": "252d1d43",
     "status": "draft"
   },
   "principle-5-change-through-a-learning-loop.term": {
@@ -1332,9 +1332,9 @@
     "status": "draft"
   },
   "product-developer.definition": {
-    "en": "A broader role name that replaces rigid titles such as Junior Java Developer in an Adaptive Topology, with clear progression levels.",
-    "text": "Et bredere rollenavn, der erstatter stive titler som Junior Java Developer i en Adaptive Topology, med tydelige udviklingsniveauer.",
-    "src": "7e14dad9",
+    "en": "A broad role name with clear progression levels. In an Adaptive Topology it replaces rigid titles such as Junior Java Developer.",
+    "text": "Et bredt rollenavn med tydelige udviklingsniveauer. I en Adaptive Topology erstatter det stive titler som Junior Java Developer.",
+    "src": "4ab7235f",
     "status": "draft"
   },
   "product-developer.term": {

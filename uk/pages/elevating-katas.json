@@ -1,8 +1,8 @@
 {
   "aiden.goDeeper.body": {
-    "en": "Aiden, the 10X ORG expert GPT, knows the [Katalog](term:katalog) and the book. Describe the constraint you face and ask which kata to start with, then design it as a safe-to-try experiment. Try: *“It is unclear to me yet what an elevating kata looks like in practice. Give me examples.”* or *“How do I reduce dependencies and increase adaptability in my org?”*",
-    "text": "Aiden, GPT-експерт з 10X ORG, знає [каталог ката](term:katalog) і книгу. Опишіть обмеження, з яким стикаєтеся, спитайте, з якої ката почати, а тоді спроєктуйте її як безпечний для спроби експеримент. Спробуйте: *«Мені поки незрозуміло, як Elevating Kata виглядає на практиці. Наведи приклади.»* або *«Як зменшити залежності й підвищити адаптивність у моїй організації?»*",
-    "src": "4218f082",
+    "en": "Aiden, the 10X ORG expert GPT, knows the [Katalog](term:katalog) and the book. Describe your constraint, ask which kata to start with, and shape it into a safe-to-try experiment. Try: *“It is unclear to me yet what an elevating kata looks like in practice. Give me examples.”* or *“How do I reduce dependencies and increase adaptability in my org?”*",
+    "text": "Aiden, GPT-експерт з 10X ORG, знає [каталог ката](term:katalog) і книгу. Опишіть своє обмеження, спитайте, з якої ката почати, і перетворіть її на безпечний для спроби експеримент. Спробуйте: *«Мені поки незрозуміло, як Elevating Kata виглядає на практиці. Наведи приклади.»* або *«Як зменшити залежності й підвищити адаптивність у моїй організації?»*",
+    "src": "949e2493",
     "status": "draft"
   },
   "aiden.goDeeper.cta.label": {
@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "elevation.items.0.text": {
-    "en": "The katas are not meant to be applied top-to-bottom. They form a menu of deliberate moves. The right starting point depends on where an organization’s constraints sit on the map.",
-    "text": "Ката не призначені для застосування зверху вниз. Вони утворюють меню свідомих кроків. Правильна відправна точка залежить від того, де на мапі лежать обмеження організації.",
-    "src": "27f726e6",
+    "en": "The katas are a menu of moves, not a sequence. Where you start depends on where your constraints sit on the map.",
+    "text": "Ката утворюють меню ходів, а не послідовність. Звідки почати, залежить від того, де на мапі лежать ваші обмеження.",
+    "src": "825040dd",
     "status": "draft"
   },
   "elevation.items.0.title": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "elevation.items.1.text": {
-    "en": "Organizations typically begin with a few katas that match their most pressing design challenges, then expand or shift their use as learning accumulates.",
-    "text": "Організації зазвичай починають із кількох ката, що відповідають їхнім найгострішим викликам дизайну, а далі розширюють або змінюють їх добір у міру накопичення досвіду.",
-    "src": "2f2d889e",
+    "en": "Begin with a few katas that match your most pressing problems. Add or change katas as you learn.",
+    "text": "Почніть із кількох ката, що відповідають вашим найгострішим проблемам. Додавайте або змінюйте ката в міру навчання.",
+    "src": "0d7eb684",
     "status": "draft"
   },
   "elevation.items.1.title": {
@@ -132,9 +132,9 @@
     "status": "draft"
   },
   "elevation.lead": {
-    "en": "Elevating is a deliberate move right and up on the [Org Topologies map](term:org-topologies-map): broader skills and broader work mandates, from delivering outputs to delivering outcomes.",
-    "text": "Elevate — це свідомий рух праворуч і вгору на [мапі Org Topologies](term:org-topologies-map): ширші навички та ширші мандати на роботу, від випуску до ефектів.",
-    "src": "2b3c61b1",
+    "en": "Elevating means moving right and up on the [Org Topologies map](term:org-topologies-map): from narrow, specialized teams in the bottom left to versatile teams of teams in the top right. Skills and work mandates grow broader, and teams shift from delivering outputs to delivering outcomes.",
+    "text": "Elevate означає рух праворуч і вгору на [мапі Org Topologies](term:org-topologies-map): від вузьких спеціалізованих команд унизу ліворуч до універсальних команд команд угорі праворуч. Мандати на навички й на роботу ширшають, а команди переходять від випуску до ефектів.",
+    "src": "dd093630",
     "status": "draft"
   },
   "in-cases._nav": {
@@ -156,9 +156,9 @@
     "status": "draft"
   },
   "in-cases.lead": {
-    "en": "Every published case study, read for the katas it describes. A filled dot means the organization applied the kata; a ring means it was proposed or planned. Hover a dot to see how it showed up, or click a code to read the kata.",
-    "text": "Кожен опублікований кейс, прочитаний на предмет ката, які в ньому описано. Заповнена крапка означає, що організація застосувала ката; кільце — що її запропоновано чи заплановано. Наведіть на крапку, щоб побачити, як це виявилося, або клацніть код, щоб прочитати ката.",
-    "src": "5eedceae",
+    "en": "Every published case study, read for the katas it describes. A filled dot means the organization applied the kata; a ring means it was proposed or planned. Hover a dot to see how, or click a code to read the kata.",
+    "text": "Кожен опублікований кейс, прочитаний на предмет ката, які в ньому описано. Заповнена крапка означає, що організація застосувала ката; кільце означає, що її запропоновано чи заплановано. Наведіть на крапку, щоб побачити як, або клацніть код, щоб прочитати ката.",
+    "src": "f7de5828",
     "status": "draft"
   },
   "katalog._nav": {
@@ -174,21 +174,21 @@
     "status": "draft"
   },
   "katalog.explanation.paragraphs.0": {
-    "en": "Jay Galbraith’s Star Model™ teaches that an organization is not just its org chart or the sum of its policies, but **a system of interconnected design choices** that must be made deliberately and kept in sync.",
-    "text": "Star Model™ Джея Гелбрейта вчить, що організація — це не лише оргструктура чи сума політик, а **система взаємопов'язаних дизайнерських виборів**, які слід робити свідомо й тримати узгодженими.",
-    "src": "4d9c4bf1",
+    "en": "Jay Galbraith’s Star Model™ shows that an organization is more than its org chart or its policies. It is **a system of interconnected design choices** that must be made deliberately and kept in sync.",
+    "text": "Star Model™ Джея Гелбрейта показує, що організація більша за свою оргструктуру чи політики. Це **система взаємопов'язаних дизайнерських виборів**, які слід робити свідомо й тримати узгодженими.",
+    "src": "b1659fae",
     "status": "draft"
   },
   "katalog.explanation.paragraphs.1": {
-    "en": "Five elements make up the star: the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they are aligned and reinforce one another, performance becomes more reliable and less accidental.",
-    "text": "Зірка складається з п'яти елементів: **критеріїв оргдизайну**, виведених зі стратегії, **структури**, **процесів**, **винагород** і **людей**. Коли вони узгоджені й підсилюють один одного, продуктивність стає надійнішою та менш випадковою.",
-    "src": "12ff4051",
+    "en": "The five elements are the **org design criteria** derived from strategy, **structure**, **processes**, **rewards** and **people**. When they reinforce one another, performance becomes reliable instead of accidental.",
+    "text": "П'ять елементів зірки: **критерії оргдизайну**, виведені зі стратегії, **структура**, **процеси**, **винагороди** і **люди**. Коли вони підсилюють один одного, продуктивність стає надійною, а не випадковою.",
+    "src": "2f7649ee",
     "status": "draft"
   },
   "katalog.explanation.paragraphs.2": {
-    "en": "Change only one and the others pull back. A company that adopts Scrum as a process add-on, while hiring, rewards and structure stay as they were, gets the predictable result: “Agile is dead.” The katas work on all five elements, so change becomes systemic.",
-    "text": "Змініть лише один — і решта потягнуть назад. Компанія, що впроваджує Scrum як додатковий процес, а найм, винагороди й структура лишаються як були, отримує передбачуваний результат: «Agile помер». Ката працюють з усіма п'ятьма елементами, тож зміни стають системними.",
-    "src": "93a9b7c2",
+    "en": "Change only one, and the others pull it back. A company that adds Scrum as a process while hiring, rewards and structure stay the same gets a predictable result: “Agile is dead.” The katas work on all five elements, so the change holds.",
+    "text": "Змініть лише один, і решта потягнуть його назад. Компанія, що додає Scrum як процес, а найм, винагороди й структура лишаються як були, отримує передбачуваний результат: «Agile помер». Ката працюють з усіма п'ятьма елементами, тож зміни тримаються.",
+    "src": "e2f9ca05",
     "status": "draft"
   },
   "katalog.explanation.quote.source": {
@@ -228,9 +228,9 @@
     "status": "draft"
   },
   "katalog.lead": {
-    "en": "[Katalog](term:katalog) groups the katas by the five elements of org design in Jay Galbraith’s Star Model™. Change one element and the others must follow. Every kata links to its description and to the case studies that apply it.",
-    "text": "[Каталог ката](term:katalog) групує ката за п'ятьма елементами оргдизайну зі Star Model™ Джея Гелбрейта. Змініть один елемент — і решта мають піти слідом. Кожна ката має посилання на свій опис і на кейси, що її застосовують.",
-    "src": "8c09180c",
+    "en": "The [Katalog](term:katalog) groups the katas by the five elements of Jay Galbraith’s Star Model™. Each kata links to its description and to the case studies that apply it.",
+    "text": "[Каталог ката](term:katalog) групує ката за п'ятьма елементами Star Model™ Джея Гелбрейта. Кожна ката має посилання на свій опис і на кейси, що її застосовують.",
+    "src": "dd4a4821",
     "status": "draft"
   },
   "katalog.source": {
@@ -264,9 +264,9 @@
     "status": "draft"
   },
   "systemic.items.0.lines.0": {
-    "en": "A kata never tweaks one element in isolation: it touches governance, roles, events, practices and artifacts together, as the [Star Model](term:star-model) asks.",
-    "text": "Ката ніколи не підправляє один елемент ізольовано: вона зачіпає управління, ролі, події, практики й артефакти разом, як того вимагає [Star Model](term:star-model).",
-    "src": "1a75fa40",
+    "en": "A kata never changes one thing in isolation. It touches governance, roles, events, practices and artifacts together, as the [Star Model](term:star-model) asks.",
+    "text": "Ката ніколи не змінює щось одне ізольовано. Вона зачіпає управління, ролі, події, практики й артефакти разом, як того вимагає [Star Model](term:star-model).",
+    "src": "d08f0704",
     "status": "draft"
   },
   "systemic.items.1.label": {
@@ -276,9 +276,9 @@
     "status": "draft"
   },
   "systemic.items.1.lines.0": {
-    "en": "Routines such as multi-team Product Backlog Refinement or vertical slicing bring the strategic goal into the daily work, so structure and process follow strategy.",
-    "text": "Рутини на кшталт багатокомандного Product Backlog Refinement чи вертикального нарізання приносять стратегічну ціль у щоденну роботу, тож структура й процеси йдуть за стратегією.",
-    "src": "f99a2c8a",
+    "en": "Routines such as multi-team Product Backlog Refinement or vertical slicing bring the strategic goal into daily work.",
+    "text": "Рутини на кшталт багатокомандного Product Backlog Refinement чи вертикального нарізання приносять стратегічну ціль у щоденну роботу.",
+    "src": "c769f4bb",
     "status": "draft"
   },
   "systemic.items.2.label": {
@@ -288,9 +288,9 @@
     "status": "draft"
   },
   "systemic.items.2.lines.0": {
-    "en": "Katas like *Elevate Product Ownership* stretch roles beyond their old definitions; repeated practice grows the skills the new design needs.",
-    "text": "Ката на кшталт *Elevate Product Ownership* розширюють ролі за межі їхніх старих визначень; повторювана практика розвиває навички, потрібні новому дизайну.",
-    "src": "b4d56a5a",
+    "en": "Katas like *Re-Centering Product Ownership on Strategy and Outcomes* stretch roles beyond their old definitions. Practice builds the skills the new design needs.",
+    "text": "Ката на кшталт *Зміщення власності над продуктом до стратегії та результатів* розширюють ролі за межі їхніх старих визначень. Практика розвиває навички, потрібні новому дизайну.",
+    "src": "9107b36f",
     "status": "draft"
   },
   "systemic.items.3.label": {
@@ -300,9 +300,9 @@
     "status": "draft"
   },
   "systemic.items.3.lines.0": {
-    "en": "Culture programs fail on abstract values. Katas change the working pattern itself, and the desired behavior (collaboration, customer focus, learning) comes with it.",
-    "text": "Програми культури зазнають невдачі на абстрактних цінностях. Ката змінюють сам робочий шаблон, а бажана поведінка (співпраця, фокус на клієнті, навчання) приходить разом із ним.",
-    "src": "590a25ce",
+    "en": "Culture programs fail on abstract values. Katas change how people work, and the behavior you want (collaboration, customer focus, learning) comes with it.",
+    "text": "Програми культури зазнають невдачі на абстрактних цінностях. Ката змінюють те, як люди працюють, а бажана поведінка (співпраця, фокус на клієнті, навчання) приходить разом із цим.",
+    "src": "eb936fbd",
     "status": "draft"
   },
   "systemic.items.4.label": {
@@ -312,9 +312,9 @@
     "status": "draft"
   },
   "systemic.items.4.lines.0": {
-    "en": "Because a kata repeats, it closes its own feedback loop: faster cycle times, better product fit and more engaged teams reward the new habit.",
-    "text": "Оскільки ката повторюється, вона сама замикає свій цикл зворотного зв'язку: коротші цикли, краща відповідність продукту й залучені команди винагороджують нову звичку.",
-    "src": "8b8d4594",
+    "en": "A kata repeats, so it closes its own feedback loop: faster cycle times, better product fit and more engaged teams reward the new habit.",
+    "text": "Ката повторюється, тож сама замикає свій цикл зворотного зв'язку: коротші цикли, краща відповідність продукту й більш залучені команди винагороджують нову звичку.",
+    "src": "120462b0",
     "status": "draft"
   },
   "systemic.kicker": {
@@ -324,9 +324,9 @@
     "status": "draft"
   },
   "systemic.lead": {
-    "en": "Leaders don't need another transformation program. Choose a handful of katas and make sure they are practiced faithfully: as the routines become habits, agility and resilience grow, and the culture follows the work.",
-    "text": "Лідерам не потрібна ще одна програма трансформації. Оберіть кілька ката й простежте, щоб їх практикували сумлінно: коли рутини стають звичками, гнучкість і стійкість зростають, а культура йде за роботою.",
-    "src": "aa448cf0",
+    "en": "Pick a handful of katas and practice them faithfully. As the routines become habits, agility and resilience grow, and culture follows the work.",
+    "text": "Оберіть кілька ката й практикуйте їх сумлінно. Коли рутини стають звичками, гнучкість і стійкість зростають, а культура йде за роботою.",
+    "src": "590da3a6",
     "status": "draft"
   },
   "top.kicker": {
@@ -336,9 +336,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Structured, repeatable improvement routines that turn organizational design intent into lived behavior.",
-    "text": "Структуровані повторювані рутини покращення, що перетворюють намір організаційного дизайну на живу поведінку.",
-    "src": "5008a904",
+    "en": "Small, repeatable routines that turn org design intent into everyday behavior.",
+    "text": "Невеликі повторювані рутини, що перетворюють намір організаційного дизайну на щоденну поведінку.",
+    "src": "b5b3e215",
     "status": "draft"
   },
   "top.title": {
@@ -366,21 +366,21 @@
     "status": "draft"
   },
   "what.paragraphs.0": {
-    "en": "The term **kata** comes from martial arts, where it describes a practiced sequence used to build skill and judgment through repetition. In management it was popularized through Toyota: a studied, repeatable pattern for disciplined improvement.",
-    "text": "Термін **ката** походить із бойових мистецтв, де він означає відпрацьовану послідовність дій для розвитку майстерності й судження через повторення. В управлінні його популяризувала Toyota: вивчений, повторюваний шаблон дисциплінованого покращення.",
-    "src": "e9070d50",
+    "en": "The term **kata** comes from martial arts: a sequence practiced again and again to build skill and judgment. Toyota brought it into management as a routine for disciplined improvement. Elevating Katas do the same for an organization. They change it step by step, without big reorganizations.",
+    "text": "Термін **ката** походить із бойових мистецтв: це послідовність, яку відпрацьовують знову і знову, щоб розвинути майстерність і судження. Toyota перенесла його в управління як рутину дисциплінованого покращення. Elevating Katas роблять те саме для організації. Вони змінюють її крок за кроком, без великих реорганізацій.",
+    "src": "55571890",
     "status": "draft"
   },
   "what.paragraphs.1": {
-    "en": "The [10X Org](term:10x-org) principles set direction. The katas make that direction actionable. They are applied in the **Elevate** step of the [MADE](term:made) method, where insights from mapping, assessment and design turn into concrete change.",
-    "text": "Принципи [10X Org](term:10x-org) задають напрям. Ката роблять цей напрям дієвим. Їх застосовують на кроці **Elevate** методу [MADE](term:made), де висновки з Map, Assess і Design перетворюються на конкретні зміни.",
-    "src": "bbc5f4c7",
+    "en": "The [10X Org](term:10x-org) principles set the direction. The katas turn that direction into action. You apply them in the **Elevate** step of the [MADE](term:made) method, after you have mapped, assessed and designed.",
+    "text": "Принципи [10X Org](term:10x-org) задають напрям. Ката перетворюють цей напрям на дії. Ви застосовуєте їх на кроці **Elevate** методу [MADE](term:made), після кроків Map, Assess і Design.",
+    "src": "3345beef",
     "status": "draft"
   },
   "what.paragraphs.2": {
-    "en": "Each kata targets a concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance, and tests whether expanding [mandates](term:mandate) or reducing friction moves the system closer to the intended elevated state.",
-    "text": "Кожна ката націлена на конкретне обмеження — такі як межі команд, права ухвалення рішень, інтерфейси, політики чи управління — і перевіряє, чи розширення [мандатів](term:mandate) або зменшення тертя наближає систему до бажаного піднесеного стану.",
-    "src": "38f07d8d",
+    "en": "Katas don’t prescribe best practices. Each kata targets one concrete constraint, such as team boundaries, decision rights, interfaces, policies or governance. It then tests whether broader [mandates](term:mandate) or less friction move the organization closer to the target state. You learn from real work, and capability grows with each round.",
+    "text": "Ката не приписують найкращих практик. Кожна ката націлена на одне конкретне обмеження, як-от межі команд, права ухвалення рішень, інтерфейси, політики чи управління. Потім вона перевіряє, чи ширші [мандати](term:mandate) або менше тертя наближають організацію до цільового стану. Ви вчитеся на реальній роботі, і спроможність зростає з кожним колом.",
+    "src": "c7204c48",
     "status": "draft"
   }
 }

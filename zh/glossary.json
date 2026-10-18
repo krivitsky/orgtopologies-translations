@@ -300,9 +300,9 @@
     "status": "draft"
   },
   "component-development.definition": {
-    "en": "Organizing teams around architectural components so each delivers only its part of a feature; this structure makes development sequential, a structural outcome rather than a mindset problem.",
-    "text": "围绕架构组件来组织团队，使每个团队只交付功能的一部分；这种结构让开发变成串行，是结构性的结果，而不是心态问题。",
-    "src": "223ece43",
+    "en": "Organizing teams around architectural components, so each team delivers only its part of a customer feature. A single feature then needs many teams and many iterations to finish.",
+    "text": "围绕架构组件来组织团队，使每个团队只交付某个客户功能中属于自己的那一部分。于是，一个功能需要许多团队、经过许多次迭代才能完成。",
+    "src": "41e27e66",
     "status": "draft"
   },
   "component-development.term": {
@@ -468,9 +468,9 @@
     "status": "draft"
   },
   "driving-intelligence.definition": {
-    "en": "Upper-right quadrant: complete units owning outcomes and shaping what is built next, blending dreaming, thinking and doing; the Adaptive Topology.",
-    "text": "右上象限：对成果负责并决定接下来构建什么的完整单元，融合了设想、思考与行动；即 Adaptive Topology。",
-    "src": "995ee6a9",
+    "en": "Upper-right quadrant: complete units that own outcomes and shape what is built next, blending dreaming, thinking and doing. Units here form the Adaptive Topology.",
+    "text": "右上象限：对成果负责并决定接下来构建什么的完整单元，融合了设想、思考与行动。这里的单元构成 Adaptive Topology。",
+    "src": "5fa1ea61",
     "status": "draft"
   },
   "driving-intelligence.term": {
@@ -516,9 +516,9 @@
     "status": "draft"
   },
   "elevating-kata.definition": {
-    "en": "A structured, repeatable improvement routine that turns org design intent into lived behavior, applied mainly in the Elevate step.",
-    "text": "一种结构化、可重复的改进惯例，把组织设计的意图转化为真实的行为，主要用于 Elevate 步骤。",
-    "src": "453dbecf",
+    "en": "A safe, repeatable routine that reshapes structure, mandates, roles, processes or incentives while learning from real work. Each kata targets one organizational constraint and is applied mainly in the Elevate step.",
+    "text": "一种安全、可重复的例行练习，在从真实工作中学习的同时，重塑结构、权责、角色、流程或激励。每个 kata 针对一个组织约束，主要用于 Elevate 步骤。",
+    "src": "8f0d8a3d",
     "status": "draft"
   },
   "elevating-kata.term": {
@@ -600,9 +600,9 @@
     "status": "draft"
   },
   "first-design-then-ai.definition": {
-    "en": "The line that sums Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
-    "text": "概括原则 9 的一句话：先把 AI 放在一边，弄清楚结构，然后再把 AI 当作杠杆。",
-    "src": "46dd096c",
+    "en": "The short rule behind Principle 9: set AI aside first, understand the structure, then use AI as a lever.",
+    "text": "原则 9 背后的简短规则：先把 AI 放在一边，弄清楚结构，然后再把 AI 当作杠杆。",
+    "src": "f8d10e16",
     "status": "draft"
   },
   "first-design-then-ai.term": {
@@ -816,9 +816,9 @@
     "status": "draft"
   },
   "kata-naming-convention.definition": {
-    "en": "Each kata name starts with \"Elevate by\" followed by a gerund phrase, e.g. Elevate by Expanding the Product Definition.",
-    "text": "每个 kata 的名称都以“Elevate by”开头，后接一个动名词短语，例如 Elevate by Expanding the Product Definition。",
-    "src": "185804fa",
+    "en": "A kata name is a gerund phrase, such as Expanding the Product Definition. The book lists the names under \"Elevate by…\" and cites them in full, such as Elevate by Expanding the Product Definition.",
+    "text": "Kata 的名称是一个动名词短语，例如 Expanding the Product Definition。书中把这些名称列在“Elevate by…”之下，并完整引用，例如 Elevate by Expanding the Product Definition。",
+    "src": "7fe553e7",
     "status": "draft"
   },
   "kata-naming-convention.term": {
@@ -900,9 +900,9 @@
     "status": "draft"
   },
   "made-assess.definition": {
-    "en": "Second step: judge, not people but the system, whether the current org design fits the business ambitions and strategy.",
-    "text": "第二步：评判的不是人，而是系统，即当前的组织设计是否适配业务抱负和战略。",
-    "src": "098a6fe0",
+    "en": "Second MADE step: judge whether the current org design fits the business ambitions and strategy. It assesses the system, not people.",
+    "text": "MADE 的第二步：判断当前的组织设计是否适配业务抱负和战略。它评估的是系统，而不是人。",
+    "src": "6481e665",
     "status": "draft"
   },
   "made-assess.term": {
@@ -984,9 +984,9 @@
     "status": "draft"
   },
   "mandate.definition": {
-    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle. Org Topologies recognizes two essential mandates: the Scope of Skills Mandate (the horizontal axis of the map) and the Scope of Work Mandate (the vertical axis).",
-    "text": "在既定范围内进行决策、探索、行动并交付成果的权力与责任的组合。权责决定了一个单元所能处理的最大复杂度。Org Topologies 识别出两种基本权责：技能权责范围（地图的横轴）和工作权责范围（纵轴）。",
-    "src": "a3712989",
+    "en": "A bundle of authority and responsibility to decide, explore, act and deliver results within a defined scope. Mandates set the maximum complexity a unit can handle; the map shows two of them, the skills mandate and the work mandate.",
+    "text": "在既定范围内进行决策、探索、行动并交付成果的权力与责任的组合。权责决定了一个单元所能处理的最大复杂度；地图展示其中两种：技能权责和工作权责。",
+    "src": "d0790f1b",
     "status": "draft"
   },
   "mandate.term": {
@@ -1056,9 +1056,9 @@
     "status": "draft"
   },
   "org-design-system.definition": {
-    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopt only its events and leave structure, people and rewards untouched, and it fails for lack of systemic alignment, not for lack of merit.",
-    "text": "一组相互强化、指向同一目标的组织设计要素。Scrum 就是一例：只采用它的事件，而不触动结构、人员和奖励，它就会失败，原因是缺少系统性的一致，而不是它本身不好。",
-    "src": "e436dc82",
+    "en": "A cohesive set of org design elements that reinforce one another toward a goal. Scrum is one: adopting only its events while structure, people and rewards stay as they were makes it fail for lack of alignment, not lack of merit.",
+    "text": "一组相互强化、指向同一目标的组织设计要素。Scrum 就是一例：只采用它的事件，而结构、人员和奖励保持原样，它就会因为缺少一致性而失败，而不是因为它本身不好。",
+    "src": "dc7973cc",
     "status": "draft"
   },
   "org-design-system.term": {
@@ -1260,9 +1260,9 @@
     "status": "draft"
   },
   "principle-5-change-through-a-learning-loop.definition": {
-    "en": "Change as a continuous evolution of fitness using MADE.",
-    "text": "借助 MADE，把变革视为适配度的持续演进。",
-    "src": "1e8ae545",
+    "en": "Turn organizational change into a continuous evolution of fitness, run as a learning loop with MADE.",
+    "text": "把组织变革变成适配度的持续演进，借助 MADE 以学习回路的方式推进。",
+    "src": "252d1d43",
     "status": "draft"
   },
   "principle-5-change-through-a-learning-loop.term": {
@@ -1332,9 +1332,9 @@
     "status": "draft"
   },
   "product-developer.definition": {
-    "en": "A broader role name that replaces rigid titles such as Junior Java Developer in an Adaptive Topology, with clear progression levels.",
-    "text": "一个更宽泛的角色名称，在 Adaptive Topology 中取代 Junior Java Developer 这类僵化的头衔，并带有清晰的成长层级。",
-    "src": "7e14dad9",
+    "en": "A broad role name with clear progression levels. In an Adaptive Topology it replaces rigid titles such as Junior Java Developer.",
+    "text": "一个宽泛的角色名称，带有清晰的成长层级。在 Adaptive Topology 中，它取代 Junior Java Developer 这类僵化的头衔。",
+    "src": "4ab7235f",
     "status": "draft"
   },
   "product-developer.term": {
