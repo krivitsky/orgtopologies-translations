@@ -450,42 +450,48 @@
     "status": "draft"
   },
   "nav.primary.3.label": {
-    "en": "Articles & Videos",
-    "text": "Articoli e video",
-    "src": "7dcefe4e",
+    "en": "Library",
+    "text": "Biblioteca",
+    "src": "dc20b3d5",
     "status": "draft"
   },
   "nav.primary.4.extra.0.label": {
+    "en": "Summit 2026",
+    "text": "Summit 2026",
+    "src": "59de5b7f",
+    "status": "draft"
+  },
+  "nav.primary.4.extra.1.label": {
     "en": "Partners",
     "text": "Partner",
     "src": "5dab502b",
     "status": "draft"
   },
-  "nav.primary.4.extra.1.label": {
+  "nav.primary.4.extra.2.label": {
     "en": "Members",
     "text": "Membri",
     "src": "1044a4c0",
     "status": "draft"
   },
-  "nav.primary.4.extra.2.label": {
+  "nav.primary.4.extra.3.label": {
     "en": "Meet Creators",
     "text": "Conosci i creatori",
     "src": "4edc4aa7",
     "status": "draft"
   },
-  "nav.primary.4.extra.3.label": {
+  "nav.primary.4.extra.4.label": {
     "en": "Join the Slack",
     "text": "Unisciti allo Slack",
     "src": "4e10e355",
     "status": "draft"
   },
-  "nav.primary.4.extra.4.label": {
+  "nav.primary.4.extra.5.label": {
     "en": "Follow on LinkedIn",
     "text": "Seguici su LinkedIn",
     "src": "50a46ecd",
     "status": "draft"
   },
-  "nav.primary.4.extra.5.label": {
+  "nav.primary.4.extra.6.label": {
     "en": "Ask Aiden",
     "text": "Chiedi ad Aiden",
     "src": "05d15f3f",
@@ -495,6 +501,12 @@
     "en": "Community",
     "text": "Community",
     "src": "bb501d78",
+    "status": "draft"
+  },
+  "nav.primary.5.label": {
+    "en": "Summit",
+    "text": "Summit",
+    "src": "231a8c82",
     "status": "draft"
   },
   "nav.tagline": {
