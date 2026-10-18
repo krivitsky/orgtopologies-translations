@@ -1,34 +1,4 @@
 {
-  "craig.heading": {
-    "en": "Craig Larman on 10X ORG",
-    "text": "Craig Larman 谈 10X ORG",
-    "src": "ad704c84",
-    "status": "draft"
-  },
-  "craig.kicker": {
-    "en": "WHY THIS BOOK",
-    "text": "为什么读这本书",
-    "src": "8ec207f6",
-    "status": "draft"
-  },
-  "craig.paragraphs.0": {
-    "en": "Craig Larman, co-author of *10X ORG* and contributor to the Org Topologies model, on why he thinks this book matters.",
-    "text": "Craig Larman 是 *10X ORG* 的合著者，也是 Org Topologies 模型的贡献者，他在这里谈了为什么认为这本书很重要。",
-    "src": "74389678",
-    "status": "draft"
-  },
-  "craig.video.title": {
-    "en": "Craig Larman on 10X ORG",
-    "text": "Craig Larman 谈 10X ORG",
-    "src": "ad704c84",
-    "status": "draft"
-  },
-  "craig.video.youtube": {
-    "en": "6TRqhOHIxfU",
-    "text": "6TRqhOHIxfU",
-    "src": "5a5cc7e7",
-    "status": "draft"
-  },
   "intelligences.goDeeper.body": {
     "en": "Learn the language of org design and map your own organization: see where each unit sits, what it optimizes for and where work gets stuck. The 16 archetypes and free tools get you started today.",
     "text": "学会组织设计的语言，绘制您自己的组织：看清每个单元位于何处、优化什么、工作卡在哪里。16 个原型和免费工具让您今天就能上手。",

@@ -1,34 +1,4 @@
 {
-  "craig.heading": {
-    "en": "Craig Larman on 10X ORG",
-    "text": "Craig Larman が語る 10X ORG",
-    "src": "ad704c84",
-    "status": "draft"
-  },
-  "craig.kicker": {
-    "en": "WHY THIS BOOK",
-    "text": "この本の意義",
-    "src": "8ec207f6",
-    "status": "draft"
-  },
-  "craig.paragraphs.0": {
-    "en": "Craig Larman, co-author of *10X ORG* and contributor to the Org Topologies model, on why he thinks this book matters.",
-    "text": "*10X ORG* の共著者で、Org Topologies モデルにも貢献した Craig Larman が、この本が大事だと考える理由を語ります。",
-    "src": "74389678",
-    "status": "draft"
-  },
-  "craig.video.title": {
-    "en": "Craig Larman on 10X ORG",
-    "text": "Craig Larman が語る 10X ORG",
-    "src": "ad704c84",
-    "status": "draft"
-  },
-  "craig.video.youtube": {
-    "en": "6TRqhOHIxfU",
-    "text": "6TRqhOHIxfU",
-    "src": "5a5cc7e7",
-    "status": "draft"
-  },
   "intelligences.goDeeper.body": {
     "en": "Learn the language of org design and map your own organization: see where each unit sits, what it optimizes for and where work gets stuck. The 16 archetypes and free tools get you started today.",
     "text": "組織設計の言葉を学び、自分の組織をマッピングします。各ユニットがどこにいて、何を最適化し、どこで仕事が詰まるのかが見えてきます。16のアーキタイプと無料のツールで、今日から始められます。",
