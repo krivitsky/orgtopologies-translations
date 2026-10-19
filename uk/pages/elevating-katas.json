@@ -228,9 +228,9 @@
     "status": "draft"
   },
   "katalog.lead": {
-    "en": "The [Katalog](term:katalog) groups the katas by the five elements of Jay Galbraith’s Star Model™. Each kata links to its description and to the case studies that apply it.",
-    "text": "[Каталог ката](term:katalog) групує ката за п'ятьма елементами Star Model™ Джея Гелбрейта. Кожна ката має посилання на свій опис і на кейси, що її застосовують.",
-    "src": "dd4a4821",
+    "en": "The [Katalog](term:katalog) groups the katas by the five elements of Jay Galbraith’s Star Model™. Every kata name completes the pattern **Elevate by …**, as in *Elevate by Expanding the Product Definition* or *Elevate by Forming a Team-of-Teams*. Each kata links to its description and to the case studies that apply it.",
+    "text": "[Каталог ката](term:katalog) групує ката за п'ятьма елементами Star Model™ Джея Гелбрейта. Кожна назва ката продовжує шаблон **Elevate через …**, наприклад *Розширення визначення продукту* або *Формування команди команд*. Кожна ката має посилання на свій опис і на кейси, що її застосовують.",
+    "src": "554e6c21",
     "status": "draft"
   },
   "katalog.source": {
