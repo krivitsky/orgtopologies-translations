@@ -5,28 +5,10 @@
     "src": "70e115e3",
     "status": "draft"
   },
-  "items.0.name": {
-    "en": "Lucy Karpova",
-    "text": "Lucy Karpova",
-    "src": "c0fa9625",
-    "status": "draft"
-  },
   "items.0.quote": {
     "en": "“It was so much easier to describe the FlixBus agile journey using Org Topologies™, which otherwise would need much more explanation and reasoning. Mapping product depth and team skills dimensions bridged the gap between applying frameworks and discovering ways to organize teams.”",
     "text": "“Het was veel makkelijker om het agile traject van FlixBus te beschrijven met Org Topologies™, wat anders veel meer uitleg en redenering zou vragen. Het in kaart brengen van productdiepte en teamskills sloeg een brug tussen het toepassen van frameworks en het ontdekken van manieren om teams te organiseren.”",
     "src": "eb68a300",
-    "status": "draft"
-  },
-  "items.0.role": {
-    "en": "Agile and Product Coach at Flix and Sixt",
-    "text": "Agile and Product Coach at Flix and Sixt",
-    "src": "f46322b3",
-    "status": "draft"
-  },
-  "items.1.name": {
-    "en": "Frank Dohmen",
-    "text": "Frank Dohmen",
-    "src": "bd76951a",
     "status": "draft"
   },
   "items.1.quote": {
@@ -35,22 +17,10 @@
     "src": "b23eb7cf",
     "status": "draft"
   },
-  "items.1.role": {
-    "en": "Lead Project Management at IBM iX",
-    "text": "Lead Project Management at IBM iX",
-    "src": "ef561465",
-    "status": "draft"
-  },
   "items.2.link.label": {
     "en": "Read the Strobbo case →",
     "text": "Lees de Strobbo-case →",
     "src": "e6a27bb4",
-    "status": "draft"
-  },
-  "items.2.name": {
-    "en": "Michael Voorhaen",
-    "text": "Michael Voorhaen",
-    "src": "6f858cef",
     "status": "draft"
   },
   "items.2.quote": {
@@ -59,34 +29,10 @@
     "src": "380048ee",
     "status": "draft"
   },
-  "items.2.role": {
-    "en": "Product Manager at Strobbo, Protime",
-    "text": "Product Manager at Strobbo, Protime",
-    "src": "520d6df1",
-    "status": "draft"
-  },
-  "items.3.name": {
-    "en": "Anya Faingersh",
-    "text": "Anya Faingersh",
-    "src": "dfb4e718",
-    "status": "draft"
-  },
   "items.3.quote": {
     "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
     "text": "“Er zijn veel tools die organisaties de maan beloven. Org Topologies™ IS de ontbrekende schakel die de verbinding legt tussen het ECHTE probleem en de JUISTE oplossing.”",
     "src": "33a24fe2",
-    "status": "draft"
-  },
-  "items.3.role": {
-    "en": "Scrum Master and Agile Coach",
-    "text": "Scrum Master and Agile Coach",
-    "src": "5afe7708",
-    "status": "draft"
-  },
-  "items.4.name": {
-    "en": "Felix Lagemann",
-    "text": "Felix Lagemann",
-    "src": "a2b6eadd",
     "status": "draft"
   },
   "items.4.quote": {
@@ -95,34 +41,16 @@
     "src": "c24bca14",
     "status": "draft"
   },
-  "items.4.role": {
-    "en": "Senior Consultant",
-    "text": "Senior Consultant",
-    "src": "cfbb0a0b",
-    "status": "draft"
-  },
   "items.5.link.label": {
     "en": "Read his analysis →",
     "text": "Lees zijn analyse →",
     "src": "5a63983c",
     "status": "draft"
   },
-  "items.5.name": {
-    "en": "Carlton Nettleton",
-    "text": "Carlton Nettleton",
-    "src": "f42c8ff8",
-    "status": "draft"
-  },
   "items.5.quote": {
     "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
     "text": "“Een van hun belangrijkste motivaties was om een model te publiceren dat praktijkmensen een duidelijke en specifieke taal geeft om over organisatieontwerp te praten.”",
     "src": "5c29cb27",
-    "status": "draft"
-  },
-  "items.5.role": {
-    "en": "The Scrum Academy",
-    "text": "The Scrum Academy",
-    "src": "4ed8f9f6",
     "status": "draft"
   },
   "kicker": {
