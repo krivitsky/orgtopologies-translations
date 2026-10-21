@@ -11,43 +11,37 @@
     "src": "eb68a300",
     "status": "draft"
   },
-  "items.1.quote": {
-    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
-    "text": "„Ich nutze Org Topologies seit zwei Jahren selbst, um Fragen zur Agilität eines Teams und des aktuellen Projekts zu beantworten und die nächsten Schritte zu bestimmen. Es hat mir als Grundlage für die Abstimmung mit unseren Kunden gedient: wo wir gerade stehen und, falls der Wunsch nach Weiterentwicklung besteht, welche Richtung und welche Maßnahmen die richtigen wären.“",
-    "src": "b23eb7cf",
-    "status": "draft"
-  },
-  "items.2.link.label": {
+  "items.1.link.label": {
     "en": "Read the Strobbo case →",
     "text": "Die Strobbo-Fallstudie lesen →",
     "src": "e6a27bb4",
     "status": "draft"
   },
-  "items.2.quote": {
+  "items.1.quote": {
     "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
     "text": "„Wir haben das letzte Woche als Teamübung gemacht und eingeschätzt, wo die Teams sich selbst auf der Map sahen. Mit Org Topologies konnten wir dann unsere Vision teilen, wohin wir als Nächstes wollen. Das Gute daran: Es hat uns geholfen, Gut-/Schlecht-Diskussionen zu vermeiden und uns auf etwas so Einfaches zu konzentrieren wie ‚hier sind wir‘ und ‚dorthin wollen wir als Nächstes‘.“",
     "src": "380048ee",
     "status": "draft"
   },
-  "items.3.quote": {
+  "items.2.quote": {
     "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
     "text": "„Es gibt viele Tools, die Organisationen das Blaue vom Himmel versprechen. Org Topologies™ IST das fehlende Bindeglied, das die Verbindung zwischen dem WIRKLICHEN Problem und der RICHTIGEN Lösung herstellt.“",
     "src": "33a24fe2",
     "status": "draft"
   },
-  "items.4.quote": {
+  "items.3.quote": {
     "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
     "text": "„Dieser Framework-agnostische, visuelle Ansatz gibt allen Denkanstöße, die die nächsten Schritte ihrer Business-Transformation aktiv gestalten wollen. Teams mit Archetypen zu mappen zeigt zugleich, wo man steht, und fördert die Diskussion darüber, wohin man will.“",
     "src": "c24bca14",
     "status": "draft"
   },
-  "items.5.link.label": {
+  "items.4.link.label": {
     "en": "Read his analysis →",
     "text": "Seine Analyse lesen →",
     "src": "5a63983c",
     "status": "draft"
   },
-  "items.5.quote": {
+  "items.4.quote": {
     "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
     "text": "„Eine ihrer Hauptmotivationen war es, ein Modell zu veröffentlichen, das Praktikern eine klare und präzise Sprache für Gespräche über Organisationsdesign gibt.“",
     "src": "5c29cb27",

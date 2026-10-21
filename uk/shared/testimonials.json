@@ -11,43 +11,37 @@
     "src": "eb68a300",
     "status": "draft"
   },
-  "items.1.quote": {
-    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
-    "text": "«Я сам користувався Org Topologies останні два роки, щоб відповідати на запитання про гнучкість команди та поточного проєкту й визначати наступні кроки. Це допомогло мені як основа для узгодження з нашими клієнтами: де ми зараз і, якщо є бажання розвиватися, який напрям і дії будуть правильними.»",
-    "src": "b23eb7cf",
-    "status": "draft"
-  },
-  "items.2.link.label": {
+  "items.1.link.label": {
     "en": "Read the Strobbo case →",
     "text": "Читати кейс Strobbo →",
     "src": "e6a27bb4",
     "status": "draft"
   },
-  "items.2.quote": {
+  "items.1.quote": {
     "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
     "text": "«Минулого тижня ми зробили це як командну вправу: оцінили, де на мапі, на думку команд, вони перебувають. А потім за допомогою Org Topologies змогли поділитися баченням, куди рухатися далі. Найкраще, що це допомогло нам уникнути дискусій «добре/погано» і зосередитися на простому: «ми тут» і «ось куди ми хочемо йти далі».»",
     "src": "380048ee",
     "status": "draft"
   },
-  "items.3.quote": {
+  "items.2.quote": {
     "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
     "text": "«Є багато інструментів, які обіцяють організаціям зірки з неба. Org Topologies™ — це ТА ланка, якої бракувало: вона поєднує РЕАЛЬНУ проблему з ПРАВИЛЬНИМ рішенням.»",
     "src": "33a24fe2",
     "status": "draft"
   },
-  "items.4.quote": {
+  "items.3.quote": {
     "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
     "text": "«Цей візуальний підхід, незалежний від фреймворків, дає поживу для роздумів кожному, хто хоче активно формувати наступні кроки трансформації свого бізнесу. Мапування команд за архетипами водночас показує, де ви перебуваєте, і спонукає до дискусії про те, куди ви хочете рухатися.»",
     "src": "c24bca14",
     "status": "draft"
   },
-  "items.5.link.label": {
+  "items.4.link.label": {
     "en": "Read his analysis →",
     "text": "Читати його аналіз →",
     "src": "5a63983c",
     "status": "draft"
   },
-  "items.5.quote": {
+  "items.4.quote": {
     "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
     "text": "«Одним із їхніх головних мотивів було опублікувати модель, яка дає практикам чітку й конкретну мову для розмов про організаційний дизайн.»",
     "src": "5c29cb27",

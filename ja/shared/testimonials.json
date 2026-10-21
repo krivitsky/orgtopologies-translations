@@ -11,43 +11,37 @@
     "src": "eb68a300",
     "status": "draft"
   },
-  "items.1.quote": {
-    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
-    "text": "「この2年間、私自身もOrg Topologiesを使って、チームやプロジェクトのアジリティに関する問いに答え、次の一手を見極めてきました。いまの立ち位置を顧客と確かめ合い、進化したいなら向かうべき方向と取るべき行動を探る、その土台になってくれました。」",
-    "src": "b23eb7cf",
-    "status": "draft"
-  },
-  "items.2.link.label": {
+  "items.1.link.label": {
     "en": "Read the Strobbo case →",
     "text": "Strobboの事例を読む →",
     "src": "e6a27bb4",
     "status": "draft"
   },
-  "items.2.quote": {
+  "items.1.quote": {
     "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
     "text": "「先週、チームの演習として、各チームが自分たちはマップのどこにいると思うかを出し合いました。そのうえで、Org Topologiesを使って次に目指す先のビジョンも共有できました。よかったのは、良い・悪いの議論に陥らず、『いまここにいる』『次はここへ行きたい』という単純な話に集中できたことです。」",
     "src": "380048ee",
     "status": "draft"
   },
-  "items.3.quote": {
+  "items.2.quote": {
     "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
     "text": "「組織に夢のような約束をするツールは数多くあります。Org Topologies™ は、目の前の本当の課題と適切な解決策をつなぐ、欠けていた環(わ)そのものです。」",
     "src": "33a24fe2",
     "status": "draft"
   },
-  "items.4.quote": {
+  "items.3.quote": {
     "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
     "text": "「特定のフレームワークに縛られないこの視覚的なアプローチは、事業変革の次の一手を自分の手で形づくりたい人に、多くの示唆を与えてくれます。チームをアーキタイプでマッピングすると、現在地が見えると同時に、どこへ向かいたいかという対話が生まれます。」",
     "src": "c24bca14",
     "status": "draft"
   },
-  "items.5.link.label": {
+  "items.4.link.label": {
     "en": "Read his analysis →",
     "text": "彼の分析を読む →",
     "src": "5a63983c",
     "status": "draft"
   },
-  "items.5.quote": {
+  "items.4.quote": {
     "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
     "text": "「彼らの大きな動機のひとつは、組織設計を語るときに実践者が使える、明確で具体的な言葉を備えたモデルを世に出すことでした。」",
     "src": "5c29cb27",

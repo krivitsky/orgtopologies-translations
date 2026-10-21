@@ -11,43 +11,37 @@
     "src": "eb68a300",
     "status": "draft"
   },
-  "items.1.quote": {
-    "en": "“I used Org Topologies for the last two years myself, to answer questions regarding the agility of a team and the current project, and to identify the next steps moving forward. It supported me as a basis for alignment with our clients in identifying where we stand right now and, if there is a wish to evolve, which would be the right direction and actions.”",
-    "text": "“过去两年我自己一直在用 Org Topologies，回答关于团队和当前项目敏捷程度的问题，并确定下一步行动。它帮助我与客户达成共识：我们现在处于哪里，如果希望演进，哪个方向和哪些行动才是正确的。”",
-    "src": "b23eb7cf",
-    "status": "draft"
-  },
-  "items.2.link.label": {
+  "items.1.link.label": {
     "en": "Read the Strobbo case →",
     "text": "阅读 Strobbo 案例 →",
     "src": "e6a27bb4",
     "status": "draft"
   },
-  "items.2.quote": {
+  "items.1.quote": {
     "en": "“We did this as a team exercise last week, gauging where on the map the teams thought they were. And then with Org Topologies, we were able to share our vision on where we want to go next. The great thing is that this helped us stay away from good/bad discussions and focus on something as simple as ‘we are here’ and ‘this is where we want to go next’.”",
     "text": "“上周我们把它作为团队练习，让大家判断各自团队在地图上的位置。然后借助 Org Topologies，我们得以分享下一步想去哪里的愿景。好处在于，这让我们避开了好与坏的争论，专注于最简单的两件事：‘我们在这里’和‘这是我们接下来想去的地方’。”",
     "src": "380048ee",
     "status": "draft"
   },
-  "items.3.quote": {
+  "items.2.quote": {
     "en": "“There are many tools out there that promise organizations the moon. Org Topologies™ IS the missing link that orchestrates the connection between the REAL issue at hand and RIGHT solution.”",
     "text": "“市面上有很多工具向组织承诺一切。Org Topologies™ 才是缺失的那一环，把眼前的真正问题与正确的解决方案连接起来。”",
     "src": "33a24fe2",
     "status": "draft"
   },
-  "items.4.quote": {
+  "items.3.quote": {
     "en": "“This framework-agnostic visual approach offers food for thought for anyone, who wants to actively shape the next steps of their business transformation journey. Mapping your teams with archetypes simultaneously show where you are and fosters the discussion, where you want to go.”",
     "text": "“这种与框架无关的可视化方法，为每一位想主动塑造业务转型下一步的人提供了思考的素材。用原型来绘制您的团队，既能显示您在哪里，也能促进关于想去哪里的讨论。”",
     "src": "c24bca14",
     "status": "draft"
   },
-  "items.5.link.label": {
+  "items.4.link.label": {
     "en": "Read his analysis →",
     "text": "阅读他的分析 →",
     "src": "5a63983c",
     "status": "draft"
   },
-  "items.5.quote": {
+  "items.4.quote": {
     "en": "“One of their main motivations was to publish a model that gave practitioners a clear and specific language when talking about organizational design.”",
     "text": "“他们的主要动机之一，是发布一个模型，让实践者在谈论组织设计时有一套清晰、明确的语言。”",
     "src": "5c29cb27",
