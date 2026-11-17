@@ -450,9 +450,9 @@
     "status": "draft"
   },
   "nav.primary.community.extra.creators.label": {
-    "en": "Meet Creators",
-    "text": "Conoce a los creadores",
-    "src": "4edc4aa7",
+    "en": "Creators",
+    "text": "Creadores",
+    "src": "c6b6a71a",
     "status": "draft"
   },
   "nav.primary.community.extra.linkedin.label": {
@@ -486,9 +486,9 @@
     "status": "draft"
   },
   "nav.primary.summit.label": {
-    "en": "Summit",
-    "text": "Summit",
-    "src": "231a8c82",
+    "en": "Org Design Summit",
+    "text": "Org Design Summit",
+    "src": "610d152b",
     "status": "draft"
   },
   "nav.tagline": {
