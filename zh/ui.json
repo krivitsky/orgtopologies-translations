@@ -329,175 +329,163 @@
     "src": "99af6606",
     "status": "draft"
   },
-  "nav.primary.0.below.label": {
+  "nav.primary.approach.below.label": {
     "en": "Glossary",
     "text": "术语表",
     "src": "4c4e436f",
     "status": "draft"
   },
-  "nav.primary.0.columns.0.label": {
-    "en": "Change, MADE Systemic",
-    "text": "MADE 系统化变革",
-    "src": "03610ffd",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.0.step": {
-    "en": "The MADE method",
-    "text": "MADE 方法",
-    "src": "b62cc225",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.1.extra.0.label": {
-    "en": "Framework Mappings",
-    "text": "框架地图",
-    "src": "baf15a30",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.1.label": {
-    "en": "Org Topologies Mapping",
-    "text": "Org Topologies 地图绘制",
-    "src": "533f211e",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.1.step": {
-    "en": "Map",
-    "text": "Map",
-    "src": "be176b00",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.2.label": {
-    "en": "Three Org Topologies",
-    "text": "三种组织拓扑",
-    "src": "9ba98f17",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.2.step": {
-    "en": "Assess & Design",
-    "text": "Assess & Design",
-    "src": "bb9e70bc",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.extra.0.label": {
-    "en": "1. Strategy",
-    "text": "1. 战略",
-    "src": "0d944828",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.extra.1.label": {
-    "en": "2. Structure",
-    "text": "2. 结构",
-    "src": "7981d3e6",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.extra.2.label": {
-    "en": "3. Processes",
-    "text": "3. 流程",
-    "src": "864943ff",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.extra.3.label": {
-    "en": "4. Rewards",
-    "text": "4. 奖酬",
-    "src": "dde39d79",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.extra.4.label": {
-    "en": "5. People",
-    "text": "5. 人员",
-    "src": "fb64fb20",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.label": {
-    "en": "Elevating Katas",
-    "text": "Elevating Katas",
-    "src": "8e4e4991",
-    "status": "draft"
-  },
-  "nav.primary.0.columns.3.step": {
-    "en": "Elevate",
-    "text": "Elevate",
-    "src": "1ddc1dcc",
-    "status": "draft"
-  },
-  "nav.primary.0.label": {
-    "en": "Approach",
-    "text": "方法",
-    "src": "b6b243ca",
-    "status": "draft"
-  },
-  "nav.primary.1.label": {
-    "en": "Book",
-    "text": "图书",
-    "src": "909cb811",
-    "status": "draft"
-  },
-  "nav.primary.2.label": {
-    "en": "Case Studies",
-    "text": "案例研究",
-    "src": "545fab8e",
-    "status": "draft"
-  },
-  "nav.primary.3.extra.0.label": {
+  "nav.primary.approach.belowFirst.articles.label": {
     "en": "Articles",
     "text": "文章",
     "src": "b14ac78a",
     "status": "draft"
   },
-  "nav.primary.3.extra.1.label": {
+  "nav.primary.approach.belowFirst.videos.label": {
     "en": "Videos",
     "text": "视频",
     "src": "c9a96394",
     "status": "draft"
   },
-  "nav.primary.3.label": {
-    "en": "Library",
-    "text": "资料库",
-    "src": "dc20b3d5",
+  "nav.primary.approach.columns.0.label": {
+    "en": "Change, MADE Systemic",
+    "text": "MADE 系统化变革",
+    "src": "03610ffd",
     "status": "draft"
   },
-  "nav.primary.4.extra.0.label": {
-    "en": "Org Design Summit",
-    "text": "Org Design Summit",
-    "src": "610d152b",
+  "nav.primary.approach.columns.0.step": {
+    "en": "The MADE method",
+    "text": "MADE 方法",
+    "src": "b62cc225",
     "status": "draft"
   },
-  "nav.primary.4.extra.1.label": {
-    "en": "Partners",
-    "text": "合作伙伴",
-    "src": "5dab502b",
+  "nav.primary.approach.columns.1.extra.0.label": {
+    "en": "Framework Mappings",
+    "text": "框架地图",
+    "src": "baf15a30",
     "status": "draft"
   },
-  "nav.primary.4.extra.2.label": {
-    "en": "Members",
-    "text": "成员",
-    "src": "1044a4c0",
+  "nav.primary.approach.columns.1.label": {
+    "en": "Org Topologies Mapping",
+    "text": "Org Topologies 地图绘制",
+    "src": "533f211e",
     "status": "draft"
   },
-  "nav.primary.4.extra.3.label": {
+  "nav.primary.approach.columns.1.step": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.2.label": {
+    "en": "Three Org Topologies",
+    "text": "三种组织拓扑",
+    "src": "9ba98f17",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.2.step": {
+    "en": "Assess & Design",
+    "text": "Assess & Design",
+    "src": "bb9e70bc",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.extra.0.label": {
+    "en": "1. Strategy",
+    "text": "1. 战略",
+    "src": "0d944828",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.extra.1.label": {
+    "en": "2. Structure",
+    "text": "2. 结构",
+    "src": "7981d3e6",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.extra.2.label": {
+    "en": "3. Processes",
+    "text": "3. 流程",
+    "src": "864943ff",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.extra.3.label": {
+    "en": "4. Rewards",
+    "text": "4. 奖酬",
+    "src": "dde39d79",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.extra.4.label": {
+    "en": "5. People",
+    "text": "5. 人员",
+    "src": "fb64fb20",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.label": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "nav.primary.approach.columns.3.step": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "nav.primary.approach.label": {
+    "en": "Approach",
+    "text": "方法",
+    "src": "b6b243ca",
+    "status": "draft"
+  },
+  "nav.primary.book.label": {
+    "en": "Book",
+    "text": "图书",
+    "src": "909cb811",
+    "status": "draft"
+  },
+  "nav.primary.case-studies.label": {
+    "en": "Case Studies",
+    "text": "案例研究",
+    "src": "545fab8e",
+    "status": "draft"
+  },
+  "nav.primary.community.extra.creators.label": {
     "en": "Meet Creators",
     "text": "认识创作者",
     "src": "4edc4aa7",
     "status": "draft"
   },
-  "nav.primary.4.extra.4.label": {
-    "en": "Join the Slack",
-    "text": "加入 Slack",
-    "src": "4e10e355",
-    "status": "draft"
-  },
-  "nav.primary.4.extra.5.label": {
+  "nav.primary.community.extra.linkedin.label": {
     "en": "Follow on LinkedIn",
     "text": "关注 LinkedIn",
     "src": "50a46ecd",
     "status": "draft"
   },
-  "nav.primary.4.label": {
+  "nav.primary.community.extra.members.label": {
+    "en": "Members",
+    "text": "成员",
+    "src": "1044a4c0",
+    "status": "draft"
+  },
+  "nav.primary.community.extra.partners.label": {
+    "en": "Partners",
+    "text": "合作伙伴",
+    "src": "5dab502b",
+    "status": "draft"
+  },
+  "nav.primary.community.extra.slack.label": {
+    "en": "Join the Slack",
+    "text": "加入 Slack",
+    "src": "4e10e355",
+    "status": "draft"
+  },
+  "nav.primary.community.label": {
     "en": "Community",
     "text": "社区",
     "src": "bb501d78",
     "status": "draft"
   },
-  "nav.primary.5.label": {
+  "nav.primary.summit.label": {
     "en": "Summit",
     "text": "Summit",
     "src": "231a8c82",
