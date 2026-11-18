@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
-    "text": "Przeprojektuj organizację pod nową strategię, nowe wymagania i AI: zmapuj, gdzie jesteś, uzgodnij kierunek i dopasuj model organizacyjny w pętli uczenia się.",
-    "src": "21d22291",
+    "en": "Redesign and evolve your organization without costly reorganizations: map where you are, align on direction, apply a human-centric, AI-ready approach.",
+    "text": "Przeprojektuj i rozwijaj organizację bez kosztownych reorganizacji: zmapuj, gdzie jesteś, uzgodnij kierunek, zastosuj podejście ludzkie i gotowe na AI.",
+    "src": "f43c731f",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
-    "text": "Strategia się zmieniła, wymagania się przesunęły, pojawiła się AI, a twoja organizacja nie nadąża?\n\nOrg Topologies pozwala ją przeprojektować i rozwijać bez kosztownej reorganizacji naraz: zmapuj, gdzie jesteś, uzgodnij kierunek i użyj [pętli uczenia się](/made), by dopasować swój model organizacyjny. Tak twój zespół przywódczy jest właścicielem zmiany i prowadzi ją ku wyższej wydajności.",
-    "src": "33c3a651",
+    "en": "Strategy changed, demands shifted, AI arrived. Is your organization keeping up?\n\nOrg Topologies helps you redesign and continuously evolve your organization without costly, big-bang reorganizations.\n\nMap where you are, align on where you want to go, and apply a human‑centric, AI‑ready org design approach to keep your organization fit for purpose.",
+    "text": "Strategia się zmieniła, wymagania się przesunęły, pojawiła się AI. Czy twoja organizacja nadąża?\n\nOrg Topologies pomaga przeprojektować i stale rozwijać organizację bez kosztownych reorganizacji naraz.\n\nZmapuj, gdzie jesteś, uzgodnij, dokąd chcesz dojść, i zastosuj podejście do projektowania organizacji skupione na ludziach i gotowe na AI, aby organizacja pozostała dopasowana do celu.",
+    "src": "cf4cb3d7",
     "status": "draft"
   },
   "top.title": {

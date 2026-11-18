@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
-    "text": "Перепроектируйте организацию под новую стратегию, новые требования и ИИ: отметьте, где вы сейчас, выберите направление и перестройте модель в цикле обучения.",
-    "src": "21d22291",
+    "en": "Redesign and evolve your organization without costly reorganizations: map where you are, align on direction, apply a human-centric, AI-ready approach.",
+    "text": "Перепроектируйте и развивайте организацию без дорогих реорганизаций: отметьте, где вы сейчас, договоритесь о направлении, примените подход, готовый к ИИ.",
+    "src": "f43c731f",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
-    "text": "Стратегия изменилась, требования сместились, пришёл ИИ, а ваша организация не успевает?\n\nOrg Topologies позволяет перепроектировать и развивать её без масштабной и дорогой реорганизации разом: отметьте на карте, где вы сейчас, договоритесь о направлении и с помощью [цикла обучения](/made) перестройте свою организационную модель. Так ваша управленческая команда сама владеет изменениями и ведёт их к более высокой эффективности.",
-    "src": "33c3a651",
+    "en": "Strategy changed, demands shifted, AI arrived. Is your organization keeping up?\n\nOrg Topologies helps you redesign and continuously evolve your organization without costly, big-bang reorganizations.\n\nMap where you are, align on where you want to go, and apply a human‑centric, AI‑ready org design approach to keep your organization fit for purpose.",
+    "text": "Стратегия изменилась, требования сместились, пришёл ИИ. Успевает ли ваша организация?\n\nOrg Topologies помогает перепроектировать и непрерывно развивать организацию без дорогих масштабных реорганизаций разом.\n\nОтметьте на карте, где вы сейчас, договоритесь, куда хотите прийти, и примените человекоцентричный, готовый к ИИ подход к организационному дизайну, чтобы организация оставалась соответствующей своей цели.",
+    "src": "cf4cb3d7",
     "status": "draft"
   },
   "top.title": {

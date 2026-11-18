@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
-    "text": "Перепроєктуйте організацію під нову стратегію, нові вимоги та ШІ: позначте, де ви зараз, оберіть напрям і переналаштуйте модель у циклі навчання.",
-    "src": "21d22291",
+    "en": "Redesign and evolve your organization without costly reorganizations: map where you are, align on direction, apply a human-centric, AI-ready approach.",
+    "text": "Перепроєктуйте й розвивайте організацію без дорогих реорганізацій: позначте, де ви зараз, домовтеся про напрям, застосуйте підхід, готовий до ШІ.",
+    "src": "f43c731f",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
-    "text": "Стратегія змінилася, вимоги змістилися, з’явився ШІ, а ваша організація не встигає?\n\nOrg Topologies дає змогу перепроєктувати й розвивати її без масштабної та дорогої реорганізації одразу: позначте на карті, де ви зараз, домовтеся про напрям і за допомогою [циклу навчання](/made) переналаштуйте свою організаційну модель. Так ваша команда лідерів сама володіє змінами й веде їх до вищої ефективності.",
-    "src": "33c3a651",
+    "en": "Strategy changed, demands shifted, AI arrived. Is your organization keeping up?\n\nOrg Topologies helps you redesign and continuously evolve your organization without costly, big-bang reorganizations.\n\nMap where you are, align on where you want to go, and apply a human‑centric, AI‑ready org design approach to keep your organization fit for purpose.",
+    "text": "Стратегія змінилася, вимоги змістилися, з’явився ШІ. Чи встигає ваша організація?\n\nOrg Topologies допомагає перепроєктувати й безперервно розвивати організацію без дорогих масштабних реорганізацій одразу.\n\nПозначте на карті, де ви зараз, домовтеся, куди хочете прийти, і застосуйте людиноцентричний, готовий до ШІ підхід до організаційного дизайну, щоб організація залишалася відповідною своїй меті.",
+    "src": "cf4cb3d7",
     "status": "draft"
   },
   "top.title": {

@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
-    "text": "为新战略、新需求和 AI 重新设计组织：标出现状，就方向达成一致，再用学习循环重新调整组织模型。",
-    "src": "21d22291",
+    "en": "Redesign and evolve your organization without costly reorganizations: map where you are, align on direction, apply a human-centric, AI-ready approach.",
+    "text": "无需代价高昂的重组，就能重新设计并演进组织：标出现状，就方向达成一致，应用以人为本、为 AI 做好准备的方法。",
+    "src": "f43c731f",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
-    "text": "战略变了，需求变了，AI 来了，而你的组织跟不上？\n\nOrg Topologies 让你无需一次性、代价高昂的大规模重组，就能重新设计并持续演进组织：先在地图上标出现状，就方向达成一致，再通过[学习循环](/made)重新调整你的组织模型。这样，你的领导团队就能主导并推动变革，实现更高绩效。",
-    "src": "33c3a651",
+    "en": "Strategy changed, demands shifted, AI arrived. Is your organization keeping up?\n\nOrg Topologies helps you redesign and continuously evolve your organization without costly, big-bang reorganizations.\n\nMap where you are, align on where you want to go, and apply a human‑centric, AI‑ready org design approach to keep your organization fit for purpose.",
+    "text": "战略变了，需求变了，AI 来了。你的组织跟上了吗？\n\nOrg Topologies 帮助你在不进行代价高昂的一次性大规模重组的情况下，重新设计并持续演进组织。\n\n先在地图上标出现状，就目标方向达成一致，再应用以人为本、为 AI 做好准备的组织设计方法，让组织始终契合其目的。",
+    "src": "cf4cb3d7",
     "status": "draft"
   },
   "top.title": {

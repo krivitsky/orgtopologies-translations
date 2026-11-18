@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
-    "text": "新しい戦略、変わる要求、AI に合わせて組織を再設計。現在地をマップにし、方向性に合意し、学習ループで組織モデルを適合させ直します。",
-    "src": "21d22291",
+    "en": "Redesign and evolve your organization without costly reorganizations: map where you are, align on direction, apply a human-centric, AI-ready approach.",
+    "text": "コストのかかる組織改編なしに組織を再設計・進化。現在地をマップにし、方向をそろえ、人間中心で AI に対応したアプローチを適用します。",
+    "src": "f43c731f",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
-    "text": "戦略が変わり、求められるものが変わり、AI が登場したのに、組織が追いついていない？\n\nOrg Topologies なら、大がかりで高くつく一斉の組織改編をせずに、組織を再設計し進化させられます。現在地をマップにし、方向性に合意し、[学習ループ](/made)で組織モデルを適合させ直します。こうしてリーダーシップチームが変化を自ら担い、より高いパフォーマンスへと推進します。",
-    "src": "33c3a651",
+    "en": "Strategy changed, demands shifted, AI arrived. Is your organization keeping up?\n\nOrg Topologies helps you redesign and continuously evolve your organization without costly, big-bang reorganizations.\n\nMap where you are, align on where you want to go, and apply a human‑centric, AI‑ready org design approach to keep your organization fit for purpose.",
+    "text": "戦略が変わり、求められるものが変わり、AI が登場しました。あなたの組織は追いついていますか？\n\nOrg Topologies は、コストのかかる一斉の組織改編をせずに、組織を再設計し継続的に進化させる手助けをします。\n\n現在地をマップにし、目指す方向をそろえ、人間中心で AI に対応した組織設計のアプローチを適用して、組織を目的に適った状態に保ちます。",
+    "src": "cf4cb3d7",
     "status": "draft"
   },
   "top.title": {
