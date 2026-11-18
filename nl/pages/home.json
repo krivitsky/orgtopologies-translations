@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "map.heading": {
-    "en": "Org Topologies™",
-    "text": "Org Topologies™",
-    "src": "96d77511",
+    "en": "The Org Topologies™ Method at a Glance",
+    "text": "De Org Topologies™-methode in één oogopslag",
+    "src": "38eaea63",
     "status": "draft"
   },
   "map.hint": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "map.kicker": {
-    "en": "THE MAP, STEP BY STEP",
-    "text": "DE KAART, STAP VOOR STAP",
-    "src": "582d66b4",
+    "en": "HOW IT WORKS",
+    "text": "ZO WERKT HET",
+    "src": "6a4cc4c2",
     "status": "draft"
   },
   "map.more.label": {
@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
-    "text": "Org Topologies is het thuis van modern organisatieontwerp: een gedeelde kaart, een gemeenschappelijke taal en een leerlus voor organisaties die fit for purpose zijn, met mensen en AI.",
-    "src": "3324126d",
+    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
+    "text": "Ontwerp je organisatie opnieuw voor nieuwe strategie, nieuwe vraag en AI: breng in kaart waar je staat, kies een richting en stel je model bij met een leerlus.",
+    "src": "21d22291",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
-    "text": "Org Topologies is een systeem voor strategisch organisatieontwerp: een gedeelde kaart, een gemeenschappelijke taal en [een leerlus voor het herontwerp van je organisatie](term:made) waarmee leiders hun organisatie [fit for purpose](term:fit-for-purpose) maken om prestaties te sturen met mensen en AI.",
-    "src": "89e05667",
+    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
+    "text": "De strategie is veranderd, de vraag is verschoven, AI is er, en je organisatie houdt het tempo niet bij?\n\nMet Org Topologies ontwerp en ontwikkel je haar opnieuw zonder dure big-bang-reorganisatie: breng in kaart waar je staat, spreek de richting af en gebruik een [leerlus](/made) om je organisatiemodel bij te stellen. Zo is je leiderschapsteam eigenaar en drijvende kracht van de verandering naar betere prestaties.",
+    "src": "33c3a651",
     "status": "draft"
   },
   "top.title": {

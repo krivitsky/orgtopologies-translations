@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "map.heading": {
-    "en": "Org Topologies™",
-    "text": "Org Topologies™",
-    "src": "96d77511",
+    "en": "The Org Topologies™ Method at a Glance",
+    "text": "Org Topologies™ メソッドの全体像",
+    "src": "38eaea63",
     "status": "draft"
   },
   "map.hint": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "map.kicker": {
-    "en": "THE MAP, STEP BY STEP",
-    "text": "マップを一歩ずつ",
-    "src": "582d66b4",
+    "en": "HOW IT WORKS",
+    "text": "仕組み",
+    "src": "6a4cc4c2",
     "status": "draft"
   },
   "map.more.label": {
@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
-    "text": "Org Topologies は現代の組織設計のホームです。共有のマップと共通言語、学びのループで、人とAIとともに目的に合った組織をつくります。",
-    "src": "3324126d",
+    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
+    "text": "新しい戦略、変わる要求、AI に合わせて組織を再設計。現在地をマップにし、方向性に合意し、学習ループで組織モデルを適合させ直します。",
+    "src": "21d22291",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
-    "text": "Org Topologies は、戦略的な組織設計のシステムです。共有のマップ、共通言語、[組織を設計し直すための学びのループ](term:made)を備え、リーダーが組織を[目的に適合](term:fit-for-purpose)させ、人とAIとともに成果を高めるのを支えます。",
-    "src": "89e05667",
+    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
+    "text": "戦略が変わり、求められるものが変わり、AI が登場したのに、組織が追いついていない？\n\nOrg Topologies なら、大がかりで高くつく一斉の組織改編をせずに、組織を再設計し進化させられます。現在地をマップにし、方向性に合意し、[学習ループ](/made)で組織モデルを適合させ直します。こうしてリーダーシップチームが変化を自ら担い、より高いパフォーマンスへと推進します。",
+    "src": "33c3a651",
     "status": "draft"
   },
   "top.title": {

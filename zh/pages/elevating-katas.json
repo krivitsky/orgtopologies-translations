@@ -330,15 +330,21 @@
     "status": "draft"
   },
   "top.kicker": {
-    "en": "METHOD · FROM 10X ORG",
-    "text": "方法 · 摘自 10X ORG",
-    "src": "d430b2ae",
+    "en": "MADE · STEP 4 · ELEVATE",
+    "text": "MADE · 第 4 步 · ELEVATE",
+    "src": "b6d8b0da",
     "status": "draft"
   },
   "top.lead": {
     "en": "Small, repeatable routines that turn org design intent into everyday behavior.",
     "text": "小而可重复的例行练习，把组织设计的意图变成日常行为。",
     "src": "b5b3e215",
+    "status": "draft"
+  },
+  "top.source": {
+    "en": "From 10X ORG",
+    "text": "摘自 10X ORG",
+    "src": "399cb9c7",
     "status": "draft"
   },
   "top.title": {

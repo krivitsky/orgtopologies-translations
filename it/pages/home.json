@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "map.heading": {
-    "en": "Org Topologies™",
-    "text": "Org Topologies™",
-    "src": "96d77511",
+    "en": "The Org Topologies™ Method at a Glance",
+    "text": "Il metodo Org Topologies™ in sintesi",
+    "src": "38eaea63",
     "status": "draft"
   },
   "map.hint": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "map.kicker": {
-    "en": "THE MAP, STEP BY STEP",
-    "text": "LA MAPPA, PASSO DOPO PASSO",
-    "src": "582d66b4",
+    "en": "HOW IT WORKS",
+    "text": "COME FUNZIONA",
+    "src": "6a4cc4c2",
     "status": "draft"
   },
   "map.more.label": {
@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
-    "text": "Org Topologies è la casa della progettazione organizzativa moderna: una mappa condivisa, un linguaggio comune e un ciclo di apprendimento per organizzazioni adatte allo scopo, con persone e IA.",
-    "src": "3324126d",
+    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
+    "text": "Riprogetta l’organizzazione per nuova strategia, nuove richieste e IA: mappa dove sei, concorda una direzione e riadatta il modello con un ciclo di apprendimento.",
+    "src": "21d22291",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
-    "text": "Org Topologies è un sistema di progettazione organizzativa strategica: una mappa condivisa, un linguaggio comune e [un ciclo di apprendimento per riprogettare l'organizzazione](term:made) che aiutano i leader a rendere le organizzazioni [adeguate allo scopo](term:fit-for-purpose) per guidare le prestazioni con persone e IA.",
-    "src": "89e05667",
+    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
+    "text": "La strategia è cambiata, le richieste sono cambiate, è arrivata l’IA e la tua organizzazione non tiene il passo?\n\nOrg Topologies ti permette di riprogettarla e farla evolvere senza una costosa riorganizzazione tutta in una volta: mappa dove sei, concorda la direzione e usa un [ciclo di apprendimento](/made) per riadattare il tuo modello organizzativo. Così il tuo team di leadership guida e possiede il cambiamento verso prestazioni migliori.",
+    "src": "33c3a651",
     "status": "draft"
   },
   "top.title": {

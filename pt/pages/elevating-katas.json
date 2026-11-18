@@ -330,15 +330,21 @@
     "status": "draft"
   },
   "top.kicker": {
-    "en": "METHOD · FROM 10X ORG",
-    "text": "MÉTODO · DO 10X ORG",
-    "src": "d430b2ae",
+    "en": "MADE · STEP 4 · ELEVATE",
+    "text": "MADE · PASSO 4 · ELEVATE",
+    "src": "b6d8b0da",
     "status": "draft"
   },
   "top.lead": {
     "en": "Small, repeatable routines that turn org design intent into everyday behavior.",
     "text": "Rotinas pequenas e repetíveis que transformam a intenção de design organizacional em comportamento do dia a dia.",
     "src": "b5b3e215",
+    "status": "draft"
+  },
+  "top.source": {
+    "en": "From 10X ORG",
+    "text": "Do 10X ORG",
+    "src": "399cb9c7",
     "status": "draft"
   },
   "top.title": {

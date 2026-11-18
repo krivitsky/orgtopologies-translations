@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "map.heading": {
-    "en": "Org Topologies™",
-    "text": "Org Topologies™",
-    "src": "96d77511",
+    "en": "The Org Topologies™ Method at a Glance",
+    "text": "Org Topologies™-metoden i korte trekk",
+    "src": "38eaea63",
     "status": "draft"
   },
   "map.hint": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "map.kicker": {
-    "en": "THE MAP, STEP BY STEP",
-    "text": "KARTET, STEG FOR STEG",
-    "src": "582d66b4",
+    "en": "HOW IT WORKS",
+    "text": "SLIK FUNGERER DET",
+    "src": "6a4cc4c2",
     "status": "draft"
   },
   "map.more.label": {
@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
-    "text": "Org Topologies er hjemmet for moderne organisasjonsdesign: et felles kart, et felles språk og en læringssløyfe for organisasjoner som er egnet til formålet, med mennesker og KI.",
-    "src": "3324126d",
+    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
+    "text": "Design organisasjonen på nytt for ny strategi, nye krav og AI: kartlegg hvor dere står, bli enige om retningen og tilpass modellen med en læringssløyfe.",
+    "src": "21d22291",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
-    "text": "Org Topologies er et strategisk system for organisasjonsdesign: et felles kart, et felles språk og [en læringssløyfe for å designe organisasjonen på nytt](term:made) som hjelper ledere å gjøre organisasjoner [egnet til formålet](term:fit-for-purpose), slik at de driver ytelse med mennesker og KI.",
-    "src": "89e05667",
+    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
+    "text": "Strategien har endret seg, kravene har flyttet seg, AI har kommet, og organisasjonen din henger ikke med?\n\nMed Org Topologies designer og utvikler du den på nytt uten en stor, dyr omorganisering på én gang: kartlegg hvor dere står, bli enige om retningen, og bruk en [læringssløyfe](/made) til å tilpasse organisasjonsmodellen. Slik eier og driver ledergruppen endringen mot høyere ytelse.",
+    "src": "33c3a651",
     "status": "draft"
   },
   "top.title": {

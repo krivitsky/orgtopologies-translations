@@ -90,9 +90,9 @@
     "status": "draft"
   },
   "map.heading": {
-    "en": "Org Topologies™",
-    "text": "Org Topologies™",
-    "src": "96d77511",
+    "en": "The Org Topologies™ Method at a Glance",
+    "text": "Org Topologies™ 方法一览",
+    "src": "38eaea63",
     "status": "draft"
   },
   "map.hint": {
@@ -102,9 +102,9 @@
     "status": "draft"
   },
   "map.kicker": {
-    "en": "THE MAP, STEP BY STEP",
-    "text": "一步一步看地图",
-    "src": "582d66b4",
+    "en": "HOW IT WORKS",
+    "text": "运作方式",
+    "src": "6a4cc4c2",
     "status": "draft"
   },
   "map.more.label": {
@@ -126,9 +126,9 @@
     "status": "draft"
   },
   "page.description": {
-    "en": "Org Topologies is the home of modern org design: a shared map, a common language and a learning loop for organizations fit for purpose, with people and AI.",
-    "text": "Org Topologies 是现代组织设计的家园：一张共享地图、一套通用语言和一个学习回路，帮助组织适配目的，与人和 AI 一起取得成效。",
-    "src": "3324126d",
+    "en": "Redesign your organization for new strategy, shifted demands and AI: map where you are, agree on a direction and use a learning loop to refit your org model.",
+    "text": "为新战略、新需求和 AI 重新设计组织：标出现状，就方向达成一致，再用学习循环重新调整组织模型。",
+    "src": "21d22291",
     "status": "draft"
   },
   "page.title": {
@@ -150,9 +150,9 @@
     "status": "draft"
   },
   "top.lead": {
-    "en": "Org Topologies is a strategic org design system: a shared map, a common language and [a learning loop for org redesign](term:made) that help leaders make organizations [fit for purpose](term:fit-for-purpose) to drive performance with people and AI.",
-    "text": "Org Topologies 是一套战略性组织设计体系：一张共享地图、一套通用语言和[一个组织再设计的学习回路](term:made)，帮助领导者让组织[适配目的](term:fit-for-purpose)，与人和 AI 一起驱动绩效。",
-    "src": "89e05667",
+    "en": "Strategy changed, demands shifted, AI arrived, and your organization is not keeping up?\n\nOrg Topologies lets you redesign and evolve it without a big-bang, expensive reorg: map where you are, agree on the direction, and use a [learning loop](/made) to refit your org model. So your leadership team owns and drives the change for higher performance.",
+    "text": "战略变了，需求变了，AI 来了，而你的组织跟不上？\n\nOrg Topologies 让你无需一次性、代价高昂的大规模重组，就能重新设计并持续演进组织：先在地图上标出现状，就方向达成一致，再通过[学习循环](/made)重新调整你的组织模型。这样，你的领导团队就能主导并推动变革，实现更高绩效。",
+    "src": "33c3a651",
     "status": "draft"
   },
   "top.title": {

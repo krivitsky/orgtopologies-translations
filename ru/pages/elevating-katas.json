@@ -330,15 +330,21 @@
     "status": "draft"
   },
   "top.kicker": {
-    "en": "METHOD · FROM 10X ORG",
-    "text": "МЕТОД · ИЗ 10X ORG",
-    "src": "d430b2ae",
+    "en": "MADE · STEP 4 · ELEVATE",
+    "text": "MADE · ШАГ 4 · ELEVATE",
+    "src": "b6d8b0da",
     "status": "draft"
   },
   "top.lead": {
     "en": "Small, repeatable routines that turn org design intent into everyday behavior.",
     "text": "Небольшие повторяемые практики, которые превращают замысел организационного дизайна в повседневное поведение.",
     "src": "b5b3e215",
+    "status": "draft"
+  },
+  "top.source": {
+    "en": "From 10X ORG",
+    "text": "Из 10X ORG",
+    "src": "399cb9c7",
     "status": "draft"
   },
   "top.title": {
