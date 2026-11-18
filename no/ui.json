@@ -329,151 +329,19 @@
     "src": "99af6606",
     "status": "draft"
   },
-  "nav.primary.approach.below.label": {
-    "en": "Glossary",
-    "text": "Ordliste",
-    "src": "4c4e436f",
-    "status": "draft"
-  },
-  "nav.primary.approach.belowFirst.articles.label": {
-    "en": "Articles",
-    "text": "Artikler",
-    "src": "b14ac78a",
-    "status": "draft"
-  },
-  "nav.primary.approach.belowFirst.videos.label": {
-    "en": "Videos",
-    "text": "Videoer",
-    "src": "c9a96394",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.0.label": {
-    "en": "Change, MADE Systemic",
-    "text": "Endring gjort systemisk (MADE)",
-    "src": "03610ffd",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.0.step": {
-    "en": "The MADE method",
-    "text": "MADE-metoden",
-    "src": "b62cc225",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.1.extra.0.label": {
-    "en": "Framework Mappings",
-    "text": "Rammeverkskartlegginger",
-    "src": "baf15a30",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.1.label": {
-    "en": "Org Topologies Mapping",
-    "text": "Kartlegging med Org Topologies",
-    "src": "533f211e",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.1.step": {
-    "en": "Map",
-    "text": "Map",
-    "src": "be176b00",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.2.label": {
-    "en": "Three Org Topologies",
-    "text": "Tre Org Topologies",
-    "src": "9ba98f17",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.2.step": {
-    "en": "Assess & Design",
-    "text": "Assess & Design",
-    "src": "bb9e70bc",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.0.label": {
-    "en": "1. Strategy",
-    "text": "1. Strategi",
-    "src": "0d944828",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.1.label": {
-    "en": "2. Structure",
-    "text": "2. Struktur",
-    "src": "7981d3e6",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.2.label": {
-    "en": "3. Processes",
-    "text": "3. Prosesser",
-    "src": "864943ff",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.3.label": {
-    "en": "4. Rewards",
-    "text": "4. Belønning",
-    "src": "dde39d79",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.4.label": {
-    "en": "5. People",
-    "text": "5. Mennesker",
-    "src": "fb64fb20",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.label": {
-    "en": "Elevating Katas",
-    "text": "Elevating Katas",
-    "src": "8e4e4991",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.step": {
-    "en": "Elevate",
-    "text": "Elevate",
-    "src": "1ddc1dcc",
-    "status": "draft"
-  },
-  "nav.primary.approach.label": {
-    "en": "Approach",
-    "text": "Tilnærming",
-    "src": "b6b243ca",
-    "status": "draft"
-  },
   "nav.primary.book.label": {
     "en": "Book",
     "text": "Boken",
     "src": "909cb811",
     "status": "draft"
   },
-  "nav.primary.case-studies.label": {
-    "en": "Case Studies",
-    "text": "Casestudier",
-    "src": "545fab8e",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.creators.label": {
-    "en": "Creators",
-    "text": "Skaperne",
-    "src": "c6b6a71a",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.linkedin.label": {
+  "nav.primary.community.join.linkedin.label": {
     "en": "Follow on LinkedIn",
     "text": "Følg på LinkedIn",
     "src": "50a46ecd",
     "status": "draft"
   },
-  "nav.primary.community.extra.members.label": {
-    "en": "Members",
-    "text": "Medlemmer",
-    "src": "1044a4c0",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.partners.label": {
-    "en": "Partners",
-    "text": "Partnere",
-    "src": "5dab502b",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.slack.label": {
+  "nav.primary.community.join.slack.label": {
     "en": "Join the Slack",
     "text": "Bli med på Slack",
     "src": "4e10e355",
@@ -483,6 +351,126 @@
     "en": "Community",
     "text": "Fellesskap",
     "src": "bb501d78",
+    "status": "draft"
+  },
+  "nav.primary.method.help.glossary.label": {
+    "en": "Glossary",
+    "text": "Ordliste",
+    "src": "4c4e436f",
+    "status": "draft"
+  },
+  "nav.primary.method.intro.kicker": {
+    "en": "The MADE method",
+    "text": "MADE-metoden",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.head.label": {
+    "en": "Three Org Topologies",
+    "text": "Tre Org Topologies",
+    "src": "9ba98f17",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.label": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.adaptive.label": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.delivery.label": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.framework-mappings.label": {
+    "en": "Framework Mappings",
+    "text": "Rammeverkskartlegginger",
+    "src": "baf15a30",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.resource.label": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.design.head.label": {
+    "en": "Fit for Purpose",
+    "text": "Egnet til formålet",
+    "src": "3f7c997b",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.design.label": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.head.label": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.label": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.links.in-cases.label": {
+    "en": "Katas in Case Studies",
+    "text": "Katas i casestudier",
+    "src": "e47045cf",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.links.katalog.label": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.head.label": {
+    "en": "The 2×2 Map",
+    "text": "2×2-kartet",
+    "src": "09dd8c74",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.label": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.examples.label": {
+    "en": "Mapping Examples",
+    "text": "Kartleggingseksempler",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.four-by-four.label": {
+    "en": "The 4×4 Map",
+    "text": "4×4-kartet",
+    "src": "7e650bde",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.go-see.label": {
+    "en": "Go See, with a Map",
+    "text": "Go See, med et kart",
+    "src": "12efc89a",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.intelligences.label": {
+    "en": "Four Intelligences",
+    "text": "Fire typer intelligens",
+    "src": "06447a42",
     "status": "draft"
   },
   "nav.primary.summit.label": {

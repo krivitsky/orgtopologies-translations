@@ -329,151 +329,19 @@
     "src": "99af6606",
     "status": "draft"
   },
-  "nav.primary.approach.below.label": {
-    "en": "Glossary",
-    "text": "Glosario",
-    "src": "4c4e436f",
-    "status": "draft"
-  },
-  "nav.primary.approach.belowFirst.articles.label": {
-    "en": "Articles",
-    "text": "Artículos",
-    "src": "b14ac78a",
-    "status": "draft"
-  },
-  "nav.primary.approach.belowFirst.videos.label": {
-    "en": "Videos",
-    "text": "Videos",
-    "src": "c9a96394",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.0.label": {
-    "en": "Change, MADE Systemic",
-    "text": "Cambio, MADE Systemic",
-    "src": "03610ffd",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.0.step": {
-    "en": "The MADE method",
-    "text": "El método MADE",
-    "src": "b62cc225",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.1.extra.0.label": {
-    "en": "Framework Mappings",
-    "text": "Mapeos de frameworks",
-    "src": "baf15a30",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.1.label": {
-    "en": "Org Topologies Mapping",
-    "text": "Mapeo con Org Topologies",
-    "src": "533f211e",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.1.step": {
-    "en": "Map",
-    "text": "Map",
-    "src": "be176b00",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.2.label": {
-    "en": "Three Org Topologies",
-    "text": "Las tres Org Topologies",
-    "src": "9ba98f17",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.2.step": {
-    "en": "Assess & Design",
-    "text": "Assess & Design",
-    "src": "bb9e70bc",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.0.label": {
-    "en": "1. Strategy",
-    "text": "1. Estrategia",
-    "src": "0d944828",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.1.label": {
-    "en": "2. Structure",
-    "text": "2. Estructura",
-    "src": "7981d3e6",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.2.label": {
-    "en": "3. Processes",
-    "text": "3. Procesos",
-    "src": "864943ff",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.3.label": {
-    "en": "4. Rewards",
-    "text": "4. Recompensas",
-    "src": "dde39d79",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.extra.4.label": {
-    "en": "5. People",
-    "text": "5. Personas",
-    "src": "fb64fb20",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.label": {
-    "en": "Elevating Katas",
-    "text": "Elevating Katas",
-    "src": "8e4e4991",
-    "status": "draft"
-  },
-  "nav.primary.approach.columns.3.step": {
-    "en": "Elevate",
-    "text": "Elevate",
-    "src": "1ddc1dcc",
-    "status": "draft"
-  },
-  "nav.primary.approach.label": {
-    "en": "Approach",
-    "text": "Enfoque",
-    "src": "b6b243ca",
-    "status": "draft"
-  },
   "nav.primary.book.label": {
     "en": "Book",
     "text": "Libro",
     "src": "909cb811",
     "status": "draft"
   },
-  "nav.primary.case-studies.label": {
-    "en": "Case Studies",
-    "text": "Casos de estudio",
-    "src": "545fab8e",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.creators.label": {
-    "en": "Creators",
-    "text": "Creadores",
-    "src": "c6b6a71a",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.linkedin.label": {
+  "nav.primary.community.join.linkedin.label": {
     "en": "Follow on LinkedIn",
     "text": "Síguenos en LinkedIn",
     "src": "50a46ecd",
     "status": "draft"
   },
-  "nav.primary.community.extra.members.label": {
-    "en": "Members",
-    "text": "Miembros",
-    "src": "1044a4c0",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.partners.label": {
-    "en": "Partners",
-    "text": "Partners",
-    "src": "5dab502b",
-    "status": "draft"
-  },
-  "nav.primary.community.extra.slack.label": {
+  "nav.primary.community.join.slack.label": {
     "en": "Join the Slack",
     "text": "Únete al Slack",
     "src": "4e10e355",
@@ -483,6 +351,126 @@
     "en": "Community",
     "text": "Comunidad",
     "src": "bb501d78",
+    "status": "draft"
+  },
+  "nav.primary.method.help.glossary.label": {
+    "en": "Glossary",
+    "text": "Glosario",
+    "src": "4c4e436f",
+    "status": "draft"
+  },
+  "nav.primary.method.intro.kicker": {
+    "en": "The MADE method",
+    "text": "El método MADE",
+    "src": "b62cc225",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.head.label": {
+    "en": "Three Org Topologies",
+    "text": "Las tres Org Topologies",
+    "src": "9ba98f17",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.label": {
+    "en": "Assess",
+    "text": "Assess",
+    "src": "b7629cec",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.adaptive.label": {
+    "en": "Adaptive Topology",
+    "text": "Adaptive Topology",
+    "src": "afbb5ead",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.delivery.label": {
+    "en": "Delivery Topology",
+    "text": "Delivery Topology",
+    "src": "557520d6",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.framework-mappings.label": {
+    "en": "Framework Mappings",
+    "text": "Mapeos de frameworks",
+    "src": "baf15a30",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.assess.links.resource.label": {
+    "en": "Resource Topology",
+    "text": "Resource Topology",
+    "src": "5367a893",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.design.head.label": {
+    "en": "Fit for Purpose",
+    "text": "Encaje con el propósito",
+    "src": "3f7c997b",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.design.label": {
+    "en": "Design",
+    "text": "Design",
+    "src": "0072e6b9",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.head.label": {
+    "en": "Elevating Katas",
+    "text": "Elevating Katas",
+    "src": "8e4e4991",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.label": {
+    "en": "Elevate",
+    "text": "Elevate",
+    "src": "1ddc1dcc",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.links.in-cases.label": {
+    "en": "Katas in Case Studies",
+    "text": "Katas en los casos de estudio",
+    "src": "e47045cf",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.elevate.links.katalog.label": {
+    "en": "Katalog",
+    "text": "Katalog",
+    "src": "1c58e0c5",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.head.label": {
+    "en": "The 2×2 Map",
+    "text": "El mapa 2×2",
+    "src": "09dd8c74",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.label": {
+    "en": "Map",
+    "text": "Map",
+    "src": "be176b00",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.examples.label": {
+    "en": "Mapping Examples",
+    "text": "Ejemplos de mapeo",
+    "src": "3f6241d5",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.four-by-four.label": {
+    "en": "The 4×4 Map",
+    "text": "El mapa 4×4",
+    "src": "7e650bde",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.go-see.label": {
+    "en": "Go See, with a Map",
+    "text": "Go See, con un mapa",
+    "src": "12efc89a",
+    "status": "draft"
+  },
+  "nav.primary.method.steps.map.links.intelligences.label": {
+    "en": "Four Intelligences",
+    "text": "Cuatro inteligencias",
+    "src": "06447a42",
     "status": "draft"
   },
   "nav.primary.summit.label": {

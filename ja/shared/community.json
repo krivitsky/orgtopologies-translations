@@ -17,22 +17,10 @@
     "src": "b4d29b86",
     "status": "draft"
   },
-  "newsletter.follow": {
-    "en": "Or follow [Org Topologies on LinkedIn](https://www.linkedin.com/company/orgtopologies/).",
-    "text": "または[LinkedInのOrg Topologies](https://www.linkedin.com/company/orgtopologies/)をフォローしてください。",
-    "src": "542aa9e1",
-    "status": "draft"
-  },
   "newsletter.label": {
     "en": "NEWSLETTER",
     "text": "ニュースレター",
     "src": "67700c27",
-    "status": "draft"
-  },
-  "newsletter.note": {
-    "en": "Unsubscribe anytime. [Privacy →](/privacy)",
-    "text": "いつでも配信停止できます。[プライバシー →](/privacy)",
-    "src": "5ba3f6df",
     "status": "draft"
   },
   "newsletter.placeholder": {

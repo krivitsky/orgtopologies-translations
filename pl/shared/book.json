@@ -102,15 +102,15 @@
     "status": "draft"
   },
   "testimonials.items.0.quote": {
-    "en": "“You might be surprised how disconnected your organization’s structure is from what you are trying to achieve with it. In this book, Alexey and Roland describe a practical approach to organizational redesign, offering a blueprint for success.”",
-    "text": "„Możesz być zaskoczony, jak bardzo struktura Twojej organizacji jest oderwana od tego, co chcesz za jej pomocą osiągnąć. W tej książce Alexey i Roland opisują praktyczne podejście do przeprojektowania organizacji, dając plan sukcesu.”",
-    "src": "6e7e9d3b",
+    "en": "“You might be surprised how disconnected your organization’s structure is from what you are trying to achieve with it. This book describes a practical approach to organizational redesign, offering a blueprint for success.”",
+    "text": "„Możesz być zaskoczony, jak bardzo struktura Twojej organizacji jest oderwana od tego, co chcesz za jej pomocą osiągnąć. Ta książka opisuje praktyczne podejście do przeprojektowania organizacji, dając plan sukcesu.”",
+    "src": "be652f11",
     "status": "draft"
   },
   "testimonials.items.0.role": {
-    "en": "CEO at Scrum.org (USA)",
-    "text": "CEO w Scrum.org (USA)",
-    "src": "cb8d3079",
+    "en": "CEO of Scrum.org (2015–2026)",
+    "text": "CEO w Scrum.org (2015–2026)",
+    "src": "3f68f8ab",
     "status": "draft"
   },
   "testimonials.items.1.quote": {
