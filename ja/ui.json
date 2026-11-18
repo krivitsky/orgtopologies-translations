@@ -496,5 +496,11 @@
     "text": "翻訳されたテキストの中には、まだ完璧でないものがあります。改善にご協力ください：ページ内のテキストを選択して、より良い表現を提案できます。",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "その他のストア",
+    "src": "80931166",
+    "status": "draft"
   }
 }

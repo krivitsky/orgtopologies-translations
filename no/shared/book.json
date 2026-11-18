@@ -484,5 +484,11 @@
     "text": "HVA ANMELDERE OG LESERE SIER",
     "src": "d877cdbf",
     "status": "draft"
+  },
+  "testimonials.items.15.role": {
+    "en": "Executive Agile Coach, Certified LeSS Trainer (Germany)",
+    "text": "Executive Agile Coach, sertifisert LeSS-trener (Tyskland)",
+    "src": "710de7cc",
+    "status": "draft"
   }
 }

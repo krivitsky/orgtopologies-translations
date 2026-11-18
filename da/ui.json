@@ -496,5 +496,11 @@
     "text": "Vi ved, at nogle oversatte tekster ikke er perfekte. Du kan hjælpe med at forbedre dem: markér en tekst på siden og foreslå en bedre version.",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "Flere butikker",
+    "src": "80931166",
+    "status": "draft"
   }
 }

@@ -484,5 +484,11 @@
     "text": "レビュアーと読者の声",
     "src": "d877cdbf",
     "status": "draft"
+  },
+  "testimonials.items.15.role": {
+    "en": "Executive Agile Coach, Certified LeSS Trainer (Germany)",
+    "text": "エグゼクティブ・アジャイルコーチ、認定 LeSS トレーナー(ドイツ)",
+    "src": "710de7cc",
+    "status": "draft"
   }
 }

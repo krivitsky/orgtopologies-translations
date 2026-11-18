@@ -484,5 +484,11 @@
     "text": "WAS REZENSENTEN UND LESER SAGEN",
     "src": "d877cdbf",
     "status": "draft"
+  },
+  "testimonials.items.15.role": {
+    "en": "Executive Agile Coach, Certified LeSS Trainer (Germany)",
+    "text": "Executive Agile Coach, zertifizierter LeSS-Trainer (Deutschland)",
+    "src": "710de7cc",
+    "status": "draft"
   }
 }

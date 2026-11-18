@@ -496,5 +496,11 @@
     "text": "We weten dat sommige vertaalde teksten niet perfect zijn. Je kunt helpen ze te verbeteren: selecteer tekst op de pagina en stel een betere versie voor.",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "Meer winkels",
+    "src": "80931166",
+    "status": "draft"
   }
 }

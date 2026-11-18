@@ -496,5 +496,11 @@
     "text": "Víme, že některé přeložené texty nejsou dokonalé. Můžete je pomoci vylepšit: vyberte na stránce libovolný text a navrhněte lepší verzi.",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "Další obchody",
+    "src": "80931166",
+    "status": "draft"
   }
 }

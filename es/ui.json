@@ -496,5 +496,11 @@
     "text": "Sabemos que algunos textos traducidos no son perfectos. Puedes ayudar a mejorarlos: selecciona cualquier texto de la página y sugiere una versión mejor.",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "Más tiendas",
+    "src": "80931166",
+    "status": "draft"
   }
 }

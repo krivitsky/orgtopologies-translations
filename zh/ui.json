@@ -496,5 +496,11 @@
     "text": "我们知道部分译文还不够完美。欢迎帮助改进：选中页面上的任意文字，提出更好的版本。",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "更多商店",
+    "src": "80931166",
+    "status": "draft"
   }
 }

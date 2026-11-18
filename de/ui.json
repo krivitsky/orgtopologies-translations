@@ -496,5 +496,11 @@
     "text": "Wir wissen, dass manche übersetzten Texte nicht perfekt sind. Sie können helfen, sie zu verbessern: Markieren Sie einen Text auf der Seite und schlagen Sie eine bessere Fassung vor.",
     "src": "e58e030d",
     "status": "draft"
+  },
+  "nav.primary.book.shops.label": {
+    "en": "More Shops",
+    "text": "Weitere Shops",
+    "src": "80931166",
+    "status": "draft"
   }
 }

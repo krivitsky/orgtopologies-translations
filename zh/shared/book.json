@@ -484,5 +484,11 @@
     "text": "评论者和读者怎么说",
     "src": "d877cdbf",
     "status": "draft"
+  },
+  "testimonials.items.15.role": {
+    "en": "Executive Agile Coach, Certified LeSS Trainer (Germany)",
+    "text": "高管敏捷教练，认证 LeSS 培训师（德国）",
+    "src": "710de7cc",
+    "status": "draft"
   }
 }
